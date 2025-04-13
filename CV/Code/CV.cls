@@ -533,8 +533,18 @@
 \newcommand{\homepagesymbol}{\faChain}
 \newcommand{\twittersymbol}{\faTwitter}
 \newcommand{\twitter}[1]{\printinfo{\twittersymbol}{\href{https://twitter.com/#1}{@#1}}}
-\newcommand{\linkedin}[1]{\printinfo{\linkedinsymbol}{\href{https://#1}{#1}}}
-\newcommand{\github}[1]{\printinfo{\githubsymbol}{\href{https://#1}{#1}}}
+\newcommand{\linkedin}[2]{%
+	\printinfo{\linkedinsymbol}{%
+		\href{https://#1}{#2}%
+	}%
+}
+
+\newcommand{\github}[2]{%
+	\printinfo{\githubsymbol}{%
+		\href{https://#1}{#2}%
+	}%
+}
+
 \newcommand{\homepage}[1]{\printinfo{\homepagesymbol}{\href{https://#1}{#1}}}
 % General command for providing links in link header:
 \newcommand{\ProvideSymbolLink}[2]{\printinfo{#2}{\href{https://#1}{#1}}}
