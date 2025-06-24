@@ -20,14 +20,14 @@
 \usepackage{lettrine} %faire une lettrine (pas obligatoire)
 
 \usepackage[style=biblatex-enc/enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
-\addbibresource{} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
-%\defbibheading{}{\subsection*{}} Si l'on veut changer le titre de la/les bibliographie(s)
+\addbibresource{biblio.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
+\defbibheading{}{\subsection*{Biblio}} Si l'on veut changer le titre de la/les bibliographie(s)
 
 
 %%%Faire un ou plusieurs index
 
-%\usepackage{imakeidx} %pour faire un ou plusieurs index
-%\makeindex %commande pour générer l'index
+\usepackage{imakeidx} %pour faire un ou plusieurs index
+\makeindex %commande pour générer l'index
 
 
 %RAJOUTEZ ICI VOS PACKAGES
