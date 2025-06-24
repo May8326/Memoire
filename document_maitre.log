@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  24 JUN 2025 19:08
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  24 JUN 2025 19:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -432,19 +432,6 @@ Package biblatex Info: ... and expl3
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \defbibheading{}{\subsection*{Biblio}} S
-                                             i l'on veut changer le titre de...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 (/usr/local/texlive/2024/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
@@ -853,13 +840,8 @@ Package hyperref Info: Link coloring OFF on input line 159.
 
 [1
 
-]
-
-[2
 
 ]
-
-[1]
 
 [2
 
@@ -891,6 +873,10 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 [4
 
 ]
+
+LaTeX Warning: Empty bibliography on input line 234.
+
+
 
 [5
 
@@ -956,12 +942,12 @@ Package logreq Info: Writing requests to 'document_maitre.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24275 strings out of 474235
- 476282 string characters out of 5742252
- 1295254 words of memory out of 5000000
- 46740 multiletter control sequences out of 15000+600000
+ 24273 strings out of 474235
+ 475753 string characters out of 5742252
+ 1295721 words of memory out of 5000000
+ 46738 multiletter control sequences out of 15000+600000
  558573 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,12n,93p,863b,3998s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,12n,93p,761b,3998s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on document_maitre.pdf (21 pages).
+Output written on document_maitre.pdf (19 pages).

@@ -21,7 +21,7 @@
 
 \usepackage[style=biblatex-enc/enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
 \addbibresource{biblio.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
-\defbibheading{}{\subsection*{Biblio}} Si l'on veut changer le titre de la/les bibliographie(s)
+%\defbibheading{}{\subsection*{Biblio}} Si l'on veut changer le titre de la/les bibliographie(s)
 
 
 %%%Faire un ou plusieurs index
@@ -231,7 +231,7 @@
 	\newpage{\pagestyle{empty}\cleardoublepage}
 	
 %%%%%%%%%%%% \bibliographie ici (normes de l'EnC)
-%\printbibliography
+\printbibliography
 
 	
 \chapter{Introduction}	
@@ -249,7 +249,6 @@ Mon introduction
 	\part{Une partie}
 \chapter{Mon premier chapitre}
 %\input{exemple_section1.tex} %Input: importer un fichier
-
 
 %etc
 %Ou bien: ne pas mettre chapter, et importer le chapitre complet:

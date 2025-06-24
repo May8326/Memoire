@@ -79,7 +79,7 @@
       <file>document_maitre.bcf</file>
     </requires>
     <requires type="editable">
-      <file>http://127.0.0.1:23119/better-bibtex/export?/group;id:6025279/collection;key:29KGVHM8/Archives numériques.bibtex</file>
+      <file>biblio.bib</file>
     </requires>
   </external>
 </requests>
