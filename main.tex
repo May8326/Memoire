@@ -9,9 +9,11 @@
 \documentclass[12pt,twoside]{book}
 \usepackage{fontspec}
 \usepackage{xunicode}
-\usepackage{polyglossia}
-\setmainlanguage{french}%indiquer la langue principale du document
+%\usepackage{polyglossia}
+\usepackage[french]{babel}
+%\setmainlanguage{french}%indiquer la langue principale du document
 %\setotherlanguage{} %indiquer les autres langues utilisée
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PACKAGES UTILISÉS
@@ -19,7 +21,7 @@
 \usepackage{csquotes} % les guillemets français
 \usepackage{lettrine} %faire une lettrine (pas obligatoire)
 
-\usepackage[style=biblatex-enc/enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
+\usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
 \addbibresource{./bibliographie/biblio.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
 %\defbibheading{}{\subsection*{Biblio}} Si l'on veut changer le titre de la/les bibliographie(s)
 
