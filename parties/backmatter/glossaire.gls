@@ -1,0 +1,10 @@
+\newglossaryentry{thesaurus}{
+	name=thésaurus,
+	description={Vocabulaire structuré permettant l’indexation cohérente de contenus}
+}
+
+
+\newglossaryentry{autorite}{
+	name=autorité,
+	description={Forme normalisée et contrôlée des points d’accès relatifs à une ressource dans un catalogue. Dans les catalogues de bibliothèques, les autorités sont principalement relatives aux “auteurs”, aux “sujets” et aux “titres”.}
+}
