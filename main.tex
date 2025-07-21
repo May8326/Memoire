@@ -20,7 +20,7 @@
 \usepackage{lettrine} %faire une lettrine (pas obligatoire)
 
 \usepackage[style=biblatex-enc/enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
-\addbibresource{biblio.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
+\addbibresource{./bibliographie/biblio.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
 %\defbibheading{}{\subsection*{Biblio}} Si l'on veut changer le titre de la/les bibliographie(s)
 
 
@@ -67,8 +67,8 @@
 
 %%la façon dont les sections apparaissent dans les en-tête:
 
-\renewcommand{\sectionmark}[1]{\markright{\small\textit{\thesection~\  #1}}}%Faire apparaître dans les headers les sections en  petit et en italiques
-%\renewcommand{\sectionmark}[1]{}%Commenter la lign précédetne et mettre celle-ci pour ne pas avoir le titre des sections dans le header
+%%\renewcommand{\sectionmark}[1]{\markright{\small\textit{\thesection~\  #1}}}%Faire apparaître dans les headers les sections en  petit et en italiques
+\renewcommand{\sectionmark}[1]{}%Commenter la lign précédetne et mettre celle-ci pour ne pas avoir le titre des sections dans le header
 
 %% réglages propres à frontmatter
 
@@ -247,8 +247,17 @@ Mon introduction
 	
 
 	\part{Le contexte institutionnel particulier du Musée de l'air et de l'espace}
-\chapter{Une référence nationale pour les collections aéronautiques}
-\input{par1chap1.tex} %Input: importer un fichier
+
+%%% INTRODUCTION DE LA PARTIE
+
+Ici, je pourrai mettre une introduction de ma première partie
+
+%%% CHARGEMENT DES FICHIERS TEX DES PARTIES
+
+\input{./parties/mainmatter/I/A/I_A} %Input: importer un fichier
+\input{./parties/mainmatter/I/B/I_B}
+
+Ici, je pourrai mettre la conclusion de cette partie
 
 %etc
 %Ou bien: ne pas mettre chapter, et importer le chapitre complet:
@@ -256,10 +265,37 @@ Mon introduction
 %\input{mon_chapitre_2.tex}	
 %etc
 	
-	\part{Une autre partie}
+	\part{La prolifération de l’information en institution culturelle, un sujet facilement mis de côté}
 	
-	%etc.
 	
+	%%% INTRODUCTION DE LA PARTIE
+	
+	Ici, je pourrai mettre une introduction de ma première partie
+	
+	%%% CHARGEMENT DES FICHIERS TEX DES PARTIES
+	
+	\input{./parties/mainmatter/II/A/II_A} %Input: importer un fichier
+	\input{./parties/mainmatter/II/B/II_B}
+	\input{./parties/mainmatter/II/C/II_C}
+	
+	Ici, je pourrai mettre la conclusion de cette partie
+	
+		\part{Gérer la prolifération. outils et méthodes}
+	
+	
+	%%% INTRODUCTION DE LA PARTIE
+	
+	Ici, je pourrai mettre une introduction de ma première partie
+	
+	%%% CHARGEMENT DES FICHIERS TEX DES PARTIES
+	
+	\input{./parties/mainmatter/III/A/III_A} %Input: importer un fichier
+	\input{./parties/mainmatter/III/B/III_B}
+	\input{./parties/mainmatter/III/C/III_C}
+	
+	Ici, je pourrai mettre la conclusion de cette partie
+	
+	%%% CONCLUSION
 	
 	\chapter*{Conclusion}
 	\addcontentsline{toc}{chapter}{Conclusion}
