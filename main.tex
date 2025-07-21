@@ -15,15 +15,46 @@
 %\setotherlanguage{} %indiquer les autres langues utilisée
 
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PACKAGES UTILISÉS
 
 \usepackage{csquotes} % les guillemets français
 \usepackage{lettrine} %faire une lettrine (pas obligatoire)
 
 \usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
-\addbibresource{./bibliographie/biblio.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
+
+ %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
 %\defbibheading{}{\subsection*{Biblio}} Si l'on veut changer le titre de la/les bibliographie(s)
+\addbibresource{./bibliographie/archives_numeriques.bib}
+\addbibresource{./bibliographie/cooperation.bib}
+\addbibresource{./bibliographie/histoire_musee.bib}
+\addbibresource{./bibliographie/numerique_patrimoine.bib}
+\addbibresource{./bibliographie/thesaurus.bib}
+
+
+\DeclareSourcemap{%
+ \maps[datatype=bibtex]{%
+  \map[overwrite]{%
+    \perdatasource{./bibliographie/archives_numeriques.bib}
+    \step[fieldset=keywords, fieldvalue={,texArchivesNumeriques}, append]
+  }
+  \map[overwrite]{%
+    \perdatasource{./bibliographie/cooperation.bib}
+    \step[fieldset=keywords, fieldvalue={,texCollab}, append]
+  }
+  \map[overwrite]{%
+    \perdatasource{./bibliographie/histoire_musee.bib}
+    \step[fieldset=keywords, fieldvalue={,texHistoire}, append]
+  }
+  \map[overwrite]{%
+    \perdatasource{./bibliographie/numerique_patrimoine.bib}
+    \step[fieldset=keywords, fieldvalue={,texNumeriquePatrimoine}, append]
+  }
+  \map[overwrite]{%
+    \perdatasource{./bibliographie/thesaurus.bib}
+    \step[fieldset=keywords, fieldvalue={,texThesau}, append]
+  }
+ }
+}
 
 
 %%%Faire un ou plusieurs index
@@ -33,8 +64,6 @@
 
 
 %RAJOUTEZ ICI VOS PACKAGES
-
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CONFIGURATION DE MISE EN PAGE
@@ -105,7 +134,7 @@
 
 % A mettre après les autres appels de packages car redéfinit certaines commandes).
 
-\usepackage[colorlinks=false, breaklinks=true, pdfusetitle, pdfsubject ={Mémoire HN}, pdfkeywords={les mots-clés}]{hyperref} %
+\usepackage[colorlinks=false, breaklinks=true, pdfusetitle, pdfsubject ={Mémoire TNAH}, pdfkeywords={les mots-clés}]{hyperref} %
 \usepackage[numbered]{bookmark}%va avec hyperref; marche mieux pour les signets. l'option numbered: les signets dans le pdf sont numérotés
 
 % Compléter pdfsubjet et pdfkeywords
@@ -145,8 +174,6 @@
 
 
 %%%%%%%%%%%%%%%%%% DÉFINITION DES COMMANDES ET ENVIRONNMENTS
-
-
 
 
 
@@ -235,7 +262,14 @@
 	\newpage{\pagestyle{empty}\cleardoublepage}
 	
 %%%%%%%%%%%% \bibliographie ici (normes de l'EnC)
-\printbibliography
+
+\chapter{Bibliographie}
+\addcontentsline{toc}{chapter}{Bibliographie}
+\printbibliography[keyword={texHistoire}, title={Histoire du musée de l'air et de l'espace}]
+\printbibliography[keyword={texCollab}, title={Collaboration entre institutions patrimoniales}]
+\printbibliography[keyword={texNumeriquePatrimoine}, title={Numérique en institution patrimoniale}]
+\printbibliography[keyword={texArchivesNumeriques}, title={Archives Numériques}]
+\printbibliography[keyword={texThesau}, title={Gestion de thésaurus}]
 
 	
 \chapter{Introduction}	
@@ -254,7 +288,7 @@ Mon introduction
 
 %%% INTRODUCTION DE LA PARTIE
 
-Ici, je pourrai mettre une introduction de ma première partie
+Ici, je pourrai mettre une introduction de ma première partie.
 
 %%% CHARGEMENT DES FICHIERS TEX DES PARTIES
 
