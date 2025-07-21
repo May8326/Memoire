@@ -16,5 +16,156 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{barneyPenseesDuneAmazone1920}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c9f228c30b27499d1db53b09c3a82321}{%
+           family={Barney},
+           familyi={B\bibinitperiod},
+           given={Natalie\bibnamedelima Clifford},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9f228c30b27499d1db53b09c3a82321}{%
+           family={Barney},
+           familyi={B\bibinitperiod},
+           given={Natalie\bibnamedelima Clifford},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{1}{}{%
+        {{hash=ea8904b0b029ac066de04e4cfe97991d}{%
+           family={{Boston Public Library}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Émile-Paul frères}%
+      }
+      \strng{namehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{fullhash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{fullhashraw}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{bibnamehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{authorbibnamehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{authornamehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{authorfullhash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{authorfullhashraw}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
+      \strng{nameabibnamehash}{ea8904b0b029ac066de04e4cfe97991d}
+      \strng{nameanamehash}{ea8904b0b029ac066de04e4cfe97991d}
+      \strng{nameafullhash}{ea8904b0b029ac066de04e4cfe97991d}
+      \strng{nameafullhashraw}{ea8904b0b029ac066de04e4cfe97991d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[iii]-vii,210 p.,ll. ; 19 cm; OCLC number: ocm01631270; Apologie.-- Dédicaces.-- Les sexes adverses, la guerre et le féminisme.-- Choses de l'amour.-- Pages prises au roman que je n'écrirai pas.-- Autres éparpillements}
+      \field{langid}{fre}
+      \field{nameatype}{collaborator}
+      \field{pagetotal}{264}
+      \field{title}{Pensées d'une amazone}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{1920}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://archive.org/details/pense_esduneamaz00barn
+      \endverb
+      \verb{url}
+      \verb http://archive.org/details/pense_esduneamaz00barn
+      \endverb
+      \keyw{,reflexions}
+    \endentry
+    \entry{chichereau_normes_2007}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=b93f5d2a7d30cba7f60d3809f9ae3850}{%
+           family={Chichereau},
+           familyi={C\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1a24612726a67b5c4760383b24e851c}{%
+           family={Contat},
+           familyi={C\bibinitperiod},
+           given={Odile},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86995a02f1d20c96da588d906931cc12}{%
+           family={Dégez},
+           familyi={D\bibinitperiod},
+           given={Danièle},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef69cf57bb67e65b81e295f373ea3c19}{%
+           family={Deniau},
+           familyi={D\bibinitperiod},
+           given={Alina},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2568e79b66c014891334ffd023779cb9}{%
+           family={Lénart},
+           familyi={L\bibinitperiod},
+           given={Michèle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32c564d93f5f8ddfddbea247a41c35fc}{%
+           family={Masse},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1c3e8be6e9dab0a22fe6369c0accca5}{%
+           family={Ménillet},
+           familyi={M\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{674cc130811f7d69c5b7e3c32537f9a9}
+      \strng{fullhash}{98a295d9181d3596e19c20ddde06a7cd}
+      \strng{fullhashraw}{98a295d9181d3596e19c20ddde06a7cd}
+      \strng{bibnamehash}{98a295d9181d3596e19c20ddde06a7cd}
+      \strng{authorbibnamehash}{98a295d9181d3596e19c20ddde06a7cd}
+      \strng{authornamehash}{674cc130811f7d69c5b7e3c32537f9a9}
+      \strng{authorfullhash}{98a295d9181d3596e19c20ddde06a7cd}
+      \strng{authorfullhashraw}{98a295d9181d3596e19c20ddde06a7cd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0012-4508}
+      \field{journaltitle}{Documentaliste-Sciences de l'Information}
+      \field{langid}{french}
+      \field{number}{1}
+      \field{shorttitle}{Les normes de conception, gestion et maintenance de thésaurus}
+      \field{title}{Les normes de conception, gestion et maintenance de thésaurus:Évolutions récentes et perspectives}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{44}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{66\bibrangedash 74}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.3917/docsi.441.0066
+      \endverb
+      \verb{urlraw}
+      \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-66
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-66
+      \endverb
+      \keyw{\_normalisation,\_theorie,{texThesau},texThesau}
+    \endentry
+  \enddatalist
+  \missing{Umberto Eco à trouver}
+  \missing{voir si je trouve le de biblioteca}
+\endrefsection
 \endinput
 

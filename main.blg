@@ -1,9 +1,33 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [1] Config.pm:311> INFO - Logfile is 'main.blg'
-[232] biber:340> INFO - === dim. juil. 20, 2025, 17:22:03
-[281] Biber.pm:420> INFO - Reading 'main.bcf'
-[457] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[492] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[493] bbl.pm:779> INFO - Output to main.bbl
-[493] Biber.pm:131> WARN - The file 'main.bcf' does not contain any citations!
-[493] Biber.pm:133> INFO - WARNINGS: 1
+[175] biber:340> INFO - === lun. juil. 21, 2025, 21:44:10
+[212] Biber.pm:420> INFO - Reading 'main.bcf'
+[395] Biber.pm:994> INFO - Found 4 citekeys in bib section 0
+[431] Biber.pm:4463> INFO - Processing section 0
+[459] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/archives_numeriques.bib' for section 0
+[463] bibtex.pm:1713> INFO - LaTeX decoding ...
+[515] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/archives_numeriques.bib'
+[520] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/cooperation.bib' for section 0
+[524] bibtex.pm:1713> INFO - LaTeX decoding ...
+[573] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/cooperation.bib'
+[577] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/histoire_musee.bib' for section 0
+[578] bibtex.pm:1713> INFO - LaTeX decoding ...
+[597] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/histoire_musee.bib'
+[599] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/numerique_patrimoine.bib' for section 0
+[605] bibtex.pm:1713> INFO - LaTeX decoding ...
+[692] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/numerique_patrimoine.bib'
+[696] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/thesaurus.bib' for section 0
+[700] bibtex.pm:1713> INFO - LaTeX decoding ...
+[767] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/thesaurus.bib'
+[862] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/reflexions.bib' for section 0
+[863] bibtex.pm:1713> INFO - LaTeX decoding ...
+[868] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/reflexions.bib'
+[923] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[923] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[923] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[923] Biber.pm:4289> INFO - No sort tailoring available for locale 'fr-FR'
+[945] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[950] bbl.pm:779> INFO - Output to main.bbl
+[950] Biber.pm:131> WARN - I didn't find a database entry for 'Umberto Eco à trouver' (section 0)
+[950] Biber.pm:131> WARN - I didn't find a database entry for 'voir si je trouve le de biblioteca' (section 0)
+[950] Biber.pm:133> INFO - WARNINGS: 2

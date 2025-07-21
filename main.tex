@@ -2,10 +2,12 @@
 %crée par J.B. Camps
 %Dernières modifications E. Rouquette (03/2025)
 
-%%%%%%%%%%%%%%%%%%%%%% PRÉAMBULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% PRÉAMBULE
+%%%%%%%%%%%%%biblio%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%%%%%%%%%%%%%% partie obligatoire du préambule
+%%%% PARTIE OBLIGATOIRE %%%%
 \documentclass[12pt,twoside]{book}
 \usepackage{fontspec}
 \usepackage{xunicode}
@@ -15,10 +17,12 @@
 %\setotherlanguage{} %indiquer les autres langues utilisée
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PACKAGES UTILISÉS
+%%%% PACKAGES UTILISÉS %%%%
 
 \usepackage{csquotes} % les guillemets français
 \usepackage{lettrine} %faire une lettrine (pas obligatoire)
+
+%%%% Bibliographie %%%%
 
 \usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
 
@@ -29,7 +33,7 @@
 \addbibresource{./bibliographie/histoire_musee.bib}
 \addbibresource{./bibliographie/numerique_patrimoine.bib}
 \addbibresource{./bibliographie/thesaurus.bib}
-
+\addbibresource{./bibliographie/reflexions.bib}
 
 \DeclareSourcemap{%
  \maps[datatype=bibtex]{%
@@ -53,25 +57,41 @@
     \perdatasource{./bibliographie/thesaurus.bib}
     \step[fieldset=keywords, fieldvalue={,texThesau}, append]
   }
+  \map[overwrite]{%
+  	\perdatasource{./bibliographie/reflexions.bib}
+  	\step[fieldset=keywords, fieldvalue={,reflexions}, append]
+  }
  }
 }
 
 
-%%%Faire un ou plusieurs index
+%%%% Index %%%%
 
 \usepackage{imakeidx} %pour faire un ou plusieurs index
 \makeindex %commande pour générer l'index
 
 
-%RAJOUTEZ ICI VOS PACKAGES
+%%%% Abréviations
+\usepackage{acro}
+
+\DeclareAcronym{mae}{short= MAE, long = Musée de l'air et de l'espace}
+\DeclareAcronym{api}{short = API, long = Application Programming Interface}
+\DeclareAcronym{dsc}{short = DSC, long = Département scientifique des collections}
+\DeclareAcronym{drd}{short = DRD, long = Département recherche et documentation}
+\DeclareAcronym{skos}{short = SKOS, long = Simple Knowledge Organization System}
+\DeclareAcronym{sparql}{short = SPARQL, long = SPARQL Protocol and RDF Query Language}
+\DeclareAcronym{json}{short = JSON, long = JavaScript Object Notation}
+\DeclareAcronym{bnf}{short = BnF, long = Bibliothèque nationale de France}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CONFIGURATION DE MISE EN PAGE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% MISE EN PAGE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%% Les compteurs (sections, subsections, etc)
+
+%%%% COMPTEURS (sections, subsections, etc)
 
 
-%%%%%% Les compteurs (sections, subsections, etc)
 \renewcommand{\thesection}{\Roman{section}.}%On ne fait apparaître que le numéro de la section
 \renewcommand{\thesubsection}{\arabic{subsection}.}%subsection en chiffres arabes
 \renewcommand{\thesubsubsection}{\alph{subsubsection}.}%subsubsection en lettres minuscules
@@ -81,7 +101,7 @@
 
 
 
-%%%%%  Configurer le document selon les normes de l'école
+%%%% NORMES DE L'ECOLE
 
 \usepackage[margin=2.5cm]{geometry} %marges
 \usepackage{setspace} % espacement qui permet ensuite de définir un interligne
@@ -89,32 +109,32 @@
 \setlength\parindent{1cm} % indentation des paragraphes à 1 cm
 
 
-%%%%% Mise en forme des headers (haut de page)
+%%%% HEADERS
 
 \usepackage{fancyhdr} %package utilisé pour modifier les headers
 \pagestyle{fancy} %utiliser ses propres choix de mise en page et non ceux par défaut du package
 
 \setlength\headheight{16pt}%la hauteur des headers
 
-%%la façon dont les sections apparaissent dans les en-tête:
+%%%% Sections dans les en-têtes
 
 %%\renewcommand{\sectionmark}[1]{\markright{\small\textit{\thesection~\  #1}}}%Faire apparaître dans les headers les sections en  petit et en italiques
 \renewcommand{\sectionmark}[1]{}%Commenter la lign précédetne et mettre celle-ci pour ne pas avoir le titre des sections dans le header
 
-%% réglages propres à frontmatter
+%%%% FRONTMATTER
 
 \appto\frontmatter{\pagestyle{fancy}%
 	\renewcommand{\chaptermark}[1]{\markboth{\small\textit{#1}}{}}% ne pas faire apparaître de <<numéro>> de chapitre dans les chapitres non numérotés (front: l'introduction, els remerciement, etc)
 }
 
-%% réglages propres à mainmatter
+%%%% MAINMATTER
 
 \appto\mainmatter{
 \renewcommand{\chaptermark}[1]{\markboth{\small\chaptername~\thechapter~--\ \textit{#1}}{}}%faire apparaître dans les headers les sections en  petit et en italiques
 %\renewcommand{\chaptermark}[1]{}%Commenter la ligne précédente et mettre celle-ci pour ne pas avoir le titre des chapitres  dans le header
 }
 
-%% réglages propres aux annexes
+%%%% ANNEXES
 
 \appto\appendix{
 	\renewcommand{\chaptermark}[1]{\markboth{\small~Annexe \thechapter~--\ \textit{#1}}{}}%faire apparaître dans les headers le nom des annexes
@@ -122,7 +142,7 @@
 }
 
 
-
+%%%% HYPHENATION
 
 %indiquer des règles d'hyphénation pour des mots précis si besoin
 %\begin{hyphenrules}{french}
@@ -130,7 +150,7 @@
 %\end{hyphenrules}
 
 
-%%%%%%% Package hyperref
+%%%% HYPERREF
 
 % A mettre après les autres appels de packages car redéfinit certaines commandes).
 
@@ -159,17 +179,12 @@
 %%%%%%%%%%%%%%%%%%%% Package glossaries
 
 %Exception: il faut le charger APRÈS hyperref
-%\usepackage[toc=true]{glossaries}
-%\makeglossaries
+\usepackage[toc=true]{glossaries}
+\setglossarystyle{altlistgroup}
+\makeglossaries
 %avec TexStudio: F9 pour compiler le glossaire (s'il y a aussi un index)
 
-%mettre les entrées du glossaire ici ou les mettre dans un fichier à part que l'on appelle ici par \loadglsentries{nom_du_fichier.tex}
-
-%Structure d'une entrée de glossaire
-%\newglossaryentry{}{%
-%	name={},%
-%	description={}
-%}
+\loadglsentries{./parties/backmatter/glossaire.gls}
 
 
 
@@ -206,7 +221,7 @@
 				\textbf{Maëlys Gioan}\\
 			\end{Large}
 		%selon le cas
-			\begin{normalsize} \textit{licencié.e ès histoire}\\
+			\begin{normalsize} \textit{licenciée ès histoire}\\
 				%\textit{diplômé.e de master}
 			\end{normalsize}
 			
@@ -215,12 +230,12 @@
 			\bigskip
 			
 			\begin{Huge}
-				\MakeUppercase{\textbf{Gestion de l’information à l’ère du numérique : entre héritage et innovation}}\\
+				\MakeUppercase{\textbf{La gestion de l’information à l’ère du numérique.\\ \textit{Entre héritage et innovation}}}\\
 			\end{Huge}
 			\bigskip
 			\bigskip
 			\begin{LARGE}
-				\MakeUppercase{\textbf{Le cas du Musée de l’Air et de l’Espace}}\\
+				\textbf{Le cas du Musée de l’Air et de l’Espace}\\
 			\end{LARGE}
 			
 			\bigskip
@@ -231,8 +246,7 @@
 			\vfill
 			
 			\begin{large}
-				Mémoire 
-				pour le diplôme de master \\
+				Mémoire pour le diplôme de master \\
 				\enquote{Technologies numériques appliquées à l'histoire} \\
 				\bigskip
 				2025
@@ -261,6 +275,9 @@
 \lettrine{M}es remerciements vont tout d'abord à\dots
 	\newpage{\pagestyle{empty}\cleardoublepage}
 	
+\chapter{Liste des abréviations}
+	\printacronyms[heading=none]
+	
 %%%%%%%%%%%% \bibliographie ici (normes de l'EnC)
 
 \chapter{Bibliographie}
@@ -270,7 +287,7 @@
 \printbibliography[keyword={texNumeriquePatrimoine}, title={Numérique en institution patrimoniale}]
 \printbibliography[keyword={texArchivesNumeriques}, title={Archives Numériques}]
 \printbibliography[keyword={texThesau}, title={Gestion de thésaurus}]
-
+\printbibliography[keyword={reflexions}, title={Références littéraires}]
 	
 \chapter{Introduction}	
 Mon introduction 
@@ -316,7 +333,7 @@ Ici, je pourrai mettre la conclusion de cette partie
 	\input{./parties/mainmatter/II/B/II_B}
 	\input{./parties/mainmatter/II/C/II_C}
 	
-	Ici, je pourrai mettre la conclusion de cette partie
+	Ici, je pourrai mettre la conclusion \gls{thesaurus}de cette partie.
 	
 		\part{Gérer la prolifération. outils et méthodes}
 	
@@ -360,7 +377,8 @@ Ici, je pourrai mettre la conclusion de cette partie
 \backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
 
 %\printindex
-%\printglossaries[title=Glossaire]
+
+\printglossaries
 %\listoftables
 %\listoffigures
 \tableofcontents
