@@ -166,12 +166,14 @@
 \usepackage{tabularx}
 \usepackage{longtable}
 \usepackage{booktabs}
+\usepackage[table]{xcolor}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\definecolor{lightgray}{gray}{0.95}
 
-\usepackage{ltablex}
-\keepXColumns
-\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
-\newcolumntype{Z}{>{\raggedright\arraybackslash}X[2]}
-
+\newcolumntype{B}{>{\bfseries\raggedleft\arraybackslash}p{0.25\textwidth}}
+\newcolumntype{C}{>{\raggedright\arraybackslash}p{0.75\textwidth}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%% HYPHENATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -451,8 +453,9 @@ Ici, je pourrai mettre la conclusion  de cette partie.
 \appendix %Des appendices: tables figures, etc
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXE 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part*{Annexes}
 
-\chapter[Frise du MAE]{Frise historique du musée de l'air et de l'espace}
+\chapter[Chronologie du MAE]{Chronologie du musée de l'air et de l'espace}
 
 %\input{./backmatter/annexes/A1_frise.tex}
 
