@@ -159,8 +159,13 @@
 %%%%%%%%%%%%%%%%%%%%%%% AUTRES PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\usepackage{graphicx}
-\usepackage{mermaid}
+%%%%%%%%%%%%%%%%%%%%%%%%%% TABLEAUX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{ltxtable}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{booktabs}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%% HYPHENATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -444,7 +449,9 @@ Ici, je pourrai mettre la conclusion  de cette partie.
 
 \chapter[Frise du MAE]{Frise historique du musée de l'air et de l'espace}
 
-\input{./backmatter/annexes/A1_frise.tex}
+%\input{./backmatter/annexes/A1_frise.tex}
+
+\LTXtable{\textwidth}{./parties/backmatter/annexes/A1_frise.tex}
 
 \newpage{\pagestyle{empty}\cleardoublepage}
 
