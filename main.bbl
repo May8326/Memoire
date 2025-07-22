@@ -188,6 +188,75 @@
       \endverb
       \keyw{\_normalisation,\_theorie,{texThesau},texThesau}
     \endentry
+    \entry{museedelairetdelespaceHallNavigationAerienne2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2fc45ce779234ad7b92d3171ba305331}{%
+           family={{Musée de l'air et de l'espace}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{fullhash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{fullhashraw}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{bibnamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorbibnamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authornamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorfullhash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorfullhashraw}{2fc45ce779234ad7b92d3171ba305331}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{month}{6}
+      \field{shorttitle}{Dossier de presse NAVACA}
+      \field{title}{Hall de la navigation aérienne et du contrôle aérien | Dossier de presse}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.museeairespace.fr/wp-content/uploads/sites/2/2025/06/Dossier-de-presse-NAVACA-06-2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.museeairespace.fr/wp-content/uploads/sites/2/2025/06/Dossier-de-presse-NAVACA-06-2025.pdf
+      \endverb
+      \keyw{,texHistoire}
+    \endentry
+    \entry{terrier_eroport_2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd9a6207b2d35c7805170e2d2a60ed84}{%
+           family={Terrier},
+           familyi={T\bibinitperiod},
+           given={Jean-Emmanuel},
+           giveni={J\bibinithyphendelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \strng{fullhash}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \strng{fullhashraw}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \strng{bibnamehash}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \strng{authorbibnamehash}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \strng{authornamehash}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \strng{authorfullhash}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \strng{authorfullhashraw}{dd9a6207b2d35c7805170e2d2a60ed84}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Amarena}
+      \field{isbn}{9782956857907}
+      \field{pagetotal}{160}
+      \field{shorttitle}{Aéroport de Paris - Le Bourget}
+      \field{title}{Aéroport de Paris - Le Bourget : 1910-2019, un siècle d'histoire}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \keyw{\_histoire,{texHistoire},texHistoire}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
