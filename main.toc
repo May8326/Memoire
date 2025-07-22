@@ -22,7 +22,7 @@
 \contentsline {section}{\numberline {II.}Des conséquences importantes}{18}{section.3.2}%
 \contentsline {chapter}{\numberline {4}PDV métier}{19}{chapter.4}%
 \contentsline {section}{\numberline {I.}titre}{19}{section.4.1}%
-\contentsline {part}{III\hspace {1em}Gérer la prolifération. outils et méthodes}{21}{part.3}%
+\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{21}{part.3}%
 \contentsline {chapter}{Conclusion}{25}{chapter*.8}%
-\contentsline {chapter}{\numberline {A}Titre court}{27}{appendix.A}%
-\contentsline {chapter}{Glossaire}{29}{section*.9}%
+\contentsline {chapter}{\numberline {A}Frise du MAE}{27}{appendix.A}%
+\contentsline {chapter}{Glossaire}{33}{section*.9}%

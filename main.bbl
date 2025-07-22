@@ -19,25 +19,14 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{barneyPenseesDuneAmazone1920}{book}{}{}
-      \name{author}{2}{}{%
+    \entry{barney_pensees_1920}{book}{}{}
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c9f228c30b27499d1db53b09c3a82321}{%
            family={Barney},
            familyi={B\bibinitperiod},
            given={Natalie\bibnamedelima Clifford},
            giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c9f228c30b27499d1db53b09c3a82321}{%
-           family={Barney},
-           familyi={B\bibinitperiod},
-           given={Natalie\bibnamedelima Clifford},
-           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{namea}{1}{}{%
-        {{hash=ea8904b0b029ac066de04e4cfe97991d}{%
-           family={{Boston Public Library}},
-           familyi={B\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Paris}%
@@ -45,25 +34,18 @@
       \list{publisher}{1}{%
         {Émile-Paul frères}%
       }
-      \strng{namehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{fullhash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{fullhashraw}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{bibnamehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{authorbibnamehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{authornamehash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{authorfullhash}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{authorfullhashraw}{5f3a1dfdfe2a645a65b2c8dbf562a2a7}
-      \strng{nameabibnamehash}{ea8904b0b029ac066de04e4cfe97991d}
-      \strng{nameanamehash}{ea8904b0b029ac066de04e4cfe97991d}
-      \strng{nameafullhash}{ea8904b0b029ac066de04e4cfe97991d}
-      \strng{nameafullhashraw}{ea8904b0b029ac066de04e4cfe97991d}
+      \strng{namehash}{c9f228c30b27499d1db53b09c3a82321}
+      \strng{fullhash}{c9f228c30b27499d1db53b09c3a82321}
+      \strng{fullhashraw}{c9f228c30b27499d1db53b09c3a82321}
+      \strng{bibnamehash}{c9f228c30b27499d1db53b09c3a82321}
+      \strng{authorbibnamehash}{c9f228c30b27499d1db53b09c3a82321}
+      \strng{authornamehash}{c9f228c30b27499d1db53b09c3a82321}
+      \strng{authorfullhash}{c9f228c30b27499d1db53b09c3a82321}
+      \strng{authorfullhashraw}{c9f228c30b27499d1db53b09c3a82321}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{[iii]-vii,210 p.,ll. ; 19 cm; OCLC number: ocm01631270; Apologie.-- Dédicaces.-- Les sexes adverses, la guerre et le féminisme.-- Choses de l'amour.-- Pages prises au roman que je n'écrirai pas.-- Autres éparpillements}
-      \field{langid}{fre}
-      \field{nameatype}{collaborator}
       \field{pagetotal}{264}
       \field{title}{Pensées d'une amazone}
       \field{urlday}{21}
@@ -78,6 +60,49 @@
       \verb{url}
       \verb http://archive.org/details/pense_esduneamaz00barn
       \endverb
+      \keyw{,reflexions}
+    \endentry
+    \entry{borges_bibliotheque_2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91139531f43939b67ec77b68d4f74acf}{%
+           family={Borges},
+           familyi={B\bibinitperiod},
+           given={Jorge\bibnamedelima Luis},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=577cb97f9ac94999b589e27f6066ff7b}{%
+           family={Ibarra},
+           familyi={I\bibinitperiod},
+           given={Nestor},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{91139531f43939b67ec77b68d4f74acf}
+      \strng{fullhash}{91139531f43939b67ec77b68d4f74acf}
+      \strng{fullhashraw}{91139531f43939b67ec77b68d4f74acf}
+      \strng{bibnamehash}{91139531f43939b67ec77b68d4f74acf}
+      \strng{authorbibnamehash}{91139531f43939b67ec77b68d4f74acf}
+      \strng{authornamehash}{91139531f43939b67ec77b68d4f74acf}
+      \strng{authorfullhash}{91139531f43939b67ec77b68d4f74acf}
+      \strng{authorfullhashraw}{91139531f43939b67ec77b68d4f74acf}
+      \strng{translatorbibnamehash}{577cb97f9ac94999b589e27f6066ff7b}
+      \strng{translatornamehash}{577cb97f9ac94999b589e27f6066ff7b}
+      \strng{translatorfullhash}{577cb97f9ac94999b589e27f6066ff7b}
+      \strng{translatorfullhashraw}{577cb97f9ac94999b589e27f6066ff7b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Ed. du Littéraire}
+      \field{isbn}{{ISSN} 2257-5693}
+      \field{series}{Fictions}
+      \field{title}{La Bibliothèque de Babel}
+      \field{year}{2011}
+      \field{dateera}{ce}
       \keyw{,reflexions}
     \endentry
     \entry{chichereau_normes_2007}{article}{}{}
@@ -164,8 +189,6 @@
       \keyw{\_normalisation,\_theorie,{texThesau},texThesau}
     \endentry
   \enddatalist
-  \missing{Umberto Eco à trouver}
-  \missing{voir si je trouve le de biblioteca}
 \endrefsection
 \endinput
 
