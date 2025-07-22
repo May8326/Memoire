@@ -3,31 +3,31 @@
 %Dernières modifications E. Rouquette (03/2025)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%% PRÉAMBULE
-%%%%%%%%%%%%%biblio%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%% PRÉAMBULE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%%%% PARTIE OBLIGATOIRE %%%%
+%%%%%%%%%%%%%%%%%%%%%% PARTIE OBLIGATOIRE%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \documentclass[12pt,twoside]{book}
 \usepackage{fontspec}
 \usepackage{xunicode}
-%\usepackage{polyglossia}
 \usepackage[french]{babel}
-%\setmainlanguage{french}%indiquer la langue principale du document
 %\setotherlanguage{} %indiquer les autres langues utilisée
 
 
-%%%% PACKAGES UTILISÉS %%%%
+%%%%%%%%%%%%%%%%%%%%%% PARTIE OBLIGATOIRE%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\usepackage{csquotes} % les guillemets français
-\usepackage{lettrine} %faire une lettrine (pas obligatoire)
+\usepackage{csquotes} % guillemets français
+\usepackage{lettrine}
 
-%%%% Bibliographie %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAPHIE %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
+\usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}% style de l'EnC (https://ctan.org/pkg/biblatex-enc)
 
- %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
-%\defbibheading{}{\subsection*{Biblio}} Si l'on veut changer le titre de la/les bibliographie(s)
+%\defbibheading{}{\subsection*{Biblio}} % Pour changer le titre de la/les bibliographie(s)
 \addbibresource{./bibliographie/archives_numeriques.bib}
 \addbibresource{./bibliographie/cooperation.bib}
 \addbibresource{./bibliographie/histoire_musee.bib}
@@ -35,29 +35,30 @@
 \addbibresource{./bibliographie/thesaurus.bib}
 \addbibresource{./bibliographie/reflexions.bib}
 
-\DeclareSourcemap{%
- \maps[datatype=bibtex]{%
-  \map[overwrite]{%
+% Mots clés pour gérer la bibliographie thématique
+\DeclareSourcemap{
+ \maps[datatype=bibtex]{
+  \map[overwrite]{
     \perdatasource{./bibliographie/archives_numeriques.bib}
     \step[fieldset=keywords, fieldvalue={,texArchivesNumeriques}, append]
   }
-  \map[overwrite]{%
+  \map[overwrite]{
     \perdatasource{./bibliographie/cooperation.bib}
     \step[fieldset=keywords, fieldvalue={,texCollab}, append]
   }
-  \map[overwrite]{%
+  \map[overwrite]{
     \perdatasource{./bibliographie/histoire_musee.bib}
     \step[fieldset=keywords, fieldvalue={,texHistoire}, append]
   }
-  \map[overwrite]{%
+  \map[overwrite]{
     \perdatasource{./bibliographie/numerique_patrimoine.bib}
     \step[fieldset=keywords, fieldvalue={,texNumeriquePatrimoine}, append]
   }
-  \map[overwrite]{%
+  \map[overwrite]{
     \perdatasource{./bibliographie/thesaurus.bib}
     \step[fieldset=keywords, fieldvalue={,texThesau}, append]
   }
-  \map[overwrite]{%
+  \map[overwrite]{
   	\perdatasource{./bibliographie/reflexions.bib}
   	\step[fieldset=keywords, fieldvalue={,reflexions}, append]
   }
@@ -65,13 +66,14 @@
 }
 
 
-%%%% Index %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage{imakeidx} %pour faire un ou plusieurs index
 \makeindex %commande pour générer l'index
 
 
-%%%% Abréviations
+%%%%%%%%%%%%%%%%%%%%%%%%% ABREVIATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \usepackage{acro}
 
 \DeclareAcronym{mae}{short= MAE, long = Musée de l'air et de l'espace}
@@ -85,12 +87,13 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%% MISE EN PAGE
+%%%%%%%%%%%%%%%%%%%%%%%%% MISE EN PAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%%%% COMPTEURS (sections, subsections, etc)
-
+%%%%%%%%%%%%%%%%%%%%%%%%%% COMPTEURS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Sections, subsections, subsubsections
 
 \renewcommand{\thesection}{\Roman{section}.}%On ne fait apparaître que le numéro de la section
 \renewcommand{\thesubsection}{\arabic{subsection}.}%subsection en chiffres arabes
@@ -101,7 +104,8 @@
 
 
 
-%%%% NORMES DE L'ECOLE
+%%%%%%%%%%%%%%%%%%%%%% NORMES DE L'ECOLE %%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[margin=2.5cm]{geometry} %marges
 \usepackage{setspace} % espacement qui permet ensuite de définir un interligne
@@ -109,40 +113,48 @@
 \setlength\parindent{1cm} % indentation des paragraphes à 1 cm
 
 
-%%%% HEADERS
+%%%%%%%%%%%%%%%%%%%%%%%%%%% HEADERS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage{fancyhdr} %package utilisé pour modifier les headers
 \pagestyle{fancy} %utiliser ses propres choix de mise en page et non ceux par défaut du package
 
 \setlength\headheight{16pt}%la hauteur des headers
 
-%%%% Sections dans les en-têtes
+%%%%%%%%%%%%%%%% SECTIONS dans les en-têtes %%%%%%%%%%%%%%%%%%%%%%
 
 %%\renewcommand{\sectionmark}[1]{\markright{\small\textit{\thesection~\  #1}}}%Faire apparaître dans les headers les sections en  petit et en italiques
 \renewcommand{\sectionmark}[1]{}%Commenter la lign précédetne et mettre celle-ci pour ne pas avoir le titre des sections dans le header
 
-%%%% FRONTMATTER
+
+%%%%%%%%%%%%%%%%%%%%%%%%% FRONTMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \appto\frontmatter{\pagestyle{fancy}%
 	\renewcommand{\chaptermark}[1]{\markboth{\small\textit{#1}}{}}% ne pas faire apparaître de <<numéro>> de chapitre dans les chapitres non numérotés (front: l'introduction, els remerciement, etc)
 }
 
-%%%% MAINMATTER
+%%%%%%%%%%%%%%%%%%%%%%%%% MAINMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \appto\mainmatter{
 \renewcommand{\chaptermark}[1]{\markboth{\small\chaptername~\thechapter~--\ \textit{#1}}{}}%faire apparaître dans les headers les sections en  petit et en italiques
 %\renewcommand{\chaptermark}[1]{}%Commenter la ligne précédente et mettre celle-ci pour ne pas avoir le titre des chapitres  dans le header
 }
 
-%%%% ANNEXES
+%%%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \appto\appendix{
 	\renewcommand{\chaptermark}[1]{\markboth{\small~Annexe \thechapter~--\ \textit{#1}}{}}%faire apparaître dans les headers le nom des annexes
 	%\renewcommand{\chaptermark}[1]{}%Commenter la ligne précédente et mettre celle-ci pour ne pas avoir le titre des chapitres  dans le header
 }
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%% AUTRES PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%% HYPHENATION
+%%%%%%%%%%%%%%%%%%%%%%%%% HYPHENATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %indiquer des règles d'hyphénation pour des mots précis si besoin
 %\begin{hyphenrules}{french}
@@ -150,7 +162,8 @@
 %\end{hyphenrules}
 
 
-%%%% HYPERREF
+%%%%%%%%%%%%%%%%%%%%%%%%%% HYPERREF %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % A mettre après les autres appels de packages car redéfinit certaines commandes).
 
@@ -176,7 +189,8 @@
 
 
 
-%%%%%%%%%%%%%%%%%%%% Package glossaries
+%%%%%%%%%%%%%%%%%%%%%%%%%% GLOSSAIRE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %Exception: il faut le charger APRÈS hyperref
 \usepackage[toc=true]{glossaries}
@@ -188,21 +202,44 @@
 
 
 
-%%%%%%%%%%%%%%%%%% DÉFINITION DES COMMANDES ET ENVIRONNMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% COMMANDES EN ENVIRONNEMENTS PERSONNALISES %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%% COMMANDES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+%%%%%%%%%%%%%%%%%%%%%%%% ENVIRONNEMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
- %%%%%%%%%%%%%% INFORMATIONS POUR LA PAGE DE TITRE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% INFORMATIONS DE LA PAGE DE TITRE %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
 \author{Maëlys \textsc{Gioan} - M2 TNAH}
 \title{Gestion de l’information à l’ère du numérique : entre héritage et innovation}
 
-%%%%%%%%%%%%%%%%%%%%%% DOCUMENT
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 \begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% FRONTMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%% PAGE DE TITRE %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 	\begin{titlepage}
 		\begin{center}
 			
@@ -260,6 +297,11 @@
 	
 \frontmatter
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% RESUME %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 	\chapter{Résumé}
 \medskip
 	Résumé du mémoire en français. Cette page ne doit pas dépasser une page.\\
@@ -269,7 +311,10 @@
 	\textbf{Informations bibliographiques:} GIOAN Maëlys, \textit{Gestion de l’information à l’ère du numérique : entre héritage et innovation. Le cas du Musée de l’Air et de l’Espace}, mémoire de master \enquote{Technologies numériques appliquées à l'histoire}, dir. Emmanuelle Bermès, Valérie Joyaux, École nationale des chartes, 2025.
 	
 		\newpage{\pagestyle{empty}\cleardoublepage}
-	
+
+%%%%%%%%%%%%%%%%%%%%%%%%% REMERCIEMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 	\chapter{Remerciements}
 	
 \lettrine{M}es remerciements vont tout d'abord à\dots
@@ -277,8 +322,9 @@
 	
 \chapter{Liste des abréviations}
 	\printacronyms[heading=none]
-	
-%%%%%%%%%%%% \bibliographie ici (normes de l'EnC)
+
+%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAPHIE %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Bibliographie}
 \addcontentsline{toc}{chapter}{Bibliographie}
@@ -290,67 +336,80 @@
 \printbibliography[keyword={reflexions}, title={Références littéraires}]
 	
  
-%si l'introduction est longue, elle peut être importée avec input
+
+%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \input{./parties/mainmatter/intro.tex} %Input: importer un fichier
 
 \newpage{\pagestyle{empty}\cleardoublepage}
 
-%%%%%%%%%%%%%%%%%Le corps du mémoire
-	\mainmatter
-%Trier par dossiers si besoin (front, main,annexes,), se crérer un docuemnt .tex par structure (section ou chapter selon la taille et la pertinence) Exemple de chemin à partir du dossier où se trouve le document maître: ./dossierA/fichier.tex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% MAINMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-	
+	\mainmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE I %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 	\part{Le contexte institutionnel particulier du Musée de l'air et de l'espace}
 
-%%% INTRODUCTION DE LA PARTIE
+%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ici, je pourrai mettre une introduction de ma première partie.
 
-%%% CHARGEMENT DES FICHIERS TEX DES PARTIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\input{./parties/mainmatter/I/A/I_A} %Input: importer un fichier
+\input{./parties/mainmatter/I/A/I_A} 
 \input{./parties/mainmatter/I/B/I_B}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ici, je pourrai mettre la conclusion de cette partie
 
-%etc
-%Ou bien: ne pas mettre chapter, et importer le chapitre complet:
-%\input{mon_chapitre_1.tex}
-%\input{mon_chapitre_2.tex}	
-%etc
+%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE II %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	\part{La prolifération de l’information en institution culturelle, un sujet facilement mis de côté}
 	
-	
-	%%% INTRODUCTION DE LA PARTIE
-	
+%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
+
 	Ici, je pourrai mettre une introduction de ma première partie
 	
-	%%% CHARGEMENT DES FICHIERS TEX DES PARTIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-	\input{./parties/mainmatter/II/A/II_A} %Input: importer un fichier
+	\input{./parties/mainmatter/II/A/II_A}
 	\input{./parties/mainmatter/II/B/II_B}
 	\input{./parties/mainmatter/II/C/II_C}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-	Ici, je pourrai mettre la conclusion \gls{thesaurus}de cette partie.
+Ici, je pourrai mettre la conclusion  de cette partie.
 	
-		\part{Gérer la prolifération. outils et méthodes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE III %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\part{Gérer la prolifération. Outils et méthodes}
 	
 	
-	%%% INTRODUCTION DE LA PARTIE
+%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	Ici, je pourrai mettre une introduction de ma première partie
 	
-	%%% CHARGEMENT DES FICHIERS TEX DES PARTIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-	\input{./parties/mainmatter/III/A/III_A} %Input: importer un fichier
+	\input{./parties/mainmatter/III/A/III_A}
 	\input{./parties/mainmatter/III/B/III_B}
 	\input{./parties/mainmatter/III/C/III_C}
-	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 	Ici, je pourrai mettre la conclusion de cette partie
 	
-	%%% CONCLUSION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	\chapter*{Conclusion}
 	\addcontentsline{toc}{chapter}{Conclusion}
@@ -362,9 +421,16 @@ Ici, je pourrai mettre la conclusion de cette partie
 
 
 
-%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% BACKMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \appendix %Des appendices: tables figures, etc
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXE 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter[Titre court]{Le titre très long de la première annexe}
 
@@ -372,14 +438,34 @@ Ici, je pourrai mettre la conclusion de cette partie
 
 \newpage{\pagestyle{empty}\cleardoublepage}
 
-%%%%%%%%%%%%%%%%%%
+
 
 \backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %\printindex
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%% GLOSSAIRE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \printglossaries
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% TABLES DES MATIÈRES %%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%% TABLE DES TABLEAUX %%%%%%%%%%%%%%%%%%%%%%%%%
 %\listoftables
+
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE DES FIGURES %%%%%%%%%%%%%%%%%%%%%%
 %\listoffigures
+
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE DES MATIÈRES %%%%%%%%%%%%%%%%%%%%%
 \tableofcontents
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% FIN DU DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
