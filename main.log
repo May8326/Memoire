@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  22 JUL 2025 22:10
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  27 JUL 2025 20:31
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1350,9 +1350,6 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 [5]
 
 [6]
-Underfull \vbox (badness 2020) has occurred while \output is active []
-
-
 
 [7]) (./parties/mainmatter/I/A/I_A_2.tex)) (./parties/mainmatter/I/B/I_B.tex
 
@@ -1488,15 +1485,25 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 19--83
 
 [34
 
+] (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+
+
+[35]
+
+[36
+
 ] (./main.toc
 
-[35])
-\tf@toc=\write7
-\openout7 = `main.toc'.
+[37])
+\tf@toc=\write8
+\openout8 = `main.toc'.
 
 
 
-[36] (./main.aux)
+[38] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -1506,12 +1513,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37496 strings out of 474235
- 772954 string characters out of 5742252
- 1633847 words of memory out of 5000000
- 59682 multiletter control sequences out of 15000+600000
- 565573 words of font info for 89 fonts, out of 8000000 for 9000
+ 37507 strings out of 474235
+ 773062 string characters out of 5742252
+ 1633894 words of memory out of 5000000
+ 59690 multiletter control sequences out of 15000+600000
+ 565575 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,93p,2354b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (54 pages).
+Output written on main.pdf (56 pages).
