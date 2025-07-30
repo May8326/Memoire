@@ -1,32 +1,32 @@
-[1] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:308> INFO - This is Biber 2.20
 [1] Config.pm:311> INFO - Logfile is 'main.blg'
-[255] biber:340> INFO - === dim. juil. 27, 2025, 19:43:01
-[295] Biber.pm:420> INFO - Reading 'main.bcf'
-[505] Biber.pm:994> INFO - Found 5 citekeys in bib section 0
-[544] Biber.pm:4463> INFO - Processing section 0
-[572] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/archives_numeriques.bib' for section 0
-[577] bibtex.pm:1713> INFO - LaTeX decoding ...
-[638] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/archives_numeriques.bib'
-[647] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/cooperation.bib' for section 0
-[653] bibtex.pm:1713> INFO - LaTeX decoding ...
-[712] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/cooperation.bib'
-[717] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/histoire_musee.bib' for section 0
-[720] bibtex.pm:1713> INFO - LaTeX decoding ...
-[750] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/histoire_musee.bib'
-[902] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/numerique_patrimoine.bib' for section 0
-[908] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1003] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/numerique_patrimoine.bib'
-[1007] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/thesaurus.bib' for section 0
-[1013] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1102] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/thesaurus.bib'
-[1142] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/reflexions.bib' for section 0
-[1145] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1152] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/reflexions.bib'
-[1228] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1228] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1228] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[1228] Biber.pm:4289> INFO - No sort tailoring available for locale 'fr-FR'
-[1263] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1276] bbl.pm:779> INFO - Output to main.bbl
-[1277] Biber.pm:131> WARN - ISBN '{ISSN} 2257-5693' in entry 'borges_bibliotheque_2011' is invalid - run biber with '--validate_datamodel' for details.
-[1277] Biber.pm:133> INFO - WARNINGS: 1
+[224] biber:340> INFO - === mer. juil. 30, 2025, 20:14:59
+[265] Biber.pm:420> INFO - Reading 'main.bcf'
+[447] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[483] Biber.pm:4463> INFO - Processing section 0
+[512] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/archives_numeriques.bib' for section 0
+[517] bibtex.pm:1713> INFO - LaTeX decoding ...
+[569] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/archives_numeriques.bib'
+[851] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/cooperation.bib' for section 0
+[856] bibtex.pm:1713> INFO - LaTeX decoding ...
+[904] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/cooperation.bib'
+[1047] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/histoire_musee.bib' for section 0
+[1049] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1069] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/histoire_musee.bib'
+[1158] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/numerique_patrimoine.bib' for section 0
+[1163] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1250] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/numerique_patrimoine.bib'
+[1431] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/thesaurus.bib' for section 0
+[1437] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1513] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/thesaurus.bib'
+[1772] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/reflexions.bib' for section 0
+[1774] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1781] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/reflexions.bib'
+[2058] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2058] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2059] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[2059] Biber.pm:4289> INFO - No sort tailoring available for locale 'fr-FR'
+[2295] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2372] bbl.pm:779> INFO - Output to main.bbl
+[2373] Biber.pm:131> WARN - ISBN '{ISSN} 2257-5693' in entry 'borges_bibliotheque_2011' is invalid - run biber with '--validate_datamodel' for details.
+[2373] Biber.pm:133> INFO - WARNINGS: 1
