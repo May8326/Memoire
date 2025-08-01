@@ -122,8 +122,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%% HEADERS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage{fancyhdr} %package utilisé pour modifier les headers
-\pagestyle{fancy} %utiliser ses propres choix de mise en page et non ceux par défaut du package
-
+\pagestyle{fancy}
+\fancyhead{} % On efface tous les en-têtes existants
+\fancyhead[RO]{\rightmark} % titre de chapitre à droite sur pages impaires
+\fancyhead[LE]{\rightmark} % titre de chapitre à gauche sur pages paires
 \setlength\headheight{16pt}%la hauteur des headers
 
 %%%%%%%%%%%%%%%% SECTIONS dans les en-têtes %%%%%%%%%%%%%%%%%%%%%%
@@ -133,20 +135,17 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%% FRONTMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \appto\frontmatter{\pagestyle{fancy}%
 	\renewcommand{\chaptermark}[1]{\markright{\small\textit{#1}}}%
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%% MAINMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \appto\mainmatter{
 	\renewcommand{\chaptermark}[1]{\markright{\small\chaptername~\thechapter~--\ \textit{#1}}}%
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \appto\appendix{
 	\renewcommand{\chaptermark}[1]{\markright{\small~Annexe \thechapter~--\ \textit{#1}}}%
