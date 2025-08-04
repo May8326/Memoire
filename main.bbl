@@ -19,6 +19,33 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{19192019CentAns}{online}{}{}
+      \list{organization}{1}{%
+        {Calenda.org}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{En 1919, le premier vol avec passagers entre Paris et Londres amorce le début du transport aérien civil et commercial français. Dans l’entre-deux guerre, l’aviation se développe dans une ambiance d...}
+      \field{langid}{french}
+      \field{shorttitle}{1919-2019}
+      \field{title}{1919-2019 : cent ans d'aviation civile et commerciale en France}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/T24BVLBP/493791.html
+      \endverb
+      \verb{urlraw}
+      \verb https://calenda.org/493791
+      \endverb
+      \verb{url}
+      \verb https://calenda.org/493791
+      \endverb
+      \keyw{,texHistoire}
+    \endentry
     \entry{barbelinDossierDoeuvreDossier2016a}{incollection}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d4bb09a4dc0425de2cd54042481cc3c9}{%
@@ -199,7 +226,6 @@
       \field{title}{Les archives électroniques}
       \field{year}{2020}
       \field{dateera}{ce}
-      \true{nocite}
       \keyw{_theorie,Archivistique,CD974.4,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{bermesConvergenceInteroperabiliteLapport2011}{inproceedings}{}{}
@@ -606,7 +632,6 @@
       \field{nameatype}{collaborator}
       \field{series}{Ciels Du Monde}
       \field{title}{Les Trésors Du {{Musée}} de l'air et de l'espace}
-      \true{nocite}
       \keyw{_histoire,texHistoire,texHistoire}
     \endentry
     \entry{chatautComparativeStudyDomain2024}{online}{}{}
@@ -905,6 +930,7 @@
       \field{title}{Le musée de l'air et de l'espace: l'aérogare historique de Paris-Le Bourget}
       \field{year}{2023}
       \field{dateera}{ce}
+      \true{nocite}
       \keyw{_histoire,texHistoire,texHistoire}
     \endentry
     \entry{comiteinterministerielauxarchivesdefranceReferentielGeneralGestion}{misc}{}{}
@@ -931,7 +957,6 @@
       \field{urlmonth}{5}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/PLSWPAK6/Référentiel général de gestion des archives (R2GA).pdf
       \endverb
@@ -1339,7 +1364,6 @@
       \field{year}{2012}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{130\bibrangedash 140}
       \range{pages}{11}
       \verb{doi}
@@ -1902,7 +1926,6 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee
       \endverb
@@ -2284,7 +2307,6 @@
       \field{year}{2019}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.21494/ISTE.OP.2019.0356
       \endverb

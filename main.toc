@@ -11,10 +11,9 @@
 \contentsline {subsection}{\numberline {I.1.}La lente construction du \ac {mae}}{5}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {I.2.}Une institution complexe qui fait référence}{6}{subsection.1.1.2}%
 \contentsline {section}{\numberline {II.}La recherche : le rôle déterminant d'un musée technique}{8}{section.1.2}%
-\contentsline {subsection}{\numberline {II.1.}L’interopérabilité des vocabulaires contrôlés : un impératif pour la visibilité scientifique}{9}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {II.2.}La gestion raisonnée des archives numériques : un enjeu de pérennité et de valorisation}{9}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {II.3.}Un acteur central dans les réseaux de recherche aéronautique}{10}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {II.4.}Conclusion : De la maîtrise documentaire à l’autorité scientifique}{10}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {II.1.}Un acteur central dans les réseaux de recherche aéronautique}{9}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {II.2.}Les outils de la recherche au \ac {mae}}{9}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {II.3.}Conclusion : De la maîtrise documentaire à l’autorité scientifique}{10}{subsection.1.2.3}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
 \contentsline {section}{\numberline {I.}A musée d’exception, contraintes d’exception : un musée étroitement dépendant du ministère de la Défense. }{13}{section.2.1}%
 \contentsline {section}{\numberline {II.}Un musée qui s'inclut dans un ensemble de choix politiques qui lui sont indépendants}{13}{section.2.2}%
