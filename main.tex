@@ -103,7 +103,7 @@
 %%%% Sections, subsections, subsubsections
 
 \renewcommand{\thesection}{\Roman{section}.}%On ne fait apparaître que le numéro de la section
-\renewcommand{\thesubsection}{\arabic{subsection}.}%subsection en chiffres arabes
+\renewcommand{\thesubsection}{\thesection\arabic{subsection}.}%subsection en chiffres arabes
 \renewcommand{\thesubsubsection}{\alph{subsubsection}.}%subsubsection en lettres minuscules
 %Si l'on veut faire apparaître les subsubsection dans le table des matières (à commenter sinon)
 \setcounter{tocdepth}{3}
@@ -132,7 +132,7 @@
 %%%%%%%%%%%%%%%% SECTIONS dans les en-têtes %%%%%%%%%%%%%%%%%%%%%%
 
 %%\renewcommand{\sectionmark}[1]{\markright{\small\textit{\thesection~\  #1}}}%Faire apparaître dans les headers les sections en  petit et en italiques
-\renewcommand{\sectionmark}[1]{}%Commenter la lign précédetne et mettre celle-ci pour ne pas avoir le titre des sections dans le header
+\renewcommand{\sectionmark}[1]{}%Commenter la ligne précédetne et mettre celle-ci pour ne pas avoir le titre des sections dans le header
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%% FRONTMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
