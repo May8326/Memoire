@@ -7,7 +7,7 @@
 \contentsline {chapter}{Introduction}{xxi}{chapter*.11}%
 \contentsline {part}{I\hspace {1em}Le contexte institutionnel particulier du Musée de l'air et de l'espace}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Référence nationale}{5}{chapter.1}%
-\contentsline {section}{\numberline {I.}Un enjeu de représentation nationale et une autorité auprès des musées similaires}{5}{section.1.1}%
+\contentsline {section}{\numberline {I.}La représentation nationale : un musée aux collections uniques}{5}{section.1.1}%
 \contentsline {subsection}{\numberline {1.}La lente construction du \ac {mae}}{5}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
 \contentsline {section}{\numberline {II.}Rôle déterminant dans la recherche}{8}{section.1.2}%

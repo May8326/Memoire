@@ -2181,8 +2181,10 @@
     <bcf:citekey order="3" intorder="1">terrier_eroport_2019</bcf:citekey>
     <bcf:citekey order="4" intorder="1">museedelairetdelespaceHallNavigationAerienne2025</bcf:citekey>
     <bcf:citekey order="5" intorder="1">terrier_eroport_2019</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">barney_pensees_1920</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">chichereau_normes_2007</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">terrier_eroport_2019</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">collectif_musee_2023</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">barney_pensees_1920</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">chichereau_normes_2007</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
