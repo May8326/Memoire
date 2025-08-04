@@ -102,7 +102,6 @@
       \field{year}{1920}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb http://archive.org/details/pense_esduneamaz00barn
       \endverb
@@ -437,7 +436,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Ed. du Littéraire}
-      \field{isbn}{ISSN 2257-5693}
+      \field{isbn}{2257-5693}
       \field{langid}{fre}
       \field{series}{Fictions}
       \field{title}{La Bibliothèque de Babel}
@@ -811,7 +810,6 @@
       \field{year}{2007}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{66\bibrangedash 74}
       \range{pages}{9}
       \verb{doi}
@@ -907,7 +905,6 @@
       \field{title}{Le musée de l'air et de l'espace: l'aérogare historique de Paris-Le Bourget}
       \field{year}{2023}
       \field{dateera}{ce}
-      \true{nocite}
       \keyw{_histoire,texHistoire,texHistoire}
     \endentry
     \entry{comiteinterministerielauxarchivesdefranceReferentielGeneralGestion}{misc}{}{}
@@ -2073,7 +2070,6 @@
       \field{year}{2011}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{27\bibrangedash 35}
       \range{pages}{9}
       \verb{doi}
@@ -2908,7 +2904,6 @@
       \field{title}{Aéroport de {{Paris}} - {{Le Bourget}} : 1910-2019, Un Siècle d'histoire}
       \field{year}{2019}
       \field{dateera}{ce}
-      \true{nocite}
       \keyw{_histoire,texHistoire,texHistoire}
     \endentry
     \entry{texierProjetVaSNouvelle2022}{online}{}{}

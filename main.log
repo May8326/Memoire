@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 12:07
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 12:39
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1401,9 +1401,9 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [5]
 
-[6]
+[6])
 
-[7]) (./parties/mainmatter/I/A/I_A_2.tex)) (./parties/mainmatter/I/B/I_B.tex
+[7] (./parties/mainmatter/I/A/I_A_2.tex)) (./parties/mainmatter/I/B/I_B.tex
 
 [8]
 Chapitre 2.
@@ -1562,23 +1562,22 @@ L3 programming layer <2024-09-10>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38007 strings out of 474235
- 796947 string characters out of 5742252
- 1639539 words of memory out of 5000000
- 60191 multiletter control sequences out of 15000+600000
- 566183 words of font info for 91 fonts, out of 8000000 for 9000
+ 38021 strings out of 474235
+ 797317 string characters out of 5742252
+ 1640862 words of memory out of 5000000
+ 60205 multiletter control sequences out of 15000+600000
+ 566185 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,93p,3476b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
 

@@ -9,7 +9,7 @@
 \contentsline {chapter}{\numberline {1}Référence nationale}{5}{chapter.1}%
 \contentsline {section}{\numberline {I.}La représentation nationale : un musée aux collections uniques}{5}{section.1.1}%
 \contentsline {subsection}{\numberline {1.}La lente construction du \ac {mae}}{5}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {2.}Une institution complexe qui fait référence}{6}{subsection.1.1.2}%
 \contentsline {section}{\numberline {II.}Rôle déterminant dans la recherche}{8}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{9}{chapter.2}%
 \contentsline {section}{\numberline {I.}A musée d’exception, contraintes d’exception : un musée étroitement dépendant du ministère de la Défense. }{9}{section.2.1}%
