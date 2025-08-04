@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 12:39
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 18:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1401,11 +1401,27 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [5]
 
-[6])
+[6]
+File: img/MODEL_domaines.png Graphic file (type bmp)
+<img/MODEL_domaines.png>
 
-[7] (./parties/mainmatter/I/A/I_A_2.tex)) (./parties/mainmatter/I/B/I_B.tex
+
+[7]) (./parties/mainmatter/I/A/I_A_2.tex
+Underfull \vbox (badness 1983) has occurred while \output is active []
+
+
 
 [8]
+
+[9])) (./parties/mainmatter/I/B/I_B.tex
+
+[10]
+
+[11]
+
+[12
+
+]
 Chapitre 2.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1413,21 +1429,19 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 4.
 (./parties/mainmatter/I/B/I_B_1.tex) (./parties/mainmatter/I/B/I_B_2.tex))
 
-[9
-
-]
-
-[10
-
-]
-
-[11]
-
-[12] (./parties/mainmatter/II/A/II_A.tex
-
 [13]
 
 [14
+
+]
+
+[15]
+
+[16] (./parties/mainmatter/II/A/II_A.tex
+
+[17]
+
+[18
 
 ]
 Chapitre 3.
@@ -1437,22 +1451,17 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 7.
 (./parties/mainmatter/II/A/II_A_1.tex
 
-[15]
+[19]
 
-[16]
-Overfull \hbox (3.66904pt too wide) in paragraph at lines 20--20
-[]\TU/lmr/bx/n/14.4 Un tournant documentaire : la création de l’e-médiathèque (
-2016
- []
-
+[20]
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
 
-[17]) (./parties/mainmatter/II/A/II_A_2.tex))
+[21]) (./parties/mainmatter/II/A/II_A_2.tex))
 (./parties/mainmatter/II/B/II_B.tex
 
-[18]
+[22]
 Chapitre 4.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1461,20 +1470,9 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (./parties/mainmatter/II/B/II_B_1.tex) (./parties/mainmatter/II/B/II_B_2.tex)
 (./parties/mainmatter/II/B/II_B_3.tex)) (./parties/mainmatter/II/C/II_C.tex)
 
-[19
+[23
 
 ]
-
-[20
-
-]
-
-[21]
-
-[22] (./parties/mainmatter/III/A/III_A.tex)
-(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
-
-[23]
 
 [24
 
@@ -1482,15 +1480,26 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [25]
 
-[26
+[26] (./parties/mainmatter/III/A/III_A.tex)
+(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
+
+[27]
+
+[28
 
 ]
 
-[27
+[29]
+
+[30
 
 ]
 
-[28]
+[31
+
+]
+
+[32]
 Annexe A.
 (./parties/backmatter/annexes/A1_frise.tex)
 (./parties/backmatter/annexes/A1_frise.tex)
@@ -1519,23 +1528,23 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 19--83
  [] [] 
  []
 
-[29
+[33
 
-] [30])
+] [34])
 
-[31]
+[35]
 
-[32
+[36
 
 ] (./main.gls)
 
-[33
+[37
 
 
 
 ]
 
-[34
+[38
 
 ] (./main.lot)
 \tf@lot=\write7
@@ -1543,42 +1552,34 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 19--83
 
 
 
-[35]
+[39]
 
-[36
+[40
 
 ] (./main.toc
 
-[37])
+[41])
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
 
 
-[38] (./main.aux)
+[42] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38021 strings out of 474235
- 797317 string characters out of 5742252
- 1640862 words of memory out of 5000000
- 60205 multiletter control sequences out of 15000+600000
- 566185 words of font info for 91 fonts, out of 8000000 for 9000
+ 38068 strings out of 474235
+ 798770 string characters out of 5742252
+ 1641582 words of memory out of 5000000
+ 60249 multiletter control sequences out of 15000+600000
+ 566187 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,13n,93p,3476b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,13n,93p,3476b,5408s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (62 pages).
+Output written on main.pdf (66 pages).
