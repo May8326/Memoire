@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 11:26
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 11:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1559,23 +1559,15 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 19--83
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37901 strings out of 474235
- 789795 string characters out of 5742252
- 1638844 words of memory out of 5000000
- 60085 multiletter control sequences out of 15000+600000
+ 37903 strings out of 474235
+ 789821 string characters out of 5742252
+ 1638875 words of memory out of 5000000
+ 60087 multiletter control sequences out of 15000+600000
  565882 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,93p,3484b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
