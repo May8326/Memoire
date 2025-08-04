@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 11:27
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  4 AUG 2025 12:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -601,6 +601,7 @@ Loading module `upgrade' ...
 \c@g@acro@bnf@int=\count452
 \c@g@acro@siae@int=\count453
 \c@g@acro@sigb@int=\count454
+\c@g@acro@cnam@int=\count455
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -608,9 +609,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count455
-\Gm@cntv=\count456
-\c@Gm@tempcnt=\count457
+\Gm@cnth=\count456
+\Gm@cntv=\count457
+\c@Gm@tempcnt=\count458
 \Gm@bindingoffset=\dimen186
 \Gm@wd@mp=\dimen187
 \Gm@odd@mp=\dimen188
@@ -640,7 +641,7 @@ rs
 (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip84
-\multirow@cntb=\count458
+\multirow@cntb=\count459
 \multirow@dima=\skip85
 \bigstrutjot=\dimen194
 )
@@ -665,7 +666,7 @@ Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \TX@old@col=\dimen199
 \TX@target=\dimen256
 \TX@delta=\dimen257
-\TX@cols=\count459
+\TX@cols=\count460
 \TX@ftn=\toks27
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
@@ -674,17 +675,17 @@ Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
 \LTright=\skip89
 \LTpre=\skip90
 \LTpost=\skip91
-\LTchunksize=\count460
+\LTchunksize=\count461
 \LTcapwidth=\dimen258
 \LT@head=\box104
 \LT@firsthead=\box105
 \LT@foot=\box106
 \LT@lastfoot=\box107
 \LT@gbox=\box108
-\LT@cols=\count461
-\LT@rows=\count462
-\c@LT@tables=\count463
-\c@LT@chunks=\count464
+\LT@cols=\count462
+\LT@rows=\count463
+\c@LT@tables=\count464
+\c@LT@chunks=\count465
 \LT@p@ftn=\toks28
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -699,12 +700,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen266
 \cmidrulekern=\dimen267
 \defaultaddspace=\dimen268
-\@cmidla=\count465
-\@cmidlb=\count466
+\@cmidla=\count466
+\@cmidlb=\count467
 \@aboverulesep=\dimen269
 \@belowrulesep=\dimen270
-\@thisruleclass=\count467
-\@lastruleclass=\count468
+\@thisruleclass=\count468
+\@lastruleclass=\count469
 \@thisrulewidth=\dimen271
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -729,7 +730,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
 \everycr=\toks29
 \minrowclearance=\skip92
-\rownum=\count469
+\rownum=\count470
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
@@ -753,14 +754,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count470
+\c@section@level=\count471
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen272
-\Hy@linkcounter=\count471
-\Hy@pagecounter=\count472
+\Hy@linkcounter=\count472
+\Hy@pagecounter=\count473
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
@@ -768,7 +769,7 @@ File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count473
+\Hy@SavedSpaceFactor=\count474
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
@@ -789,7 +790,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count474
+\c@Hy@tempcnt=\count475
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen273
  (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
@@ -799,7 +800,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count475
+\Fld@menulength=\count476
 \Field@Width=\dimen274
 \Fld@charsize=\dimen275
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -814,19 +815,19 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count476
-\c@Item=\count477
-\c@Hfootnote=\count478
+\Hy@abspage=\count477
+\c@Item=\count478
+\c@Hfootnote=\count479
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2024-07-10 v7.01j Hyperref driver for XeTeX
 \pdfm@box=\box109
-\c@Hy@AnnotLevel=\count479
-\HyField@AnnotCount=\count480
-\Fld@listcount=\count481
-\c@bookmark@seq@number=\count482
+\c@Hy@AnnotLevel=\count480
+\HyField@AnnotCount=\count481
+\Fld@listcount=\count482
+\c@bookmark@seq@number=\count483
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -847,7 +848,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
-\BKM@id=\count483
+\BKM@id=\count484
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2024/04/03 v4.54 (NLCT)
@@ -883,14 +884,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count484
+\inf@bad=\count485
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count485
-\leftroot@=\count486
+\uproot@=\count486
+\leftroot@=\count487
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count487
-\DOTSCASE@=\count488
+\classnum@=\count488
+\DOTSCASE@=\count489
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -903,20 +904,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen278
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count489
+\macc@depth=\count490
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count490
+\c@MaxMatrixCols=\count491
 \dotsspace@=\muskip22
-\c@parentequation=\count491
-\dspbrk@lvl=\count492
+\c@parentequation=\count492
+\dspbrk@lvl=\count493
 \tag@help=\toks33
-\row@=\count493
-\column@=\count494
-\maxfields@=\count495
+\row@=\count494
+\column@=\count495
+\maxfields@=\count496
 \andhelp@=\toks34
 \eqnshift@=\dimen279
 \alignsep@=\dimen280
@@ -933,7 +934,7 @@ LaTeX Info: Redefining \] on input line 2954.
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count496
+\c@su@anzahl=\count497
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2019/09/27 v2.32 (NLCT)
@@ -944,19 +945,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count497
+\actioncount=\count498
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count498
-\FP@xia=\count499
-\FP@xib=\count500
-\FP@xfa=\count501
-\FP@xfb=\count502
-\FP@rega=\count503
-\FP@regb=\count504
-\FP@regs=\count505
-\FP@times=\count506
+\FP@xs=\count499
+\FP@xia=\count500
+\FP@xib=\count501
+\FP@xfa=\count502
+\FP@xfb=\count503
+\FP@rega=\count504
+\FP@regb=\count505
+\FP@regs=\count506
+\FP@times=\count507
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -975,7 +976,7 @@ Package: fp-pas 1994/08/29
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count507
+\FPseed=\count508
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -987,14 +988,14 @@ Package: fp-upn 1996/10/21
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks37
-\@dtl@tmpcount=\count508
+\@dtl@tmpcount=\count509
 \dtl@tmplength=\skip97
-\dtl@sortresult=\count509
-\@dtl@numgrpsepcount=\count510
-\@dtl@datatype=\count511
-\dtl@codeA=\count512
-\dtl@codeB=\count513
-\@dtl@foreach@level=\count514
+\dtl@sortresult=\count510
+\@dtl@numgrpsepcount=\count511
+\@dtl@datatype=\count512
+\dtl@codeA=\count513
+\dtl@codeB=\count514
+\@dtl@foreach@level=\count515
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/tracklang/tracklang.sty
 Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
@@ -1007,7 +1008,7 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 ch.ldf
 File: glossaries-french.ldf 2016/12/12 v1.1
 )
-\gls@level=\count515
+\gls@level=\count516
 \@gls@tmpb=\toks38
 \gls@tmplen=\skip98
 \glskeylisttok=\toks39
@@ -1035,7 +1036,7 @@ sty
 Package: glossary-super 2024/04/03 v4.54 (NLCT)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
-\c@tracingst=\count516
+\c@tracingst=\count517
 \ST@wd=\dimen285
 \ST@rightskip=\skip102
 \ST@leftskip=\skip103
@@ -1559,17 +1560,26 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 19--83
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37903 strings out of 474235
- 789821 string characters out of 5742252
- 1638875 words of memory out of 5000000
- 60087 multiletter control sequences out of 15000+600000
- 565882 words of font info for 90 fonts, out of 8000000 for 9000
+ 38007 strings out of 474235
+ 796947 string characters out of 5742252
+ 1639539 words of memory out of 5000000
+ 60191 multiletter control sequences out of 15000+600000
+ 566183 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,13n,93p,3484b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,13n,93p,3476b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (62 pages).

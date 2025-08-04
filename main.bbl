@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{barbelin_dossier_2016}{incollection}{}{}
+    \entry{barbelinDossierDoeuvreDossier2016a}{incollection}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d4bb09a4dc0425de2cd54042481cc3c9}{%
            family={Barbelin},
@@ -64,9 +64,9 @@
       \verb{url}
       \verb https://shs.cairn.info/documenter-les-collections-de-musees--9782110095480-page-57
       \endverb
-      \keyw{\_normalisation,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{barney_pensees_1920}{book}{}{}
+    \entry{barneyPenseesDuneAmazone1920}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c9f228c30b27499d1db53b09c3a82321}{%
            family={Barney},
@@ -93,6 +93,7 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{fre}
       \field{pagetotal}{264}
       \field{title}{Pensées d'une amazone}
       \field{urlday}{21}
@@ -101,6 +102,7 @@
       \field{year}{1920}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb http://archive.org/details/pense_esduneamaz00barn
       \endverb
@@ -109,7 +111,7 @@
       \endverb
       \keyw{,reflexions}
     \endentry
-    \entry{bartholomew_converting_2024}{article}{}{}
+    \entry{bartholomewConvertingBlissBibliographic2024}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=729730c4c3b3baac5c58af09ba8e69ab}{%
            family={Bartholomew},
@@ -130,13 +132,13 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This article discusses the project undertaken by the library of Queens’ College, Cambridge, to migrate its classification system to {RDF} applying the {SKOS} data model using Python. Queens’ uses the Bliss Bibliographic Classification alongside 18 other {UK} libraries, most of which are small libraries of the colleges at the Universities of Oxford and Cambridge. Though a flexible and universal faceted classification system, Bliss faces challenges due to its unfinished state, leading to the evolution in many Bliss libraries of divergent, in-house adaptations of the system to fill in its gaps. For most of the official, published parts of Bliss, a uniquely formatted source code used to generate a typeset version is available online. This project focused on converting this source code into a {SKOS} {RDF} linked-data format using Python: first by parsing the source code, then using {RDFLib} to write the concepts, notation, relationships, and notes in {RDF}. This article suggests that the {RDF} version has the potential to prevent further divergence and unify the various Bliss adaptations and reflects on the limitations of {SKOS} when applied to complex, faceted systems.}
+      \field{abstract}{This article discusses the project undertaken by the library of Queens’ College, Cambridge, to migrate its classification system to RDF applying the SKOS data model using Python. Queens’ uses the Bliss Bibliographic Classification alongside 18 other UK libraries, most of which are small libraries of the colleges at the Universities of Oxford and Cambridge. Though a flexible and universal faceted classification system, Bliss faces challenges due to its unfinished state, leading to the evolution in many Bliss libraries of divergent, in-house adaptations of the system to fill in its gaps. For most of the official, published parts of Bliss, a uniquely formatted source code used to generate a typeset version is available online. This project focused on converting this source code into a SKOS RDF linked-data format using Python: first by parsing the source code, then using RDFLib to write the concepts, notation, relationships, and notes in RDF. This article suggests that the RDF version has the potential to prevent further divergence and unify the various Bliss adaptations and reflects on the limitations of SKOS when applied to complex, faceted systems.}
       \field{day}{7}
       \field{issn}{1940-5758}
       \field{journaltitle}{The Code4Lib Journal}
       \field{month}{10}
       \field{number}{59}
-      \field{title}{Converting the Bliss Bibliographic Classification to {SKOS} {RDF} using Python {RDFLib}}
+      \field{title}{Converting the {{Bliss Bibliographic Classification}} to {{SKOS RDF}} Using {{Python RDFLib}}}
       \field{urlday}{10}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -150,9 +152,9 @@
       \verb{url}
       \verb https://journal.code4lib.org/articles/18073
       \endverb
-      \keyw{\_normalisation,\_webSemantique,{texThesau},texThesau}
+      \keyw{_normalisation,_webSemantique,texThesau,texThesau}
     \endentry
-    \entry{bechard_archives_2020}{book}{}{}
+    \entry{bechardArchivesElectroniques2020a}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fc73acf29d77cf4cc510783caffb70d1}{%
            family={Béchard},
@@ -192,15 +194,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{La 4e de couverture indique : "Le développement des technologies numériques dans les organisations conduit les professionnels des archives à repenser leurs méthodes de travail. Les compétences acquises dans la gestion des archives papier demeurent pertinentes dans de nombreux cas de figure, mais peuvent se décliner différemment dans la pratique. L'archivage de documents et données numériques nécessite une adaptation des méthodes d'évaluaton, de sélection, de tri, de collecte, d'organisation, de description, de communication et de conservation. De nouvelles compétences sont également indispensables, qu'elles soient techniques ou qu'elle cernent la gestion de projet. Il est essentiel de bien évaluer les charges dans les différents projets d'archivage électronique, voire le retour sur investissement car, en dehors des contraintes juridiques qui pèsent sur les organisations, les contraintes budgétaires constituent un élément fondamental pour construire une politique d'archivage efficace."}
-      \field{isbn}{9782900175101}
+      \field{isbn}{978-2-900175-10-1}
+      \field{langid}{french}
       \field{pagetotal}{96}
       \field{title}{Les archives électroniques}
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{Archivistique,{CD}974.4,\_theorie,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_theorie,Archivistique,CD974.4,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{bermes_convergence_2011}{inproceedings}{}{}
+    \entry{bermesConvergenceInteroperabiliteLapport2011}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
            family={Bermès},
@@ -228,10 +231,10 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{77th {IFLA} General Conference and Assembly : World Library and Information Congress : Libraries beyond libraries: Integration, Innovation and Information for all}
+      \field{booktitle}{77th {{IFLA General Conference}} and {{Assembly}} : {{World Library}} and {{Information Congress}} : {{Libraries}} beyond Libraries: {{Integration}}, {{Innovation}} and {{Information}} for All}
       \field{day}{13}
       \field{month}{8}
-      \field{title}{Convergence et interopérabilité : l’apport du Web de données}
+      \field{title}{Convergence et Interopérabilité : L’apport Du {{Web}} de Données}
       \field{year}{2011}
       \field{dateera}{ce}
       \true{nocite}
@@ -241,9 +244,9 @@
       \verb{url}
       \verb https://experts.bnf.fr/node/34958
       \endverb
-      \keyw{\_webSemantique,{texThesau},texThesau}
+      \keyw{_webSemantique,texThesau,texThesau}
     \endentry
-    \entry{bermes_vers_2016}{incollection}{}{}
+    \entry{bermesVersNouveauxCatalogues2016}{incollection}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
            family={Bermès},
@@ -290,9 +293,9 @@
       \verb{url}
       \verb https://shs-cairn-info.proxy.chartes.psl.eu/vers-de-nouveaux-catalogues--9782765415138-page-9
       \endverb
-      \keyw{\_outils,\_theorie,{texThesau},texThesau}
+      \keyw{_outils,_theorie,texThesau,texThesau}
     \endentry
-    \entry{bermes_repenser_2025}{inproceedings}{}{}
+    \entry{bermesRepenserCollectionsPatrimoniales2025}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
            family={Bermès},
@@ -322,9 +325,9 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The {TORNE}-H project explores the integration of {AI} in the documentary and scientific processing of museum collections. Focused on the Henrot collection at the musée des Arts décoratifs ({MAD}), it aims to optimize the inventory, indexing, and promotion of artworks through advanced image analysis techniques. Led by {MAD}, the École nationale des chartes, and the {BnF}, the project seeks to rethink human-machine collaboration and develop reproducible processes for other heritage institutions.}
-      \field{booktitle}{Conférence Nationale sur les Applications de l'Intelligence Artificielle}
-      \field{title}{Repenser les collections patrimoniales par le prisme de l'{IA} 2025}
+      \field{abstract}{The TORNE-H project explores the integration of AI in the documentary and scientific processing of museum collections. Focused on the Henrot collection at the musée des Arts décoratifs (MAD), it aims to optimize the inventory, indexing, and promotion of artworks through advanced image analysis techniques. Led by MAD, the École nationale des chartes, and the BnF, the project seeks to rethink human-machine collaboration and develop reproducible processes for other heritage institutions.}
+      \field{booktitle}{Conférence {{Nationale}} Sur Les {{Applications}} de l'{{Intelligence Artificielle}}}
+      \field{title}{Repenser Les Collections Patrimoniales Par Le Prisme de l'{{IA}} 2025}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -332,15 +335,18 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/5KVYEJRS/Bermès et Charpier - 2025 - Repenser les collections patrimoniales par le prisme de l'IA 2025.pdf
+      \endverb
       \verb{urlraw}
       \verb https://hal.science/hal-05138697
       \endverb
       \verb{url}
       \verb https://hal.science/hal-05138697
       \endverb
-      \keyw{Collections patrimoniales,Computer vision,Coopération humain-machine,Heritage collections,Humanmachine cooperation,Museum,Musée,Vision par ordinateur,\_automatisation {IA},\_theorie,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_automatisation IA,_theorie,Collections patrimoniales,Computer vision,Coopération humain-machine,Heritage collections,Humanmachine cooperation,Musée,Museum,texNumeriquePatrimoine,Vision par ordinateur,texNumeriquePatrimoine}
     \endentry
-    \entry{bermes_cas_2013}{article}{}{}
+    \entry{bermesCasLierDonnees2013a}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
            family={Bermès},
@@ -377,7 +383,7 @@
       \field{journaltitle}{Bibliothèques}
       \field{langid}{french}
       \field{shorttitle}{Cas D}
-      \field{title}{Cas D : Lier les données internes avec le {LED}}
+      \field{title}{Cas D : Lier les données internes avec le LED}
       \field{urlday}{19}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -393,9 +399,9 @@
       \verb{url}
       \verb https://shs-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-153
       \endverb
-      \keyw{\_webSemantique,{texThesau},texThesau}
+      \keyw{_webSemantique,texThesau,texThesau}
     \endentry
-    \entry{borges_bibliotheque_2011}{book}{}{}
+    \entry{borgesBibliothequeBabel2011}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=91139531f43939b67ec77b68d4f74acf}{%
            family={Borges},
@@ -431,14 +437,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Ed. du Littéraire}
-      \field{isbn}{{ISSN} 2257-5693}
+      \field{isbn}{ISSN 2257-5693}
+      \field{langid}{fre}
       \field{series}{Fictions}
       \field{title}{La Bibliothèque de Babel}
       \field{year}{2011}
       \field{dateera}{ce}
       \keyw{,reflexions}
     \endentry
-    \entry{bowers_partenariat_2017}{thesis}{}{}
+    \entry{bowersPartenariatEntreBibliotheque2017a}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a483ba2bc894f63ace657f1401b103a}{%
            family={Bowers},
@@ -484,9 +491,9 @@
       \verb{url}
       \verb https://www.enssib.fr/bibliotheque-numerique/documents/67723-le-partenariat-entre-bibliotheque-et-musee-un-dispositif-d-ouverture.pdf
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{brawley-barker_integrating_2016}{article}{}{}
+    \entry{brawley-barkerIntegratingLibraryArchives2016}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f5f6d9506307cf6dec33b9c5f363c90}{%
            family={Brawley-Barker},
@@ -507,13 +514,13 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Download Citation {|} Integrating Library, Archives, and Museum Collections in an Open Source Information Management System: A Case Study at Glenstone {|} In 2012, Glenstone began searching for information management systems for the library, archives, and museum collections. After evaluating... {|} Find, read and cite all the research you need on {ResearchGate}}
+      \field{abstract}{Download Citation | Integrating Library, Archives, and Museum Collections in an Open Source Information Management System: A Case Study at Glenstone | In 2012, Glenstone began searching for information management systems for the library, archives, and museum collections. After evaluating... | Find, read and cite all the research you need on ResearchGate}
       \field{journaltitle}{Art Documentation Journal of the Art Libraries Society of North America}
       \field{langid}{english}
       \field{month}{3}
       \field{number}{35}
-      \field{shorttitle}{Integrating Library, Archives, and Museum Collections in an Open Source Information Management System}
-      \field{title}{Integrating Library, Archives, and Museum Collections in an Open Source Information Management System: A Case Study at Glenstone}
+      \field{shorttitle}{Integrating {{Library}}, {{Archives}}, and {{Museum Collections}} in an {{Open Source Information Management System}}}
+      \field{title}{Integrating {{Library}}, {{Archives}}, and {{Museum Collections}} in an {{Open Source Information Management System}}: {{A Case Study}} at {{Glenstone}}}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -526,15 +533,18 @@
       \verb{doi}
       \verb 10.1086/685979
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/QUQAJJ5Q/301570205_Integrating_Library_Archives_and_Museum_Collections_in_an_Open_Source_Information_Man.html
+      \endverb
       \verb{urlraw}
       \verb https://www.researchgate.net/publication/301570205_Integrating_Library_Archives_and_Museum_Collections_in_an_Open_Source_Information_Management_System_A_Case_Study_at_Glenstone
       \endverb
       \verb{url}
       \verb https://www.researchgate.net/publication/301570205_Integrating_Library_Archives_and_Museum_Collections_in_an_Open_Source_Information_Management_System_A_Case_Study_at_Glenstone
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{tilatti_tresors_nodate}{book}{}{}
+    \entry{champenoisTresorsMuseeLair}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=90adc63746f7791d83722372b0d7cc82}{%
            family={Champenois},
@@ -562,7 +572,7 @@
            given={Christian},
            giveni={C\bibinitperiod}}}%
       }
-      \name{editora}{1}{}{%
+      \name{namea}{1}{}{%
         {{hash=99d81de50e919aaf692c7262d024714a}{%
            family={Arnould},
            familyi={A\bibinitperiod},
@@ -584,23 +594,23 @@
       \strng{editornamehash}{7538308fe50293cb792a7b603b723830}
       \strng{editorfullhash}{7538308fe50293cb792a7b603b723830}
       \strng{editorfullhashraw}{7538308fe50293cb792a7b603b723830}
-      \strng{editorabibnamehash}{99d81de50e919aaf692c7262d024714a}
-      \strng{editoranamehash}{99d81de50e919aaf692c7262d024714a}
-      \strng{editorafullhash}{99d81de50e919aaf692c7262d024714a}
-      \strng{editorafullhashraw}{99d81de50e919aaf692c7262d024714a}
+      \strng{nameabibnamehash}{99d81de50e919aaf692c7262d024714a}
+      \strng{nameanamehash}{99d81de50e919aaf692c7262d024714a}
+      \strng{nameafullhash}{99d81de50e919aaf692c7262d024714a}
+      \strng{nameafullhashraw}{99d81de50e919aaf692c7262d024714a}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Cherche midi}
-      \field{editoratype}{collaborator}
       \field{isbn}{978-2-7491-2989-1}
-      \field{series}{Ciels du monde}
-      \field{title}{Les trésors du Musée de l'air et de l'espace}
+      \field{nameatype}{collaborator}
+      \field{series}{Ciels Du Monde}
+      \field{title}{Les Trésors Du {{Musée}} de l'air et de l'espace}
       \true{nocite}
-      \keyw{\_histoire,{texHistoire},texHistoire}
+      \keyw{_histoire,texHistoire,texHistoire}
     \endentry
-    \entry{chataut_comparative_2024}{misc}{}{}
+    \entry{chatautComparativeStudyDomain2024}{online}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=69ee095ff6a436da7994641a176fc644}{%
            family={Chataut},
@@ -645,9 +655,6 @@
            giveni={E\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {arXiv}%
-      }
       \strng{namehash}{8f55482ad3fa874515a2484b37fd8d9e}
       \strng{fullhash}{11a86cbf99bcac4aa7c44fc7222ce8f4}
       \strng{fullhashraw}{11a86cbf99bcac4aa7c44fc7222ce8f4}
@@ -660,12 +667,13 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Keywords play a crucial role in bridging the gap between human understanding and machine processing of textual data. They are essential to data enrichment because they form the basis for detailed annotations that provide a more insightful and in-depth view of the underlying data. Keyword/domain driven term extraction is a pivotal task in natural language processing, facilitating information retrieval, document summarization, and content categorization. This review focuses on keyword extraction methods, emphasizing the use of three major Large Language Models({LLMs}): Llama2-7B, {GPT}-3.5, and Falcon-7B. We employed a custom Python package to interface with these {LLMs}, simplifying keyword extraction. Our study, utilizing the Inspec and {PubMed} datasets, evaluates the performance of these models. The Jaccard similarity index was used for assessment, yielding scores of 0.64 (Inspec) and 0.21 ({PubMed}) for {GPT}-3.5, 0.40 and 0.17 for Llama2-7B, and 0.23 and 0.12 for Falcon-7B. This paper underlines the role of prompt engineering in {LLMs} for better keyword extraction and discusses the impact of hallucination in {LLMs} on result evaluation. It also sheds light on the challenges in using {LLMs} for keyword extraction, including model complexity, resource demands, and optimization techniques.}
+      \field{abstract}{Keywords play a crucial role in bridging the gap between human understanding and machine processing of textual data. They are essential to data enrichment because they form the basis for detailed annotations that provide a more insightful and in-depth view of the underlying data. Keyword/domain driven term extraction is a pivotal task in natural language processing, facilitating information retrieval, document summarization, and content categorization. This review focuses on keyword extraction methods, emphasizing the use of three major Large Language Models(LLMs): Llama2-7B, GPT-3.5, and Falcon-7B. We employed a custom Python package to interface with these LLMs, simplifying keyword extraction. Our study, utilizing the Inspec and PubMed datasets, evaluates the performance of these models. The Jaccard similarity index was used for assessment, yielding scores of 0.64 (Inspec) and 0.21 (PubMed) for GPT-3.5, 0.40 and 0.17 for Llama2-7B, and 0.23 and 0.12 for Falcon-7B. This paper underlines the role of prompt engineering in LLMs for better keyword extraction and discusses the impact of hallucination in LLMs on result evaluation. It also sheds light on the challenges in using LLMs for keyword extraction, including model complexity, resource demands, and optimization techniques.}
       \field{day}{2}
-      \field{eprinttype}{arxiv}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arXiv}
       \field{month}{4}
-      \field{number}{{arXiv}:2404.02330}
-      \field{title}{Comparative Study of Domain Driven Terms Extraction Using Large Language Models}
+      \field{pubstate}{prepublished}
+      \field{title}{Comparative {{Study}} of {{Domain Driven Terms Extraction Using Large Language Models}}}
       \field{urlday}{13}
       \field{urlmonth}{6}
       \field{urlyear}{2025}
@@ -677,7 +685,7 @@
       \verb 10.48550/arXiv.2404.02330
       \endverb
       \verb{eprint}
-      \verb 2404.02330 [cs]
+      \verb 2404.02330
       \endverb
       \verb{urlraw}
       \verb http://arxiv.org/abs/2404.02330
@@ -685,9 +693,9 @@
       \verb{url}
       \verb http://arxiv.org/abs/2404.02330
       \endverb
-      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language,\_automatisation {IA},\_exemple,\_outils,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_automatisation IA,_exemple,_outils,Computer Science - Artificial Intelligence,Computer Science - Computation and Language,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{cher_taking_2019}{inproceedings}{}{}
+    \entry{cherTakingContentDiscovery2019}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e3f89a6e82b346a458e87b5daf182c39}{%
            family={Cher},
@@ -711,10 +719,10 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{This paper discusses four major projects undertaken by the National Library Board ({NLB}) to implement content discovery solutions that enhance discovery and accessibility to digitised archived content such as geo-referenced maps, photographs and audio-visual recordings. This paper falls under the “Libraries, archives and museums in dialogue: Improving access to complementary collections” topic. In November 2012, {NLB}’s role expanded beyond offering library collections when the National Archives of Singapore became an institution of {NLB}. Besides inheriting a treasure trove of primary research material about Singapore government’s corporate memory, public and private records, its role expanded to include collection, preservation and management of those collections. First, {NLB} had to consolidate the vast collections across its libraries and the archives to offer a unified research experience. A cross functional team consisting of content specialists and technologists was formed. The team’s first priority was to harmonise content. The Archives uses {ISAD}-G (General International Standard Archival Description) to describe archival records while {NLB} uses Dublin Core standard to describe its library collection. Harmonisation is needed to enable a common search interface that offers normalised search results and relevant facets to refine search results. This paper will cover the harmonisation process as well as the user research studies to ensure that the labels speak the users’ language, with words, phrases and concepts that are familiar to the users. Second, having built a common foundation through the data harmonisation project, {NLB} developed new digital research services. One notable example is Spatial Discovery, a platform that allows researchers to search and discover maps from the libraries and archives. The maps are geo-referenced so that researchers can accurately trace the changing landscapes. Beyond {NLB}, the harmonisation project’s outputs have benefitted other local institutions in the cultural heritage business. The National Heritage Board and National Gallery of Singapore were able to leverage the common standards through knowledge and technology sharing via content partnership. Third, the paper will discuss the {NLB}’s recent experience in leveraging Linked Data and Machine Learning to improve content discovery and access. A common researcher’s feedback is difficulties in drawing linkages between articles with other content. To address the problem, text analysis was used to surface complementary content relevant to the research topic. A linked data feature was also launched to help researchers see the relationships of entities mentioned in the piece of content. Researchers are now able to quickly find out more about the events, personalities and places mentioned. Finally, beyond employing technologies for content discovery, {NLB} has also used Machine Learning to aid content description. Entity extraction technology was used to geo-tag one million digitised photographs so that they could be delivered on a map view. If done manually, it would be a massive undertaking. The {NLB} is currently in the midst of building its image recognition model to describe its image-based content. When completed, it would be able to assist staff in building metadata by detecting faces and places within images.}
-      \field{eventtitle}{Libraries, Archives and Museums in Dialogue. Art Libraries Section in collaboration with the Subject Analysis and Access Section}
-      \field{shorttitle}{Taking on the content discovery challenge}
-      \field{title}{Taking on the content discovery challenge: The {NLB} Case Study}
+      \field{abstract}{This paper discusses four major projects undertaken by the National Library Board (NLB) to implement content discovery solutions that enhance discovery and accessibility to digitised archived content such as geo-referenced maps, photographs and audio-visual recordings. This paper falls under the “Libraries, archives and museums in dialogue: Improving access to complementary collections” topic. In November 2012, NLB’s role expanded beyond offering library collections when the National Archives of Singapore became an institution of NLB. Besides inheriting a treasure trove of primary research material about Singapore government’s corporate memory, public and private records, its role expanded to include collection, preservation and management of those collections. First, NLB had to consolidate the vast collections across its libraries and the archives to offer a unified research experience. A cross functional team consisting of content specialists and technologists was formed. The team’s first priority was to harmonise content. The Archives uses ISAD-G (General International Standard Archival Description) to describe archival records while NLB uses Dublin Core standard to describe its library collection. Harmonisation is needed to enable a common search interface that offers normalised search results and relevant facets to refine search results. This paper will cover the harmonisation process as well as the user research studies to ensure that the labels speak the users’ language, with words, phrases and concepts that are familiar to the users. Second, having built a common foundation through the data harmonisation project, NLB developed new digital research services. One notable example is Spatial Discovery, a platform that allows researchers to search and discover maps from the libraries and archives. The maps are geo-referenced so that researchers can accurately trace the changing landscapes. Beyond NLB, the harmonisation project’s outputs have benefitted other local institutions in the cultural heritage business. The National Heritage Board and National Gallery of Singapore were able to leverage the common standards through knowledge and technology sharing via content partnership. Third, the paper will discuss the NLB’s recent experience in leveraging Linked Data and Machine Learning to improve content discovery and access. A common researcher’s feedback is difficulties in drawing linkages between articles with other content. To address the problem, text analysis was used to surface complementary content relevant to the research topic. A linked data feature was also launched to help researchers see the relationships of entities mentioned in the piece of content. Researchers are now able to quickly find out more about the events, personalities and places mentioned. Finally, beyond employing technologies for content discovery, NLB has also used Machine Learning to aid content description. Entity extraction technology was used to geo-tag one million digitised photographs so that they could be delivered on a map view. If done manually, it would be a massive undertaking. The NLB is currently in the midst of building its image recognition model to describe its image-based content. When completed, it would be able to assist staff in building metadata by detecting faces and places within images.}
+      \field{eventtitle}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
+      \field{shorttitle}{Taking on the Content Discovery Challenge}
+      \field{title}{Taking on the Content Discovery Challenge: {{The NLB Case Study}}}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -722,15 +730,18 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7FGWIC5D/2494.html
+      \endverb
       \verb{urlraw}
       \verb https://library.ifla.org/id/eprint/2494/
       \endverb
       \verb{url}
       \verb https://library.ifla.org/id/eprint/2494/
       \endverb
-      \keyw{\_data,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_data,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{chichereau_normes_2007}{article}{}{}
+    \entry{chichereauNormesConceptionGestion2007}{article}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=b93f5d2a7d30cba7f60d3809f9ae3850}{%
            family={Chichereau},
@@ -800,6 +811,7 @@
       \field{year}{2007}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{66\bibrangedash 74}
       \range{pages}{9}
       \verb{doi}
@@ -811,9 +823,9 @@
       \verb{url}
       \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-66
       \endverb
-      \keyw{\_normalisation,\_theorie,{texThesau},texThesau}
+      \keyw{_normalisation,_theorie,texThesau,texThesau}
     \endentry
-    \entry{clergeau_reseau_2015}{article}{}{}
+    \entry{clergeauReseauArchivesMusees2015a}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2b8eb8068c0316de0d10003f85706587}{%
            family={Clergeau},
@@ -861,9 +873,9 @@
       \verb{url}
       \verb https://shs.cairn.info/revue-i2d-information-donnees-et-documents-2015-3-page-39
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_collaborationBibArchMusee,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{collectif_musee_2023}{book}{}{}
+    \entry{collectifMuseeLairLespace2023}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=12ca05637c4ddee2523f1218bdb7cd93}{%
            family={{Collectif}},
@@ -887,7 +899,8 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{isbn}{9782757708606}
+      \field{isbn}{978-2-7577-0860-6}
+      \field{langid}{fre}
       \field{pagetotal}{64}
       \field{series}{Itinéraires}
       \field{shorttitle}{Le musée de l'air et de l'espace}
@@ -895,9 +908,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{\_histoire,{texHistoire},texHistoire}
+      \keyw{_histoire,texHistoire,texHistoire}
     \endentry
-    \entry{comite_interministeriel_aux_archives_de_france_referentiel_nodate}{misc}{}{}
+    \entry{comiteinterministerielauxarchivesdefranceReferentielGeneralGestion}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c85287c180306e7946e46e45641e7a46}{%
            family={{Comité interministériel aux Archives de France}},
@@ -922,15 +935,18 @@
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/PLSWPAK6/Référentiel général de gestion des archives (R2GA).pdf
+      \endverb
       \verb{urlraw}
       \verb https://francearchives.gouv.fr/fr/circulaire/R2GA_2013_10
       \endverb
       \verb{url}
       \verb https://francearchives.gouv.fr/fr/circulaire/R2GA_2013_10
       \endverb
-      \keyw{\_normalisation,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{eggleston_not_2019}{inproceedings}{}{}
+    \entry{egglestonNotJustArt2019}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=06c8dd0f0085d08d190d9da6277b6f70}{%
            family={Eggleston},
@@ -956,20 +972,26 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Established in 1871, the Art Gallery of New South Wales in Sydney is one of the oldest public art museums in Australia. Alongside a collection of 32,000 art works, the gallery also holds over four hundred art archives (the largest collection in Australia), an extensive visual arts library and a vast collection of visual documentation of Australian art making.}
       \field{day}{28}
-      \field{eventtitle}{Libraries, Archives and Museums in Dialogue. Art Libraries Section in collaboration with the Subject Analysis and Access Section}
+      \field{eventtitle}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
       \field{langid}{english}
       \field{month}{6}
-      \field{title}{Not just art: the challenges and successes of integrating archival, library and image collections into an art focused collection management system}
+      \field{title}{Not Just Art: The Challenges and Successes of Integrating Archival, Library and Image Collections into an Art Focused Collection Management System}
       \field{year}{2019}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/TMS9ZEZJ/Eggleston - Not just art the challenges and successes of integrating archival, library and image collections in.pdf
+      \endverb
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{filabes_lindexation_2025}{online}{}{}
+    \entry{filabesLindexationRAMEAUAssistee2025}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3d4b112a52dd2606f5b0cea25c37403d}{%
            family={{filabes}},
            familyi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {FIL'ABES}%
       }
       \strng{namehash}{3d4b112a52dd2606f5b0cea25c37403d}
       \strng{fullhash}{3d4b112a52dd2606f5b0cea25c37403d}
@@ -983,13 +1005,16 @@
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Un service innovant testé par 81 bibliothécaires À l’issue d’une expérimentation conduite entre octobre 2024 et janvier 2025, l’Abes publie le rapport « Indexation  {RAMEAU} assistée par {IA} ». Ce document présente les enseignements tirés de l’évaluation d’un service d’indexation automatique des sujets {RAMEAU}, développé par le Labo et évalué au sein de l’Abes, puis testé par […]}
+      \field{abstract}{Un service innovant testé par 81 bibliothécaires À l’issue d’une expérimentation conduite entre octobre 2024 et janvier 2025, l’Abes publie le rapport «~Indexation~ RAMEAU assistée par IA~». Ce document présente les enseignements tirés de l’évaluation d’un service d’indexation automatique des sujets RAMEAU, développé par le Labo et évalué au sein de l’Abes, puis testé par […]}
       \field{day}{10}
+      \field{hour}{13}
       \field{langid}{french}
+      \field{minute}{19}
       \field{month}{4}
-      \field{shorttitle}{L’indexation {RAMEAU} assistée par {IA}}
-      \field{title}{L’indexation {RAMEAU} assistée par {IA} : retour sur une expérimentation prometteuse}
-      \field{titleaddon}{{FIL}'{ABES}}
+      \field{second}{56}
+      \field{shorttitle}{L’indexation RAMEAU assistée par IA}
+      \field{timezone}{Z}
+      \field{title}{L’indexation RAMEAU assistée par IA : retour sur une expérimentation prometteuse}
       \field{urlday}{11}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1003,9 +1028,9 @@
       \verb{url}
       \verb https://fil.abes.fr/2025/04/10/lindexation-rameau-assistee-par-ia-retour-sur-une-experimentation-prometteuse/
       \endverb
-      \keyw{\_automatisation {IA},\_exemple,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_automatisation IA,_exemple,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{francart_vocabulaires_2018}{online}{}{}
+    \entry{francartVocabulairesDansWeb2018}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=44d317899d2d143bbcf3b71712e35a48}{%
            family={Francart},
@@ -1013,6 +1038,9 @@
            given={Thomas},
            giveni={T\bibinitperiod},
            givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Sparna Blog}%
       }
       \strng{namehash}{44d317899d2d143bbcf3b71712e35a48}
       \strng{fullhash}{44d317899d2d143bbcf3b71712e35a48}
@@ -1026,13 +1054,16 @@
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Je travaille régulièrement sur des projets de gestion et/ou de mise en ligne de vocabulaires (thesaurus, taxonomies) en {SKOS} : pour l’{UNESCO} – voir le précédent billet -, l’{INED} (thesaurus Popin), le Luxembourg, l’{IRSTEA} ou le Réseau Canopé (vocabulaire {ScolomFr}). Ces projets sont réalisés en utilisant de l’open-source sur toute la chaîne, depuis le back-office…}
+      \field{abstract}{Je travaille régulièrement sur des projets de gestion et/ou de mise en ligne de vocabulaires (thesaurus, taxonomies) en SKOS : pour l’UNESCO – voir le précédent billet -, l’INED (thesaurus Popin), le Luxembourg, l’IRSTEA ou le Réseau Canopé (vocabulaire ScolomFr). Ces projets sont réalisés en utilisant de l’open-source sur toute la chaîne, depuis le back-office…}
       \field{day}{23}
+      \field{hour}{11}
       \field{langid}{french}
+      \field{minute}{43}
       \field{month}{1}
+      \field{second}{8}
       \field{shorttitle}{Vocabulaires dans le web de données}
+      \field{timezone}{Z}
       \field{title}{Vocabulaires dans le web de données : quels outils open-source ?}
-      \field{titleaddon}{Sparna Blog}
       \field{urlday}{15}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -1046,9 +1077,9 @@
       \verb{url}
       \verb https://blog.sparna.fr/2018/01/23/vocabulaires-thesaurus-web-donnees-skos-open-source/
       \endverb
-      \keyw{\_outils,\_webSemantique,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_outils,_webSemantique,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{gartner_archives_2019}{inproceedings}{}{}
+    \entry{gartnerArchivesMuseumsLibraries2019}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=aa0aaa1773ea9305eb745fa4901d0b83}{%
            family={Gartner},
@@ -1080,22 +1111,25 @@
       \field{labeltitlesource}{title}
       \field{abstract}{To overcome impediments to access for the rich collections held in cultural heritage institutions, some alignment of metadata standards and a consequent enhancement of interoperability are essential. The three sectors in which much of our cultural heritage is to be found, libraries, archives and museums, each employ different approaches to metadata which make interoperability between them, and consequently between the constituencies and communities within which they were defined, difficult to achieve.}
       \field{day}{28}
-      \field{eventtitle}{Libraries, Archives and Museums in Dialogue. Art Libraries Section in collaboration with the Subject Analysis and Access Section}
+      \field{eventtitle}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
       \field{langid}{english}
       \field{month}{6}
-      \field{title}{Archives, museums and libraries: breaking the metadata silos}
+      \field{title}{Archives, Museums and Libraries: Breaking the Metadata Silos}
       \field{year}{2019}
       \field{dateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/TIPSK9GS/Gartner et Mouren - Archives, museums and libraries breaking the metadata silos.pdf
+      \endverb
       \verb{urlraw}
       \verb https://library.ifla.org/id/eprint/2495/1/206-gartner-en.pdf
       \endverb
       \verb{url}
       \verb https://library.ifla.org/id/eprint/2495/1/206-gartner-en.pdf
       \endverb
-      \keyw{\_collaborationBibArchMusee,\_data,\_webSemantique,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,_data,_webSemantique,texCollab,texCollab}
     \endentry
-    \entry{gautier_partenariats_2023}{online}{}{}
+    \entry{gautierPartenariatsCooperationsPour2023}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ba558d86770ba3b5f3d0ee7087a4067e}{%
            family={Gautier},
@@ -1103,6 +1137,9 @@
            given={Catherine},
            giveni={C\bibinitperiod},
            givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Wikiterritorial}%
       }
       \strng{namehash}{ba558d86770ba3b5f3d0ee7087a4067e}
       \strng{fullhash}{ba558d86770ba3b5f3d0ee7087a4067e}
@@ -1121,7 +1158,6 @@
       \field{langid}{french}
       \field{month}{5}
       \field{title}{Les partenariats et les coopérations pour les musées}
-      \field{titleaddon}{Wikiterritorial}
       \field{urlday}{21}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -1135,9 +1171,9 @@
       \verb{url}
       \verb https://encyclopedie.wikiterritorial.cnfpt.fr/xwiki/bin/view/fiches/Les%20partenariats%20et%20les%20coop%C3%A9rations%20pour%20les%20mus%C3%A9es/
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{gaydon_gaydon_2020}{thesis}{}{}
+    \entry{gaydonGaydonCharleneMusee2020b}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f924cd8860f6bf874a4e2a26ed5db939}{%
            family={Gaydon},
@@ -1167,8 +1203,7 @@
       \field{day}{9}
       \field{month}{3}
       \field{pagetotal}{150}
-      \field{title}{Gaydon, Charlène. Du musée traditionnel au Musée du {XXIe} siècle, la transformation numérique de l’institution : le cas des musées lyonnais.}
-      \field{type}{phdthesis}
+      \field{title}{Gaydon, {{Charlène}}. {{Du}} Musée Traditionnel Au {{Musée}} Du {{XXIe}} Siècle, La Transformation Numérique de l’institution : Le Cas Des Musées Lyonnais.}
       \field{urlday}{20}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -1182,9 +1217,9 @@
       \verb{url}
       \verb https://www.enssib.fr/bibliotheque-numerique/documents/69395-du-musee-traditionnel-au-musee-du-xxie-siecle-la-transformation-numerique-de-l-institution.pdf
       \endverb
-      \keyw{{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{griveau_nouveaux_2025}{online}{}{}
+    \entry{griveauNouveauxCataloguesNouvelles2025}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a6d18d049e0f89614a8f959961bf093}{%
            family={Griveau},
@@ -1192,6 +1227,9 @@
            given={Maxime},
            giveni={M\bibinitperiod},
            givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Vous ne regardez pas assez les images}%
       }
       \strng{namehash}{2a6d18d049e0f89614a8f959961bf093}
       \strng{fullhash}{2a6d18d049e0f89614a8f959961bf093}
@@ -1205,13 +1243,16 @@
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Les interfaces : nouvelles architectures ? 2100, France, la Bibliothèque nationale vient d’achever la numérisation de l’entièreté de sa collection. Le site François-Mitterrand, reflet de « l’utopie…}
+      \field{abstract}{Les interfaces : nouvelles architectures ? 2100, France, la Bibliothèque nationale vient d’achever la numérisation de l’entièreté de sa collection. Le site François-Mitterrand, reflet de «\,l’utopie…}
       \field{day}{17}
+      \field{hour}{17}
       \field{langid}{french}
+      \field{minute}{22}
       \field{month}{5}
+      \field{second}{10}
       \field{shorttitle}{Nouveaux catalogues}
+      \field{timezone}{Z}
       \field{title}{Nouveaux catalogues : nouvelles interfaces, nouveaux usages}
-      \field{titleaddon}{Vous ne regardez pas assez les images}
       \field{urlday}{20}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -1225,9 +1266,9 @@
       \verb{url}
       \verb https://vousneregardezpasassezlesimages.fr/2025/05/17/nouveaux-catalogues-nouvelles-interfaces-nouveaux-usages/
       \endverb
-      \keyw{\_outils,{texThesau},texThesau}
+      \keyw{_outils,texThesau,texThesau}
     \endentry
-    \entry{heberlein_flipside_2019}{inproceedings}{}{}
+    \entry{heberleinFlipsideWikidataCultural2019}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=29fef1ea9d6dd05a1bab05b736817ab0}{%
            family={Heberlein},
@@ -1251,18 +1292,21 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper reports on an ongoing project at Princeton University Library to model numismatic descriptive metadata using {FRBR}-oo and Wikidata. Wikidata’s lack of cardinality constraints makes it unsuitable as a standalone data model for cultural heritage description but leaves it unrivaled as point of convergence for data from different vocabularies and ontologies. Conversely, {FRBR}-oo’s eventbased approach positions it uniquely to model a complete set of data points relating to descriptive objects’ creation, administrative life cycle, and relationships transcending custodial contexts, but faces implementation challenges owing to its complexity. Using the example of numismatic description, we argue that when deployed in conjunction with one another, the descriptive rigor of {FRBR}-oo mapped to Wikidata and serviced using the Wikibase technology form a production-ready platform for {GLAM} descriptive metadata.}
+      \field{abstract}{This paper reports on an ongoing project at Princeton University Library to model numismatic descriptive metadata using FRBR-oo and Wikidata. Wikidata’s lack of cardinality constraints makes it unsuitable as a standalone data model for cultural heritage description but leaves it unrivaled as point of convergence for data from different vocabularies and ontologies. Conversely, FRBR-oo’s eventbased approach positions it uniquely to model a complete set of data points relating to descriptive objects’ creation, administrative life cycle, and relationships transcending custodial contexts, but faces implementation challenges owing to its complexity. Using the example of numismatic description, we argue that when deployed in conjunction with one another, the descriptive rigor of FRBR-oo mapped to Wikidata and serviced using the Wikibase technology form a production-ready platform for GLAM descriptive metadata.}
       \field{day}{28}
-      \field{eventtitle}{Libraries, Archives and Museums in Dialogue. Art Libraries Section in collaboration with the Subject Analysis and Access Section}
+      \field{eventtitle}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
       \field{langid}{english}
       \field{month}{6}
-      \field{title}{On the Flipside: Wikidata for Cultural Heritage Metadata through the Example of Numismatic Description}
+      \field{title}{On the {{Flipside}}: {{Wikidata}} for {{Cultural Heritage Metadata}} through the {{Example}} of {{Numismatic Description}}}
       \field{year}{2019}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{\_data,\_webSemantique,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/PWXAE35R/Heberlein - On the Flipside Wikidata for Cultural Heritage Metadata through the Example of Numismatic Descripti.pdf
+      \endverb
+      \keyw{_data,_webSemantique,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{hudon_iso_2012}{article}{}{}
+    \entry{hudonISO25964Pour2012a}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8e3e15ab23503fdc46e3162b0547f85f}{%
            family={Hudon},
@@ -1283,14 +1327,14 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Description du contexte au sein duquel la norme {ISO} 25964 Thésaurus et interopérabilité avec les autres vocabulaires a été conçue et élaborée. Présentation de la structure de la norme. Évocation de l’impact potentiel de cette norme sur l’interopérabilité sémantique des systèmes et sur la recherche d’information.}
+      \field{abstract}{Description du contexte au sein duquel la norme ISO 25964 Thésaurus et interopérabilité avec les autres vocabulaires a été conçue et élaborée. Présentation de la structure de la norme. Évocation de l’impact potentiel de cette norme sur l’interopérabilité sémantique des systèmes et sur la recherche d’information.}
       \field{issn}{0315-2340, 2291-8949}
       \field{journaltitle}{Documentation et bibliothèques}
       \field{langid}{french}
       \field{number}{3}
       \field{shortjournal}{documentation}
-      \field{shorttitle}{{ISO} 25964}
-      \field{title}{{ISO} 25964 : pour le développement, la gestion et l’interopérabilité des langages documentaires}
+      \field{shorttitle}{ISO 25964}
+      \field{title}{ISO 25964 : pour le développement, la gestion et l’interopérabilité des langages documentaires}
       \field{urlday}{26}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -1310,9 +1354,9 @@
       \verb{url}
       \verb https://www.erudit.org/fr/revues/documentation/2012-v58-n3-documentation01721/1028903ar/
       \endverb
-      \keyw{\_THESAUgestion,\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,_THESAUgestion,texThesau,texThesau}
     \endentry
-    \entry{igoshina_bringing_2019}{inproceedings}{}{}
+    \entry{igoshinaBringingLibraryMuseum2019}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d3eceb1ceff1bbe8315da046e7d4080a}{%
            family={Igoshina},
@@ -1342,10 +1386,10 @@
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{A few years ago at the Pushkin State Museum of Fine Arts Research Library we began a long-term digitalization program of the most valuable and/or fragile parts of our book collection. For a start, we decided to divide this process into a number of smaller programs, each dedicated to a different collection. One of our first and obvious choices to digitize (and thus make visible and fully accessible) was the collection of our museum’s founder and first director Ivan Tsvetaev (1847-1913), that consists of more than 850 volumes and vividly highlights his scientific interests, academic ties and hobbies. While digitizing Tsvetaev’s books we discovered quite a large number of dedicatory inscriptions (nearly 250) — a very useful complementary source of information on scientific and civil circle of our founder. All the inscriptions were scanned, decoded and translated into Russian, where necessary. Each of the inscription images was also enriched with brief biographies of the inscriptions’ authors (donators). First of all (and that was the most obvious step) we joined our various digital resources into a common semantic space — a digital collection — using available technical tools that were in our disposal. By compiling descriptions of all units related to the collection in our catalog and linking them with our unified authority data system (such as subject and name indexes), we managed to create a very comfortable in use semantic fragment, that better describes Ivan Tvetaev’s personality and the history of our museum’s creation through the prism of his personal interests and professional contacts. Then we started contemplating the way of possible connection of this collection to other complementary museum resources, that are kept in other departments and described in other {IT}-systems. One of the possible approaches to bring all these uncoordinated sources together is applying artificial intelligence technology. We found this way intriguing and rather promising. Our paper is aimed to explain the possible way of data relationship to design a dialogue between the voice assistant and the user while searching through library, museum, and possibly external resources (based on the example of a certain digital collection).}
-      \field{eventtitle}{Libraries, Archives and Museums in Dialogue. Art Libraries Section in collaboration with the Subject Analysis and Access Section}
-      \field{shorttitle}{Bringing Library and Museum Resources Together}
-      \field{title}{Bringing Library and Museum Resources Together: How Can Artificial Intelligence Help (based on the Ivan Tsvetaev’s Book Collection Project)?}
+      \field{abstract}{A few years ago at the Pushkin State Museum of Fine Arts Research Library we began a long-term digitalization program of the most valuable and/or fragile parts of our book collection. For a start, we decided to divide this process into a number of smaller programs, each dedicated to a different collection. One of our first and obvious choices to digitize (and thus make visible and fully accessible) was the collection of our museum’s founder and first director Ivan Tsvetaev (1847-1913), that consists of more than 850 volumes and vividly highlights his scientific interests, academic ties and hobbies. While digitizing Tsvetaev’s books we discovered quite a large number of dedicatory inscriptions (nearly 250) — a very useful complementary source of information on scientific and civil circle of our founder. All the inscriptions were scanned, decoded and translated into Russian, where necessary. Each of the inscription images was also enriched with brief biographies of the inscriptions’ authors (donators). First of all (and that was the most obvious step) we joined our various digital resources into a common semantic space — a digital collection — using available technical tools that were in our disposal. By compiling descriptions of all units related to the collection in our catalog and linking them with our unified authority data system (such as subject and name indexes), we managed to create a very comfortable in use semantic fragment, that better describes Ivan Tvetaev’s personality and the history of our museum’s creation through the prism of his personal interests and professional contacts. Then we started contemplating the way of possible connection of this collection to other complementary museum resources, that are kept in other departments and described in other IT-systems. One of the possible approaches to bring all these uncoordinated sources together is applying artificial intelligence technology. We found this way intriguing and rather promising. Our paper is aimed to explain the possible way of data relationship to design a dialogue between the voice assistant and the user while searching through library, museum, and possibly external resources (based on the example of a certain digital collection).}
+      \field{eventtitle}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
+      \field{shorttitle}{Bringing {{Library}} and {{Museum Resources Together}}}
+      \field{title}{Bringing {{Library}} and {{Museum Resources Together}}: {{How Can Artificial Intelligence Help}} (Based on the {{Ivan Tsvetaev}}’s {{Book Collection Project}})?}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -1353,15 +1397,18 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/NR5342BI/Igoshina et Dubrovskaya - 2017 - Bringing Library and Museum Resources Together How Can Artificial Intelligence Help (based on the I.pdf;/home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/M84GEW54/2490.html
+      \endverb
       \verb{urlraw}
       \verb https://library.ifla.org/id/eprint/2490/
       \endverb
       \verb{url}
       \verb https://library.ifla.org/id/eprint/2490/
       \endverb
-      \keyw{\_automatisation {IA},\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_automatisation IA,_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{keller_encadrer_2013}{thesis}{}{}
+    \entry{kellerEncadrerReingenierieDun2013}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=67d5a62d43131e3d8a0627e4e610d049}{%
            family={Keller},
@@ -1371,7 +1418,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {Institut national des techniques de la documentation du {CNAM}}%
+        {Institut national des techniques de la documentation du CNAM}%
       }
       \strng{namehash}{67d5a62d43131e3d8a0627e4e610d049}
       \strng{fullhash}{67d5a62d43131e3d8a0627e4e610d049}
@@ -1385,13 +1432,12 @@
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{L'auteur de ce mémoire présente une mission de réingénierie de thesaurus documentaire spécialisé, réalisée pour le service Veille et documentation du groupe bancaire {BPCE}. Après avoir présenté la nouvelle norme {ISO} 25964 sur les thesauri et ses principaux apports, elle examine les spécificités d'un thesaurus spécialisé et sa place dans l'entreprise. L'objet central de ce mémoire est de fournir des clés méthodologiques pour la gestion de projets de ce type et d'analyser l'impact en termes de montée en compétences pour les documentalistes impliquées et pour le management. Pour conclure, l'auteur s'intéresse aux implications de la seconde partie de la norme, portant sur l'interopérabilité entre les vocabulaires dans le contexte du Web sémantique, et les opportunités d'applications en entreprise.}
+      \field{abstract}{L'auteur de ce mémoire présente une mission de réingénierie de thesaurus documentaire spécialisé, réalisée pour le service Veille et documentation du groupe bancaire BPCE. Après avoir présenté la nouvelle norme ISO 25964 sur les thesauri et ses principaux apports, elle examine les spécificités d'un thesaurus spécialisé et sa place dans l'entreprise. L'objet central de ce mémoire est de fournir des clés méthodologiques pour la gestion de projets de ce type et d'analyser l'impact en termes de montée en compétences pour les documentalistes impliquées et pour le management. Pour conclure, l'auteur s'intéresse aux implications de la seconde partie de la norme, portant sur l'interopérabilité entre les vocabulaires dans le contexte du Web sémantique, et les opportunités d'applications en entreprise.}
       \field{day}{26}
       \field{langid}{french}
       \field{month}{11}
       \field{shorttitle}{Encadrer la réingénierie d'un thesaurus}
       \field{title}{Encadrer la réingénierie d'un thesaurus : méthode, enjeux et impacts pour l'équipe d'un service de veille et documentation en entreprise}
-      \field{type}{phdthesis}
       \field{urlday}{22}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -1405,9 +1451,9 @@
       \verb{url}
       \verb https://memsic.ccsd.cnrs.fr/mem_00945542
       \endverb
-      \keyw{\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{kister_fusion_2009}{inproceedings}{}{}
+    \entry{kisterFusionDunThesaurus2009}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=94eefbbbe8fb3aa6634efd04be2f37e8}{%
            family={Kister},
@@ -1440,9 +1486,9 @@
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{{PDF} {|} Résumé : Cet article porte sur l'enrichissement d'un thesaurus par une terminologie extraite d'un dictionnaire. Le thesaurus est structuré tandis... {|} Find, read and cite all the research you need on {ResearchGate}}
-      \field{booktitle}{{ResearchGate}}
-      \field{eventtitle}{{TIA}}
+      \field{abstract}{PDF | Résumé : Cet article porte sur l'enrichissement d'un thesaurus par une terminologie extraite d'un dictionnaire. Le thesaurus est structuré tandis... | Find, read and cite all the research you need on ResearchGate}
+      \field{booktitle}{ResearchGate}
+      \field{eventtitle}{TIA}
       \field{langid}{french}
       \field{month}{11}
       \field{shorttitle}{Fusion d'un thesaurus et d'une terminologie}
@@ -1460,9 +1506,9 @@
       \verb{url}
       \verb https://www.researchgate.net/publication/261146208_Fusion_d'un_thesaurus_et_d'une_terminologie_utilisation_de_ressources_existantes_pour_amorcer_une_onto-terminologie
       \endverb
-      \keyw{\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{noauthor_cooperation_2013}{online}{}{}
+    \entry{CooperationBibliothequesarchivesmuseesSi2013a}{online}{}{}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labeltitlesource}{title}
@@ -1483,9 +1529,9 @@
       \verb{url}
       \verb https://journaldunarchiviste.fr/2013/12/09/la-cooperation-bibliotheques-archives-musees-et-plus-si-affinites/
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{lenart_skos_2007}{article}{}{}
+    \entry{lenartSKOSLangageRepresentation2007}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2568e79b66c014891334ffd023779cb9}{%
            family={Lénart},
@@ -1510,7 +1556,7 @@
       \field{journaltitle}{Documentaliste-Sciences de l'Information}
       \field{langid}{french}
       \field{number}{1}
-      \field{title}{{SKOS}, un langage de représentation de schémas de concepts}
+      \field{title}{SKOS, un langage de représentation de schémas de concepts}
       \field{urlday}{18}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1530,9 +1576,9 @@
       \verb{url}
       \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-75
       \endverb
-      \keyw{\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{levar_wegner_metadata_2019}{inproceedings}{}{}
+    \entry{levarwegnerMetadataObscuraRefocusing2019}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=50a9d6c97470e5b410db0918be0da27a}{%
            family={Levar\bibnamedelima Wegner},
@@ -1563,9 +1609,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Art librarians in academic libraries often rely on generalists in metadata and digital collections departments to accurately describe visual collections. When these partnerships are successful, students and researchers in art disciplines can use their subject training to discover and contextualize visual resources. However, art researchers may experience disruption and disconnection in their research when they encounter visual collections that were digitized without proper attention to disciplinary expectations. This is especially important in academic libraries, whose primary mission is to support students and faculty, and where university users are inherently subject specific in their research. This paper discusses the decisions and workflows implemented to revise a popular digital collection of 19th and 20th-century trade cards held at the Walter Havighurst Special Collections at Miami University. By aligning subject metadata with the methodologies of art history, librarians improved the accessibility and discoverability of these visual materials for art researchers.}
-      \field{eventtitle}{Libraries, Archives and Museums in Dialogue. Art Libraries Section in collaboration with the Subject Analysis and Access Section}
-      \field{shorttitle}{Metadata Obscura}
-      \field{title}{Metadata Obscura: Refocusing digital collections through the lens of art history}
+      \field{eventtitle}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
+      \field{shorttitle}{Metadata {{Obscura}}}
+      \field{title}{Metadata {{Obscura}}: {{Refocusing}} Digital Collections through the Lens of Art History}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -1573,36 +1619,42 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/T3J6IYZS/Levar Wegner et Hilles - 2017 - Metadata Obscura Refocusing digital collections through the lens of art history.pdf;/home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/5JH7SKZW/2491.html
+      \endverb
       \verb{urlraw}
       \verb https://library.ifla.org/id/eprint/2491/
       \endverb
       \verb{url}
       \verb https://library.ifla.org/id/eprint/2491/
       \endverb
-      \keyw{\_data,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_data,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{noauthor_libraries_nodate}{inproceedings}{}{}
+    \entry{LibrariesArchivesMuseums}{inproceedings}{}{}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labeltitlesource}{title}
       \field{abstract}{The Subject Analysis and Access Section together with the Art Libraries Section presented Open Session 206 Libraries, Archives and Museums in Dialogue: Improving Access to Comple...}
-      \field{booktitle}{{IFLA}}
+      \field{booktitle}{{{IFLA}}}
       \field{langid}{american}
-      \field{title}{Libraries, Archives and Museums in Dialogue. Art Libraries Section in collaboration with the Subject Analysis and Access Section}
+      \field{title}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/U9AGJH2Z/libraries-archives-and-museums-in-dialogue-art-libraries-section-in-collaboration-with-the-subj.html
+      \endverb
       \verb{urlraw}
       \verb https://www.ifla.org/events/libraries-archives-and-museums-in-dialogue-art-libraries-section-in-collaboration-with-the-subject-analysis-and-access-section/
       \endverb
       \verb{url}
       \verb https://www.ifla.org/events/libraries-archives-and-museums-in-dialogue-art-libraries-section-in-collaboration-with-the-subject-analysis-and-access-section/
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{lissarague_histoire_nodate}{book}{}{}
+    \entry{lissaragueHistoireMuseeLAir}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3f2ddbb7362333784f236b9ee90aca1b}{%
            family={Lissarague},
@@ -1626,11 +1678,14 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Histoire du Musée de l'Air et de l'Espace}
+      \field{title}{Histoire Du {{Musée}} de l'{{Air}} et de l'{{Espace}}}
       \true{nocite}
-      \keyw{\_histoire,{texHistoire},texHistoire}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7XDXZN2C/6a35ba36-cbca-43de-8c90-ced01935b008.html
+      \endverb
+      \keyw{_histoire,texHistoire,texHistoire}
     \endentry
-    \entry{liu_review_2025}{inproceedings}{}{}
+    \entry{liuReviewApplicationDevelopment2025}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f2a0a4f5a03bef37fc5552061319cb71}{%
            family={Liu},
@@ -1651,13 +1706,13 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Download Citation {|} On Apr 2, 2025, Jun Liu published A Review of the Application and Development of Artificial Intelligence Technology in Museums {|} Find, read and cite all the research you need on {ResearchGate}}
-      \field{booktitle}{{ResearchGate}}
+      \field{abstract}{Download Citation | On Apr 2, 2025, Jun Liu published A Review of the Application and Development of Artificial Intelligence Technology in Museums | Find, read and cite all the research you need on ResearchGate}
+      \field{booktitle}{{{ResearchGate}}}
       \field{day}{5}
-      \field{eventtitle}{The 4th Asia-Pacific Artificial Intelligence and Big Data Forum}
+      \field{eventtitle}{The 4th {{Asia-Pacific Artificial Intelligence}} and {{Big Data Forum}}}
       \field{langid}{english}
       \field{month}{4}
-      \field{title}{A Review of the Application and Development of Artificial Intelligence Technology in Museums}
+      \field{title}{A {{Review}} of the {{Application}} and {{Development}} of {{Artificial Intelligence Technology}} in {{Museums}}}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
@@ -1668,15 +1723,18 @@
       \verb{doi}
       \verb 10.1145/3718491.3718523
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/GB8EAZBX/390434708_A_Review_of_the_Application_and_Development_of_Artificial_Intelligence_Technology_in_.html
+      \endverb
       \verb{urlraw}
       \verb https://www.researchgate.net/publication/390434708_A_Review_of_the_Application_and_Development_of_Artificial_Intelligence_Technology_in_Museums
       \endverb
       \verb{url}
       \verb https://www.researchgate.net/publication/390434708_A_Review_of_the_Application_and_Development_of_Artificial_Intelligence_Technology_in_Museums
       \endverb
-      \keyw{\_automatisation {IA},{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_automatisation IA,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{maroye_iso_2015}{article}{}{}
+    \entry{maroyeISO25964Distinction2015}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ea494dfc8d6eb04bc9ac7e43daf93791}{%
            family={Maroye},
@@ -1703,8 +1761,8 @@
       \field{langid}{french}
       \field{month}{4}
       \field{number}{1}
-      \field{shorttitle}{{ISO} 25964}
-      \field{title}{{ISO} 25964 : de la distinction formelle concept/terme préconisée par la norme pour la création et la gestion des thésaurus}
+      \field{shorttitle}{ISO 25964}
+      \field{title}{ISO 25964 : de la distinction formelle concept/terme préconisée par la norme pour la création et la gestion des thésaurus}
       \field{urlday}{11}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1724,9 +1782,56 @@
       \verb{url}
       \verb https://shs.cairn.info/revue-i2d-information-donnees-et-documents-2015-1-page-72
       \endverb
-      \keyw{\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{mille_dialogue_2019}{online}{}{}
+    \entry{merleau-pontyDocumenterCollectionsMusees2016}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=fba045c4a9e6817c73f77fe365c8bceb}{%
+           family={Merleau-Ponty},
+           familyi={M\bibinithyphendelim P\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {La Documentation française}%
+      }
+      \strng{namehash}{fba045c4a9e6817c73f77fe365c8bceb}
+      \strng{fullhash}{fba045c4a9e6817c73f77fe365c8bceb}
+      \strng{fullhashraw}{fba045c4a9e6817c73f77fe365c8bceb}
+      \strng{bibnamehash}{fba045c4a9e6817c73f77fe365c8bceb}
+      \strng{editorbibnamehash}{fba045c4a9e6817c73f77fe365c8bceb}
+      \strng{editornamehash}{fba045c4a9e6817c73f77fe365c8bceb}
+      \strng{editorfullhash}{fba045c4a9e6817c73f77fe365c8bceb}
+      \strng{editorfullhashraw}{fba045c4a9e6817c73f77fe365c8bceb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{3}
+      \field{isbn}{978-2-11-009548-0}
+      \field{month}{5}
+      \field{shorttitle}{Documenter Les Collections de Musées}
+      \field{title}{Documenter Les Collections de Musées: {{Investigation}}, Inventaire, Numérisation et Diffusion}
+      \field{urlday}{29}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3917/ldf.merle.2016.01
+      \endverb
+      \verb{urlraw}
+      \verb https://shs.cairn.info/documenter-les-collections-de-musees--9782110095480?site_lang=fr
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/documenter-les-collections-de-musees--9782110095480?site_lang=fr
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
+    \endentry
+    \entry{milleDialogueMetadonneesEntre2019}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f0c12771e44be7224907fb96fbb36641}{%
            family={Mille},
@@ -1734,6 +1839,9 @@
            given={Fanny},
            giveni={F\bibinitperiod},
            givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Livres Hebdo}%
       }
       \strng{namehash}{f0c12771e44be7224907fb96fbb36641}
       \strng{fullhash}{f0c12771e44be7224907fb96fbb36641}
@@ -1747,12 +1855,11 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{En partenariat avec le Comité français international bibliothèques et documentation ({CFIBD}), Livres Hebdo propose chaque jour, pendant le congrès annuel de l'Ifla à Athènes, un billet rédigé par les professionnels boursiers du {CFIBD}.}
+      \field{abstract}{En partenariat avec le Comité français international bibliothèques et documentation (CFIBD), Livres Hebdo propose chaque jour, pendant le congrès annuel de l'Ifla à Athènes, un billet rédigé par les professionnels boursiers du CFIBD.}
       \field{day}{28}
       \field{langid}{french}
       \field{month}{8}
       \field{title}{Dialogue de métadonnées entre bibliothèques, archives et musées}
-      \field{titleaddon}{Livres Hebdo}
       \field{urlday}{16}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -1766,9 +1873,9 @@
       \verb{url}
       \verb https://www.livreshebdo.fr/article/dialogue-de-metadonnees-entre-bibliotheques-archives-et-musees
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{ministere_de_la_culture_documenter_2020}{misc}{}{}
+    \entry{ministeredelacultureDocumenterArchiverMusee2020}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
            family={{Ministère de la Culture}},
@@ -1805,9 +1912,9 @@
       \verb{url}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee
       \endverb
-      \keyw{\_normalisation,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{ministere_de_la_culture_archives_2020}{misc}{}{}
+    \entry{ministeredelacultureArchivesElectroniquesDans2020}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
            family={{Ministère de la Culture}},
@@ -1844,9 +1951,9 @@
       \verb{url}
       \verb https://www.culture.gouv.fr/fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-archives-electroniques-dans-un-musee-de-France
       \endverb
-      \keyw{\_normalisation,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{ministere_de_la_culture_dossiers_2020}{misc}{}{}
+    \entry{ministeredelacultureDossiersDoeuvreDun2020}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
            family={{Ministère de la Culture}},
@@ -1883,13 +1990,16 @@
       \verb{url}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-dossiers-d-aeuvre-d-un-musee-de-France
       \endverb
-      \keyw{\_normalisation,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{ministere_de_la_culture_vocabulaires_nodate}{online}{}{}
+    \entry{ministeredelacultureVocabulairesScientifiquesService}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
            family={{Ministère de la Culture}},
            familyi={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Ministère de la Culture}%
       }
       \strng{namehash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{fullhash}{3f01ed98bbd81682b0ac4533193374bf}
@@ -1904,8 +2014,7 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Vocabulaires scientifiques du Service des musées de France {|} Ministère de la Culture}
-      \field{titleaddon}{Ministère de la Culture}
+      \field{title}{Vocabulaires Scientifiques Du {{Service}} Des Musées de {{France}} | {{Ministère}} de La {{Culture}}}
       \field{urlday}{18}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1917,16 +2026,84 @@
       \verb{url}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/informatiser-les-collections-d-un-musee-de-france/vocabulaires-scientifiques-du-service-des-musees-de-france
       \endverb
-      \keyw{\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{mom_notre_2023}{online}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=fc3de3b86d9af203931e1f7bf16c48e9}{%
-           family={{MOM}},
-           familyi={M\bibinitperiod},
-           given={Bibliothèque\bibnamedelimb de\bibnamedelima la},
-           giveni={B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod},
+    \entry{mirambet-parisConservationrestaurationPatrimoineTechnique2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f2a782226990984a9a38d58cc5e1d7cc}{%
+           family={Mirambet-Paris},
+           familyi={M\bibinithyphendelim P\bibinitperiod},
+           given={Agnès},
+           giveni={A\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=6700dc0ecb5cca023078eebde4c6a309}{%
+           family={Mirambet},
+           familyi={M\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Office de Coopération et d’Information Muséographiques}%
+      }
+      \strng{namehash}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \strng{fullhash}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \strng{fullhashraw}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \strng{bibnamehash}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \strng{authorbibnamehash}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \strng{authornamehash}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \strng{authorfullhash}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \strng{authorfullhashraw}{ade646ecaeedd3bd14b77ddaf630eaeb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Après avoir mis en évidence les difficultés de conservation-restauration spécifiques aux objets techniques et industriels, cette étude décrit – à travers l’exemple d’un projet de restauration de matériel ferroviaire – les grandes étapes d’un chantier de restauration puis, propose quelques solutions pour gérer au mieux ce type de dossier dans le respect de la loi sur les musées de France.}
+      \field{day}{1}
+      \field{issn}{0994-1908}
+      \field{issue}{135}
+      \field{journaltitle}{La Lettre de l’OCIM. Musées, Patrimoine et Culture scientifiques et techniques}
+      \field{langid}{french}
+      \field{month}{5}
+      \field{number}{135}
+      \field{title}{La conservation-restauration du patrimoine technique et industriel dans le cadre de la loi sur les Musées de France, une mission impossible ?}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{27\bibrangedash 35}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.4000/ocim.874
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/5SBF4IB5/Mirambet-Paris et Mirambet - 2011 - La conservation-restauration du patrimoine technique et industriel dans le cadre de la loi sur les M.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/ocim/874
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/ocim/874
+      \endverb
+      \keyw{chantier de restauration,loi sur les Musées de France,patrimoine technique et industriel,texHistoire}
+    \endentry
+    \entry{momNotreCatalogueFait2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,useprefix=false,hash=fc3de3b86d9af203931e1f7bf16c48e9}{%
+           family={MOM},
+           familyi={M\bibinitperiod},
+           given={Bibliothèque},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={de\bibnamedelima la},
+           prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{organization}{1}{%
+        {Préfixes}%
       }
       \strng{namehash}{fc3de3b86d9af203931e1f7bf16c48e9}
       \strng{fullhash}{fc3de3b86d9af203931e1f7bf16c48e9}
@@ -1940,12 +2117,11 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Ce chantier d’évolution de notre catalogue Frantiq a débuté depuis plusieurs mois pour permettre d’exploiter au mieux les nombreuses informations présentes dans notre catalogue et vous fournir une meilleure ergonomie. Ces améliorations ont ensuite été développées et mises en production cet été 2023, grâce au travail de notre prestataire informatique {TAMIL}, au suivi du directeur … Continuer la lecture de Notre catalogue fait peau neuve →}
+      \field{abstract}{Ce chantier d’évolution de notre catalogue Frantiq a débuté depuis plusieurs mois pour permettre d’exploiter au mieux les nombreuses informations présentes dans notre catalogue et vous fournir une meilleure ergonomie. Ces améliorations ont ensuite été développées et mises en production cet été 2023, grâce au travail de notre prestataire informatique TAMIL, au suivi du directeur … Continuer la lecture de Notre catalogue fait peau neuve →}
       \field{day}{28}
       \field{langid}{french}
       \field{month}{9}
       \field{title}{Notre catalogue fait peau neuve}
-      \field{titleaddon}{Préfixes}
       \field{type}{Billet}
       \field{urlday}{14}
       \field{urlmonth}{5}
@@ -1963,9 +2139,9 @@
       \verb{url}
       \verb https://prefixesmom.hypotheses.org/6159
       \endverb
-      \keyw{\_THESAUgestion,\_exemple,{texThesau},texThesau}
+      \keyw{_exemple,_THESAUgestion,texThesau,texThesau}
     \endentry
-    \entry{moureau_problemes_1968}{online}{}{}
+    \entry{moureauProblemesPosesPar1968}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=433449775bc32030e6570f3daeb5e495}{%
            family={Moureau},
@@ -2005,7 +2181,7 @@
       \verb{url}
       \verb https://bbf.enssib.fr/consulter/bbf-1968-05-0201-001
       \endverb
-      \keyw{\_THESAUgestion,{texThesau},texThesau}
+      \keyw{_THESAUgestion,texThesau,texThesau}
     \endentry
     \entry{museedelairetdelespaceHallNavigationAerienne2025}{misc}{}{}
       \name{author}{1}{}{%
@@ -2043,7 +2219,7 @@
       \endverb
       \keyw{,texHistoire}
     \endentry
-    \entry{nizet_musee_2011}{collection}{}{}
+    \entry{nizetMuseeLairLespace2011}{book}{}{}
       \name{editor}{1}{}{%
         {{un=0,uniquepart=base,hash=248b3ca26d523e2d85420b05694d2000}{%
            family={Nizet},
@@ -2071,13 +2247,13 @@
       \field{isbn}{978-2-85495-446-3}
       \field{pagetotal}{79}
       \field{shorttitle}{Musée de l'air et de l'espace}
-      \field{title}{Musée de l'air et de l'espace : Paris, Le Bourget}
+      \field{title}{Musée de l'air et de l'espace : {{Paris}}, {{Le Bourget}}}
       \field{year}{2011}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{\_histoire,{texHistoire},texHistoire}
+      \keyw{_histoire,texHistoire,texHistoire}
     \endentry
-    \entry{nouvel_thesaurus_2019}{article}{}{}
+    \entry{nouvelThesaurusPACTOLSSysteme2019}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ddc86515ef969003d47ee35ca8fe4b7d}{%
            family={Nouvel},
@@ -2104,7 +2280,7 @@
       \field{langid}{french}
       \field{month}{4}
       \field{number}{1}
-      \field{title}{Le thésaurus {PACTOLS}, système de vocabulaire contrôlé et partagé pour l'archéologie}
+      \field{title}{Le thésaurus PACTOLS, système de vocabulaire contrôlé et partagé pour l'archéologie}
       \field{urlday}{24}
       \field{urlmonth}{6}
       \field{urlyear}{2025}
@@ -2116,15 +2292,18 @@
       \verb{doi}
       \verb 10.21494/ISTE.OP.2019.0356
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/JXU42JGQ/Nouvel - 2019 - Le thésaurus PACTOLS, système de vocabulaire contrôlé et partagé pour l'archéologie.pdf
+      \endverb
       \verb{urlraw}
       \verb https://shs.hal.science/halshs-02102126
       \endverb
       \verb{url}
       \verb https://shs.hal.science/halshs-02102126
       \endverb
-      \keyw{\_THESAUgestion,\_outils,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_outils,_THESAUgestion,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{nouvel_outils_2022}{inproceedings}{}{}
+    \entry{nouvelOutilsDindexationBibliothecaires2022}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ddc86515ef969003d47ee35ca8fe4b7d}{%
            family={Nouvel},
@@ -2150,7 +2329,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{day}{24}
-      \field{eventtitle}{3e atelier "Thesaurus appliqués" du projet {CollEx} Bibracte Ville ouverte}
+      \field{eventtitle}{3e atelier "Thesaurus appliqués" du projet CollEx Bibracte Ville ouverte}
       \field{langid}{french}
       \field{month}{10}
       \field{shorttitle}{Les outils d'indexation des bibliothécaires}
@@ -2165,15 +2344,18 @@
       \verb{doi}
       \verb halshs-03879019 , version 1
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/HJIRLEQY/Nouvel - 2022 - Les outils d'indexation des bibliothécaires Classifications, thésaurus et autres vocabulaires cont.pdf
+      \endverb
       \verb{urlraw}
       \verb https://shs.hal.science/halshs-03879019
       \endverb
       \verb{url}
       \verb https://shs.hal.science/halshs-03879019
       \endverb
-      \keyw{\_THESAUgestion,\_outils,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_outils,_THESAUgestion,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{perrin_bonnes_2020}{online}{}{}
+    \entry{perrinBonnesPratiquesPour2020}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c54cfc26f32194eada1e494de77c587}{%
            family={Perrin},
@@ -2181,6 +2363,9 @@
            given={Emmanuelle},
            giveni={E\bibinitperiod},
            givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Opentheso}%
       }
       \strng{namehash}{6c54cfc26f32194eada1e494de77c587}
       \strng{fullhash}{6c54cfc26f32194eada1e494de77c587}
@@ -2195,12 +2380,11 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{[english version] Les langages {documentairesLa} structure d’un thésaurus Les relations d’équivalence Les relations hiérarchiques La relation générique (genre/espèce) La relation partitive (tout/partie) La relation d’instance (classe/instance) La polyhiérarchie Les termes de tête ou Top...}
+      \field{abstract}{[english version] Les langages documentairesLa structure d’un thésaurus Les relations d’équivalence Les relations hiérarchiques La relation générique (genre/espèce) La relation partitive (tout/partie) La relation d’instance (classe/instance) La polyhiérarchie Les termes de tête ou Top...}
       \field{day}{28}
       \field{langid}{french}
       \field{month}{9}
       \field{title}{Bonnes pratiques pour structurer un thésaurus}
-      \field{titleaddon}{Opentheso}
       \field{type}{Billet}
       \field{urlday}{18}
       \field{urlmonth}{4}
@@ -2218,9 +2402,9 @@
       \verb{url}
       \verb https://opentheso.hypotheses.org/67
       \endverb
-      \keyw{\_normalisation,\_theorie,{texThesau},texThesau}
+      \keyw{_normalisation,_theorie,texThesau,texThesau}
     \endentry
-    \entry{perrin_consolider_2020}{online}{}{}
+    \entry{perrinConsoliderEnrichirSes2020}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c54cfc26f32194eada1e494de77c587}{%
            family={Perrin},
@@ -2228,6 +2412,9 @@
            given={Emmanuelle},
            giveni={E\bibinitperiod},
            givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Opentheso}%
       }
       \strng{namehash}{6c54cfc26f32194eada1e494de77c587}
       \strng{fullhash}{6c54cfc26f32194eada1e494de77c587}
@@ -2242,12 +2429,11 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{[english version] Interopérabilité, ouverture et réutilisation des données Ressources pour interrelier des vocabulaires Les types d’équivalence du modèle {SKOS} Aligner automatiquement des concepts dans Opentheso L’alignement automatique Sélection des concepts à aligner Sélection des...}
+      \field{abstract}{[english version] Interopérabilité, ouverture et réutilisation des données Ressources pour interrelier des vocabulaires Les types d’équivalence du modèle SKOS Aligner automatiquement des concepts dans Opentheso L’alignement automatique Sélection des concepts à aligner Sélection des...}
       \field{day}{28}
       \field{langid}{french}
       \field{month}{9}
       \field{title}{Consolider et enrichir ses données avec les alignements}
-      \field{titleaddon}{Opentheso}
       \field{type}{Billet}
       \field{urlday}{29}
       \field{urlmonth}{4}
@@ -2265,9 +2451,9 @@
       \verb{url}
       \verb https://opentheso.hypotheses.org/52
       \endverb
-      \keyw{\_normalisation,\_webSemantique,{texThesau},texThesau}
+      \keyw{_normalisation,_webSemantique,texThesau,texThesau}
     \endentry
-    \entry{piton_noms_2004}{incollection}{}{}
+    \entry{pitonNomsPropresGeographiques2004}{incollection}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=53b913dea4d3ba471bc65f118cbf8b23}{%
            family={Piton},
@@ -2321,11 +2507,11 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Dictionnaire électronique, Nom propre, {ToponymeNous} abordons un aspect particulier aux noms propres géographiques qui est d’être l’objet de décisions officielles prises dans un cadre national ou international. Après avoir donné quelques informations sur cette particularité, nous revenons sur la première version du dictionnaire Prolintex de noms propres géographiques que nous avons créé. Nous faisons un bilan de son utilisation et nous proposons une nouvelle version de ce dictionnaire.}
-      \field{booktitle}{{INTEX} : Pour la linguistique et le traitement automatique des langues}
+      \field{abstract}{Dictionnaire électronique, Nom propre, ToponymeNous abordons un aspect particulier aux noms propres géographiques qui est d’être l’objet de décisions officielles prises dans un cadre national ou international. Après avoir donné quelques informations sur cette particularité, nous revenons sur la première version du dictionnaire Prolintex de noms propres géographiques que nous avons créé. Nous faisons un bilan de son utilisation et nous proposons une nouvelle version de ce dictionnaire.}
+      \field{booktitle}{INTEX : Pour la linguistique et le traitement automatique des langues}
       \field{isbn}{978-2-84867-824-5}
       \field{langid}{french}
-      \field{series}{Les Cahiers de la {MSHE} Ledoux}
+      \field{series}{Les Cahiers de la MSHE Ledoux}
       \field{title}{Les Noms Propres Géographiques et le Dictionnaire Prolintex, les lieux situés hors de France}
       \field{urlday}{30}
       \field{urlmonth}{4}
@@ -2342,35 +2528,40 @@
       \verb{url}
       \verb https://books.openedition.org/pufc/29977
       \endverb
-      \keyw{\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{noauthor_presentation_nodate}{online}{}{}
+    \entry{PresentationHistoire}{online}{}{}
+      \list{organization}{1}{%
+        {Musée de l'Air et de l'Espace}%
+      }
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labeltitlesource}{title}
       \field{abstract}{Découvrez toute l'histoire du musée de l'Air et de l'Espace}
       \field{langid}{french}
       \field{title}{Présentation et histoire}
-      \field{titleaddon}{Musée de l'Air et de l'Espace}
       \field{urlday}{5}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/GEV446RH/presentation-et-histoire.html
+      \endverb
       \verb{urlraw}
       \verb https://www.museeairespace.fr/le-musee/linstitution/presentation-et-histoire/
       \endverb
       \verb{url}
       \verb https://www.museeairespace.fr/le-musee/linstitution/presentation-et-histoire/
       \endverb
-      \keyw{\_histoire,{texHistoire},texHistoire}
+      \keyw{_histoire,texHistoire,texHistoire}
     \endentry
-    \entry{noauthor_rapport_2022}{report}{}{}
+    \entry{RapportScientifiqueBibracte2022}{report}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
       \field{month}{10}
-      \field{title}{Rapport scientifique. Bibracte ville ouverte}
+      \field{title}{Rapport Scientifique. {{Bibracte}} Ville Ouverte}
       \field{urlday}{14}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -2384,16 +2575,17 @@
       \verb{url}
       \verb https://www.collexpersee.eu/wp-content/uploads/2020/10/Rapport_scientifique_BibracteVilleOuverte.pdf
       \endverb
-      \keyw{\_THESAUgestion,\_exemple,\_normalisation,{texThesau},texThesau}
+      \keyw{_exemple,_normalisation,_THESAUgestion,texThesau,texThesau}
     \endentry
-    \entry{noauthor_recommandation_2008}{legislation}{}{}
+    \entry{RecommandationConcernantNoms2008}{legislation}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
       \field{day}{24}
+      \field{journaltitle}{JORF}
       \field{month}{9}
       \field{number}{91}
-      \field{title}{Recommandation concernant les noms d'États, d'habitants, de capitales, de sièges diplomatiques ou consulaires (liste établie par le ministère des affaires étrangères et européennes)}
+      \field{title}{Recommandation Concernant Les Noms d'{{États}}, d'habitants, de Capitales, de Sièges Diplomatiques Ou Consulaires (Liste Établie Par Le Ministère Des Affaires Étrangères et Européennes)}
       \field{urlday}{19}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -2407,13 +2599,16 @@
       \verb{url}
       \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000019509867/
       \endverb
-      \keyw{\_normalisation,{texThesau},texThesau}
+      \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{ricard_rgpd_2018}{online}{}{}
+    \entry{ricardRGPDArchives2018a}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0233f3d1ee8507eff6ede7409ad09644}{%
            family={{ricard}},
            familyi={r\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Droit(s) des archives}%
       }
       \strng{namehash}{0233f3d1ee8507eff6ede7409ad09644}
       \strng{fullhash}{0233f3d1ee8507eff6ede7409ad09644}
@@ -2427,12 +2622,11 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Le Règlement européen 2016/679 relatif à la protection des données à caractère personnel ou {RGPD} est entré en vigueur le 25 mai 2018 dans tous les Etats membres de l’Union européenne. La plupart de ses dispositions sont d’application directe. Le {RGPD} est complété par la loi du 6 janvier 1978, dite loi Informatique et Libertés, … Continuer la lecture de Le {RGPD} et les archives →}
+      \field{abstract}{Le Règlement européen 2016/679 relatif à la protection des données à caractère personnel ou RGPD est entré en vigueur le 25 mai 2018 dans tous les Etats membres de l’Union européenne. La plupart de ses dispositions sont d’application directe. Le RGPD est complété par la loi du 6 janvier 1978, dite loi Informatique et Libertés, … Continuer la lecture de Le RGPD et les archives →}
       \field{day}{21}
       \field{langid}{french}
       \field{month}{6}
-      \field{title}{Le {RGPD} et les archives}
-      \field{titleaddon}{Droit(s) des archives}
+      \field{title}{Le RGPD et les archives}
       \field{type}{Billet}
       \field{urlday}{16}
       \field{urlmonth}{5}
@@ -2450,9 +2644,9 @@
       \verb{url}
       \verb https://siafdroit.hypotheses.org/792
       \endverb
-      \keyw{\_theorie,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_theorie,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{rizza_document_2014}{article}{}{}
+    \entry{rizzaDocumentAuCoeur2014}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9795986ab15b5b9bbed898b07600290f}{%
            family={Rizza},
@@ -2517,9 +2711,9 @@
       \verb{url}
       \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2014-2-page-30
       \endverb
-      \keyw{\_theorie,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_theorie,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{rossini-paquet_bibliotheques_nodate}{article}{}{}
+    \entry{rossini-paquetBibliothequesMuseesQuellesa}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=3de05490c1c35ebc9cbca8819a88a47e}{%
            family={Rossini-Paquet},
@@ -2558,7 +2752,7 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Journée d'étude {ABF} du 28 septembre 1998 Le groupe régional de l'{ABF} Provence-Alpes-Côte-d'Azur a organisé une journée d'étude sur le thème « Bibliothèques et musées: quelle(s) coopération(s) ? ». Cette journée s'est déroulée à l'Ecole Pilote Internationale d'art et de recherche, Villa Arson à Nice. Elle a réuni 75 personnes de toute la région accueillies par l'équipe de la bibliothèque. Nous présentons ici les textes des interventions.}
+      \field{abstract}{Journée d'étude ABF du 28 septembre 1998 Le groupe régional de l'ABF Provence-Alpes-Côte-d'Azur a organisé une journée d'étude sur le thème « Bibliothèques et musées: quelle(s) coopération(s) ? ». Cette journée s'est déroulée à l'Ecole Pilote Internationale d'art et de recherche, Villa Arson à Nice. Elle a réuni 75 personnes de toute la région accueillies par l'équipe de la bibliothèque. Nous présentons ici les textes des interventions.}
       \field{journaltitle}{Bulletin d'information de l'Association des Bibliothécaires Français}
       \field{langid}{french}
       \field{number}{182}
@@ -2572,9 +2766,9 @@
       \verb{url}
       \verb https://www.enssib.fr/bibliotheque-numerique/documents/46470-bibliotheques-et-musees-quelles-cooperations.pdf
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{sassetti-aguilera_archives_2020}{article}{}{}
+    \entry{sassetti-aguileraArchivesMuseesDiversites2020a}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0d14320ebc3c2ccea9ef243c0ddff232}{%
            family={Sassetti-Aguilera},
@@ -2601,7 +2795,7 @@
       \field{month}{1}
       \field{number}{257}
       \field{shortjournal}{Gazette des archives}
-      \field{title}{Les archives de musées : diversités d’approches et qualité du dialogue}
+      \field{title}{Les Archives de Musées : Diversités d’approches et Qualité Du Dialogue}
       \field{volume}{L’archivistique, objet de recherche ? Explorations en France et à l’international}
       \field{year}{2020}
       \field{dateera}{ce}
@@ -2614,9 +2808,9 @@
       \verb{url}
       \verb https://www.persee.fr/doc/gazar_0016-5522_2020_num_257_1_5952
       \endverb
-      \keyw{\_collaborationBibArchMusee,\_theorie,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_collaborationBibArchMusee,_theorie,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{taboada_ontology_2025}{misc}{}{}
+    \entry{taboadaOntologyMatchingLarge2025}{online}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=1f1a3e066a0e717b48ba2e947a0033e6}{%
            family={Taboada},
@@ -2643,9 +2837,6 @@
            giveni={R\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {arXiv}%
-      }
       \strng{namehash}{b663135d9979c44ef899d940d9d0a9cb}
       \strng{fullhash}{754d0f63eb0847e8325575704d4d8da6}
       \strng{fullhashraw}{754d0f63eb0847e8325575704d4d8da6}
@@ -2658,12 +2849,13 @@
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Ontology matching ({OM}) plays a key role in enabling data interoperability and knowledge sharing, but it remains challenging due to the need for large training datasets and limited vocabulary processing in machine learning approaches. Recently, methods based on Large Language Model ({LLMs}) have shown great promise in {OM}, particularly through the use of a retrieve-then-prompt pipeline. In this approach, relevant target entities are first retrieved and then used to prompt the {LLM} to predict the final matches. Despite their potential, these systems still present limited performance and high computational overhead. To address these issues, we introduce {MILA}, a novel approach that embeds a retrieve-identify-prompt pipeline within a prioritized depth-first search ({PDFS}) strategy. This approach efficiently identifies a large number of semantic correspondences with high accuracy, limiting {LLM} requests to only the most borderline cases. We evaluated {MILA} using the biomedical challenge proposed in the 2023 and 2024 editions of the Ontology Alignment Evaluation Initiative. Our method achieved the highest F-Measure in four of the five unsupervised tasks, outperforming state-of-the-art {OM} systems by up to 17\%. It also performed better than or comparable to the leading supervised {OM} systems. {MILA} further exhibited task-agnostic performance, remaining stable across all tasks and settings, while significantly reducing {LLM} requests. These findings highlight that high-performance {LLM}-based {OM} can be achieved through a combination of programmed ({PDFS}), learned (embedding vectors), and prompting-based heuristics, without the need of domain-specific heuristics or fine-tuning.}
+      \field{abstract}{Ontology matching (OM) plays a key role in enabling data interoperability and knowledge sharing, but it remains challenging due to the need for large training datasets and limited vocabulary processing in machine learning approaches. Recently, methods based on Large Language Model (LLMs) have shown great promise in OM, particularly through the use of a retrieve-then-prompt pipeline. In this approach, relevant target entities are first retrieved and then used to prompt the LLM to predict the final matches. Despite their potential, these systems still present limited performance and high computational overhead. To address these issues, we introduce MILA, a novel approach that embeds a retrieve-identify-prompt pipeline within a prioritized depth-first search (PDFS) strategy. This approach efficiently identifies a large number of semantic correspondences with high accuracy, limiting LLM requests to only the most borderline cases. We evaluated MILA using the biomedical challenge proposed in the 2023 and 2024 editions of the Ontology Alignment Evaluation Initiative. Our method achieved the highest F-Measure in four of the five unsupervised tasks, outperforming state-of-the-art OM systems by up to 17\%. It also performed better than or comparable to the leading supervised OM systems. MILA further exhibited task-agnostic performance, remaining stable across all tasks and settings, while significantly reducing LLM requests. These findings highlight that high-performance LLM-based OM can be achieved through a combination of programmed (PDFS), learned (embedding vectors), and prompting-based heuristics, without the need of domain-specific heuristics or fine-tuning.}
       \field{day}{27}
-      \field{eprinttype}{arxiv}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arXiv}
       \field{month}{3}
-      \field{number}{{arXiv}:2501.11441}
-      \field{title}{Ontology Matching with Large Language Models and Prioritized Depth-First Search}
+      \field{pubstate}{prepublished}
+      \field{title}{Ontology {{Matching}} with {{Large Language Models}} and {{Prioritized Depth-First Search}}}
       \field{urlday}{13}
       \field{urlmonth}{6}
       \field{urlyear}{2025}
@@ -2675,7 +2867,7 @@
       \verb 10.48550/arXiv.2501.11441
       \endverb
       \verb{eprint}
-      \verb 2501.11441 [cs]
+      \verb 2501.11441
       \endverb
       \verb{urlraw}
       \verb http://arxiv.org/abs/2501.11441
@@ -2683,9 +2875,9 @@
       \verb{url}
       \verb http://arxiv.org/abs/2501.11441
       \endverb
-      \keyw{Computer Science - Computation and Language,Computer Science - Information Retrieval,\_automatisation {IA},\_exemple,\_outils,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_automatisation IA,_exemple,_outils,Computer Science - Computation and Language,Computer Science - Information Retrieval,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{terrier_eroport_2019}{book}{}{}
+    \entry{terrierAeroportParisBourget2019}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=dd9a6207b2d35c7805170e2d2a60ed84}{%
            family={Terrier},
@@ -2710,15 +2902,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{Amarena}
-      \field{isbn}{9782956857907}
+      \field{isbn}{978-2-9568579-0-7}
       \field{pagetotal}{160}
-      \field{shorttitle}{Aéroport de Paris - Le Bourget}
-      \field{title}{Aéroport de Paris - Le Bourget : 1910-2019, un siècle d'histoire}
+      \field{shorttitle}{Aéroport de {{Paris}} - {{Le Bourget}}}
+      \field{title}{Aéroport de {{Paris}} - {{Le Bourget}} : 1910-2019, Un Siècle d'histoire}
       \field{year}{2019}
       \field{dateera}{ce}
-      \keyw{\_histoire,{texHistoire},texHistoire}
+      \true{nocite}
+      \keyw{_histoire,texHistoire,texHistoire}
     \endentry
-    \entry{texier_projet_2022}{online}{}{}
+    \entry{texierProjetVaSNouvelle2022}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0fa01017441830cdf4656e5b77c6e9e4}{%
            family={Texier},
@@ -2726,6 +2919,9 @@
            given={Bruno},
            giveni={B\bibinitperiod},
            givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Archimag}%
       }
       \strng{namehash}{0fa01017441830cdf4656e5b77c6e9e4}
       \strng{fullhash}{0fa01017441830cdf4656e5b77c6e9e4}
@@ -2739,12 +2935,11 @@
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{L'offre {VaS} (Vitam accessible en Service) est ouverte aux ministères, à leurs opérateurs ainsi qu’aux collectivités territoriales. Les données seront archivées sur le "cercle 1 du cloud de l'Etat".}
+      \field{abstract}{L'offre VaS (Vitam accessible en Service) est ouverte aux ministères, à leurs opérateurs ainsi qu’aux collectivités territoriales. Les données seront archivées sur le "cercle 1 du cloud de l'Etat".}
       \field{day}{1}
       \field{langid}{french}
       \field{month}{2}
-      \field{title}{Projet {VaS}, nouvelle offre de service interministérielle pour l'archivage électronique}
-      \field{titleaddon}{Archimag}
+      \field{title}{Projet VaS, nouvelle offre de service interministérielle pour l'archivage électronique}
       \field{urlday}{20}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
@@ -2758,9 +2953,9 @@
       \verb{url}
       \verb https://www.archimag.com/archives-patrimoine/2022/02/01/projet-vas-nouvelle-offre-service-interminist%C3%A9rielle-archivage
       \endverb
-      \keyw{\_outils,{texArchivesNumeriques},texArchivesNumeriques}
+      \keyw{_outils,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
-    \entry{vatican_convergences_2011}{article}{}{}
+    \entry{vaticanConvergencesDivergencesEntre2011a}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=51ada935da780315bec369cd259ea3b7}{%
            family={Vatican},
@@ -2784,7 +2979,7 @@
       \field{abstract}{Au fil des siècles, les relations entre archives et bibliothèques ont tendu vers une affirmation et une professionnalisation de chacune de ces institutions, et vers une définition plus précise de leurs missions respectives. Or, aujourd’hui, cette évolution semble souvent ignorée, voire remise en cause par des projets de mutualisation. Cette contribution se propose de réfléchir sur ces convergences souhaitées ou imposées, sur leur intérêt pour les professionnels et leurs services, ainsi que pour le public.}
       \field{day}{1}
       \field{issn}{1292-8399}
-      \field{journaltitle}{Bulletin des bibliothèques de France ({BBF})}
+      \field{journaltitle}{Bulletin des bibliothèques de France (BBF)}
       \field{langid}{french}
       \field{month}{1}
       \field{number}{4}
@@ -2798,15 +2993,18 @@
       \true{nocite}
       \field{pages}{16\bibrangedash 20}
       \range{pages}{5}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/9PBAX5QD/49414-convergences-et-divergences-entre-archives-et-bibliotheques.pdf
+      \endverb
       \verb{urlraw}
       \verb https://bbf.enssib.fr/consulter/bbf-2011-04-0016-003
       \endverb
       \verb{url}
       \verb https://bbf.enssib.fr/consulter/bbf-2011-04-0016-003
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{verhulst_reconstitution_1997}{article}{}{}
+    \entry{verhulstReconstitutionReorganisationLinventaire1997a}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=840027ef04f0ca4008161b77f051e6f9}{%
            family={Verhulst},
@@ -2845,9 +3043,9 @@
       \verb{url}
       \verb https://dumas.ccsd.cnrs.fr/dumas-01717237
       \endverb
-      \keyw{\_automatisation {IA},\_exemple,\_theorie,{texNumeriquePatrimoine},texNumeriquePatrimoine}
+      \keyw{_automatisation IA,_exemple,_theorie,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
-    \entry{weaver_herbarium_2023}{article}{}{}
+    \entry{weaverHerbariumSpecimenLabel2023a}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4e74e3404fda242b53eadfe01bd29753}{%
            family={Weaver},
@@ -2890,8 +3088,8 @@
       \field{journaltitle}{American Journal of Botany}
       \field{langid}{english}
       \field{number}{12}
-      \field{shorttitle}{Herbarium specimen label transcription reimagined with large language models}
-      \field{title}{Herbarium specimen label transcription reimagined with large language models: Capabilities, productivity, and risks}
+      \field{shorttitle}{Herbarium Specimen Label Transcription Reimagined with Large Language Models}
+      \field{title}{Herbarium Specimen Label Transcription Reimagined with Large Language Models: {{Capabilities}}, Productivity, and Risks}
       \field{urlday}{13}
       \field{urlmonth}{6}
       \field{urlyear}{2025}
@@ -2911,9 +3109,9 @@
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.16256
       \endverb
-      \keyw{{AI} automation,{ChatGPT},Specimen Label Transcription Project,\_automatisation {IA},\_exemple,\_outils,biodiversity data,curation,digitization,herbarium label transcription,natural history collections,optical character recognition,{texNumeriquePatrimoine},workflow,texNumeriquePatrimoine}
+      \keyw{_automatisation IA,_exemple,_outils,AI automation,biodiversity data,ChatGPT,curation,digitization,herbarium label transcription,natural history collections,optical character recognition,Specimen Label Transcription Project,texNumeriquePatrimoine,workflow,texNumeriquePatrimoine}
     \endentry
-    \entry{yarrow_bibliotheques_2008}{book}{}{}
+    \entry{yarrowBibliothequesPubliquesArchives2008a}{book}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c74a53661c43fdfe999545cce2a51e03}{%
            family={Yarrow},
@@ -2936,13 +3134,12 @@
         {{un=0,uniquepart=base,hash=3e46295dd32412f463b5141ef017175b}{%
            family={Section},
            familyi={S\bibinitperiod},
-           given={{IFLA}\bibnamedelimb Public\bibnamedelima Libraries},
+           given={IFLA\bibnamedelimb Public\bibnamedelima Libraries},
            giveni={I\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{2}{%
-        {International Federation of Library Associations}%
-        {Institutions ({IFLA})}%
+      \list{publisher}{1}{%
+        {International Federation of Library Associations and Institutions (IFLA)}%
       }
       \strng{namehash}{f98534f8766cc9dd35f115f3f0223cde}
       \strng{fullhash}{5603cd82ee9ba4f93dc28afe611dc363}
@@ -2956,8 +3153,8 @@
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Ce rapport passe en revue les récentes tendances en matière de collaboration et de coopération entre les bibliothèques publiques, les archives et les musées. Dans de nombreux cas, les missions communes ou semblables des institutions examinées en ont fait des partenaires idéals de projets de collaboration. Différents types de projets de collaboration sont examinés, notamment les expositions, les programmes communautaires, les ressources numériques et les installations mixtes. Les exemples sont issus du Canada, des États-Unis et du Royaume-Uni ({RU}), ainsi que de la Russie, du Danemark, de la Norvège, de la Suède, de l’Allemagne, de l’Italie, de l’Espagne, de l’Afrique du Sud, de l’Australie et de la Nouvelle-Zélande. Le rapport se conclut par un guide des collaborations, incluant des exemples des pratiques exemplaires dans le domaine, un guide vers une collaboration réussie, un exposé sur les bénéfices et les risques de la collaboration ainsi qu’une liste des ressources consultées.}
-      \field{isbn}{9789077897294}
+      \field{abstract}{Ce rapport passe en revue les récentes tendances en matière de collaboration et de coopération entre les bibliothèques publiques, les archives et les musées. Dans de nombreux cas, les missions communes ou semblables des institutions examinées en ont fait des partenaires idéals de projets de collaboration. Différents types de projets de collaboration sont examinés, notamment les expositions, les programmes communautaires, les ressources numériques et les installations mixtes. Les exemples sont issus du Canada, des États-Unis et du Royaume-Uni (RU), ainsi que de la Russie, du Danemark, de la Norvège, de la Suède, de l’Allemagne, de l’Italie, de l’Espagne, de l’Afrique du Sud, de l’Australie et de la Nouvelle-Zélande. Le rapport se conclut par un guide des collaborations, incluant des exemples des pratiques exemplaires dans le domaine, un guide vers une collaboration réussie, un exposé sur les bénéfices et les risques de la collaboration ainsi qu’une liste des ressources consultées.}
+      \field{isbn}{978-90-77897-29-4}
       \field{langid}{french}
       \field{month}{7}
       \field{shorttitle}{Bibliothèques publiques, archives et musées}
@@ -2975,7 +3172,7 @@
       \verb{url}
       \verb https://repository.ifla.org/handle/20.500.14598/601
       \endverb
-      \keyw{\_collaborationBibArchMusee,{texCollab},texCollab}
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
   \enddatalist
 \endrefsection
