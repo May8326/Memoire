@@ -2187,13 +2187,13 @@
     <bcf:citekey order="9" intorder="1">champenoisTresorsMuseeLair</bcf:citekey>
     <bcf:citekey order="10" intorder="1">19192019CentAns</bcf:citekey>
     <bcf:citekey order="11" intorder="1">hudonISO25964Pour2012a</bcf:citekey>
-    <bcf:citekey order="11" intorder="2">chichereauNormesConceptionGestion2007</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">nouvelThesaurusPACTOLSSysteme2019</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">ministeredelacultureDocumenterArchiverMusee2020</bcf:citekey>
-    <bcf:citekey order="13" intorder="2">bechardArchivesElectroniques2020a</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">comiteinterministerielauxarchivesdefranceReferentielGeneralGestion</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">barneyPenseesDuneAmazone1920</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">chichereauNormesConceptionGestion2007</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">chichereau_normes_2007</bcf:citekey>
+    <bcf:citekey order="11" intorder="3">nouvel_thesaurus_2019</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">ministere_de_la_culture_documenter_2020</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">bechard_archives_2020</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">comite_interministeriel_aux_archives_de_france_referentiel_nodate</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">barneyPenseesDuneAmazone1920</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">chichereauNormesConceptionGestion2007</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
