@@ -105,7 +105,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%% Sections, subsections, subsubsections
 
-\renewcommand{\thesection}{\Roman{section}.}%On ne fait apparaître que le numéro de la section
+\renewcommand{\thesection}{\arabic{section}.}%On ne fait apparaître que le numéro de la section
 \renewcommand{\thesubsection}{\thesection\arabic{subsection}.}%subsection en chiffres arabes
 \renewcommand{\thesubsubsection}{\alph{subsubsection}.}%subsubsection en lettres minuscules
 %Si l'on veut faire apparaître les subsubsection dans le table des matières (à commenter sinon)
@@ -232,7 +232,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% COMMANDES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\newcommand{\mae}{\ac{mae} }
 
 %%%%%%%%%%%%%%%%%%%%%%%% ENVIRONNEMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

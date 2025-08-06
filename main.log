@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  5 AUG 2025 17:36
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  6 AUG 2025 10:57
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1281,6 +1281,13 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 [8
 
 ]
+Overfull \hbox (25.93335pt too wide) in paragraph at lines 354--354
+[][][]\TU/lmr/m/sc/12 Musée de l’air et de l’espace[]\TU/lmr/m/n/12 , \TU/lmr/m
+/it/12 Rapport d’activité\TU/lmr/m/n/12 , 2023, \TU/lmr/m/sc/12 url \TU/lmr/m/n
+/12 : []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][] []
+ []
+
+
 
 [9]
 
@@ -1416,31 +1423,36 @@ Underfull \vbox (badness 1968) has occurred while \output is active []
 
 [8]
 
-LaTeX Warning: Citation 'chichereau_normes_2007' on page 9 undefined on input l
-ine 17.
-
-
-LaTeX Warning: Citation 'nouvel_thesaurus_2019' on page 9 undefined on input li
-ne 17.
-
-
-
 [9]
 
+LaTeX Warning: Citation 'chichereau_normes_2007' on page 10 undefined on input 
+line 23.
+
+
+LaTeX Warning: Citation 'nouvel_thesaurus_2019' on page 10 undefined on input l
+ine 23.
+
+
 LaTeX Warning: Citation 'ministere_de_la_culture_documenter_2020' on page 10 un
-defined on input line 19.
+defined on input line 25.
 
 
 LaTeX Warning: Citation 'bechard_archives_2020' on page 10 undefined on input l
-ine 19.
+ine 25.
 
 
 LaTeX Warning: Citation 'comite_interministeriel_aux_archives_de_france_referen
-tiel_nodate' on page 10 undefined on input line 19.
+tiel_nodate' on page 10 undefined on input line 25.
 
-)) (./parties/mainmatter/I/B/I_B.tex
+)
 
-[10]
+[10]) (./parties/mainmatter/I/B/I_B.tex
+
+[11]
+
+[12
+
+]
 Chapitre 2.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1448,21 +1460,19 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 4.
 (./parties/mainmatter/I/B/I_B_1.tex) (./parties/mainmatter/I/B/I_B_2.tex))
 
-[11
-
-]
-
-[12
-
-]
-
 [13]
 
-[14] (./parties/mainmatter/II/A/II_A.tex
+[14
+
+]
 
 [15]
 
-[16
+[16] (./parties/mainmatter/II/A/II_A.tex
+
+[17]
+
+[18
 
 ]
 Chapitre 3.
@@ -1472,17 +1482,17 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 7.
 (./parties/mainmatter/II/A/II_A_1.tex
 
-[17]
+[19]
 
-[18]
+[20]
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
 
-[19]) (./parties/mainmatter/II/A/II_A_2.tex))
+[21]) (./parties/mainmatter/II/A/II_A_2.tex))
 (./parties/mainmatter/II/B/II_B.tex
 
-[20]
+[22]
 Chapitre 4.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1491,24 +1501,18 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (./parties/mainmatter/II/B/II_B_1.tex) (./parties/mainmatter/II/B/II_B_2.tex)
 (./parties/mainmatter/II/B/II_B_3.tex)) (./parties/mainmatter/II/C/II_C.tex)
 
-[21
+[23
 
 ]
 
-[22
+[24
 
 ]
-
-[23]
-
-[24] (./parties/mainmatter/III/A/III_A.tex)
-(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
 
 [25]
 
-[26
-
-]
+[26] (./parties/mainmatter/III/A/III_A.tex)
+(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
 
 [27]
 
@@ -1516,11 +1520,17 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 ]
 
-[29
+[29]
+
+[30
 
 ]
 
-[30]
+[31
+
+]
+
+[32]
 Annexe A.
 (./parties/backmatter/annexes/A1_frise.tex)
 (./parties/backmatter/annexes/A1_frise.tex)
@@ -1549,23 +1559,23 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 19--83
  [] [] 
  []
 
-[31
+[33
 
-] [32])
+] [34])
 
-[33]
+[35]
 
-[34
+[36
 
 ] (./main.gls)
 
-[35
+[37
 
 
 
 ]
 
-[36
+[38
 
 ] (./main.lot)
 \tf@lot=\write7
@@ -1573,19 +1583,19 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 19--83
 
 
 
-[37]
+[39]
 
-[38
+[40
 
 ] (./main.toc
 
-[39])
+[41])
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
 
 
-[40] (./main.aux)
+[42] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -1604,12 +1614,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38335 strings out of 474235
- 809858 string characters out of 5742252
- 1646030 words of memory out of 5000000
- 60514 multiletter control sequences out of 15000+600000
- 567096 words of font info for 95 fonts, out of 8000000 for 9000
+ 38341 strings out of 474235
+ 810107 string characters out of 5742252
+ 1646124 words of memory out of 5000000
+ 60520 multiletter control sequences out of 15000+600000
+ 567098 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,93p,3476b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (64 pages).
+Output written on main.pdf (66 pages).

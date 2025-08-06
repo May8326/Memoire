@@ -34,7 +34,6 @@
       \field{urlmonth}{8}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/T24BVLBP/493791.html
       \endverb
@@ -226,6 +225,7 @@
       \field{title}{Les archives électroniques}
       \field{year}{2020}
       \field{dateera}{ce}
+      \true{nocite}
       \keyw{_theorie,Archivistique,CD974.4,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{bermesConvergenceInteroperabiliteLapport2011}{inproceedings}{}{}
@@ -957,6 +957,7 @@
       \field{urlmonth}{5}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/PLSWPAK6/Référentiel général de gestion des archives (R2GA).pdf
       \endverb
@@ -1926,6 +1927,7 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee
       \endverb
@@ -2202,6 +2204,44 @@
       \endverb
       \keyw{_THESAUgestion,texThesau,texThesau}
     \endentry
+    \entry{museedelairetdelespaceRapportDactivite2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2fc45ce779234ad7b92d3171ba305331}{%
+           family={{Musée de l'air et de l'espace}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{fullhash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{fullhashraw}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{bibnamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorbibnamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authornamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorfullhash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorfullhashraw}{2fc45ce779234ad7b92d3171ba305331}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rapport d'activité}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/RPSB9ZX6/Rapport-activites-Musee-Air-Espace-2023.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.museeairespace.fr/wp-content/uploads/sites/2/2024/06/Rapport-activites-Musee-Air-Espace-2023.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.museeairespace.fr/wp-content/uploads/sites/2/2024/06/Rapport-activites-Musee-Air-Espace-2023.pdf
+      \endverb
+      \keyw{,texHistoire}
+    \endentry
     \entry{museedelairetdelespaceHallNavigationAerienne2025}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2fc45ce779234ad7b92d3171ba305331}{%
@@ -2216,6 +2256,7 @@
       \strng{authornamehash}{2fc45ce779234ad7b92d3171ba305331}
       \strng{authorfullhash}{2fc45ce779234ad7b92d3171ba305331}
       \strng{authorfullhashraw}{2fc45ce779234ad7b92d3171ba305331}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -2307,6 +2348,7 @@
       \field{year}{2019}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{doi}
       \verb 10.21494/ISTE.OP.2019.0356
       \endverb
