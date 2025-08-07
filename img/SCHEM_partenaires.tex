@@ -1,0 +1,120 @@
+\begin{adjustbox}{width=\textwidth,center}
+	\begin{tikzpicture}[
+		% Styles simplifiés
+		central/.style={
+			text width=3cm, align=center,
+			font=\bfseries
+		},
+		category/.style={
+			text width=2.5cm, align=center,
+			font=\small\bfseries
+		},
+		subcategory/.style={
+			text width=2.2cm, align=center,
+			font=\footnotesize
+		},
+		% Style pour les connexions
+		connector/.style={-, thin, black},
+		% Distance standards
+		node distance=3cm and 2cm
+		]
+		
+		% Nœud central
+		\node[central] (centre) {\acf{mae}};
+		
+		% Catégories principales - distances augmentées
+		\node[category, above=5cm of centre] (armee) {Armée et\\Défense};
+		\node[category, above right=3.5cm and 4.5cm of centre] (industrie) {Industrie};
+		\node[category, below=5cm of centre] (culture) {Culture et\\Patrimoine};
+		\node[category, below right=3.5cm and 4.5cm of centre] (medias) {Médias et\\Formation};
+		\node[category, below left=3.5cm and 4.5cm of centre] (recherche) {Enseignement\\et Recherche};
+		\node[category, above left=3.5cm and 4.5cm of centre] (associations) {Associations\\aéronautiques};
+		
+		% Sous-catégories pour Armée et Défense (5 nœuds)
+		\node[subcategory, above left=3cm and 3cm of armee] (armee1) {Armée de l'Air};
+		\node[subcategory, above=3cm of armee] (armee2) {Ministère des\\Armées};
+		\node[subcategory, above right=3cm and 3cm of armee] (armee4) {École de l'air};
+		\node[subcategory, left=3cm of armee] (armee5) {SIRPA Air,\\CERPA};
+		\node[subcategory, right=3cm of armee] (armee6) {Délégation militaire\\départementale (93)};
+		
+		% Sous-catégories pour Industrie (5 nœuds)
+		\node[subcategory, above=3cm of industrie] (ind1) {GIFAS};
+		\node[subcategory, above right=3cm and 3cm of industrie] (ind2) {Sociétés\\aéronautiques};
+		\node[subcategory, right=4cm of industrie] (ind3) {Airbus Group};
+		\node[subcategory, below right=3cm and 3cm of industrie] (ind4) {Safran};
+		\node[subcategory, below=3cm of industrie] (ind5) {Dassault Aviation};
+		
+		% Sous-catégories pour Médias et Formation (2 nœuds)
+		\node[subcategory, above right=3cm and 3cm of medias] (med1) {Magazine\\Aviation \& Pilote};
+		\node[subcategory, below right=3cm and 3cm of medias] (med2) {Pôle de compétitivité\\Astech Paris Région};
+		
+		% Sous-catégories pour Culture et Patrimoine (5 nœuds)
+		\node[subcategory, below left=3cm and 3cm of culture] (cult1) {Musée national\\de la Marine};
+		\node[subcategory, below left=3cm and 1cm of culture] (cult2) {Musées de\\l'armée};
+		\node[subcategory, below right=3cm and 1cm of culture] (cult3) {Archives\\Nationales};
+		\node[subcategory, below right=3cm and 3cm of culture] (cult4) {\ac{bnf}};
+		\node[subcategory, below=3cm of culture] (cult5) {Médiathèques locales};
+		
+		% Sous-catégories pour Enseignement et Recherche (5 nœuds)
+		\node[subcategory, above=3cm of recherche] (rech5) {Campus\\Condorcet};
+		\node[subcategory, above left=3cm and 3cm of recherche] (rech4) {INP};
+		\node[subcategory, left=4cm of recherche] (rech3) {Académie\\de Créteil};
+		\node[subcategory, below left=3cm and 3cm of recherche] (rech2) {Éducation\\nationale};
+		\node[subcategory, below=3cm of recherche] (rech1) {IHEDN – Trinôme\\académique IdF};
+		
+		% Sous-catégories pour Associations aéronautiques (5 nœuds)
+		\node[subcategory, above=3cm of associations] (assoc1) {AAMA – Amis du\\Musée de l'Air};
+		\node[subcategory, above left=3cm and 3cm of associations] (assoc2) {Cerfs-Volants\\Historiques};
+		\node[subcategory, left=4cm of associations] (assoc3) {Aéromodélisme\\Club de Saint-Denis};
+		\node[subcategory, below left=3cm and 3cm of associations] (assoc4) {Mémorial Flight};
+		\node[subcategory, below=3cm of associations] (assoc5) {Ailes anciennes};
+		
+		% Connexions principales (centre vers catégories)
+		\draw[connector] (centre) -- (armee);
+		\draw[connector] (centre) -- (industrie);
+		\draw[connector] (centre) -- (medias);
+		\draw[connector] (centre) -- (culture);
+		\draw[connector] (centre) -- (recherche);
+		\draw[connector] (centre) -- (associations);
+		
+		% Connexions pour Armée et Défense
+		\draw[connector] (armee) -- (armee1);
+		\draw[connector] (armee) -- (armee2);
+		\draw[connector] (armee) -- (armee4);
+		\draw[connector] (armee) -- (armee5);
+		\draw[connector] (armee) -- (armee6);
+		
+		% Connexions pour Industrie
+		\draw[connector] (industrie) -- (ind1);
+		\draw[connector] (industrie) -- (ind2);
+		\draw[connector] (industrie) -- (ind3);
+		\draw[connector] (industrie) -- (ind4);
+		\draw[connector] (industrie) -- (ind5);
+		
+		% Connexions pour Médias et Formation
+		\draw[connector] (medias) -- (med1);
+		\draw[connector] (medias) -- (med2);
+		
+		% Connexions pour Culture et Patrimoine
+		\draw[connector] (culture) -- (cult1);
+		\draw[connector] (culture) -- (cult2);
+		\draw[connector] (culture) -- (cult3);
+		\draw[connector] (culture) -- (cult4);
+		\draw[connector] (culture) -- (cult5);
+		
+		% Connexions pour Enseignement et Recherche
+		\draw[connector] (recherche) -- (rech1);
+		\draw[connector] (recherche) -- (rech2);
+		\draw[connector] (recherche) -- (rech3);
+		\draw[connector] (recherche) -- (rech4);
+		\draw[connector] (recherche) -- (rech5);
+		
+		% Connexions pour Associations aéronautiques
+		\draw[connector] (associations) -- (assoc1);
+		\draw[connector] (associations) -- (assoc2);
+		\draw[connector] (associations) -- (assoc3);
+		\draw[connector] (associations) -- (assoc4);
+		\draw[connector] (associations) -- (assoc5);
+		
+	\end{tikzpicture}
+\end{adjustbox}
