@@ -45,32 +45,32 @@
 
 %%%% Mots clés pour gérer la bibliographie thématique
 \DeclareSourcemap{
- \maps[datatype=bibtex]{
-  \map[overwrite]{
-    \perdatasource{./bibliographie/archives_numeriques.bib}
-    \step[fieldset=keywords, fieldvalue={,texArchivesNumeriques}, append]
-  }
-  \map[overwrite]{
-    \perdatasource{./bibliographie/cooperation.bib}
-    \step[fieldset=keywords, fieldvalue={,texCollab}, append]
-  }
-  \map[overwrite]{
-    \perdatasource{./bibliographie/musee_air_espace.bib}
-    \step[fieldset=keywords, fieldvalue={,texHistoire}, append]
-  }
-  \map[overwrite]{
-    \perdatasource{./bibliographie/numerique_institution_pat.bib}
-    \step[fieldset=keywords, fieldvalue={,texNumeriquePatrimoine}, append]
-  }
-  \map[overwrite]{
-    \perdatasource{./bibliographie/thesaurus.bib}
-    \step[fieldset=keywords, fieldvalue={,texThesau}, append]
-  }
-  \map[overwrite]{
-  	\perdatasource{./bibliographie/reflexions.bib}
-  	\step[fieldset=keywords, fieldvalue={,reflexions}, append]
-  }
- }
+	\maps[datatype=bibtex]{
+		\map[overwrite]{
+			\perdatasource{./bibliographie/archives_numeriques.bib}
+			\step[fieldset=keywords, fieldvalue={,texArchivesNumeriques}, append]
+		}
+		\map[overwrite]{
+			\perdatasource{./bibliographie/cooperation.bib}
+			\step[fieldset=keywords, fieldvalue={,texCollab}, append]
+		}
+		\map[overwrite]{
+			\perdatasource{./bibliographie/musee_air_espace.bib}
+			\step[fieldset=keywords, fieldvalue={,texHistoire}, append]
+		}
+		\map[overwrite]{
+			\perdatasource{./bibliographie/numerique_institution_pat.bib}
+			\step[fieldset=keywords, fieldvalue={,texNumeriquePatrimoine}, append]
+		}
+		\map[overwrite]{
+			\perdatasource{./bibliographie/thesaurus.bib}
+			\step[fieldset=keywords, fieldvalue={,texThesau}, append]
+		}
+		\map[overwrite]{
+			\perdatasource{./bibliographie/reflexions.bib}
+			\step[fieldset=keywords, fieldvalue={,reflexions}, append]
+		}
+	}
 }
 
 
@@ -216,19 +216,6 @@
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%% GLOSSAIRE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%Exception: il faut le charger APRÈS hyperref
-\usepackage[toc=true]{glossaries}
-\setglossarystyle{altlistgroup}
-\makeglossaries
-%avec TexStudio: F9 pour compiler le glossaire (s'il y a aussi un index)
-
-\loadglsentries{./parties/backmatter/glossaire.tex}
-
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%% COMMANDES EN ENVIRONNEMENTS PERSONNALISES %%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -245,13 +232,23 @@
 %%%%%%%%%%%%%%%%%%%%%%%% ENVIRONNEMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%% GLOSSAIRE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Exception: il faut le charger APRÈS hyperref
+\usepackage[toc=false]{glossaries}
+\setglossarystyle{altlistgroup}
+\makeglossaries
+%avec TexStudio: F9 pour compiler le glossaire (s'il y a aussi un index)
+
+\loadglsentries{./parties/backmatter/glossaire.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%% INFORMATIONS DE LA PAGE DE TITRE %%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
- 
+
 \author{Maëlys \textsc{Gioan} - M2 TNAH}
-\title{Gestion de l’information à l’ère du numérique : entre héritage et innovation}
+\title{Gestion de l'information à l'ère du numérique : entre héritage et innovation}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -263,14 +260,14 @@
 
 
 \begin{document}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%% FRONTMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%% PAGE DE TITRE %%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%% FRONTMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%% PAGE DE TITRE %%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
 	\begin{titlepage}
 		\begin{center}
 			
@@ -288,7 +285,7 @@
 			\begin{Large}
 				\textbf{Maëlys Gioan}\\
 			\end{Large}
-		%selon le cas
+			%selon le cas
 			\begin{normalsize} \textit{licenciée ès histoire}\\
 				%\textit{diplômé.e de master}
 			\end{normalsize}
@@ -298,12 +295,12 @@
 			\bigskip
 			
 			\begin{Huge}
-				\MakeUppercase{\textbf{La gestion de l’information à l’ère du numérique.\\ \textit{Entre héritage et innovation}}}\\
+				\MakeUppercase{\textbf{La gestion de l'information à l'ère du numérique.\\ \textit{Entre héritage et innovation}}}\\
 			\end{Huge}
 			\bigskip
 			\bigskip
 			\begin{LARGE}
-				\textbf{Le cas du Musée de l’Air et de l’Espace}\\
+				\textbf{Le cas du Musée de l'Air et de l'Espace}\\
 			\end{LARGE}
 			
 			\bigskip
@@ -322,202 +319,202 @@
 			
 		\end{center}
 	\end{titlepage}
-
+	
 	\thispagestyle{empty}	
 	\cleardoublepage
 	
-\frontmatter
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%% RESUME %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
+	\frontmatter
+	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%% RESUME %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	
 	\chapter{Résumé}
-\medskip
+	\medskip
 	Résumé du mémoire en français. Cette page ne doit pas dépasser une page.\\
 	
 	\textbf{Mots-clés:} une liste de mots-clés~; séparés par des points-virgules.
 	
-	\textbf{Informations bibliographiques:} GIOAN Maëlys, \textit{Gestion de l’information à l’ère du numérique : entre héritage et innovation. Le cas du Musée de l’Air et de l’Espace}, mémoire de master \enquote{Technologies numériques appliquées à l'histoire}, dir. Emmanuelle Bermès, Valérie Joyaux, École nationale des chartes, 2025.
+	\textbf{Informations bibliographiques:} GIOAN Maëlys, \textit{Gestion de l'information à l'ère du numérique : entre héritage et innovation. Le cas du Musée de l'Air et de l'Espace}, mémoire de master \enquote{Technologies numériques appliquées à l'histoire}, dir. Emmanuelle Bermès, Valérie Joyaux, École nationale des chartes, 2025.
 	
-		\newpage{\pagestyle{empty}\cleardoublepage}
-
-%%%%%%%%%%%%%%%%%%%%%%%%% REMERCIEMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-	\chapter{Remerciements}
-	
-\lettrine{M}es remerciements vont tout d'abord à\dots
 	\newpage{\pagestyle{empty}\cleardoublepage}
 	
-\chapter{Liste des abréviations}
+	%%%%%%%%%%%%%%%%%%%%%%%%% REMERCIEMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\chapter{Remerciements}
+	
+	\lettrine{M}es remerciements vont tout d'abord à\dots
+	\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	\chapter{Liste des abréviations}
 	\printacronyms[heading=none]
-
-%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAPHIE %%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\chapter{Bibliographie}
-%\addcontentsline{toc}{chapter}{Bibliographie}
-\printbibliography[keyword={texHistoire}, title={Histoire du musée de l'air et de l'espace}]
-\printbibliography[keyword={texCollab}, title={Collaboration entre institutions patrimoniales}]
-\printbibliography[keyword={texNumeriquePatrimoine}, title={Numérique en institution patrimoniale}]
-\printbibliography[keyword={texArchivesNumeriques}, title={Archives Numériques}]
-\printbibliography[keyword={texThesau}, title={Gestion de thésaurus}]
-\printbibliography[keyword={reflexions}, title={Références littéraires}]
 	
- 
-
-%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% Pour intégrer l'ensemble de la biblio au début
-\nocite{*}
-
-\input{./parties/mainmatter/intro.tex} %Input: importer un fichier
-
-\newpage{\pagestyle{empty}\cleardoublepage}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%% MAINMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+	%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAPHIE %%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\chapter{Bibliographie}
+	%\addcontentsline{toc}{chapter}{Bibliographie}
+	\printbibliography[keyword={texHistoire}, title={Histoire du musée de l'air et de l'espace}]
+	\printbibliography[keyword={texCollab}, title={Collaboration entre institutions patrimoniales}]
+	\printbibliography[keyword={texNumeriquePatrimoine}, title={Numérique en institution patrimoniale}]
+	\printbibliography[keyword={texArchivesNumeriques}, title={Archives Numériques}]
+	\printbibliography[keyword={texThesau}, title={Gestion de thésaurus}]
+	\printbibliography[keyword={reflexions}, title={Références littéraires}]
+	
+	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% Pour intégrer l'ensemble de la biblio au début
+	\nocite{*}
+	
+	\input{./parties/mainmatter/intro.tex} %Input: importer un fichier
+	
+	\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%% MAINMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
 	\mainmatter
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE I %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE I %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
 	\part{Le contexte institutionnel particulier du Musée de l'air et de l'espace}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ici, je pourrai mettre une introduction de ma première partie.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\input{./parties/mainmatter/I/A/I_A} 
-\input{./parties/mainmatter/I/B/I_B}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\lettrine{I}{ci}, je pourrai mettre la conclusion de cette partie
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE II %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-	\part{La prolifération de l’information en institution culturelle, un sujet facilement mis de côté}
+	%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
-
+	Ici, je pourrai mettre une introduction de ma première partie.
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\input{./parties/mainmatter/I/A/I_A} 
+	\input{./parties/mainmatter/I/B/I_B}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\lettrine{I}{ci}, je pourrai mettre la conclusion de cette partie
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE II %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\part{La prolifération de l'information en institution culturelle, un sujet facilement mis de côté}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
+	
 	Ici, je pourrai mettre une introduction de ma première partie
 	
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	\input{./parties/mainmatter/II/A/II_A}
 	\input{./parties/mainmatter/II/B/II_B}
 	\input{./parties/mainmatter/II/C/II_C}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-Ici, je pourrai mettre la conclusion  de cette partie.
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE III %%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	Ici, je pourrai mettre la conclusion  de cette partie.
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE III %%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	\part{Gérer la prolifération. Outils et méthodes}
 	
 	
-%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	Ici, je pourrai mettre une introduction de ma première partie
 	
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	\input{./parties/mainmatter/III/A/III_A}
 	\input{./parties/mainmatter/III/B/III_B}
 	\input{./parties/mainmatter/III/C/III_C}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
 	Ici, je pourrai mettre la conclusion de cette partie
 	
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-\chapter*{Conclusion}
-\addcontentsline{toc}{chapter}{Conclusion}
-\newpage{\pagestyle{empty}\cleardoublepage}
+	\chapter*{Conclusion}
+	\addcontentsline{toc}{chapter}{Conclusion}
+	\newpage{\pagestyle{empty}\cleardoublepage}
 	
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%% BACKMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\appendix %Des appendices: tables figures, etc
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXE 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part*{Annexes}
-\addcontentsline{toc}{part}{Annexes}
-
+	
+	
+	
+	
+	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%% BACKMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\appendix %Des appendices: tables figures, etc
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% ANNEXE 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\part*{Annexes}
+	\addcontentsline{toc}{part}{Annexes}
+	
 	\chapter[Chronologie du MAE]{\label{Ax-A}Chronologie du \mae}
-		\LTXtable{\textwidth}{./parties/backmatter/annexes/A1_frise.tex}
+	\LTXtable{\textwidth}{./parties/backmatter/annexes/A1_frise.tex}
 	
 	\chapter[Organigramme]{\label{Ax-B}Organigramme du \mae}
-		\begin{figure}[htbp]
-			\includegraphics[width=\linewidth]{img/SCHEM_organigramme.jpg}
-			\label{fig:schem_organigramme}
-		\end{figure}
-		
+	\begin{figure}[htbp]
+		\includegraphics[width=\linewidth]{img/SCHEM_organigramme.jpg}
+		\label{fig:schem_organigramme}
+	\end{figure}
+	
 	\chapter[Flux de données]{\label{Ax-C}Flux de données de thésaurus au \mae}
-		\begin{figure}[htbp]
-			\includegraphics[width=\textwidth]{img/MODEL_Flux.png}
-			\label{fig:model_flux}
-		\end{figure}
-
+	\begin{figure}[htbp]
+		\includegraphics[width=\textwidth]{img/MODEL_Flux.png}
+		\label{fig:model_flux}
+	\end{figure}
+	
 	\chapter[Interview V. Dhorne]{\label{Ax-D}Interview de Vincent Dhorne, documentaliste au \mae (20 mai 2025)}
 	\input{./parties/backmatter/annexes/A4_interview_doc.tex}	
 	\newpage{\pagestyle{empty}\cleardoublepage}
-
-
- 
-\backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%\printindex
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%% GLOSSAIRE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\printglossaries
-\addcontentsline{toc}{part}{Glossaire}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%% TABLES DES MATIÈRES %%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%% TABLE DES TABLEAUX %%%%%%%%%%%%%%%%%%%%%%%%%
-\listoftables
-\addcontentsline{toc}{part}{Tables}
-
-%%%%%%%%%%%%%%%%%%%%%%%%% TABLE DES FIGURES %%%%%%%%%%%%%%%%%%%%%%
-\listoffigures
-\addcontentsline{toc}{part}{Figures}
-
-%%%%%%%%%%%%%%%%%%%%%%%%% TABLE DES MATIÈRES %%%%%%%%%%%%%%%%%%%%%
-\tableofcontents
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%% FIN DU DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	
+	
+	\backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%\printindex
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%% GLOSSAIRE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\printglossaries
+	\addcontentsline{toc}{part}{Glossaire}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%% TABLES DES MATIÈRES %%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%%%%%%%%%%%%%%%%%%%%% TABLE DES TABLEAUX %%%%%%%%%%%%%%%%%%%%%%%%%
+	\listoftables
+	\addcontentsline{toc}{part}{Tables}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%% TABLE DES FIGURES %%%%%%%%%%%%%%%%%%%%%%
+	\listoffigures
+	\addcontentsline{toc}{part}{Figures}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%% TABLE DES MATIÈRES %%%%%%%%%%%%%%%%%%%%%
+	\tableofcontents
+	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%% FIN DU DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
