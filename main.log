@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  7 AUG 2025 20:54
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  7 AUG 2025 21:06
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1883,35 +1883,28 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (./parties/mainmatter/I/B/I_B_1.tex
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-[][][]\TU/lmr/m/n/10 .[][]Voir []$[][][][][] [] [] [] [][][] [] [][][][][][][] 
-[] [][][][] [] [][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][]
-[][][] [] [][][][][][][] []
- []
 
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 13.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-[][][][][][]$[] \TU/lmr/m/n/10 et la carte interactive sur []$[][][][][] [] [] 
-[] [][][] [] [][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] []
-[][][] [] [][] []
- []
+File: img/CART_musees_armee.png Graphic file (type bmp)
+<img/CART_musees_armee.png>
+) (./parties/mainmatter/I/B/I_B_2.tex)
 
-) (./parties/mainmatter/I/B/I_B_2.tex
+[14]
 
-[14]))
+[15])
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
 (lettrine.sty)             reported on input line 400.
 
 
-[15]
+[16]
 
-[16
+[17
 
 ]
-
-[17]
 
 [18] (./parties/mainmatter/II/A/II_A.tex
 
@@ -2092,10 +2085,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52255 strings out of 474235
- 1133962 string characters out of 5742252
- 1959563 words of memory out of 5000000
- 74134 multiletter control sequences out of 15000+600000
+ 52264 strings out of 474235
+ 1134207 string characters out of 5742252
+ 1959807 words of memory out of 5000000
+ 74142 multiletter control sequences out of 15000+600000
  567110 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,93p,3476b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
