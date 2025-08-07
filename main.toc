@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
 \contentsline {section}{\numberline {1.}A musée d’exception, contraintes d’exception : un musée étroitement dépendant du ministère de la Défense. }{13}{section.2.1}%
-\contentsline {section}{\numberline {2.}Un musée qui s'inclut dans un ensemble de choix politiques qui lui sont indépendants}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.}Un musée qui s'inclut dans un ensemble de choix politiques qui lui sont indépendants}{14}{section.2.2}%
 \contentsline {part}{II\hspace {1em}La prolifération de l’information en institution culturelle, un sujet facilement mis de côté}{15}{part.2}%
 \contentsline {chapter}{\numberline {3}Les vocabulaires contrôlés au \ac {mae}}{19}{chapter.3}%
 \contentsline {section}{\numberline {1.}Une construction séparée : 25 ans d'évolution en silo}{19}{section.3.1}%
@@ -30,7 +30,8 @@
 \contentsline {part}{Annexes}{33}{part*.13}%
 \contentsline {chapter}{\numberline {A}Chronologie du MAE}{33}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Organigramme}{37}{appendix.B}%
-\contentsline {chapter}{Glossaire}{39}{section*.14}%
-\contentsline {part}{Glossaire}{39}{appendix*.15}%
-\contentsline {part}{Tables}{41}{appendix*.16}%
-\contentsline {part}{Figures}{43}{appendix*.17}%
+\contentsline {chapter}{\numberline {C}Flux de données}{39}{appendix.C}%
+\contentsline {chapter}{Glossaire}{41}{section*.14}%
+\contentsline {part}{Glossaire}{41}{appendix*.15}%
+\contentsline {part}{Tables}{43}{appendix*.16}%
+\contentsline {part}{Figures}{45}{appendix*.17}%
