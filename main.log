@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  7 AUG 2025 20:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  7 AUG 2025 20:54
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1882,27 +1882,28 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 4.
 (./parties/mainmatter/I/B/I_B_1.tex
 
-[13])
-Runaway argument?
-{Voir \url {https://www.defense.gouv.fr/sga/memoire-culture-archives/\ETC.
-! File ended while scanning use of \@footnotetext.
-<inserted text> 
-                \par 
-l.6 \input{parties/mainmatter/I/B/I_B_1.tex}
-                                            
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[][][]\TU/lmr/m/n/10 .[][]Voir []$[][][][][] [] [] [] [][][] [] [][][][][][][] 
+[] [][][][] [] [][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][]
+[][][] [] [][][][][][][] []
+ []
 
-(./parties/mainmatter/I/B/I_B_2.tex))
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[][][][][][]$[] \TU/lmr/m/n/10 et la carte interactive sur []$[][][][][] [] [] 
+[] [][][] [] [][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] []
+[][][] [] [][] []
+ []
+
+) (./parties/mainmatter/I/B/I_B_2.tex
+
+[14]))
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
 (lettrine.sty)             reported on input line 400.
 
-
-[14]
 
 [15]
 
@@ -2086,24 +2087,16 @@ Annexe D.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52256 strings out of 474235
- 1133968 string characters out of 5742252
- 1959517 words of memory out of 5000000
- 74135 multiletter control sequences out of 15000+600000
- 567108 words of font info for 95 fonts, out of 8000000 for 9000
+ 52255 strings out of 474235
+ 1133962 string characters out of 5742252
+ 1959563 words of memory out of 5000000
+ 74134 multiletter control sequences out of 15000+600000
+ 567110 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,93p,3476b,5377s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
