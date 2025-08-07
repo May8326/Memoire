@@ -238,6 +238,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\mae}{\ac{mae} }
 
+%%%%%% QUESTIONS - REPONSES pour les interviews
+\newcommand{\reponse}[1]{\textbf{Réponse : }\textit{#1}}
+\newcommand{\question}[1]{\textbf{Question : }#1}
+
 %%%%%%%%%%%%%%%%%%%%%%%% ENVIRONNEMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -396,7 +400,7 @@ Ici, je pourrai mettre une introduction de ma première partie.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ici, je pourrai mettre la conclusion de cette partie
+\lettrine{I}{ci}, je pourrai mettre la conclusion de cette partie
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE II %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -475,14 +479,16 @@ Ici, je pourrai mettre la conclusion  de cette partie.
 		
 	\chapter[Flux de données]{\label{Ax-C}Flux de données de thésaurus au \mae}
 		\begin{figure}[htbp]
-			\includegraphics[width=\columnwidth,angle=90]{img/MODEL_Flux.png}
+			\includegraphics[width=\textwidth]{img/MODEL_Flux.png}
 			\label{fig:model_flux}
 		\end{figure}
 
-\newpage{\pagestyle{empty}\cleardoublepage}
+	\chapter[Interview V. Dhorne]{\label{Ax-D}Interview de Vincent Dhorne, documentaliste au \mae (20 mai 2025)}
+	\input{./parties/backmatter/annexes/A4_interview_doc.tex}	
+	\newpage{\pagestyle{empty}\cleardoublepage}
 
 
-
+ 
 \backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%

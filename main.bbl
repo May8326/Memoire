@@ -2205,11 +2205,17 @@
       \endverb
       \keyw{_THESAUgestion,texThesau,texThesau}
     \endentry
-    \entry{museedelairetdelespaceRapportDactivite2023}{misc}{}{}
+    \entry{museedelairetdelespaceProjetScientifiqueCulturel2020}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2fc45ce779234ad7b92d3171ba305331}{%
            family={{Musée de l'air et de l'espace}},
            familyi={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Musée de l'air et de l'espace}%
+      }
+      \list{location}{1}{%
+        {Le Bourget}%
       }
       \strng{namehash}{2fc45ce779234ad7b92d3171ba305331}
       \strng{fullhash}{2fc45ce779234ad7b92d3171ba305331}
@@ -2223,8 +2229,41 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{PSC 2020}
+      \field{title}{Projet Scientifique et Culturel}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \keyw{,texHistoire}
+    \endentry
+    \entry{museedelairetdelespaceRapportDactivite2023}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2fc45ce779234ad7b92d3171ba305331}{%
+           family={{Musée de l'air et de l'espace}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Musée de l'air et de l'espace}%
+      }
+      \list{location}{1}{%
+        {Le Bourget}%
+      }
+      \strng{namehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{fullhash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{fullhashraw}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{bibnamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorbibnamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authornamehash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorfullhash}{2fc45ce779234ad7b92d3171ba305331}
+      \strng{authorfullhashraw}{2fc45ce779234ad7b92d3171ba305331}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Rapport d'activité}
+      \field{type}{Rapport d'activité}
       \field{urlday}{5}
       \field{urlmonth}{8}
       \field{urlyear}{2025}
@@ -2257,7 +2296,7 @@
       \strng{authornamehash}{2fc45ce779234ad7b92d3171ba305331}
       \strng{authorfullhash}{2fc45ce779234ad7b92d3171ba305331}
       \strng{authorfullhashraw}{2fc45ce779234ad7b92d3171ba305331}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
