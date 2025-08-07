@@ -12,7 +12,7 @@
 \contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{6}{subsection.1.1.2}%
 \contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{8}{section.1.2}%
 \contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{9}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Le réseau du \ac {mae} : mettre en place une politique et des outils documentaires adaptés}{9}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
 \contentsline {section}{\numberline {1.}A musée d’exception, contraintes d’exception : un musée étroitement dépendant du ministère de la Défense. }{13}{section.2.1}%
 \contentsline {section}{\numberline {2.}Un musée qui s'inclut dans un ensemble de choix politiques qui lui sont indépendants}{13}{section.2.2}%
@@ -29,6 +29,7 @@
 \contentsline {chapter}{Conclusion}{29}{chapter*.12}%
 \contentsline {part}{Annexes}{33}{part*.13}%
 \contentsline {chapter}{\numberline {A}Chronologie du MAE}{33}{appendix.A}%
-\contentsline {chapter}{Glossaire}{37}{section*.14}%
-\contentsline {part}{Glossaire}{37}{appendix*.15}%
-\contentsline {part}{Tables}{39}{appendix*.16}%
+\contentsline {chapter}{\numberline {B}Organigramme}{37}{appendix.B}%
+\contentsline {chapter}{Glossaire}{39}{section*.14}%
+\contentsline {part}{Glossaire}{39}{appendix*.15}%
+\contentsline {part}{Tables}{41}{appendix*.16}%

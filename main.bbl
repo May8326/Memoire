@@ -1365,6 +1365,7 @@
       \field{year}{2012}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{130\bibrangedash 140}
       \range{pages}{11}
       \verb{doi}
