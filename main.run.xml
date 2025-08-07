@@ -81,8 +81,8 @@
     <requires type="editable">
       <file>./bibliographie/archives_numeriques.bib</file>
       <file>./bibliographie/cooperation.bib</file>
-      <file>./bibliographie/histoire_musee.bib</file>
-      <file>./bibliographie/numerique_patrimoine.bib</file>
+      <file>./bibliographie/musee_air_espace.bib</file>
+      <file>./bibliographie/numerique_institution_pat.bib</file>
       <file>./bibliographie/thesaurus.bib</file>
       <file>./bibliographie/reflexions.bib</file>
     </requires>
