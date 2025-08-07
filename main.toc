@@ -33,3 +33,4 @@
 \contentsline {chapter}{Glossaire}{39}{section*.14}%
 \contentsline {part}{Glossaire}{39}{appendix*.15}%
 \contentsline {part}{Tables}{41}{appendix*.16}%
+\contentsline {part}{Figures}{43}{appendix*.17}%
