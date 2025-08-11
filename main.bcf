@@ -2187,9 +2187,14 @@
     <bcf:citekey order="9" intorder="1">champenoisTresorsMuseeLair</bcf:citekey>
     <bcf:citekey order="10" intorder="1">19192019CentAns</bcf:citekey>
     <bcf:citekey order="11" intorder="1">terrierAeroportParisBourget2019</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">museedelairetdelespaceProjetScientifiqueCulturel2020</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">barneyPenseesDuneAmazone1920</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">chichereauNormesConceptionGestion2007</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">ArticleR34131Code2008</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">ArticleR341373Code2013</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">ministeredesarmeesInstructionNdeg303ARM2023</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">museedelairetdelespaceProjetScientifiqueCulturel2020</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">ministeredesarmeesKitCommunicationCLADE</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">barneyPenseesDuneAmazone1920</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">chichereauNormesConceptionGestion2007</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">ministeredesarmeesKitCommunicationCLADE</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

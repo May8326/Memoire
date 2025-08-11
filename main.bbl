@@ -45,6 +45,51 @@
       \endverb
       \keyw{,texHistoire}
     \endentry
+    \entry{ArticleR34131Code2008}{legislation}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{journaltitle}{Code de la défense}
+      \field{langid}{french}
+      \field{month}{11}
+      \field{title}{Article R3413-1 - Code de la défense}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019840162
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019840162
+      \endverb
+      \keyw{,texHistoire}
+    \endentry
+    \entry{ArticleR341373Code2013}{legislation}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Code de la défense}
+      \field{month}{1}
+      \field{title}{Article {{R3413-73}} - {{Code}} de La Défense}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026624141
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026624141
+      \endverb
+      \keyw{,texHistoire}
+    \endentry
     \entry{barbelinDossierDoeuvreDossier2016a}{incollection}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d4bb09a4dc0425de2cd54042481cc3c9}{%
@@ -1601,6 +1646,27 @@
       \endverb
       \keyw{_normalisation,texThesau,texThesau}
     \endentry
+    \entry{LettreDinformationNdeg01}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Lettre d'information N°01 | {{CLADE}}.Net}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/CJTGNDID/79899a48-68c1-4f3c-a26d-f1ec7c5f6252.html
+      \endverb
+      \verb{urlraw}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/document/79899a48-68c1-4f3c-a26d-f1ec7c5f6252
+      \endverb
+      \verb{url}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/document/79899a48-68c1-4f3c-a26d-f1ec7c5f6252
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
+    \endentry
     \entry{levarwegnerMetadataObscuraRefocusing2019}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=50a9d6c97470e5b410db0918be0da27a}{%
@@ -2051,6 +2117,82 @@
       \endverb
       \keyw{_normalisation,texThesau,texThesau}
     \endentry
+    \entry{ministeredesarmeesInstructionNdeg303ARM2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea63ff44985da770ceaf1c458ce8ddb5}{%
+           family={{Ministère des Armées}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{bibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorbibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authornamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Edition Chronologique}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{Bulletin Officiel des Armées}
+      \field{langid}{french}
+      \field{title}{Instruction n°303/ARM/SGA/DMCA/SDPC}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7PAMXFPP/boc-mai-2023.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.defense.gouv.fr/sites/default/files/sga/Texte%209%20INSTRUCTION%20N°%20303.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.defense.gouv.fr/sites/default/files/sga/Texte%209%20INSTRUCTION%20N%C2%B0%20303.pdf
+      \endverb
+      \keyw{,texHistoire}
+      \warn{\item article entry 'ministeredesarmeesInstructionNdeg303ARM2023' (./bibliographie/musee_air_espace.bib): Invalid format '2023-05-26T11:02:40+0200' of date field 'date' - ignoring}
+    \endentry
+    \entry{ministeredesarmeesKitCommunicationCLADE}{unpublished}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea63ff44985da770ceaf1c458ce8ddb5}{%
+           family={{Ministère des Armées}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{bibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorbibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authornamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kit Communication de {{CLADE}}}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/ZAAQPD27/a800a485-4f83-4d84-9570-d404bfb59d02.html
+      \endverb
+      \verb{urlraw}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/dossier/a800a485-4f83-4d84-9570-d404bfb59d02
+      \endverb
+      \verb{url}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/dossier/a800a485-4f83-4d84-9570-d404bfb59d02
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
+    \endentry
     \entry{mirambet-parisConservationrestaurationPatrimoineTechnique2011}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f2a782226990984a9a38d58cc5e1d7cc}{%
@@ -2235,6 +2377,7 @@
       \field{title}{Projet Scientifique et Culturel}
       \field{year}{2020}
       \field{dateera}{ce}
+      \true{nocite}
       \keyw{,texHistoire}
     \endentry
     \entry{museedelairetdelespaceRapportDactivite2023}{report}{}{}
@@ -2909,6 +3052,25 @@
       \verb https://www.persee.fr/doc/gazar_0016-5522_2020_num_257_1_5952
       \endverb
       \keyw{_collaborationBibArchMusee,_theorie,texArchivesNumeriques,texArchivesNumeriques}
+    \endentry
+    \entry{Section3Musee2008}{legislation}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{journaltitle}{Code de la Défense}
+      \field{month}{11}
+      \field{title}{Section 3 : {{Musée}} de l'air et de l'espace - {{Partie}} 3 Livre {{IV Titre}} 1er {{Chapitre III}}}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071307/LEGISCTA000019838574/#LEGISCTA000019840168
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071307/LEGISCTA000019838574/#LEGISCTA000019840168
+      \endverb
+      \keyw{,texHistoire}
     \endentry
     \entry{taboadaOntologyMatchingLarge2025}{online}{}{}
       \name{author}{4}{}{%
