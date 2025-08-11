@@ -34,6 +34,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAPHIE %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}% style de l'EnC (https://ctan.org/pkg/biblatex-enc)
+\DeclareBibliographyAlias{legislation}{misc}
+\DeclareBibliographyAlias{cite:legislation}{cite:misc}% aliases pour citer des articles de loi - le style EnC ne les intègre pas
+
 
 %\defbibheading{}{\subsection*{Biblio}} % Pour changer le titre de la/les bibliographie(s)
 \addbibresource{./bibliographie/archives_numeriques.bib}
@@ -98,6 +101,7 @@
 \DeclareAcronym{psc}{short = PSC, long = projet scientifique et culturel}
 \DeclareAcronym{anr}{short = ANR, long = Agence Nationale de la Recherche}
 \DeclareAcronym{c2rmf}{short = C2RMF, long = Centre de recherche et de restauration des musées de France}
+\DeclareAcronym{clade}{short = CLADE, long = Coopération pour l’Accès à la Documentation Electronique – Bibliothèques Numériques}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%% MISE EN PAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -224,6 +228,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%% COMMANDES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\mae}{\ac{mae} }
+\newcommand{\bibmusee}{\enquote{\textit{bib-musées}}}
+\newcommand{\minarm}{ministère des Armées}
 
 %%%%%% QUESTIONS - REPONSES pour les interviews
 \newcommand{\reponse}[1]{\textbf{Réponse : }\textit{#1}}
