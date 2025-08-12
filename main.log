@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  12 AUG 2025 11:32
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  12 AUG 2025 12:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1827,7 +1827,34 @@ n/12 (visité le 18/04/2025).
 
 [20
 
-])
+]
+
+! LaTeX Error: Environment note undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ^^I\begin{note}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{quote} on input line 3 ended by \end{note}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ^^I\end{note}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
 
 [21]
 
@@ -1909,11 +1936,11 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 ]
 File: img/CART_musees_armee.png Graphic file (type bmp)
 <img/CART_musees_armee.png>
-)
+
 
 [14]
 
-[15] (./parties/mainmatter/I/B/I_B_2.tex
+[15]) (./parties/mainmatter/I/B/I_B_2.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 1.
@@ -1927,16 +1954,22 @@ File: img/IMG_clade_histoireaviation_mae.png Graphic file (type bmp)
 <img/IMG_clade_histoireaviation_mae.png>
 File: img/IMG_clade_histoireaviation_navale.png Graphic file (type bmp)
 <img/IMG_clade_histoireaviation_navale.png>
-))
+)
+Overfull \hbox (3.45354pt too wide) in paragraph at lines 37--11
+[]\TU/lmr/m/n/12 Ce cas illustre parfaitement les tensions inhérentes aux vocab
+ulaires contrôlés en contexte
+ []
+
+
+
+[17]
+
+[18])
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
 (lettrine.sty)             reported on input line 413.
 
-
-[17]
-
-[18]
 
 [19]
 
@@ -2126,8 +2159,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  54069 strings out of 474235
- 1174402 string characters out of 5742252
- 1992161 words of memory out of 5000000
+ 1174160 string characters out of 5742252
+ 1992127 words of memory out of 5000000
  75932 multiletter control sequences out of 15000+600000
  567423 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
