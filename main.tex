@@ -34,6 +34,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAPHIE %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}% style de l'EnC (https://ctan.org/pkg/biblatex-enc)
+\DeclareBibliographyAlias{legislation}{misc}
+\DeclareBibliographyAlias{cite:legislation}{cite:misc}% aliases pour citer des articles de loi - le style EnC ne les intègre pas
+
 
 %\defbibheading{}{\subsection*{Biblio}} % Pour changer le titre de la/les bibliographie(s)
 \addbibresource{./bibliographie/archives_numeriques.bib}
@@ -98,6 +101,12 @@
 \DeclareAcronym{psc}{short = PSC, long = projet scientifique et culturel}
 \DeclareAcronym{anr}{short = ANR, long = Agence Nationale de la Recherche}
 \DeclareAcronym{c2rmf}{short = C2RMF, long = Centre de recherche et de restauration des musées de France}
+\DeclareAcronym{clade}{short = CLADE, long = Coopération pour l’Accès à la Documentation Electronique – Bibliothèques Numériques}
+
+%%%%%%%%%%%%%%%%%%%%%%%%% IMAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}
+\usepackage{subcaption} %pour les groupes d'images
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%% MISE EN PAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -224,6 +233,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%% COMMANDES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\mae}{\ac{mae} }
+\newcommand{\maelong}{\acf{mae} }
+\newcommand{\bibmusee}{\enquote{\textit{bib-musées}}}
+\newcommand{\minarm}{ministère des Armées}
 
 %%%%%% QUESTIONS - REPONSES pour les interviews
 \newcommand{\reponse}[1]{\textbf{Réponse : }\textit{#1}}
@@ -356,12 +368,13 @@
 	
 	\chapter{Bibliographie}
 	%\addcontentsline{toc}{chapter}{Bibliographie}
-	\printbibliography[keyword={texHistoire}, title={Histoire du musée de l'air et de l'espace}]
-	\printbibliography[keyword={texCollab}, title={Collaboration entre institutions patrimoniales}]
-	\printbibliography[keyword={texNumeriquePatrimoine}, title={Numérique en institution patrimoniale}]
-	\printbibliography[keyword={texArchivesNumeriques}, title={Archives Numériques}]
-	\printbibliography[keyword={texThesau}, title={Gestion de thésaurus}]
-	\printbibliography[keyword={reflexions}, title={Références littéraires}]
+	\printbibliography[keyword={texHistoire}, notkeyword={dontcite}, title={Histoire du musée de l'air et de l'espace}]
+	\printbibliography[keyword={texCollab}, notkeyword={dontcite}, title={Collaboration entre institutions patrimoniales}]
+	\printbibliography[keyword={texNumeriquePatrimoine}, notkeyword={dontcite}, title={Numérique en institution patrimoniale}]
+	\printbibliography[keyword={texArchivesNumeriques}, notkeyword={dontcite}, title={Archives Numériques}]
+	\printbibliography[keyword={texThesau}, notkeyword={dontcite}, title={Gestion de thésaurus}]
+	\printbibliography[keyword={reflexions}, notkeyword={dontcite}, title={Références littéraires}]
+	
 	
 	
 	
@@ -397,7 +410,7 @@
 	
 	%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSION %%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-	\lettrine{I}{ci}, je pourrai mettre la conclusion de cette partie
+	\lettrine{C}{ette} situation révèle de nombreuses contraintes, internes liées à l'histoire du musée et externes dans ses tutelles ministérielles, qui font que l'institution a rarement eu dans son histoire l'occasion de raisonner la création et l'enrichissement de son vocabulaire à l'échelle globale du musée. De plus, le cas de la migration vers la plateforme \gls{clade} illustre parfaitement comment cette tâche met en jeu de nombreux acteurs et implique bien plus que les seuls usagers de ces vocabulaires : elle engage l'ensemble de l'écosystème documentaire et muséal dans lequel s'inscrit le \maelong et fait de la gestion terminologique un enjeu dépassant largement les seules préoccupations internes de l'établissement.
 	
 	%%%%%%%%%%%%%%%%%%%%%%%%%%% PARTIE II %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

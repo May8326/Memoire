@@ -43,7 +43,52 @@
       \verb{url}
       \verb https://calenda.org/493791
       \endverb
-      \keyw{,texHistoire}
+      \keyw{dontcite,texHistoire}
+    \endentry
+    \entry{ArticleR34131Code2008}{legislation}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{journaltitle}{Code de la défense}
+      \field{langid}{french}
+      \field{month}{11}
+      \field{title}{Article R3413-1 - Code de la défense}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019840162
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019840162
+      \endverb
+      \keyw{dontcite,texHistoire}
+    \endentry
+    \entry{ArticleR341373Code2013}{legislation}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Code de la défense}
+      \field{month}{1}
+      \field{title}{Article {{R3413-73}} - {{Code}} de La Défense}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026624141
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026624141
+      \endverb
+      \keyw{dontcite,texHistoire}
     \endentry
     \entry{barbelinDossierDoeuvreDossier2016a}{incollection}{}{}
       \name{author}{1}{}{%
@@ -119,7 +164,7 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{langid}{fre}
+      \field{langid}{french}
       \field{pagetotal}{264}
       \field{title}{Pensées d'une amazone}
       \field{urlday}{21}
@@ -426,7 +471,7 @@
       \endverb
       \keyw{_webSemantique,texThesau,texThesau}
     \endentry
-    \entry{borgesBibliothequeBabel2011}{book}{}{}
+    \entry{borgesBibliothequeBabel1990}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=91139531f43939b67ec77b68d4f74acf}{%
            family={Borges},
@@ -443,7 +488,10 @@
            giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Paris}%
+        {Châteauroux}%
+      }
+      \list{publisher}{1}{%
+        {R. Bonargent}%
       }
       \strng{namehash}{91139531f43939b67ec77b68d4f74acf}
       \strng{fullhash}{91139531f43939b67ec77b68d4f74acf}
@@ -461,12 +509,12 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{Ed. du Littéraire}
-      \field{isbn}{2257-5693}
+      \field{annotation}{ill. 18 x 18 cm. Cette nouvelle est extr. de "Fictions. Tiré à 198 ex.}
       \field{langid}{fre}
-      \field{series}{Fictions}
+      \field{number}{33}
+      \field{series}{Indifférences}
       \field{title}{La Bibliothèque de Babel}
-      \field{year}{2011}
+      \field{year}{1990}
       \field{dateera}{ce}
       \keyw{,reflexions}
     \endentry
@@ -745,6 +793,7 @@
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{This paper discusses four major projects undertaken by the National Library Board (NLB) to implement content discovery solutions that enhance discovery and accessibility to digitised archived content such as geo-referenced maps, photographs and audio-visual recordings. This paper falls under the “Libraries, archives and museums in dialogue: Improving access to complementary collections” topic. In November 2012, NLB’s role expanded beyond offering library collections when the National Archives of Singapore became an institution of NLB. Besides inheriting a treasure trove of primary research material about Singapore government’s corporate memory, public and private records, its role expanded to include collection, preservation and management of those collections. First, NLB had to consolidate the vast collections across its libraries and the archives to offer a unified research experience. A cross functional team consisting of content specialists and technologists was formed. The team’s first priority was to harmonise content. The Archives uses ISAD-G (General International Standard Archival Description) to describe archival records while NLB uses Dublin Core standard to describe its library collection. Harmonisation is needed to enable a common search interface that offers normalised search results and relevant facets to refine search results. This paper will cover the harmonisation process as well as the user research studies to ensure that the labels speak the users’ language, with words, phrases and concepts that are familiar to the users. Second, having built a common foundation through the data harmonisation project, NLB developed new digital research services. One notable example is Spatial Discovery, a platform that allows researchers to search and discover maps from the libraries and archives. The maps are geo-referenced so that researchers can accurately trace the changing landscapes. Beyond NLB, the harmonisation project’s outputs have benefitted other local institutions in the cultural heritage business. The National Heritage Board and National Gallery of Singapore were able to leverage the common standards through knowledge and technology sharing via content partnership. Third, the paper will discuss the NLB’s recent experience in leveraging Linked Data and Machine Learning to improve content discovery and access. A common researcher’s feedback is difficulties in drawing linkages between articles with other content. To address the problem, text analysis was used to surface complementary content relevant to the research topic. A linked data feature was also launched to help researchers see the relationships of entities mentioned in the piece of content. Researchers are now able to quickly find out more about the events, personalities and places mentioned. Finally, beyond employing technologies for content discovery, NLB has also used Machine Learning to aid content description. Entity extraction technology was used to geo-tag one million digitised photographs so that they could be delivered on a map view. If done manually, it would be a massive undertaking. The NLB is currently in the midst of building its image recognition model to describe its image-based content. When completed, it would be able to assist staff in building metadata by detecting faces and places within images.}
       \field{eventtitle}{Libraries, {{Archives}} and {{Museums}} in {{Dialogue}}. {{Art Libraries Section}} in Collaboration with the {{Subject Analysis}} and {{Access Section}}}
+      \field{langid}{english}
       \field{shorttitle}{Taking on the Content Discovery Challenge}
       \field{title}{Taking on the Content Discovery Challenge: {{The NLB Case Study}}}
       \field{urlday}{5}
@@ -923,7 +972,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{978-2-7577-0860-6}
-      \field{langid}{fre}
+      \field{langid}{french}
       \field{pagetotal}{64}
       \field{series}{Itinéraires}
       \field{shorttitle}{Le musée de l'air et de l'espace}
@@ -1601,6 +1650,27 @@
       \endverb
       \keyw{_normalisation,texThesau,texThesau}
     \endentry
+    \entry{LettreDinformationNdeg01}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Lettre d'information N°01 | {{CLADE}}.Net}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/CJTGNDID/79899a48-68c1-4f3c-a26d-f1ec7c5f6252.html
+      \endverb
+      \verb{urlraw}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/document/79899a48-68c1-4f3c-a26d-f1ec7c5f6252
+      \endverb
+      \verb{url}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/document/79899a48-68c1-4f3c-a26d-f1ec7c5f6252
+      \endverb
+      \keyw{dontcite,texNumeriquePatrimoine}
+    \endentry
     \entry{levarwegnerMetadataObscuraRefocusing2019}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=50a9d6c97470e5b410db0918be0da27a}{%
@@ -2051,6 +2121,84 @@
       \endverb
       \keyw{_normalisation,texThesau,texThesau}
     \endentry
+    \entry{ministeredesarmeesInstructionNdeg303ARM2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea63ff44985da770ceaf1c458ce8ddb5}{%
+           family={{Ministère des Armées}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{bibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorbibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authornamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{edition}{Edition Chronologique}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{Bulletin Officiel des Armées}
+      \field{langid}{french}
+      \field{month}{5}
+      \field{title}{Instruction n°303/ARM/SGA/DMCA/SDPC}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7PAMXFPP/boc-mai-2023.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.defense.gouv.fr/sites/default/files/sga/Texte%209%20INSTRUCTION%20N°%20303.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.defense.gouv.fr/sites/default/files/sga/Texte%209%20INSTRUCTION%20N%C2%B0%20303.pdf
+      \endverb
+      \keyw{dontcite,texHistoire}
+    \endentry
+    \entry{ministeredesarmeesKitCommunicationCLADE}{unpublished}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea63ff44985da770ceaf1c458ce8ddb5}{%
+           family={{Ministère des Armées}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{fullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{bibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorbibnamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authornamehash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhash}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \strng{authorfullhashraw}{ea63ff44985da770ceaf1c458ce8ddb5}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kit Communication de {{CLADE}}}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/ZAAQPD27/a800a485-4f83-4d84-9570-d404bfb59d02.html
+      \endverb
+      \verb{urlraw}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/dossier/a800a485-4f83-4d84-9570-d404bfb59d02
+      \endverb
+      \verb{url}
+      \verb https://bibliotheques-numeriques.defense.gouv.fr/dossier/a800a485-4f83-4d84-9570-d404bfb59d02
+      \endverb
+      \keyw{dontcite,texNumeriquePatrimoine}
+    \endentry
     \entry{mirambet-parisConservationrestaurationPatrimoineTechnique2011}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f2a782226990984a9a38d58cc5e1d7cc}{%
@@ -2318,6 +2466,54 @@
       \verb https://www.museeairespace.fr/wp-content/uploads/sites/2/2025/06/Dossier-de-presse-NAVACA-06-2025.pdf
       \endverb
       \keyw{,texHistoire}
+    \endentry
+    \entry{officemuseumexpertsSKINsoftEquipe252016}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c224f3ae3af27e23ed33b57e1c22fb08}{%
+           family={Museumexperts},
+           familyi={M\bibinitperiod},
+           given={Office},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \strng{fullhash}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \strng{fullhashraw}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \strng{bibnamehash}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \strng{authorbibnamehash}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \strng{authornamehash}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \strng{authorfullhash}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \strng{authorfullhashraw}{c224f3ae3af27e23ed33b57e1c22fb08}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pour le projet Archange pour le Ministère de la Défense, SKINsoft a mis en œuvre sa solution full-web simple et performante : le logiciel S-museum}
+      \field{day}{29}
+      \field{hour}{16}
+      \field{langid}{french}
+      \field{minute}{51}
+      \field{month}{6}
+      \field{second}{47}
+      \field{timezone}{Z}
+      \field{title}{SKINsoft équipe 25 établissements du Ministère de la Défense}
+      \field{type}{SITEM}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/PXRZM3X9/skinsoft-equipe-25-etablissements-150-utilisateurs-ministere-de-defense.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sitem.fr/skinsoft-equipe-25-etablissements-150-utilisateurs-ministere-de-defense/
+      \endverb
+      \verb{url}
+      \verb https://www.sitem.fr/skinsoft-equipe-25-etablissements-150-utilisateurs-ministere-de-defense/
+      \endverb
+      \keyw{dontcite,texHistoire}
     \endentry
     \entry{nizetMuseeLairLespace2011}{book}{}{}
       \name{editor}{1}{}{%
@@ -2909,6 +3105,25 @@
       \verb https://www.persee.fr/doc/gazar_0016-5522_2020_num_257_1_5952
       \endverb
       \keyw{_collaborationBibArchMusee,_theorie,texArchivesNumeriques,texArchivesNumeriques}
+    \endentry
+    \entry{Section3Musee2008}{legislation}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{journaltitle}{Code de la Défense}
+      \field{month}{11}
+      \field{title}{Section 3 : {{Musée}} de l'air et de l'espace - {{Partie}} 3 Livre {{IV Titre}} 1er {{Chapitre III}}}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071307/LEGISCTA000019838574/#LEGISCTA000019840168
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071307/LEGISCTA000019838574/#LEGISCTA000019840168
+      \endverb
+      \keyw{dontcite,texHistoire}
     \endentry
     \entry{taboadaOntologyMatchingLarge2025}{online}{}{}
       \name{author}{4}{}{%

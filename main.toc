@@ -9,29 +9,29 @@
 \contentsline {chapter}{\numberline {1}Référence nationale}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.}La représentation nationale : un musée aux collections uniques}{5}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.}La lente construction du \ac {mae} }{5}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{6}{subsection.1.1.2}%
-\contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{8}{section.1.2}%
-\contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{9}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
+\contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{9}{section.1.2}%
+\contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{10}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
-\contentsline {section}{\numberline {1.}A musée d’exception, contraintes d’exception : un musée étroitement dépendant du ministère de la Défense. }{13}{section.2.1}%
-\contentsline {section}{\numberline {2.}Un musée qui s'inclut dans un ensemble de choix politiques qui lui sont indépendants}{14}{section.2.2}%
-\contentsline {part}{II\hspace {1em}La prolifération de l'information en institution culturelle, un sujet facilement mis de côté}{17}{part.2}%
-\contentsline {chapter}{\numberline {3}Les vocabulaires contrôlés au \ac {mae}}{21}{chapter.3}%
-\contentsline {section}{\numberline {1.}Une construction séparée : 25 ans d'évolution en silo}{21}{section.3.1}%
-\contentsline {subsection}{\numberline {1.1.}Les prémices : Alexandrie et Micromusée, une coexistence sans concertation (1996 – années 2010)}{22}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {1.2.}Un tournant documentaire : la création de l’e-médiathèque (2016 – 2020)}{23}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {1.3.}Des architectures hétérogènes}{23}{subsection.3.1.3}%
-\contentsline {section}{\numberline {2.}Des conséquences importantes}{24}{section.3.2}%
-\contentsline {chapter}{\numberline {4}PDV métier}{25}{chapter.4}%
-\contentsline {section}{\numberline {1.}titre}{25}{section.4.1}%
-\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{27}{part.3}%
-\contentsline {chapter}{Conclusion}{31}{chapter*.12}%
-\contentsline {part}{Annexes}{35}{part*.13}%
-\contentsline {chapter}{\numberline {A}Chronologie du MAE}{35}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Organigramme}{39}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Flux de données}{41}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{43}{appendix.D}%
-\contentsline {part}{Glossaire}{47}{appendix*.21}%
-\contentsline {part}{Tables}{49}{appendix*.22}%
-\contentsline {part}{Figures}{51}{appendix*.23}%
+\contentsline {section}{\numberline {1.}À musée d'exception, contraintes d'exception : un musée étroitement dépendant du ministère de la Défense. }{13}{section.2.1}%
+\contentsline {section}{\numberline {2.}Conséquences. Le cas de la migration vers la plateforme de \gls {clade}}{16}{section.2.2}%
+\contentsline {part}{II\hspace {1em}La prolifération de l'information en institution culturelle, un sujet facilement mis de côté}{21}{part.2}%
+\contentsline {chapter}{\numberline {3}Les vocabulaires contrôlés au \ac {mae}}{25}{chapter.3}%
+\contentsline {section}{\numberline {1.}Une construction séparée : 25 ans d'évolution en silo}{25}{section.3.1}%
+\contentsline {subsection}{\numberline {1.1.}Les prémices : Alexandrie et Micromusée, une coexistence sans concertation (1996 – années 2010)}{26}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Un tournant documentaire : la création de l’e-médiathèque (2016 – 2020)}{27}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {1.3.}Des architectures hétérogènes}{27}{subsection.3.1.3}%
+\contentsline {section}{\numberline {2.}Des conséquences importantes}{28}{section.3.2}%
+\contentsline {chapter}{\numberline {4}PDV métier}{29}{chapter.4}%
+\contentsline {section}{\numberline {1.}titre}{29}{section.4.1}%
+\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{31}{part.3}%
+\contentsline {chapter}{Conclusion}{35}{chapter*.16}%
+\contentsline {part}{Annexes}{39}{part*.17}%
+\contentsline {chapter}{\numberline {A}Chronologie du MAE}{39}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Organigramme}{43}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Flux de données}{45}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{47}{appendix.D}%
+\contentsline {part}{Glossaire}{52}{appendix*.27}%
+\contentsline {part}{Tables}{53}{appendix*.28}%
+\contentsline {part}{Figures}{55}{appendix*.29}%

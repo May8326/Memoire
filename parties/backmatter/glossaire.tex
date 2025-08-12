@@ -1,15 +1,48 @@
 \newglossaryentry{thesaurus}{
 	name=thésaurus,
+	sort=thesaurus,
 	description={Vocabulaire structuré permettant l’indexation cohérente de contenus}
 }
 
 
 \newglossaryentry{autorite}{
 	name=autorité,
-	description={Forme normalisée et contrôlée des points d’accès relatifs à une ressource dans un catalogue. Dans les catalogues de bibliothèques, les autorités sont principalement relatives aux “auteurs”, aux “sujets” et aux “titres”.}
+	sort=autorite,
+	description={Forme normalisée et contrôlée des points d’accès relatifs à une ressource dans un catalogue. Dans les catalogues de bibliothèques, les autorités sont principalement relatives aux “auteurs”, aux “sujets” et aux “titres”}
 }
 
 \newglossaryentry{dmca}{
 	name={Direction de la mémoire, de la culture et des archives (DMCA)},
-	description={Définit et met en œuvre les politiques culturelle et mémorielle du ministère. Elle mène également des actions dans le domaine de la mémoire des guerres et des conflits contemporains.}
+	sort=dmca,
+	description={Définit et met en œuvre les politiques culturelle et mémorielle du ministère. Elle mène également des actions dans le domaine de la mémoire des guerres et des conflits contemporains}
+}
+
+\newglossaryentry{bibmusee}{
+	name=\bibmusee,
+	sort=bibmusee,
+	description={Nom donné au \mae à l'ensemble des bibliothèques, de musées ou d'autres institutions, sous la tutelle du ministère des Armées. Celles-ci font depuis 2019 l'objet d'une migration massive vers la plateforme Clade-BN}
+}
+
+\newglossaryentry{clade}{
+	name=\ac{clade},
+	sort=clade,,
+	description={Portail et système documentaire centralisé du ministère des Armées, conçu pour fédérer et uniformiser les catalogues de ses bibliothèques numériques, tout en offrant un accès unique à l’ensemble des notices électroniques\footnote{Définition créée à partir de : \cite{ministeredesarmeesKitCommunicationCLADE}}. Disponible à l'adresse \url{https://bibliotheques-numeriques.defense.gouv.fr}}
+}
+
+\newglossaryentry{archange}{
+	name=\textit{Archange},
+	sort=archange,
+	description={Projet ministériel de gestion informatisée des collections, déployé par l'éditeur de logiciels SKINsoft via le logiciel S-museum, visant à fédérer et administrer dans un espace collaboratif unique les collections des 25 musées et établissements relevant du Ministère de la Défense, tout en conservant pour chaque musée une gestion autonome de ses fonds\footcite{officemuseumexpertsSKINsoftEquipe252016}}
+}
+
+\newglossaryentry{koha}{
+	name=\textit{Koha},
+	sort=koha,
+	description={Koha est un \acf{sigb} libre et open source, développé par une communauté internationale. Il propose des modules pour le catalogage, la gestion des prêts, des acquisitions, des périodiques et des usagers. Accessible via une interface web, il est utilisé par des bibliothèques de toutes tailles à travers le monde.}
+}
+
+\newglossaryentry{alexandrie}{
+	name=\textit{Alexandrie},
+	sort=alexandrie,
+	description={Ancien \ac{sigb} utilisé par le \mae, créé à la fin des années 1990, remplacé par \textit{\ac{clade}} et \textit{Koha} en 2025.}
 }
