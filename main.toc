@@ -11,11 +11,11 @@
 \contentsline {subsection}{\numberline {1.1.}La lente construction du \ac {mae} }{5}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
 \contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{9}{section.1.2}%
-\contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{10}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{9}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
-\contentsline {section}{\numberline {1.}À musée d'exception, contraintes d'exception : un musée étroitement dépendant du ministère des Armées. }{13}{section.2.1}%
-\contentsline {section}{\numberline {2.}Conséquences. Le cas de la migration vers la plateforme de \gls {clade}}{16}{section.2.2}%
+\contentsline {section}{\numberline {1.}Un musée d'exception sous contraintes : la dépendance étroite au ministère de la Défense}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.}Conséquences pratiques : l'exemple de la migration vers la plateforme \gls {clade}}{16}{section.2.2}%
 \contentsline {part}{II\hspace {1em}La prolifération de l'information en institution culturelle, un sujet facilement mis de côté}{21}{part.2}%
 \contentsline {chapter}{\numberline {3}Les vocabulaires contrôlés au \ac {mae}}{25}{chapter.3}%
 \contentsline {section}{\numberline {1.}Une construction séparée : 25 ans d'évolution en silo}{25}{section.3.1}%
