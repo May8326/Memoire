@@ -14,8 +14,8 @@
 \contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{9}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
-\contentsline {section}{\numberline {1.}A musée d'exception, contraintes d'exception : un musée étroitement dépendant du ministère de la Défense. }{13}{section.2.1}%
-\contentsline {section}{\numberline {2.}Conséquences de cette dépendances sur le quotidien du musée}{16}{section.2.2}%
+\contentsline {section}{\numberline {1.}À musée d'exception, contraintes d'exception : un musée étroitement dépendant du ministère de la Défense. }{13}{section.2.1}%
+\contentsline {section}{\numberline {2.}Conséquences. Le cas de la migration vers la plateforme de \gls {clade}}{16}{section.2.2}%
 \contentsline {part}{II\hspace {1em}La prolifération de l'information en institution culturelle, un sujet facilement mis de côté}{19}{part.2}%
 \contentsline {chapter}{\numberline {3}Les vocabulaires contrôlés au \ac {mae}}{23}{chapter.3}%
 \contentsline {section}{\numberline {1.}Une construction séparée : 25 ans d'évolution en silo}{23}{section.3.1}%
@@ -26,12 +26,12 @@
 \contentsline {chapter}{\numberline {4}PDV métier}{27}{chapter.4}%
 \contentsline {section}{\numberline {1.}titre}{27}{section.4.1}%
 \contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{29}{part.3}%
-\contentsline {chapter}{Conclusion}{33}{chapter*.12}%
-\contentsline {part}{Annexes}{37}{part*.13}%
+\contentsline {chapter}{Conclusion}{33}{chapter*.16}%
+\contentsline {part}{Annexes}{37}{part*.17}%
 \contentsline {chapter}{\numberline {A}Chronologie du MAE}{37}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Organigramme}{41}{appendix.B}%
 \contentsline {chapter}{\numberline {C}Flux de données}{43}{appendix.C}%
 \contentsline {chapter}{\numberline {D}Interview V. Dhorne}{45}{appendix.D}%
-\contentsline {part}{Glossaire}{49}{appendix*.21}%
-\contentsline {part}{Tables}{51}{appendix*.22}%
-\contentsline {part}{Figures}{53}{appendix*.23}%
+\contentsline {part}{Glossaire}{50}{appendix*.27}%
+\contentsline {part}{Tables}{51}{appendix*.28}%
+\contentsline {part}{Figures}{53}{appendix*.29}%
