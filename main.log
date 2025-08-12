@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  12 AUG 2025 09:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  12 AUG 2025 10:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1850,7 +1850,7 @@ n/12 (visité le 18/04/2025).
 Chapitre 1.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (I);
+(lettrine.sty)             Lettrine height = 24.16241pt (L);
 (lettrine.sty)             reported on input line 3.
 (./parties/mainmatter/I/A/I_A_1.tex
 
@@ -1861,11 +1861,16 @@ File: img/MODEL_domaines.png Graphic file (type bmp)
 <img/MODEL_domaines.png>
 
 
-[7]) (./parties/mainmatter/I/A/I_A_2.tex
+[7]
 
-[8]
+[8]) (./parties/mainmatter/I/A/I_A_2.tex
+Underfull \vbox (badness 5637) has occurred while \output is active []
 
-[9] (./img/SCHEM_partenaires.tex
+
+
+[9]
+
+[10] (./img/SCHEM_partenaires.tex
 Overfull \hbox (5.24435pt too wide) in paragraph at lines 30--30
  [][]\TU/lmr/bx/n/10.95 Enseignement 
  []
@@ -1892,13 +1897,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--25
 
 
 
-[10])) (./parties/mainmatter/I/B/I_B.tex
+[11])) (./parties/mainmatter/I/B/I_B.tex
 
-[11]
-
-[12
-
-]
+[12]
 Chapitre 2.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1906,16 +1907,19 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 4.
 (./parties/mainmatter/I/B/I_B_1.tex
 
-[13]
+[13
+
+]
 File: img/CART_musees_armee.png Graphic file (type bmp)
 <img/CART_musees_armee.png>
 
+Underfull \vbox (badness 1062) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-)
 
-[14] (./parties/mainmatter/I/B/I_B_2.tex
+[14]
+
+[15]) (./parties/mainmatter/I/B/I_B_2.tex
 Overfull \hbox (32.92494pt too wide) in paragraph at lines 1--1
 \TU/lmr/bx/n/17.28 tion Electronique – Bibliothèques Numériques (CLADE)[][] 
  []
@@ -1925,11 +1929,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 1.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[15]
 
 [16]
 File: img/IMG_clade_histoireaviation_shdTL.png Graphic file (type bmp)
@@ -1938,14 +1937,10 @@ File: img/IMG_clade_histoireaviation_mae.png Graphic file (type bmp)
 <img/IMG_clade_histoireaviation_mae.png>
 File: img/IMG_clade_histoireaviation_navale.png Graphic file (type bmp)
 <img/IMG_clade_histoireaviation_navale.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 ))
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (I);
+(lettrine.sty)             Lettrine height = 24.72845pt (C);
 (lettrine.sty)             reported on input line 413.
 
 
@@ -1953,15 +1948,19 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [18]
 
-[19
+[19]
+
+[20
 
 ]
 
-[20] (./parties/mainmatter/II/A/II_A.tex
-
 [21]
 
-[22
+[22] (./parties/mainmatter/II/A/II_A.tex
+
+[23]
+
+[24
 
 ]
 Chapitre 3.
@@ -1971,17 +1970,17 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 7.
 (./parties/mainmatter/II/A/II_A_1.tex
 
-[23]
+[25]
 
-[24]
+[26]
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
 
-[25]) (./parties/mainmatter/II/A/II_A_2.tex))
+[27]) (./parties/mainmatter/II/A/II_A_2.tex))
 (./parties/mainmatter/II/B/II_B.tex
 
-[26]
+[28]
 Chapitre 4.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1990,24 +1989,18 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (./parties/mainmatter/II/B/II_B_1.tex) (./parties/mainmatter/II/B/II_B_2.tex)
 (./parties/mainmatter/II/B/II_B_3.tex)) (./parties/mainmatter/II/C/II_C.tex)
 
-[27
+[29
 
 ]
 
-[28
+[30
 
 ]
-
-[29]
-
-[30] (./parties/mainmatter/III/A/III_A.tex)
-(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
 
 [31]
 
-[32
-
-]
+[32] (./parties/mainmatter/III/A/III_A.tex)
+(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
 
 [33]
 
@@ -2015,11 +2008,17 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 ]
 
-[35
+[35]
+
+[36
 
 ]
 
-[36]
+[37
+
+]
+
+[38]
 Annexe A.
 (./parties/backmatter/annexes/A1_frise.tex)
 (./parties/backmatter/annexes/A1_frise.tex)
@@ -2048,13 +2047,13 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 16--80
  [] [] 
  []
 
-[37
+[39
 
-] [38])
+] [40])
 
-[39]
+[41]
 
-[40
+[42
 
 ]
 Annexe B.
@@ -2062,9 +2061,9 @@ File: img/SCHEM_organigramme.jpg Graphic file (type bmp)
 <img/SCHEM_organigramme.jpg>
 
 
-[41]
+[43]
 
-[42
+[44
 
 ]
 Annexe C.
@@ -2072,41 +2071,41 @@ File: img/MODEL_Flux.png Graphic file (type bmp)
 <img/MODEL_Flux.png>
 
 
-[43]
+[45]
 
-[44
+[46
 
 ]
 Annexe D.
 (./parties/backmatter/annexes/A4_interview_doc.tex
 
-[45]
-
-[46])
-
 [47]
 
-[48
+[48])
+
+[49]
+
+[50
 
 ] (./main.gls
 
-[49
+[51
 
 
 
 ])
 
-[50] (./main.lot)
+[52] (./main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
 
 
-[51
+[53
 
 ]
 
-[52
+[54
 
 ] (./main.lof)
 \tf@lof=\write9
@@ -2114,19 +2113,19 @@ Annexe D.
 
 
 
-[53]
+[55]
 
-[54
+[56
 
 ] (./main.toc
 
-[55])
+[57])
 \tf@toc=\write10
 \openout10 = `main.toc'.
 
 
 
-[56] (./main.aux)
+[58] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -2136,12 +2135,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54066 strings out of 474235
- 1174222 string characters out of 5742252
- 1991085 words of memory out of 5000000
- 75929 multiletter control sequences out of 15000+600000
- 567421 words of font info for 97 fonts, out of 8000000 for 9000
+ 54065 strings out of 474235
+ 1174067 string characters out of 5742252
+ 1991175 words of memory out of 5000000
+ 75928 multiletter control sequences out of 15000+600000
+ 567423 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,131p,3476b,5584s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (80 pages).
+Output written on main.pdf (82 pages).
