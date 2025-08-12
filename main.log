@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  12 AUG 2025 12:01
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  12 AUG 2025 12:11
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1828,37 +1828,22 @@ n/12 (visité le 18/04/2025).
 [20
 
 ]
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 24.72845pt (C);
+(lettrine.sty)             reported on input line 18.
 
-! LaTeX Error: Environment note undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ^^I\begin{note}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{quote} on input line 3 ended by \end{note}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 ^^I\end{note}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-)
 
 [21]
+Underfull \vbox (badness 1043) has occurred while \output is active []
 
-[22
+
+
+[22])
+
+[23]
+
+[24
 
 ]
 
@@ -1886,11 +1871,11 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 [6]
 File: img/MODEL_domaines.png Graphic file (type bmp)
 <img/MODEL_domaines.png>
-
+)
 
 [7]
 
-[8]) (./parties/mainmatter/I/A/I_A_2.tex
+[8] (./parties/mainmatter/I/A/I_A_2.tex
 
 [9] (./img/SCHEM_partenaires.tex
 Overfull \hbox (5.24435pt too wide) in paragraph at lines 30--30
@@ -2153,17 +2138,22 @@ Annexe D.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54069 strings out of 474235
- 1174160 string characters out of 5742252
- 1992127 words of memory out of 5000000
- 75932 multiletter control sequences out of 15000+600000
- 567423 words of font info for 97 fonts, out of 8000000 for 9000
+ 54066 strings out of 474235
+ 1174075 string characters out of 5742252
+ 1992162 words of memory out of 5000000
+ 75929 multiletter control sequences out of 15000+600000
+ 567425 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,131p,3476b,5584s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (82 pages).
+Output written on main.pdf (84 pages).
