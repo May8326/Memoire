@@ -103,6 +103,11 @@
 \DeclareAcronym{c2rmf}{short = C2RMF, long = Centre de recherche et de restauration des musées de France}
 \DeclareAcronym{clade}{short = CLADE, long = Coopération pour l’Accès à la Documentation Electronique – Bibliothèques Numériques}
 
+%%%%%%%%%%%%%%%%%%%%%%%%% IMAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}
+\usepackage{subcaption} %pour les groupes d'images
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%% MISE EN PAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -228,6 +233,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%% COMMANDES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\mae}{\ac{mae} }
+\newcommand{\maelong}{\acf{mae}}
 \newcommand{\bibmusee}{\enquote{\textit{bib-musées}}}
 \newcommand{\minarm}{ministère des Armées}
 
@@ -362,12 +368,13 @@
 	
 	\chapter{Bibliographie}
 	%\addcontentsline{toc}{chapter}{Bibliographie}
-	\printbibliography[keyword={texHistoire}, title={Histoire du musée de l'air et de l'espace}]
-	\printbibliography[keyword={texCollab}, title={Collaboration entre institutions patrimoniales}]
-	\printbibliography[keyword={texNumeriquePatrimoine}, title={Numérique en institution patrimoniale}]
-	\printbibliography[keyword={texArchivesNumeriques}, title={Archives Numériques}]
-	\printbibliography[keyword={texThesau}, title={Gestion de thésaurus}]
-	\printbibliography[keyword={reflexions}, title={Références littéraires}]
+	\printbibliography[keyword={texHistoire}, notkeyword={dontcite}, title={Histoire du musée de l'air et de l'espace}]
+	\printbibliography[keyword={texCollab}, notkeyword={dontcite}, title={Collaboration entre institutions patrimoniales}]
+	\printbibliography[keyword={texNumeriquePatrimoine}, notkeyword={dontcite}, title={Numérique en institution patrimoniale}]
+	\printbibliography[keyword={texArchivesNumeriques}, notkeyword={dontcite}, title={Archives Numériques}]
+	\printbibliography[keyword={texThesau}, notkeyword={dontcite}, title={Gestion de thésaurus}]
+	\printbibliography[keyword={reflexions}, notkeyword={dontcite}, title={Références littéraires}]
+	
 	
 	
 	
