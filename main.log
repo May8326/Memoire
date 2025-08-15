@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  15 AUG 2025 20:15
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  15 AUG 2025 20:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2020,9 +2020,20 @@ Overfull \hbox (1.02686pt too wide) in paragraph at lines 17--18
 
 [32]
 
-[33])) (./parties/mainmatter/II/B/II_B.tex
+[33])
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 25.01146pt (A);
+(lettrine.sty)             reported on input line 18.
 
-[34]
+
+[34]) (./parties/mainmatter/II/B/II_B.tex
+
+[35]
+
+[36
+
+]
 Chapitre 4.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -2031,24 +2042,16 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (./parties/mainmatter/II/B/II_B_1.tex) (./parties/mainmatter/II/B/II_B_2.tex)
 (./parties/mainmatter/II/B/II_B_3.tex)) (./parties/mainmatter/II/C/II_C.tex)
 
-[35
-
-]
-
-[36
-
-]
-
 [37]
 
-[38] (./parties/mainmatter/III/A/III_A.tex)
-(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
+[38
+
+]
 
 [39]
 
-[40
-
-]
+[40] (./parties/mainmatter/III/A/III_A.tex)
+(./parties/mainmatter/III/B/III_B.tex) (./parties/mainmatter/III/C/III_C.tex)
 
 [41]
 
@@ -2056,11 +2059,17 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 ]
 
-[43
+[43]
+
+[44
 
 ]
 
-[44]
+[45
+
+]
+
+[46]
 Annexe A.
 (./parties/backmatter/annexes/A1_frise.tex)
 (./parties/backmatter/annexes/A1_frise.tex)
@@ -2089,13 +2098,13 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 16--80
  [] [] 
  []
 
-[45
+[47
 
-] [46])
+] [48])
 
-[47]
+[49]
 
-[48
+[50
 
 ]
 Annexe B.
@@ -2103,9 +2112,9 @@ File: img/SCHEM_organigramme.jpg Graphic file (type bmp)
 <img/SCHEM_organigramme.jpg>
 
 
-[49]
+[51]
 
-[50
+[52
 
 ]
 Annexe C.
@@ -2113,41 +2122,41 @@ File: img/MODEL_Flux.png Graphic file (type bmp)
 <img/MODEL_Flux.png>
 
 
-[51]
+[53]
 
-[52
+[54
 
 ]
 Annexe D.
 (./parties/backmatter/annexes/A4_interview_doc.tex
 
-[53]
-
-[54])
-
 [55]
 
-[56
+[56])
+
+[57]
+
+[58
 
 ] (./main.gls
 
-[57
+[59
 
 
 
 ])
 
-[58] (./main.lot)
+[60] (./main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
 
 
-[59
+[61
 
 ]
 
-[60
+[62
 
 ] (./main.lof)
 \tf@lof=\write9
@@ -2155,19 +2164,19 @@ Annexe D.
 
 
 
-[61]
+[63]
 
-[62
+[64
 
 ] (./main.toc
 
-[63])
+[65])
 \tf@toc=\write10
 \openout10 = `main.toc'.
 
 
 
-[64] (./main.aux)
+[66] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -2186,12 +2195,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54369 strings out of 474235
- 1184124 string characters out of 5742252
- 1995053 words of memory out of 5000000
- 76224 multiletter control sequences out of 15000+600000
- 567740 words of font info for 99 fonts, out of 8000000 for 9000
+ 54368 strings out of 474235
+ 1184137 string characters out of 5742252
+ 1995155 words of memory out of 5000000
+ 76223 multiletter control sequences out of 15000+600000
+ 567742 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,131p,3476b,5619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (90 pages).
+Output written on main.pdf (92 pages).
