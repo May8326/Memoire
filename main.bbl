@@ -1301,7 +1301,6 @@
       \field{year}{2018}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://blog.sparna.fr/2018/01/23/vocabulaires-thesaurus-web-donnees-skos-open-source/
       \endverb
@@ -1673,7 +1672,6 @@
       \field{year}{2013}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://memsic.ccsd.cnrs.fr/mem_00945542
       \endverb
@@ -2069,7 +2067,6 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.3917/ldf.merle.2016.01
       \endverb
@@ -2194,7 +2191,6 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.culture.gouv.fr/fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-archives-electroniques-dans-un-musee-de-France
       \endverb
@@ -2844,7 +2840,6 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.58079/sjjl
       \endverb
@@ -3204,7 +3199,6 @@
       \field{year}{2014}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{30\bibrangedash 43}
       \range{pages}{14}
       \verb{doi}

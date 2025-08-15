@@ -34,6 +34,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAPHIE %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}% style de l'EnC (https://ctan.org/pkg/biblatex-enc)
+\DeclareFieldFormat{citetitle}{\textit{#1}}% cite automatiquement les titres en italiques
 \DeclareBibliographyAlias{legislation}{misc}
 \DeclareBibliographyAlias{cite:legislation}{cite:misc}% aliases pour citer des articles de loi - le style EnC ne les intègre pas
 

@@ -22,17 +22,18 @@
 \contentsline {subsection}{\numberline {1.1.}Les prémices : Alexandrie et Micromusée, une coexistence sans concertation (1996 – années 2010)}{26}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {1.2.}Un tournant documentaire : la création de l'\gls {emediatheque} (2016 – 2020)}{27}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {1.3.}Des architectures hétérogènes}{28}{subsection.3.1.3}%
-\contentsline {section}{\numberline {2.}Des conséquences importantes : quand la prolifération devient paralysie documentaire}{30}{section.3.2}%
-\contentsline {subsection}{\numberline {2.1.}L'invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{30}{subsection.3.2.1}%
-\contentsline {chapter}{\numberline {4}PDV métier}{33}{chapter.4}%
-\contentsline {section}{\numberline {1.}titre}{33}{section.4.1}%
-\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{35}{part.3}%
-\contentsline {chapter}{Conclusion}{39}{chapter*.23}%
-\contentsline {part}{Annexes}{43}{part*.24}%
-\contentsline {chapter}{\numberline {A}Chronologie du MAE}{43}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Organigramme}{47}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Flux de données}{49}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{51}{appendix.D}%
-\contentsline {part}{Glossaire}{56}{appendix*.34}%
-\contentsline {part}{Tables}{57}{appendix*.35}%
-\contentsline {part}{Figures}{59}{appendix*.36}%
+\contentsline {section}{\numberline {2.}Des conséquences importantes : quand la prolifération devient paralysie documentaire}{31}{section.3.2}%
+\contentsline {subsection}{\numberline {2.1.}L’invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{31}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {2.2.}La saturation des métiers : quand gérer devient ingérable}{33}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}PDV métier}{35}{chapter.4}%
+\contentsline {section}{\numberline {1.}titre}{35}{section.4.1}%
+\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{37}{part.3}%
+\contentsline {chapter}{Conclusion}{41}{chapter*.24}%
+\contentsline {part}{Annexes}{45}{part*.25}%
+\contentsline {chapter}{\numberline {A}Chronologie du MAE}{45}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Organigramme}{49}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Flux de données}{51}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{53}{appendix.D}%
+\contentsline {part}{Glossaire}{58}{appendix*.35}%
+\contentsline {part}{Tables}{59}{appendix*.36}%
+\contentsline {part}{Figures}{61}{appendix*.37}%
