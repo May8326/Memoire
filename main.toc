@@ -11,8 +11,8 @@
 \contentsline {subsection}{\numberline {1.1.}La lente construction du \ac {mae} }{5}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
 \contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{9}{section.1.2}%
-\contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{9}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{10}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{11}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
 \contentsline {section}{\numberline {1.}Un musée d'exception sous contraintes : la dépendance étroite au ministère de la Défense}{13}{section.2.1}%
 \contentsline {section}{\numberline {2.}Conséquences pratiques : l'exemple de la migration vers la plateforme \gls {clade}}{16}{section.2.2}%
@@ -20,18 +20,19 @@
 \contentsline {chapter}{\numberline {3}Les vocabulaires contrôlés au \ac {mae}}{25}{chapter.3}%
 \contentsline {section}{\numberline {1.}Une construction séparée : 25 ans d'évolution en silo}{25}{section.3.1}%
 \contentsline {subsection}{\numberline {1.1.}Les prémices : Alexandrie et Micromusée, une coexistence sans concertation (1996 – années 2010)}{26}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {1.2.}Un tournant documentaire : la création de l’e-médiathèque (2016 – 2020)}{27}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {1.3.}Des architectures hétérogènes}{27}{subsection.3.1.3}%
-\contentsline {section}{\numberline {2.}Des conséquences importantes}{28}{section.3.2}%
-\contentsline {chapter}{\numberline {4}PDV métier}{29}{chapter.4}%
-\contentsline {section}{\numberline {1.}titre}{29}{section.4.1}%
-\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{31}{part.3}%
-\contentsline {chapter}{Conclusion}{35}{chapter*.21}%
-\contentsline {part}{Annexes}{39}{part*.22}%
-\contentsline {chapter}{\numberline {A}Chronologie du MAE}{39}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Organigramme}{43}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Flux de données}{45}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{47}{appendix.D}%
-\contentsline {part}{Glossaire}{52}{appendix*.32}%
-\contentsline {part}{Tables}{53}{appendix*.33}%
-\contentsline {part}{Figures}{55}{appendix*.34}%
+\contentsline {subsection}{\numberline {1.2.}Un tournant documentaire : la création de l'\gls {emediatheque} (2016 – 2020)}{27}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {1.3.}Des architectures hétérogènes}{28}{subsection.3.1.3}%
+\contentsline {section}{\numberline {2.}Des conséquences importantes : quand la prolifération devient paralysie documentaire}{30}{section.3.2}%
+\contentsline {subsection}{\numberline {2.1.}L'invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{30}{subsection.3.2.1}%
+\contentsline {chapter}{\numberline {4}PDV métier}{33}{chapter.4}%
+\contentsline {section}{\numberline {1.}titre}{33}{section.4.1}%
+\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{35}{part.3}%
+\contentsline {chapter}{Conclusion}{39}{chapter*.23}%
+\contentsline {part}{Annexes}{43}{part*.24}%
+\contentsline {chapter}{\numberline {A}Chronologie du MAE}{43}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Organigramme}{47}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Flux de données}{49}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{51}{appendix.D}%
+\contentsline {part}{Glossaire}{56}{appendix*.34}%
+\contentsline {part}{Tables}{57}{appendix*.35}%
+\contentsline {part}{Figures}{59}{appendix*.36}%

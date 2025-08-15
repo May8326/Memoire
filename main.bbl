@@ -173,6 +173,7 @@
       \field{year}{1920}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb http://archive.org/details/pense_esduneamaz00barn
       \endverb
@@ -566,6 +567,106 @@
       \endverb
       \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
+    \entry{bowkerArrangerChosesConsequences2023}{book}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=204a44c003f4e5a76406da3423eeedec}{%
+           family={Bowker},
+           familyi={B\bibinitperiod},
+           given={Geoffrey\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07b9d5352ccd3653aa9637be5175f31a}{%
+           family={Star},
+           familyi={S\bibinitperiod},
+           given={Susan\bibnamedelima Leigh},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdcd1664e3794a19ad39144e84237f8e}{%
+           family={Boullier},
+           familyi={B\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a588311c8cc2894651fcfe273027dec}{%
+           family={Cardon},
+           familyi={C\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cff1f6cbecd8ca794df6b9c2a58f4850}{%
+           family={Dagiral},
+           familyi={D\bibinitperiod},
+           given={Éric},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64a47d1deac08f5b09bb7336cb38d3ce}{%
+           family={Kotras},
+           familyi={K\bibinitperiod},
+           given={Baptiste},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdd515fb3740c141e756157f8226f5d7}{%
+           family={Peerbaye},
+           familyi={P\bibinitperiod},
+           given={Ashveen},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf6aab9aaf8d6cf4906c09feebd26af}{%
+           family={Zabban},
+           familyi={Z\bibinitperiod},
+           given={Vinciane},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=459c0854e29121752f104dfee6ca0cb8}{%
+           family={Cardon},
+           familyi={C\bibinitperiod},
+           given={Vincent\bibnamedelima Préfacier},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a51817c03f640a4b83c1faf197ceeb1b}{%
+           family={Dagiral},
+           familyi={D\bibinitperiod},
+           given={Éric\bibnamedelima Préfacier},
+           giveni={É\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e45ca4018a0c07c9ddd93c0ee35078b}{%
+           family={Peerbaye},
+           familyi={P\bibinitperiod},
+           given={Ashveen\bibnamedelima Préfacier},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris, France}%
+      }
+      \list{publisher}{1}{%
+        {Éditions de l'EHESS}%
+      }
+      \strng{namehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
+      \strng{fullhash}{d0610c3c63839a247c13e152693a9198}
+      \strng{fullhashraw}{d0610c3c63839a247c13e152693a9198}
+      \strng{bibnamehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
+      \strng{authorbibnamehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
+      \strng{authornamehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
+      \strng{authorfullhash}{d0610c3c63839a247c13e152693a9198}
+      \strng{authorfullhashraw}{d0610c3c63839a247c13e152693a9198}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Nous vivons dans des sociétés de classification. Arranger les choses est une invitation à en explorer les conséquences. Geoffrey C. Bowker et Susan Leigh Star y abordent le rôle des catégories, des normes et des standards dans la production du monde moderne. Ils examinent avec minutie une grande variété de systèmes de classification, notamment des maladies et du travail infirmier, mais aussi les catégories raciales à l'oeuvre sous l'apartheid en Afrique du Sud. Le renversement de perspective qu'ils opèrent dans chacune de ces études empiriques met au premier plan le travail complexe et souvent invisible consistant à concevoir, fabriquer, maintenir et transformer de tels agencements. Ouvrage pionnier dans l'analyse des infrastructures informationnelles, rapidement devenu un inclassable classique des "science and technology studies", "Arranger les choses" constitue aujourd'hui encore, près de 25 ans après sa publication en langue anglaise, une ressource incontournable pour penser la manière dont s'entrelacent les trajectoires des institutions et des personnes (4e de couverture)}
+      \field{isbn}{978-2-7132-2956-5}
+      \field{langid}{french}
+      \field{pagetotal}{447}
+      \field{shorttitle}{Arranger les choses}
+      \field{title}{Arranger les choses: des conséquences de la classification}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/6XM3TTJP/SRCH.html
+      \endverb
+      \keyw{Catégories (philosophie),Classification,Sociologie de la connaissance,texThesau}
+    \endentry
     \entry{brawley-barkerIntegratingLibraryArchives2016}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f5f6d9506307cf6dec33b9c5f363c90}{%
@@ -616,6 +717,64 @@
       \verb https://www.researchgate.net/publication/301570205_Integrating_Library_Archives_and_Museum_Collections_in_an_Open_Source_Information_Management_System_A_Case_Study_at_Glenstone
       \endverb
       \keyw{_collaborationBibArchMusee,texCollab,texCollab}
+    \endentry
+    \entry{cabaretMuseePourLaeronautique2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf8830c45a74d4ee3956e1e18e189f0d}{%
+           family={Cabaret},
+           familyi={C\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Centre de recherche et de restauration des musées de France}%
+      }
+      \strng{namehash}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \strng{fullhash}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \strng{fullhashraw}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \strng{bibnamehash}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \strng{authorbibnamehash}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \strng{authornamehash}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \strng{authorfullhash}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \strng{authorfullhashraw}{cf8830c45a74d4ee3956e1e18e189f0d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{L’étude de la collection du musée de l’Air et de l’Espace offre une profondeur historique de près d’un siècle. En s’intéressant aux premières décennies qui ont suivi la création de ce musée, il est possible de comprendre comment la pratique de la reconstitution des objets techniques s’est ancrée dans les fondements mêmes de l’institution. Le premier facteur de cet ancrage est la vocation didactique du musée, que ses fondateurs ont conçu pour la formation des ingénieurs mais aussi pour l’accueil du grand public. Les difficultés rencontrées, qu’elles soient dues aux dommages de guerre ou à des résistances administratives, ont eu de lourdes conséquences sur les objets. Elles ont de ce fait contribué à renforcer le rôle des ouvriers intervenant sur les collections au sein de l’établissement.}
+      \field{day}{31}
+      \field{isbn}{9782111528338}
+      \field{issn}{1254-7867}
+      \field{issue}{50}
+      \field{journaltitle}{Technè. La science au service de l’histoire de l’art et de la préservation des biens culturels}
+      \field{langid}{french}
+      \field{month}{12}
+      \field{number}{50}
+      \field{shorttitle}{Un musée pour l’aéronautique}
+      \field{title}{Un musée pour l’aéronautique : étude de l’histoire matérielle de la collection du musée de l’Air et de l’Espace, de 1918 à l’après-Seconde Guerre mondiale}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{126\bibrangedash 133}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.4000/techne.8388
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/ST9VQUJ5/Cabaret - 2020 - Un musée pour l’aéronautique étude de l’histoire matérielle de la collection du musée de l’Air et.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/techne/8388?lang=en
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/techne/8388?lang=en
+      \endverb
+      \keyw{collection,Musée de l’Air et de l’Espace,patrimoine technique,reconstitution,restauration,texHistoire}
     \endentry
     \entry{champenoisTresorsMuseeLair}{book}{}{}
       \name{author}{3}{}{%
@@ -1189,7 +1348,6 @@
       \field{title}{Archives, Museums and Libraries: Breaking the Metadata Silos}
       \field{year}{2019}
       \field{dateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/TIPSK9GS/Gartner et Mouren - Archives, museums and libraries breaking the metadata silos.pdf
       \endverb
@@ -1414,7 +1572,6 @@
       \field{year}{2012}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{130\bibrangedash 140}
       \range{pages}{11}
       \verb{doi}
@@ -2119,7 +2276,7 @@
       \verb{url}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/informatiser-les-collections-d-un-musee-de-france/vocabulaires-scientifiques-du-service-des-musees-de-france
       \endverb
-      \keyw{_normalisation,texThesau,texThesau}
+      \keyw{_normalisation,dontcite,texThesau,texThesau}
     \endentry
     \entry{ministeredesarmeesInstructionNdeg303ARM2023}{article}{}{}
       \name{author}{1}{}{%
@@ -2309,7 +2466,7 @@
       \verb{url}
       \verb https://prefixesmom.hypotheses.org/6159
       \endverb
-      \keyw{_exemple,_THESAUgestion,texThesau,texThesau}
+      \keyw{_exemple,_THESAUgestion,dontcite,texThesau,texThesau}
     \endentry
     \entry{moureauProblemesPosesPar1968}{online}{}{}
       \name{author}{1}{}{%
@@ -2344,7 +2501,6 @@
       \field{year}{1968}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://bbf.enssib.fr/consulter/bbf-1968-05-0201-001
       \endverb
@@ -2873,6 +3029,59 @@
       \endverb
       \keyw{_exemple,_normalisation,_THESAUgestion,texThesau,texThesau}
     \endentry
+    \entry{raynaudMuseeTechniqueDhistoire2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12aece3d0b99a14f18dbe90fbc4bb745}{%
+           family={Raynaud},
+           familyi={R\bibinitperiod},
+           given={Clémence},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Ministère de la culture et de la communication, direction générale des patrimoines}%
+      }
+      \strng{namehash}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \strng{fullhash}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \strng{fullhashraw}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \strng{bibnamehash}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \strng{authorbibnamehash}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \strng{authornamehash}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \strng{authorfullhash}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \strng{authorfullhashraw}{12aece3d0b99a14f18dbe90fbc4bb745}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Dépositaire d’une collection de plus de 400 aéronefs, le musée de l’Air et de l’Espace est généralement considéré comme un musée technique. Pourtant, dès sa création, des documents graphiques et des objets d’art sont collectés dans une approche visant à prendre en compte des aspects historiques et culturels de la conquête de l’air, depuis le XVIIIe siècle. Aujourd’hui riches de plus de 24~400 pièces (peintures, estampes, affiches, cartes postales, objets d’art, sculptures, jouets, etc.), les collections iconographiques ainsi constituées apportent une multiplicité d’éclairages sur le fait aérien, qu’ils soient d’ordre social, culturel, économique ou encore anthropologique. L’étiquette technique attachée à l’établissement paraît donc très réductrice. Elle traduit cependant la place des collections iconographiques demeurées longtemps en retrait dans le musée, au risque de réduire les aéronefs à des jalons d’un récit centré sur les exploits et les grands hommes de l’histoire de l’aéronautique. La mise en lumière de ces collections constitue l’un des enjeux de la nouvelle exposition permanente consacrée à l’histoire du vol avant 1918, déployée dans l’aérogare de 1937 entièrement restaurée. Faisant dialoguer les aéronefs et les représentations, le parcours privilégie une approche plurielle, ouverte sur les phénomènes et mutations dont le fait aérien est à la fois le vecteur et le miroir dans l’histoire contemporaine.}
+      \field{day}{27}
+      \field{issn}{1630-7305}
+      \field{journaltitle}{In Situ. Revue des patrimoines}
+      \field{langid}{french}
+      \field{month}{8}
+      \field{number}{35}
+      \field{shorttitle}{Un musée technique, d’histoire et de société}
+      \field{title}{Un musée technique, d’histoire et de société : l’apport des collections iconographiques du musée de l’Air et de l’Espace}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4000/insitu.16851
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/BX9URFQV/Raynaud - 2018 - Un musée technique, d’histoire et de société l’apport des collections iconographiques du musée de.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/insitu/16851#ftn1
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/insitu/16851#ftn1
+      \endverb
+      \keyw{aérogare du Bourget,collections iconographiques,fait aérien,histoire contemporaine,musée d’histoire et de société,musée de l’Air et de l’Espace,musée de site,musée technique,représentations,texHistoire}
+    \endentry
     \entry{RecommandationConcernantNoms2008}{legislation}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
@@ -2895,7 +3104,7 @@
       \verb{url}
       \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000019509867/
       \endverb
-      \keyw{_normalisation,texThesau,texThesau}
+      \keyw{_normalisation,dontcite,texThesau,texThesau}
     \endentry
     \entry{ricardRGPDArchives2018a}{online}{}{}
       \name{author}{1}{}{%
