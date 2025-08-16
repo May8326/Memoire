@@ -26,15 +26,15 @@
 \contentsline {subsection}{\numberline {2.1.}L’invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{31}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {2.2.}La saturation des métiers : quand gérer devient ingérable}{33}{subsection.3.2.2}%
 \contentsline {chapter}{\numberline {4}PDV métier}{37}{chapter.4}%
-\contentsline {section}{\numberline {1.}Genèse et évolution de la gouvernance documentaire : une sensibilité métier au \ac {mae} }{37}{section.4.1}%
+\contentsline {section}{\numberline {1.}Cartographie des métiers et émergence d’une conscience documentaire différenciée au \ac {mae} }{37}{section.4.1}%
 \contentsline {subsection}{\numberline {1.1.}Les documentalistes : pionniers, vigies et promoteurs de l’interopérabilité}{37}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {1.2.}La gestionnaire de \ac {bdd}, pivot documentaire et révélateur des limites institutionnelles}{39}{subsection.4.1.2}%
 \contentsline {subsection}{\numberline {1.3.}Les chargés de collections : diversité des pratiques, entre nomenclature fine et catégories souples}{41}{subsection.4.1.3}%
-\contentsline {section}{\numberline {2.}Des différences d’appréhension qui traduisent un rapport très différent à l’information}{42}{section.4.2}%
-\contentsline {subsection}{\numberline {2.1.}Pluralité des priorités dans la description des œuvres}{42}{subsection.4.2.1}%
+\contentsline {section}{\numberline {2.}Logiques métiers et fragmentation du sens : pluralité des rapports à l’information en institution patrimoniale}{43}{section.4.2}%
+\contentsline {subsection}{\numberline {2.1.}Pluralité des priorités dans la description des œuvres}{43}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {2.2.}Enjeux d’interopérabilité et logiques métiers}{43}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {2.3.}La persistance des silos institutionnels : musées, bibliothèques, archives}{44}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {2.4.}État de la recherche et pistes théoriques}{44}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {2.4.}État de la recherche et pistes théoriques}{45}{subsection.4.2.4}%
 \contentsline {subsection}{\numberline {2.5.}Conclusion : reconnaître la diversité avant d'unifier}{45}{subsection.4.2.5}%
 \contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{47}{part.3}%
 \contentsline {chapter}{Conclusion}{51}{chapter*.24}%
