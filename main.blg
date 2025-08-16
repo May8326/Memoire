@@ -1,30 +1,30 @@
-[0] Config.pm:308> INFO - This is Biber 2.20
+[1] Config.pm:308> INFO - This is Biber 2.20
 [1] Config.pm:311> INFO - Logfile is 'main.blg'
-[221] biber:340> INFO - === ven. août 15, 2025, 18:00:35
-[273] Biber.pm:420> INFO - Reading 'main.bcf'
-[461] Biber.pm:991> INFO - Using all citekeys in bib section 0
-[497] Biber.pm:4463> INFO - Processing section 0
-[526] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/archives_numeriques.bib' for section 0
-[531] bibtex.pm:1713> INFO - LaTeX decoding ...
-[585] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/archives_numeriques.bib'
-[867] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/cooperation.bib' for section 0
-[872] bibtex.pm:1713> INFO - LaTeX decoding ...
-[920] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/cooperation.bib'
-[1068] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/musee_air_espace.bib' for section 0
-[1073] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1133] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/musee_air_espace.bib'
-[1323] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/numerique_institution_pat.bib' for section 0
-[1330] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1383] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/numerique_institution_pat.bib'
-[1596] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/thesaurus.bib' for section 0
-[1602] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1676] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/thesaurus.bib'
-[1992] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/reflexions.bib' for section 0
-[1994] bibtex.pm:1713> INFO - LaTeX decoding ...
-[2000] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/reflexions.bib'
-[2320] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2321] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2321] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[2321] Biber.pm:4289> INFO - No sort tailoring available for locale 'fr-FR'
-[2592] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[2689] bbl.pm:779> INFO - Output to main.bbl
+[182] biber:340> INFO - === sam. août 16, 2025, 15:34:15
+[223] Biber.pm:420> INFO - Reading 'main.bcf'
+[418] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[454] Biber.pm:4463> INFO - Processing section 0
+[479] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/archives_numeriques.bib' for section 0
+[484] bibtex.pm:1713> INFO - LaTeX decoding ...
+[533] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/archives_numeriques.bib'
+[805] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/cooperation.bib' for section 0
+[811] bibtex.pm:1713> INFO - LaTeX decoding ...
+[864] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/cooperation.bib'
+[1031] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/musee_air_espace.bib' for section 0
+[1037] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1094] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/musee_air_espace.bib'
+[1274] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/numerique_institution_pat.bib' for section 0
+[1283] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1335] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/numerique_institution_pat.bib'
+[1532] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/thesaurus.bib' for section 0
+[1539] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1612] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/thesaurus.bib'
+[1915] Biber.pm:4654> INFO - Looking for bibtex file './bibliographie/reflexions.bib' for section 0
+[1917] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1925] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/reflexions.bib'
+[2269] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2269] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2269] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[2270] Biber.pm:4289> INFO - No sort tailoring available for locale 'fr-FR'
+[2525] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2621] bbl.pm:779> INFO - Output to main.bbl

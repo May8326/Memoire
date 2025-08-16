@@ -352,7 +352,6 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{9\bibrangedash 12}
       \range{pages}{4}
       \verb{doi}
@@ -1301,6 +1300,7 @@
       \field{year}{2018}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://blog.sparna.fr/2018/01/23/vocabulaires-thesaurus-web-donnees-skos-open-source/
       \endverb
@@ -1672,6 +1672,7 @@
       \field{year}{2013}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://memsic.ccsd.cnrs.fr/mem_00945542
       \endverb
@@ -1679,6 +1680,70 @@
       \verb https://memsic.ccsd.cnrs.fr/mem_00945542
       \endverb
       \keyw{_normalisation,texThesau,texThesau}
+    \endentry
+    \entry{kirchhoffArchivesLibrariesMuseums2008}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e396aa0c3696096ab8a4b549a4c91f11}{%
+           family={Kirchhoff},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=887cc6849e9c4e417602966fa16c18c9}{%
+           family={Schweibenz},
+           familyi={S\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af8840ff05984106015433744ad36d3f}{%
+           family={Sieglerschmidt},
+           familyi={S\bibinitperiod},
+           given={Jörn},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \strng{fullhash}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \strng{fullhashraw}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \strng{bibnamehash}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \strng{authorbibnamehash}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \strng{authornamehash}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \strng{authorfullhash}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \strng{authorfullhashraw}{9b6f18bd76b6008caf76ed63ff484ce7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1389-0166, 1573-7519}
+      \field{journaltitle}{Archival Science}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Arch Sci}
+      \field{title}{Archives, Libraries, Museums and the Spell of Ubiquitous Knowledge}
+      \field{urlday}{16}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{251\bibrangedash 266}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s10502-009-9093-2
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/DBNLXRR2/225551287_Archives_libraries_museums_and_the_spell_of_ubiquitous_knowledge.html
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10502-009-9093-2
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10502-009-9093-2
+      \endverb
+      \keyw{,texCollab}
     \endentry
     \entry{kisterFusionDunThesaurus2009}{inproceedings}{}{}
       \name{author}{3}{}{%
@@ -2191,6 +2256,7 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.culture.gouv.fr/fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-archives-electroniques-dans-un-musee-de-France
       \endverb
@@ -2788,7 +2854,6 @@
       \field{year}{2022}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb halshs-03879019 , version 1
       \endverb
@@ -2840,6 +2905,7 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{doi}
       \verb 10.58079/sjjl
       \endverb
@@ -3134,7 +3200,6 @@
       \field{year}{2018}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.58079/u5zc
       \endverb
@@ -3256,7 +3321,6 @@
       \field{langid}{french}
       \field{number}{182}
       \field{title}{Bibliothèques et Musées : quelle(s) coopération(s) ?}
-      \true{nocite}
       \field{pages}{86\bibrangedash 103}
       \range{pages}{18}
       \verb{urlraw}
@@ -3682,7 +3746,6 @@
       \field{year}{2008}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://repository.ifla.org/handle/20.500.14598/601
       \endverb
