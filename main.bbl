@@ -308,7 +308,6 @@
       \field{title}{Convergence et Interopérabilité : L’apport Du {{Web}} de Données}
       \field{year}{2011}
       \field{dateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://experts.bnf.fr/node/34958
       \endverb
@@ -460,7 +459,6 @@
       \field{year}{2013}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{153\bibrangedash 164}
       \range{pages}{12}
       \verb{urlraw}
@@ -470,6 +468,50 @@
       \verb https://shs-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-153
       \endverb
       \keyw{_webSemantique,texThesau,texThesau}
+    \endentry
+    \entry{berners-leeSemanticWebRoadmap1998}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {W3C}%
+      }
+      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhashraw}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{bibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorbibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authornamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhashraw}{d469e0df304c98f67b55d087ea6187a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Semantic {{Web}} Roadmap}
+      \field{urlday}{16}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/YI44J6JW/Semantic.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.w3.org/DesignIssues/Semantic.html
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/DesignIssues/Semantic.html
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
     \endentry
     \entry{borgesBibliothequeBabel1990}{book}{}{}
       \name{author}{1}{}{%
@@ -1636,6 +1678,36 @@
       \endverb
       \keyw{_automatisation IA,_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
+    \entry{ISO25964120112011}{online}{}{}
+      \list{organization}{1}{%
+        {ISO}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Information et documentation — Thésaurus et interopérabilité avec d'autres vocabulaires — Partie 1: Thésaurus pour la recherche documentaire}
+      \field{langid}{french}
+      \field{month}{8}
+      \field{shorttitle}{ISO 25964-1}
+      \field{title}{ISO 25964-1:2011}
+      \field{urlday}{16}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/S5FDYURD/53657.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.iso.org/fr/standard/53657.html
+      \endverb
+      \verb{url}
+      \verb https://www.iso.org/fr/standard/53657.html
+      \endverb
+      \keyw{dontcite,texThesau}
+    \endentry
     \entry{kellerEncadrerReingenierieDun2013}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=67d5a62d43131e3d8a0627e4e610d049}{%
@@ -1856,7 +1928,6 @@
       \field{year}{2007}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{75\bibrangedash 75}
       \range{pages}{1}
       \verb{doi}
@@ -2954,7 +3025,6 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.58079/sjjk
       \endverb
@@ -3362,7 +3432,6 @@
       \field{volume}{L’archivistique, objet de recherche ? Explorations en France et à l’international}
       \field{year}{2020}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{227\bibrangedash 237}
       \range{pages}{11}
       \verb{urlraw}
