@@ -2208,26 +2208,19 @@
     <bcf:citekey order="30" intorder="1">chichereauNormesConceptionGestion2007</bcf:citekey>
     <bcf:citekey order="31" intorder="1">rizzaDocumentAuCoeur2014</bcf:citekey>
     <bcf:citekey order="32" intorder="1">rizzaDocumentAuCoeur2014</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">bowkerArrangerChosesConsequences2023</bcf:citekey>
-    <bcf:citekey order="33" intorder="2">gartnerArchivesMuseumsLibraries2019</bcf:citekey>
-    <bcf:citekey order="33" intorder="3">rizzaDocumentAuCoeur2014</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">hudonISO25964Pour2012a</bcf:citekey>
     <bcf:citekey order="34" intorder="1">hudonISO25964Pour2012a</bcf:citekey>
-    <bcf:citekey order="34" intorder="2">nouvelOutilsDindexationBibliothecaires2022</bcf:citekey>
-    <bcf:citekey order="34" intorder="3">chichereauNormesConceptionGestion2007</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">rizzaDocumentAuCoeur2014</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">hudonISO25964Pour2012a</bcf:citekey>
-    <bcf:citekey order="36" intorder="2">bermesVersNouveauxCatalogues2016</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">gartnerArchivesMuseumsLibraries2019</bcf:citekey>
-    <bcf:citekey order="37" intorder="2">rossini-paquetBibliothequesMuseesQuellesa</bcf:citekey>
-    <bcf:citekey order="37" intorder="3">yarrowBibliothequesPubliquesArchives2008a</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">gartnerArchivesMuseumsLibraries2019</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">bowkerArrangerChosesConsequences2023</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">bermesVersNouveauxCatalogues2016</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">hudonISO25964Pour2012a</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">nouvelOutilsDindexationBibliothecaires2022</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">chichereauNormesConceptionGestion2007</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">officemuseumexpertsSKINsoftEquipe252016</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">ministeredesarmeesKitCommunicationCLADE</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">gartnerArchivesMuseumsLibraries2019</bcf:citekey>
+    <bcf:citekey order="35" intorder="2">rossini-paquetBibliothequesMuseesQuellesa</bcf:citekey>
+    <bcf:citekey order="35" intorder="3">yarrowBibliothequesPubliquesArchives2008a</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">gartnerArchivesMuseumsLibraries2019</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">bowkerArrangerChosesConsequences2023</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">bermesVersNouveauxCatalogues2016</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">hudonISO25964Pour2012a</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">nouvelOutilsDindexationBibliothecaires2022</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">chichereauNormesConceptionGestion2007</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">officemuseumexpertsSKINsoftEquipe252016</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">ministeredesarmeesKitCommunicationCLADE</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

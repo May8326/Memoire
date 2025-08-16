@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  16 AUG 2025 15:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  16 AUG 2025 16:45
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2071,13 +2071,7 @@ Overfull \hbox (4.18831pt too wide) in paragraph at lines 1--1
 
 [43]
 
-[44]
-Overfull \hbox (8.16154pt too wide) in paragraph at lines 41--42
-[]\TU/lmr/m/n/12 Bermès[][][] et Hudon[][][] insistent sur la nécessité de conc
-evoir des classifications flexibles,
- []
-
-)
+[44])
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (L);
@@ -2218,6 +2212,9 @@ Annexe D.
 ] (./main.toc
 
 [73]
+Underfull \vbox (badness 1755) has occurred while \output is active []
+
+
 
 [74])
 \tf@toc=\write10
@@ -2244,12 +2241,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54503 strings out of 474235
- 1188813 string characters out of 5742252
- 1997462 words of memory out of 5000000
- 76361 multiletter control sequences out of 15000+600000
+ 54502 strings out of 474235
+ 1189122 string characters out of 5742252
+ 1997450 words of memory out of 5000000
+ 76360 multiletter control sequences out of 15000+600000
  568052 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,13n,131p,3476b,5798s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,13n,131p,3476b,5800s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (101 pages).
