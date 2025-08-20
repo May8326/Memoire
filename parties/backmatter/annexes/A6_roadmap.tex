@@ -1,0 +1,87 @@
+\begin{longtable}{|p{0.22\textwidth}|p{0.32\textwidth}|p{0.32\textwidth}|p{0.14\textwidth}|}
+	\caption[Processus d'harmonisation des \gls{thesaurus} du musée et de mise en place d'OpenTheso]{Suggestion de processus d'harmonisation des \gls{thesaurus} du musée et de mise en place d'OpenTheso}
+	\label{tab:processopentheso} \\
+	\hline\hline
+	\rowcolor{lightgray}
+	\multicolumn{4}{|c|}{\textbf{Unification des thésaurus du musée}} \\
+	\hline
+	\textbf{Action} & \textbf{Démarche} & \textbf{Moyens} & \textbf{Acteurs} \\
+	\hline
+	\endfirsthead
+	
+	\hline\hline
+	\rowcolor{lightgray}
+	\multicolumn{4}{|c|}{\textbf{Unification des thésaurus du musée} (suite)} \\
+	\hline
+	\textbf{Action} & \textbf{Démarche} & \textbf{Moyens} & \textbf{Acteurs} \\
+	\hline
+	\endhead
+	
+	\hline
+	\endfoot
+	
+	\hline\hline
+	\endlastfoot
+	
+	Choix des termes de tête du thésaurus commun & Choix de termes génériques en haut de la hiérarchie, qui permettent d'englober l'ensemble des connaissances des trois thésaurus. & Groupe de travail & DSC \\
+	\hline
+	Fusion des termes &
+	\begin{itemize}\setlength{\itemsep}{0pt}
+		\item Choix d'un terme préféré pour chaque terme présent dans plusieurs thésaurus
+		\item Mise des autres en synonymes
+		\item Fusion des relations dans les trois thésaurus (synonymes, hiérarchies, associations)
+	\end{itemize}
+	& \textbf{Automatisation} par IA (correspondance sémantique et morphologique), \newline \textbf{Post-correction} par groupes de travail ou individuelle & Renfort, stagiaire...? \\
+	\hline
+	Fusion de l'arborescence & Organisation des termes réunis en un thésaurus global sous les termes choisis & Groupe de travail & DSC \\
+	\hline
+	Fusion des associations & Vérification de la pertinence des associations, synonymes fusionnés & Groupe de travail & DSC \\
+	\hline
+	Récupération de définitions & Récupération automatique ou ajout manuel de définitions pour autant de termes que possible & Automatisation via injection de Wikidata et groupes de travail & Renfort, stagiaire...? \\
+	\hline
+	\rowcolor{lightgray}
+	\multicolumn{4}{|c|}{\textbf{Préparation pour l'import}} \\
+	\hline
+	Identification des propriétés SKOS & Identification des relations présentes dans le thésaurus, des capacités d'import d'Opentheso & & DSC \\
+	\hline
+	Conversion du thésaurus en SKOS & Conversion des csv de thésaurus en csv importables sur Opentheso & VBA, Python, Excel...? & Renfort, stagiaire...? \\
+	\hline
+	Identification de la solution d'hébergement nécessaire &
+	\begin{itemize}\setlength{\itemsep}{0pt}
+		\item Serveur du musée
+		\item Serveur de la MOM
+		\item Serveur d'HumaNum
+	\end{itemize}
+	& Réunion & DSC \\
+	\hline
+	\rowcolor{lightgray}
+	\multicolumn{4}{|c|}{\textbf{Mise en place}} \\
+	\hline
+	Mise en place du serveur & Convention ou mise en place au musée & & MOM, HUMANUM ou SI \\
+	\hline
+	Installation d'OpenTheso & Sur Linux, serveur apache & & MOM, HUMANUM ou SI \\
+	\hline
+	Import du SKOS sur OpenTheso & Import des csv prêts pour importation SKOS & & Renfort, stagiaire...? \\
+	\hline
+	Vérification des données & Tous les termes sont présents et toutes leurs relations & & Renfort, stagiaire...? \\
+	\hline
+	Attribution de rôles dans la gestion du thésaurus & Contributeurs, gestionnaire de base, gestion des droits... & Réunion & DSC \\
+	\hline
+	\rowcolor{lightgray}
+	\multicolumn{4}{|c|}{\textbf{Enrichissement}} \\
+	\hline
+	Ajout de facettes/collections & Selon les besoins métiers des utilisateurs & Groupe de travail & DSC, Renfort, stagiaire...? \\
+	\hline
+	Alignements automatiques & Avec Wikidata, IdRef, DataBnF... & & Renfort, stagiaire...? \\
+	\hline
+	\rowcolor{lightgray}
+	\multicolumn{4}{|c|}{\textbf{Implémentation musée}} \\
+	\hline
+	Mise en place API Skinsoft & & & Prestataire \\
+	\hline
+	Mise en place plugin Koha & & & Prestataire \\
+	\hline
+	Mise en place API e-médiathèque ? & & & Prestataire \\
+	\hline
+	
+\end{longtable}
