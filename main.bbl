@@ -45,6 +45,56 @@
       \endverb
       \keyw{dontcite,texHistoire}
     \endentry
+    \entry{arruabarrenaDatavisualisationPrincipesEnjeux2015}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b59f90e652e1fda2af123a11e8728039}{%
+           family={Arruabarrena},
+           familyi={A\bibinitperiod},
+           given={Béa},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Boeck Supérieur}%
+      }
+      \strng{namehash}{b59f90e652e1fda2af123a11e8728039}
+      \strng{fullhash}{b59f90e652e1fda2af123a11e8728039}
+      \strng{fullhashraw}{b59f90e652e1fda2af123a11e8728039}
+      \strng{bibnamehash}{b59f90e652e1fda2af123a11e8728039}
+      \strng{authorbibnamehash}{b59f90e652e1fda2af123a11e8728039}
+      \strng{authornamehash}{b59f90e652e1fda2af123a11e8728039}
+      \strng{authorfullhash}{b59f90e652e1fda2af123a11e8728039}
+      \strng{authorfullhashraw}{b59f90e652e1fda2af123a11e8728039}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Big Data - Open Data : Quelles valeurs ? Quels enjeux ?}
+      \field{langid}{french}
+      \field{shorttitle}{Datavisualisation}
+      \field{title}{Datavisualisation : principes, enjeux et perspectives pour des utilisateurs non experts}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{151\bibrangedash 163}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.3917/dbu.chron.2015.01.0151
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/6LB5HQEQ/big-data-open-data-quelles-valeurs--9782807300316-page-151.html
+      \endverb
+      \verb{urlraw}
+      \verb https://shs.cairn.info/big-data-open-data-quelles-valeurs--9782807300316-page-151
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/big-data-open-data-quelles-valeurs--9782807300316-page-151
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
+    \endentry
     \entry{ArticleR34131Code2008}{legislation}{}{}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
@@ -123,7 +173,6 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{57\bibrangedash 74}
       \range{pages}{18}
       \verb{doi}
@@ -182,49 +231,6 @@
       \endverb
       \keyw{,reflexions}
     \endentry
-    \entry{bartholomewConvertingBlissBibliographic2024}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729730c4c3b3baac5c58af09ba8e69ab}{%
-           family={Bartholomew},
-           familyi={B\bibinitperiod},
-           given={Harry},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{729730c4c3b3baac5c58af09ba8e69ab}
-      \strng{fullhash}{729730c4c3b3baac5c58af09ba8e69ab}
-      \strng{fullhashraw}{729730c4c3b3baac5c58af09ba8e69ab}
-      \strng{bibnamehash}{729730c4c3b3baac5c58af09ba8e69ab}
-      \strng{authorbibnamehash}{729730c4c3b3baac5c58af09ba8e69ab}
-      \strng{authornamehash}{729730c4c3b3baac5c58af09ba8e69ab}
-      \strng{authorfullhash}{729730c4c3b3baac5c58af09ba8e69ab}
-      \strng{authorfullhashraw}{729730c4c3b3baac5c58af09ba8e69ab}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This article discusses the project undertaken by the library of Queens’ College, Cambridge, to migrate its classification system to RDF applying the SKOS data model using Python. Queens’ uses the Bliss Bibliographic Classification alongside 18 other UK libraries, most of which are small libraries of the colleges at the Universities of Oxford and Cambridge. Though a flexible and universal faceted classification system, Bliss faces challenges due to its unfinished state, leading to the evolution in many Bliss libraries of divergent, in-house adaptations of the system to fill in its gaps. For most of the official, published parts of Bliss, a uniquely formatted source code used to generate a typeset version is available online. This project focused on converting this source code into a SKOS RDF linked-data format using Python: first by parsing the source code, then using RDFLib to write the concepts, notation, relationships, and notes in RDF. This article suggests that the RDF version has the potential to prevent further divergence and unify the various Bliss adaptations and reflects on the limitations of SKOS when applied to complex, faceted systems.}
-      \field{day}{7}
-      \field{issn}{1940-5758}
-      \field{journaltitle}{The Code4Lib Journal}
-      \field{month}{10}
-      \field{number}{59}
-      \field{title}{Converting the {{Bliss Bibliographic Classification}} to {{SKOS RDF}} Using {{Python RDFLib}}}
-      \field{urlday}{10}
-      \field{urlmonth}{7}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://journal.code4lib.org/articles/18073
-      \endverb
-      \verb{url}
-      \verb https://journal.code4lib.org/articles/18073
-      \endverb
-      \keyw{_normalisation,_webSemantique,texThesau,texThesau}
-    \endentry
     \entry{bechardArchivesElectroniques2020a}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fc73acf29d77cf4cc510783caffb70d1}{%
@@ -271,7 +277,6 @@
       \field{title}{Les archives électroniques}
       \field{year}{2020}
       \field{dateera}{ce}
-      \true{nocite}
       \keyw{_theorie,Archivistique,CD974.4,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{bermesConvergenceInteroperabiliteLapport2011}{inproceedings}{}{}
@@ -403,7 +408,6 @@
       \field{year}{2025}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/5KVYEJRS/Bermès et Charpier - 2025 - Repenser les collections patrimoniales par le prisme de l'IA 2025.pdf
       \endverb
@@ -759,6 +763,53 @@
       \endverb
       \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
+    \entry{bruleauxRecordsContextsRIC2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9079f5e49a253c6360915d774ea46ae6}{%
+           family={Bruleaux},
+           familyi={B\bibinitperiod},
+           given={Anne\bibnamedelima Marie},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Archives nationales, carnet de recherche}%
+      }
+      \strng{namehash}{9079f5e49a253c6360915d774ea46ae6}
+      \strng{fullhash}{9079f5e49a253c6360915d774ea46ae6}
+      \strng{fullhashraw}{9079f5e49a253c6360915d774ea46ae6}
+      \strng{bibnamehash}{9079f5e49a253c6360915d774ea46ae6}
+      \strng{authorbibnamehash}{9079f5e49a253c6360915d774ea46ae6}
+      \strng{authornamehash}{9079f5e49a253c6360915d774ea46ae6}
+      \strng{authorfullhash}{9079f5e49a253c6360915d774ea46ae6}
+      \strng{authorfullhashraw}{9079f5e49a253c6360915d774ea46ae6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{16}
+      \field{journaltitle}{Le cri du PIAF}
+      \field{month}{7}
+      \field{number}{28}
+      \field{shorttitle}{Les Métadonnées Archivistiques En Transition Vers Des Graphes de Données}
+      \field{title}{Records in {{Contexts}} ({{RIC}}) : De l'abstrait Au Concret}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.58079/QNWJ
+      \endverb
+      \verb{urlraw}
+      \verb https://labarchiv.hypotheses.org/1728
+      \endverb
+      \verb{url}
+      \verb https://labarchiv.hypotheses.org/1728
+      \endverb
+      \keyw{,texThesau}
+    \endentry
     \entry{cabaretMuseePourLaeronautique2020}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cf8830c45a74d4ee3956e1e18e189f0d}{%
@@ -1076,7 +1127,7 @@
       \field{langid}{french}
       \field{number}{1}
       \field{shorttitle}{Les normes de conception, gestion et maintenance de thésaurus}
-      \field{title}{Les normes de conception, gestion et maintenance de thésaurus:Évolutions récentes et perspectives}
+      \field{title}{Les normes de conception, gestion et maintenance de thésaurus : Évolutions récentes et perspectives}
       \field{urlday}{30}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1218,6 +1269,170 @@
       \endverb
       \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
+    \entry{coulonDeploiementNormeRecords2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=328ba1a8f910bfc18a46dc8e018d82a6}{%
+           family={Coulon},
+           familyi={C\bibinitperiod},
+           given={Baptiste\bibnamedelima De},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \strng{fullhash}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \strng{fullhashraw}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \strng{bibnamehash}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \strng{authorbibnamehash}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \strng{authornamehash}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \strng{authorfullhash}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \strng{authorfullhashraw}{328ba1a8f910bfc18a46dc8e018d82a6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La Fondation SAPA, Archives suisses des arts de la scène, a migré en 2021 les métadonnées sur ses collections en RDF en suivant pour cela les recommandations du nouveau standard Records in Contexts. Cette migration a coïncidé avec la mise en ligne d’un nouveau portail de ses collections basé sur les principes des données ouvertes liées (Linked Open Data). Après deux ans d’implémentation, la Fondation a souhaité tirer un premier bilan afin que son expérience puisse servir aux institutions qui souhaiteraient suivre le même chemin. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ The Swiss Archives of the Performing Arts (SAPA Foundation) migrated the metadata of its collections to RDF in 2021, following the recommendations of the new Records in Contexts standard. This migration coincided with the launch of a new portal for its collections based on Linked Open Data principles. After two years of implementation, the Foundation wanted to assess its experience in order to benefit institutions considering a similar path. ~ *Article en texte intégral disponible en français et en anglais / Full-text article available in English and French}
+      \field{day}{29}
+      \field{issn}{1661-1802}
+      \field{journaltitle}{Revue électronique suisse de science de l'information (RESSI)}
+      \field{langid}{french}
+      \field{month}{2}
+      \field{number}{24}
+      \field{title}{Déploiement de la norme Records in Contexts pour la gestion des collections de la Fondation SAPA}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.55790/journals/ressi.2024.e1511
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/HRPPXDQ9/Coulon - 2024 - Déploiement de la norme Records in Contexts pour la gestion des collections de la Fondation SAPA.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://oap.unige.ch/journals/ressi/article/view/1511
+      \endverb
+      \verb{url}
+      \verb https://oap.unige.ch/journals/ressi/article/view/1511
+      \endverb
+      \keyw{Données ouvertes liées (Linked Open Data),Fondation SAPA,Gestion des collections,RDF (Resource Description Framework),Records in Contexts (RiC),texThesau}
+    \endentry
+    \entry{denisImageCognition1989}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c91dc2017b639a5ebdd9e523cd75e2aa}{%
+           family={Denis},
+           familyi={D\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires de France}%
+      }
+      \strng{namehash}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \strng{fullhash}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \strng{fullhashraw}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \strng{bibnamehash}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \strng{authorbibnamehash}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \strng{authornamehash}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \strng{authorfullhash}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \strng{authorfullhashraw}{c91dc2017b639a5ebdd9e523cd75e2aa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cet ouvrage retrace les débats théoriques et fait le point des recherches expérimentales les plus récentes sur le rôle de l'image dans la cognition humaine; il fournit une analyse détailée des propriétés de l'image mentale et des relations avec l'activité perceptive.}
+      \field{eprinttype}{googlebooks}
+      \field{isbn}{978-2-13-042250-1}
+      \field{langid}{french}
+      \field{pagetotal}{292}
+      \field{title}{Image et cognition}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb enUQAQAAIAAJ
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
+    \endentry
+    \entry{couperinDerriereBeauteImages2024}{video}{}{}
+      \name{namea}{1}{}{%
+        {{hash=0d3bd6d291e43f0e539a834d15073666}{%
+           family={{Couperin}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Canal U}%
+      }
+      \strng{nameabibnamehash}{0d3bd6d291e43f0e539a834d15073666}
+      \strng{nameanamehash}{0d3bd6d291e43f0e539a834d15073666}
+      \strng{nameafullhash}{0d3bd6d291e43f0e539a834d15073666}
+      \strng{nameafullhashraw}{0d3bd6d291e43f0e539a834d15073666}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La datavisualisation, ou visualisation des données, consiste à mettre en scène les données graphiquement pour obtenir une compréhension instantanée, simple, fonctionnelle et esthétique de phénomènes complexes ou ayant nécessité une étape préalable de fouille. Née au sein de la recherche en mathématique statistique et en informatique, elle s’est depuis appliquée à la recherche en sciences sociales.}
+      \field{day}{17}
+      \field{entrysubtype}{video}
+      \field{langid}{french}
+      \field{month}{12}
+      \field{nameatype}{collaborator}
+      \field{title}{Derrière la beauté des images, des données}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/U6C4AVNZ/derriere-la-beaute-des-images-des-donnees.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.canal-u.tv/159905
+      \endverb
+      \verb{url}
+      \verb https://www.canal-u.tv/159905
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
+    \endentry
+    \entry{directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04c9e59d62c216487a97bb9c68361cbb}{%
+           family={{Direction des archives de France}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{04c9e59d62c216487a97bb9c68361cbb}
+      \strng{fullhash}{04c9e59d62c216487a97bb9c68361cbb}
+      \strng{fullhashraw}{04c9e59d62c216487a97bb9c68361cbb}
+      \strng{bibnamehash}{04c9e59d62c216487a97bb9c68361cbb}
+      \strng{authorbibnamehash}{04c9e59d62c216487a97bb9c68361cbb}
+      \strng{authornamehash}{04c9e59d62c216487a97bb9c68361cbb}
+      \strng{authorfullhash}{04c9e59d62c216487a97bb9c68361cbb}
+      \strng{authorfullhashraw}{04c9e59d62c216487a97bb9c68361cbb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{Dictionnaire de terminologie archivistique}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/I7QB8S7Z/28204344.html
+      \endverb
+      \verb{urlraw}
+      \verb https://francearchives.gouv.fr/fr/article/28204344
+      \endverb
+      \verb{url}
+      \verb https://francearchives.gouv.fr/fr/article/28204344
+      \endverb
+      \keyw{,texArchivesNumeriques}
+    \endentry
     \entry{egglestonNotJustArt2019}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=06c8dd0f0085d08d190d9da6277b6f70}{%
@@ -1293,7 +1508,6 @@
       \field{year}{2025}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://fil.abes.fr/2025/04/10/lindexation-rameau-assistee-par-ia-retour-sur-une-experimentation-prometteuse/
       \endverb
@@ -1301,6 +1515,57 @@
       \verb https://fil.abes.fr/2025/04/10/lindexation-rameau-assistee-par-ia-retour-sur-une-experimentation-prometteuse/
       \endverb
       \keyw{_automatisation IA,_exemple,texNumeriquePatrimoine,texNumeriquePatrimoine}
+    \endentry
+    \entry{francartOntologieThesaurusTaxonomie2013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44d317899d2d143bbcf3b71712e35a48}{%
+           family={Francart},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Sparna Blog}%
+      }
+      \strng{namehash}{44d317899d2d143bbcf3b71712e35a48}
+      \strng{fullhash}{44d317899d2d143bbcf3b71712e35a48}
+      \strng{fullhashraw}{44d317899d2d143bbcf3b71712e35a48}
+      \strng{bibnamehash}{44d317899d2d143bbcf3b71712e35a48}
+      \strng{authorbibnamehash}{44d317899d2d143bbcf3b71712e35a48}
+      \strng{authornamehash}{44d317899d2d143bbcf3b71712e35a48}
+      \strng{authorfullhash}{44d317899d2d143bbcf3b71712e35a48}
+      \strng{authorfullhashraw}{44d317899d2d143bbcf3b71712e35a48}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Trois espèces d’animaux différentes se rencontrent principalement dans les steppes des langages de représentation des connaissances du web de données. Les ontologies, les thesaurus et les taxonomies, si elles partagent l’organisation hiérarchiques de concepts entre eux, n’ont pas les mêmes usages, ni les mêmes objectifs. L’ontologie est faite pour décrire le monde tel qu’il est;…}
+      \field{day}{7}
+      \field{hour}{23}
+      \field{langid}{french}
+      \field{minute}{11}
+      \field{month}{12}
+      \field{second}{25}
+      \field{timezone}{Z}
+      \field{title}{Ontologie, Thesaurus et Taxonomie sur le web de données}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/Y9Z7WBJH/ontologie-thesaurus-taxonomie-web-de-donnees.html
+      \endverb
+      \verb{urlraw}
+      \verb https://blog.sparna.fr/2013/12/07/ontologie-thesaurus-taxonomie-web-de-donnees/
+      \endverb
+      \verb{url}
+      \verb https://blog.sparna.fr/2013/12/07/ontologie-thesaurus-taxonomie-web-de-donnees/
+      \endverb
+      \keyw{,texThesau}
     \endentry
     \entry{francartVocabulairesDansWeb2018}{online}{}{}
       \name{author}{1}{}{%
@@ -1322,6 +1587,7 @@
       \strng{authornamehash}{44d317899d2d143bbcf3b71712e35a48}
       \strng{authorfullhash}{44d317899d2d143bbcf3b71712e35a48}
       \strng{authorfullhashraw}{44d317899d2d143bbcf3b71712e35a48}
+      \field{extraname}{2}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
@@ -1489,6 +1755,45 @@
       \verb https://www.enssib.fr/bibliotheque-numerique/documents/69395-du-musee-traditionnel-au-musee-du-xxie-siecle-la-transformation-numerique-de-l-institution.pdf
       \endverb
       \keyw{texNumeriquePatrimoine,texNumeriquePatrimoine}
+    \endentry
+    \entry{goodyDomesticationSavageMind1977}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30a3e7cca1bf9fc0de935ebecd2a48ed}{%
+           family={Goody},
+           familyi={G\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \strng{fullhash}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \strng{fullhashraw}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \strng{bibnamehash}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \strng{authorbibnamehash}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \strng{authornamehash}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \strng{authorfullhash}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \strng{authorfullhashraw}{30a3e7cca1bf9fc0de935ebecd2a48ed}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Current theories and views on the differences in the 'mind' of human societies depend very much on a dichotomy between 'advanced' and 'primitive', or between 'open' and 'closed', or between 'domesticated' and 'savage', that is to say, between one of a whole variety of 'we-they' distinctions. Professor Goody argues that such an approach prevents any serious discussion of the mechanisms leading to long-term changes in the cognitive processes of human cultures or any adequate explanation of the changes in 'traditional' societies that are taking place in the world around us. In this book he attempts to provide the framework for a more satisfactory explanation by relating certain broad differences in 'mentalities' to the changes in the means of communication, and specifically to the series of shifts involved in the development of writing. The argument is based upon theoretical considerations, as well as empirical evidence derived from recent fieldwork in West Africa and the study of a wide range of source material on the ancient societies of the Near East.}
+      \field{day}{24}
+      \field{eprinttype}{googlebooks}
+      \field{isbn}{978-0-521-29242-9}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{pagetotal}{196}
+      \field{title}{The {{Domestication}} of the {{Savage Mind}}}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb baQtOyscXUwC
+      \endverb
+      \keyw{Language Arts & Disciplines / Literacy,Philosophy / History & Surveys / Ancient & Classical,Psychology / Ethnopsychology,Social Science / Anthropology / Cultural & Social,Social Science / Anthropology / General,Social Science / Sociology / General,texNumeriquePatrimoine}
     \endentry
     \entry{griveauNouveauxCataloguesNouvelles2025}{online}{}{}
       \name{author}{1}{}{%
@@ -1696,7 +2001,6 @@
       \field{year}{2011}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/S5FDYURD/53657.html
       \endverb
@@ -2154,7 +2458,6 @@
       \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{72\bibrangedash 80}
       \range{pages}{9}
       \verb{doi}
@@ -2258,7 +2561,7 @@
       \endverb
       \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
-    \entry{ministeredelacultureDocumenterArchiverMusee2020}{misc}{}{}
+    \entry{ministeredelacultureVocabulairesScientifiquesService2014}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
            family={{Ministère de la Culture}},
@@ -2273,6 +2576,47 @@
       \strng{authorfullhash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{authorfullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
       \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Le Service des musées de France met à la disposition des professionnels des vocabulaires scientifiques. Leur utilisation est préconisée afin de décrire les collections à l’aide d’un langage commun, particulièrement lors de leur informatisation.}
+      \field{day}{3}
+      \field{langid}{french}
+      \field{month}{6}
+      \field{title}{Vocabulaires scientifiques du Service des musées de France}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/B6B69FYS/vocabulaires-scientifiques-du-service-des-musees-de-france.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/informatiser-les-collections-d-un-musee-de-france/vocabulaires-scientifiques-du-service-des-musees-de-france
+      \endverb
+      \verb{url}
+      \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/informatiser-les-collections-d-un-musee-de-france/vocabulaires-scientifiques-du-service-des-musees-de-france
+      \endverb
+      \keyw{dontcite,texThesau}
+    \endentry
+    \entry{ministeredelacultureDocumenterArchiverMusee2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
+           family={{Ministère de la Culture}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{fullhash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{fullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{bibnamehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authorbibnamehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authornamehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authorfullhash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authorfullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -2311,7 +2655,7 @@
       \strng{authornamehash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{authorfullhash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{authorfullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -2327,7 +2671,6 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.culture.gouv.fr/fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-archives-electroniques-dans-un-musee-de-France
       \endverb
@@ -2350,7 +2693,7 @@
       \strng{authornamehash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{authorfullhash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{authorfullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -2375,6 +2718,44 @@
       \endverb
       \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
+    \entry{ministeredelacultureListeDautoriteDenomination}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
+           family={{Ministère de la Culture}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Opentheso}%
+      }
+      \strng{namehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{fullhash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{fullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{bibnamehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authorbibnamehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authornamehash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authorfullhash}{3f01ed98bbd81682b0ac4533193374bf}
+      \strng{authorfullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
+      \field{extraname}{5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Liste d'autorité {{Dénomination}} - {{Joconde}}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/CQ2X7AIW/opentheso.huma-num.fr.html
+      \endverb
+      \verb{urlraw}
+      \verb https://opentheso.huma-num.fr/?idt=th290
+      \endverb
+      \verb{url}
+      \verb https://opentheso.huma-num.fr/?idt=th290
+      \endverb
+      \keyw{dontcite,texThesau}
+    \endentry
     \entry{ministeredelacultureVocabulairesScientifiquesService}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3f01ed98bbd81682b0ac4533193374bf}{%
@@ -2392,7 +2773,7 @@
       \strng{authornamehash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{authorfullhash}{3f01ed98bbd81682b0ac4533193374bf}
       \strng{authorfullhashraw}{3f01ed98bbd81682b0ac4533193374bf}
-      \field{extraname}{4}
+      \field{extraname}{6}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -2600,6 +2981,55 @@
       \verb https://prefixesmom.hypotheses.org/6159
       \endverb
       \keyw{_exemple,_THESAUgestion,dontcite,texThesau,texThesau}
+    \endentry
+    \entry{moscarolaFaireParlerDonnees2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ef196adb7baebc86752d1fe09358324}{%
+           family={Moscarola},
+           familyi={M\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {EMS Éditions}%
+      }
+      \strng{namehash}{4ef196adb7baebc86752d1fe09358324}
+      \strng{fullhash}{4ef196adb7baebc86752d1fe09358324}
+      \strng{fullhashraw}{4ef196adb7baebc86752d1fe09358324}
+      \strng{bibnamehash}{4ef196adb7baebc86752d1fe09358324}
+      \strng{authorbibnamehash}{4ef196adb7baebc86752d1fe09358324}
+      \strng{authornamehash}{4ef196adb7baebc86752d1fe09358324}
+      \strng{authorfullhash}{4ef196adb7baebc86752d1fe09358324}
+      \strng{authorfullhashraw}{4ef196adb7baebc86752d1fe09358324}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Business Science Institute}
+      \field{isbn}{978-2-37687-132-3}
+      \field{langid}{french}
+      \field{title}{Faire parler les données. Méthodologies quantitatives et qualitatives}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3917/ems.mosca.2018.01
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/UDSXEYRM/faire-parler-les-donnees--9782376871323.html
+      \endverb
+      \verb{urlraw}
+      \verb https://shs.cairn.info/faire-parler-les-donnees--9782376871323
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/faire-parler-les-donnees--9782376871323
+      \endverb
+      \keyw{,texNumeriquePatrimoine}
     \endentry
     \entry{moureauProblemesPosesPar1968}{online}{}{}
       \name{author}{1}{}{%
@@ -2939,6 +3369,46 @@
       \endverb
       \keyw{_outils,_THESAUgestion,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
+    \entry{OpenThesoa}{online}{}{}
+      \list{organization}{1}{%
+        {Opentheso}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{title}{{{OpenTheso}}}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://opentheso.huma-num.fr/index.xhtml
+      \endverb
+      \verb{url}
+      \verb https://opentheso.huma-num.fr/index.xhtml
+      \endverb
+      \keyw{dontcite,texThesau}
+    \endentry
+    \entry{Pactols}{online}{}{}
+      \list{organization}{1}{%
+        {Opentheso}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Pactols}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pactols.frantiq.fr/
+      \endverb
+      \verb{url}
+      \verb https://pactols.frantiq.fr/
+      \endverb
+      \keyw{_outils,dontcite,texThesau}
+    \endentry
     \entry{perrinBonnesPratiquesPour2020}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c54cfc26f32194eada1e494de77c587}{%
@@ -2976,7 +3446,6 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.58079/sjjl
       \endverb
@@ -3113,6 +3582,28 @@
       \endverb
       \keyw{_normalisation,texThesau,texThesau}
     \endentry
+    \entry{PluginTamilOpentheso}{online}{}{}
+      \list{organization}{1}{%
+        {Tamil.fr}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plugin Tamil Opentheso Opentheso est une application qui permet d’interroger, d'enrichir et/ou de corriger les termes consitutant des…}
+      \field{langid}{french}
+      \field{title}{Plugin Tamil Opentheso}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tamil.fr/doc/plugin-opentheso/
+      \endverb
+      \verb{url}
+      \verb https://www.tamil.fr/doc/plugin-opentheso/
+      \endverb
+      \keyw{_outils,dontcite,texThesau}
+    \endentry
     \entry{PresentationHistoire}{online}{}{}
       \list{organization}{1}{%
         {Musée de l'Air et de l'Espace}%
@@ -3236,6 +3727,59 @@
       \verb https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000019509867/
       \endverb
       \keyw{_normalisation,dontcite,texThesau,texThesau}
+    \endentry
+    \entry{reichThesaurusAuGraphe2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5141335cb8754bca2453ceea7d66e284}{%
+           family={Reich},
+           familyi={R\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=596ac594fdba6a74a20420d63d7a1d14}{%
+           family={Durost},
+           familyi={D\bibinitperiod},
+           given={Sébastien},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {AFEAF}%
+      }
+      \strng{namehash}{e5eb96eb399ad6034733911b93f3d033}
+      \strng{fullhash}{e5eb96eb399ad6034733911b93f3d033}
+      \strng{fullhashraw}{e5eb96eb399ad6034733911b93f3d033}
+      \strng{bibnamehash}{e5eb96eb399ad6034733911b93f3d033}
+      \strng{authorbibnamehash}{e5eb96eb399ad6034733911b93f3d033}
+      \strng{authornamehash}{e5eb96eb399ad6034733911b93f3d033}
+      \strng{authorfullhash}{e5eb96eb399ad6034733911b93f3d033}
+      \strng{authorfullhashraw}{e5eb96eb399ad6034733911b93f3d033}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Bulletin de l'Association française pour l'étude de l'âge du Fer}
+      \field{shorttitle}{Du Thésaurus Au Graphe}
+      \field{title}{Du Thésaurus Au Graphe : Un Nouveau Dispositif Numérique Basé Sur Le Vocabulaire Pour La Création de Corpus de Données Archéologiques}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{38}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13\bibrangedash 16}
+      \range{pages}{4}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/VU4D9IYF/Reich et Durost - 2022 - Du thésaurus au graphe un nouveau dispositif numérique basé sur le vocabulaire pour la création de.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.science/hal-03964480
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-03964480
+      \endverb
+      \keyw{,texThesau}
     \endentry
     \entry{ricardRGPDArchives2018a}{online}{}{}
       \name{author}{1}{}{%
@@ -3401,6 +3945,33 @@
       \endverb
       \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
+    \entry{SAEDefinitionAvantages}{online}{}{}
+      \list{organization}{1}{%
+        {EVERIAL}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Tout savoir sur le SAE (Système d’Archivage Électronique) : définition, avantages, différence avec la GED, et mise en place. Optez pour une transition digitale réussie !}
+      \field{langid}{french}
+      \field{shorttitle}{SAE}
+      \field{title}{SAE : définition, avantages, mise en place.}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/2TWCVBTI/sae-definition-avantages.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.everial.com/solutions/gestion-documentaire/archivage-electronique/sae-definition-avantages/
+      \endverb
+      \verb{url}
+      \verb https://www.everial.com/solutions/gestion-documentaire/archivage-electronique/sae-definition-avantages/
+      \endverb
+      \keyw{dontcite,texArchivesNumeriques}
+    \endentry
     \entry{sassetti-aguileraArchivesMuseesDiversites2020a}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0d14320ebc3c2ccea9ef243c0ddff232}{%
@@ -3460,6 +4031,23 @@
       \verb https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071307/LEGISCTA000019838574/#LEGISCTA000019840168
       \endverb
       \keyw{dontcite,texHistoire}
+    \endentry
+    \entry{Skosmos}{online}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Skosmos}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.skosmos.org/
+      \endverb
+      \verb{url}
+      \verb https://www.skosmos.org/
+      \endverb
+      \keyw{dontcite,texThesau}
     \endentry
     \entry{taboadaOntologyMatchingLarge2025}{online}{}{}
       \name{author}{4}{}{%
@@ -3604,6 +4192,47 @@
       \verb https://www.archimag.com/archives-patrimoine/2022/02/01/projet-vas-nouvelle-offre-service-interminist%C3%A9rielle-archivage
       \endverb
       \keyw{_outils,texArchivesNumeriques,texArchivesNumeriques}
+    \endentry
+    \entry{unescoThesaurusLUNESCO1977}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24a0ef0a6269be289db4de9570763de3}{%
+           family={{UNESCO}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {SKOSMOS}%
+      }
+      \strng{namehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{fullhash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{fullhashraw}{24a0ef0a6269be289db4de9570763de3}
+      \strng{bibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorbibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authornamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorfullhash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorfullhashraw}{24a0ef0a6269be289db4de9570763de3}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Thésaurus de l'{{UNESCO}}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/2GGDJLAC/fr.html
+      \endverb
+      \verb{urlraw}
+      \verb https://vocabularies.unesco.org/browser/thesaurus/fr/
+      \endverb
+      \verb{url}
+      \verb https://vocabularies.unesco.org/browser/thesaurus/fr/
+      \endverb
+      \keyw{dontcite,texThesau}
     \endentry
     \entry{vaticanConvergencesDivergencesEntre2011a}{article}{}{}
       \name{author}{1}{}{%

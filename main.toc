@@ -4,7 +4,7 @@
 \contentsline {chapter}{Remerciements}{iii}{chapter*.2}%
 \contentsline {chapter}{Liste des abréviations}{v}{chapter*.3}%
 \contentsline {chapter}{Bibliographie}{vii}{chapter*.4}%
-\contentsline {chapter}{Introduction}{xxi}{chapter*.11}%
+\contentsline {chapter}{Introduction}{xxiii}{chapter*.11}%
 \contentsline {part}{I\hspace {1em}Le contexte institutionnel particulier du Musée de l'air et de l'espace}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Référence nationale}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.}La représentation nationale : un musée aux collections uniques}{5}{section.1.1}%
@@ -25,9 +25,9 @@
 \contentsline {section}{\numberline {2.}Des conséquences importantes : quand la prolifération devient paralysie documentaire}{31}{section.3.2}%
 \contentsline {subsection}{\numberline {2.1.}L’invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{31}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {2.2.}La saturation des métiers : quand gérer devient ingérable}{33}{subsection.3.2.2}%
-\contentsline {chapter}{\numberline {4}PDV métier}{37}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Diversité des métiers et fragmentation documentaire}{37}{chapter.4}%
 \contentsline {section}{\numberline {1.}Cartographie des métiers et émergence d’une conscience documentaire différenciée au \ac {mae} }{37}{section.4.1}%
-\contentsline {subsection}{\numberline {1.1.}Les documentalistes : pionniers, vigies et promoteurs de l’interopérabilité}{37}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {1.1.}Les documentalistes : pionniers, vigies et promoteurs de l’interopérabilité}{38}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {1.2.}La gestionnaire de \gls {bdd}, pivot documentaire et révélateur des limites institutionnelles}{39}{subsection.4.1.2}%
 \contentsline {subsection}{\numberline {1.3.}Les chargés de collections : diversité des pratiques, entre nomenclature fine et catégories souples}{41}{subsection.4.1.3}%
 \contentsline {section}{\numberline {2.}Logiques métiers et fragmentation du sens : pluralité des rapports à l’information en institution patrimoniale}{43}{section.4.2}%
@@ -36,13 +36,47 @@
 \contentsline {subsection}{\numberline {2.3.}La persistance des silos institutionnels : musées, bibliothèques, archives}{45}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {2.4.}État de la recherche et pistes théoriques}{45}{subsection.4.2.4}%
 \contentsline {subsection}{\numberline {2.5.}Conclusion : reconnaître la diversité avant d'unifier}{46}{subsection.4.2.5}%
-\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{47}{part.3}%
-\contentsline {chapter}{Conclusion}{51}{chapter*.24}%
-\contentsline {part}{Annexes}{55}{part*.25}%
-\contentsline {chapter}{\numberline {A}Chronologie du MAE}{55}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Organigramme}{59}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Flux de données}{61}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{63}{appendix.D}%
-\contentsline {part}{Glossaire}{69}{appendix*.35}%
-\contentsline {part}{Tables}{71}{appendix*.36}%
-\contentsline {part}{Figures}{73}{appendix*.37}%
+\contentsline {chapter}{\numberline {5}PDV métier}{47}{chapter.5}%
+\contentsline {section}{\numberline {1.}La frontière floue entre archives et documentation : une problématique propre aux musées techniques}{48}{section.5.1}%
+\contentsline {subsection}{\numberline {1.1.}Définir l’archive numérique en contexte muséal : enjeux et ambiguïtés}{48}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Panorama des pratiques de gestion des archives numériques au MAE}{49}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {1.3.}Un personnel sous-dimensionné : la difficile reconnaissance de la fonction archivistique}{49}{subsection.5.1.3}%
+\contentsline {section}{\numberline {2.}II. L’archiviste en musée : une légitimité difficile à établir, entre injonctions réglementaires et impossibilité pratique}{50}{section.5.2}%
+\contentsline {subsection}{\numberline {2.1.}DUA, versement, archivage raisonné : obstacles structurels à la gestion des archives numériques}{50}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Agents, archivistes, informaticiens : une gouvernance éclatée de l’archive numérique}{50}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {2.3.}Perspectives et défis pour l’archivage numérique au MAE}{51}{subsection.5.2.3}%
+\contentsline {section}{\numberline {3.}Conclusion de la sous-partie II/C}{52}{section.5.3}%
+\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{53}{part.3}%
+\contentsline {chapter}{\numberline {6}Gérer la prolifération}{57}{chapter.6}%
+\contentsline {section}{\numberline {1.}La représentation conceptuelle : modéliser pour maîtriser la complexité}{57}{section.6.1}%
+\contentsline {subsection}{\numberline {1.1.}Les enjeux de la modélisation conceptuelle}{57}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Outils et méthodes de modélisation}{59}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {1.3.}La modélisation comme outil de sensibilisation et de pilotage}{61}{subsection.6.1.3}%
+\contentsline {section}{\numberline {2.}Les solutions techniques existantes : entre standardisation et adaptation locale}{63}{section.6.2}%
+\contentsline {subsection}{\numberline {2.1.}Qu’est-ce qu’un thésaurus documentaire ?}{63}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Diversité des outils de structuration de l’information}{64}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {2.3.}Solutions pour l’interopérabilité et l’ouverture}{65}{subsection.6.2.3}%
+\contentsline {section}{\numberline {3.}L’intégration dans l’écosystème institutionnel : vers une gouvernance collaborative des outils}{67}{section.6.3}%
+\contentsline {subsection}{\numberline {3.1.}Accompagnement au changement et formation des agents}{67}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {3.2.}Interopérabilité et dialogue intermétiers}{68}{subsection.6.3.2}%
+\contentsline {chapter}{\numberline {7}Gérer la prolifération}{69}{chapter.7}%
+\contentsline {section}{\numberline {1.}Convaincre de la nécessité du processus}{69}{section.7.1}%
+\contentsline {section}{\numberline {2.}Créer un thésaurus commun à partir des vocabulaires existants : un travail collaboratif}{70}{section.7.2}%
+\contentsline {subsection}{\numberline {2.1.}La réflexion en groupes de travail : avantages et limites}{71}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Où se situent les principaux besoins ?}{72}{subsection.7.2.2}%
+\contentsline {chapter}{\numberline {8}Gérer la prolifération}{73}{chapter.8}%
+\contentsline {section}{\numberline {1.}Automatiser les tâches : promesses et réalités de l’IA en institution patrimoniale}{73}{section.8.1}%
+\contentsline {section}{\numberline {2.}Entraîner une IA sur la base d’un vocabulaire spécialisé : défis et solutions}{75}{section.8.2}%
+\contentsline {subsection}{\numberline {2.1.}Limites et perspectives}{76}{subsection.8.2.1}%
+\contentsline {chapter}{Conclusion}{77}{chapter*.27}%
+\contentsline {part}{Annexes}{81}{part*.28}%
+\contentsline {chapter}{\numberline {A}Chronologie du MAE}{81}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Organigramme}{85}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Flux de données}{87}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{89}{appendix.D}%
+\contentsline {chapter}{\numberline {E}Modélisations de données}{93}{appendix.E}%
+\contentsline {chapter}{\numberline {F}UML}{95}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{97}{appendix.G}%
+\contentsline {part}{Glossaire}{103}{appendix*.40}%
+\contentsline {part}{Tables}{105}{appendix*.41}%
+\contentsline {part}{Figures}{107}{appendix*.42}%

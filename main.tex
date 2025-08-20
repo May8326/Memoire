@@ -35,6 +35,8 @@
 
 \usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}% style de l'EnC (https://ctan.org/pkg/biblatex-enc)
 \DeclareFieldFormat{citetitle}{\textit{#1}}% cite automatiquement les titres en italiques
+\DeclareBibliographyAlias{video}{misc}
+\DeclareBibliographyAlias{cite:video}{cite:misc}
 \DeclareBibliographyAlias{legislation}{misc}
 \DeclareBibliographyAlias{cite:legislation}{cite:misc}% aliases pour citer des articles de loi - le style EnC ne les intègre pas
 
@@ -106,6 +108,16 @@
 \DeclareAcronym{clade}{short = CLADE, long = Coopération pour l’Accès à la Documentation Electronique – Bibliothèques Numériques}
 \DeclareAcronym{rg2a}{short=RGAA, long = Référentiel général d’amélioration de l’accessibilité}
 \DeclareAcronym{bdd}{short = BDD, long = Base de Données}
+\DeclareAcronym{ged}{short = GED, long = Gestion électronique de documents}
+\DeclareAcronym{sae}{short = SAE, long = Système d'archivage électronique}
+\DeclareAcronym{rico}{short = RiC-0, long=Records in Context}
+\DeclareAcronym{w3c}{short = W3C, long = World Wide Web Consortium}
+\DeclareAcronym{frantiq}{short = FRANTIQ, long = fédération et ressources sur l'Antiquité}
+\DeclareAcronym{ia}{short = IA, long = intelligence artificielle}
+\DeclareAcronym{anssi}{short = ANSSI, long = Agence nationale de la sécurité des systèmes d'information}
+\DeclareAcronym{llm}{short = LLM, long = grand modèle de langage \textit{anglais : Large Language Model}}
+\DeclareAcronym{rgpd}{short = RGPD, long = règlement général sur la protection des données}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%% IMAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{graphicx}
@@ -175,6 +187,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%% AUTRES PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{listings} %pour écrire du code
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% TABLEAUX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -191,7 +205,12 @@
 
 \newcolumntype{B}{>{\bfseries\raggedleft\arraybackslash}p{0.25\textwidth}}
 \newcolumntype{C}{>{\raggedright\arraybackslash}p{0.75\textwidth}}
-\renewcommand{\arraystretch}{1.3}  % ou 1.5 selon ton goût
+\newcolumntype{D}{>{\bfseries\raggedleft\arraybackslash}p{0.20\textwidth}}
+\newcolumntype{E}{>{\raggedright\arraybackslash}p{0.40\textwidth}}
+
+
+
+\renewcommand{\arraystretch}{1.3}
 
 %%%%%%%%%%%%%%%%%%%%%%%%% HYPHENATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -240,6 +259,9 @@
 \newcommand{\maelong}{\acf{mae} }
 \newcommand{\bibmusee}{\enquote{\textit{bib-musées}}}
 \newcommand{\minarm}{ministère des Armées}
+\newcommand{\refinterne}[1]{\textit{\hyperref[#1]{\nameref{#1}}}}
+\newcommand{\inserttable}[1]{\LTXtable{\textwidth}{#1}}
+
 
 %%%%%% QUESTIONS - REPONSES pour les interviews
 \newcommand{\reponse}[1]{\textbf{Réponse : }\textit{#1}}
@@ -497,17 +519,19 @@
 	\addcontentsline{toc}{part}{Annexes}
 	
 	\chapter[Chronologie du MAE]{\label{Ax-A}Chronologie du \mae}
-	\LTXtable{\textwidth}{./parties/backmatter/annexes/A1_frise.tex}
+	\inserttable{./parties/backmatter/annexes/A1_frise.tex}
 	
 	\chapter[Organigramme]{\label{Ax-B}Organigramme du \mae}
 	\begin{figure}[htbp]
 		\includegraphics[width=\linewidth]{img/SCHEM_organigramme.jpg}
+		\caption{Organigramme du \mae}
 		\label{fig:schem_organigramme}
 	\end{figure}
 	
 	\chapter[Flux de données]{\label{Ax-C}Flux de données de thésaurus au \mae}
 	\begin{figure}[htbp]
 		\includegraphics[width=\textwidth]{img/MODEL_Flux.png}
+		\caption{Flux de données de thésaurus au \mae}
 		\label{fig:model_flux}
 	\end{figure}
 	
@@ -515,6 +539,24 @@
 	\input{./parties/backmatter/annexes/A4_interview_doc.tex}	
 	\newpage{\pagestyle{empty}\cleardoublepage}
 	
+	\chapter[Modélisations de données]{\label{Ax-E}Exemples de modélisations des thésaurus du \mae}
+	
+	\chapter[UML]{\label{Ax-F}Comparaisons de la structure d'un thésaurus en UML}
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{img/UML_iso}
+		\caption{Modélisation d'un thésaurus selon la norme ISO 25964}
+		\label{fig:umliso}
+	\end{figure}
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{img/UML_iso_boeing}
+		\caption{Structure du thésaurus \textit{Constructeurs} de \gls{micromusee}}
+		\label{fig:umlisoboeing}
+	\end{figure}
+	
+	\chapter[Roadmap OpenTheso]{\label{Ax-G}Processus à suivre pour la mise en place d'OpenTheso au \mae}
+	\inserttable{./parties/backmatter/annexes/A6_roadmap}
 	
 	
 	\backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
