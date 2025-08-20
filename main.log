@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  20 AUG 2025 19:09
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  20 AUG 2025 22:36
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1791,11 +1791,11 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [9]
 
-[10]
-
-[11
+[10
 
 ]
+
+[11]
 
 [12]
 
@@ -1920,13 +1920,16 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 [5]
 
 [6]
+
+[7]
 File: img/MODEL_domaines.png Graphic file (type bmp)
 <img/MODEL_domaines.png>
 
 
-[7]
-
 [8]) (./parties/mainmatter/I/A/I_A_2.tex
+Underfull \vbox (badness 1248) has occurred while \output is active []
+
+
 
 [9]
 
@@ -1957,7 +1960,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--25
 
 
 
-[11])) (./parties/mainmatter/I/B/I_B.tex
+[11])
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 24.72845pt (C);
+(lettrine.sty)             reported on input line 14.
+) (./parties/mainmatter/I/B/I_B.tex
 
 [12]
 Chapitre 2.
@@ -2474,7 +2482,7 @@ ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 )
-Underfull \vbox (badness 3954) has occurred while \output is active []
+Underfull \vbox (badness 1337) has occurred while \output is active []
 
 
 
@@ -2839,7 +2847,7 @@ Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
 
 
 ]
-Overfull \hbox (146.28152pt too wide) in paragraph at lines 27--27
+Overfull \hbox (146.28152pt too wide) in paragraph at lines 28--28
 []
  []
 
@@ -2848,7 +2856,7 @@ Overfull \hbox (146.28152pt too wide) in paragraph at lines 27--27
 [102]
 
 LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 103 undefined on inp
-ut line 71.
+ut line 73.
 
 )
 
@@ -2907,12 +2915,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57312 strings out of 474235
- 1265813 string characters out of 5742252
- 2091789 words of memory out of 5000000
- 79092 multiletter control sequences out of 15000+600000
+ 57317 strings out of 474235
+ 1265498 string characters out of 5742252
+ 2098392 words of memory out of 5000000
+ 79097 multiletter control sequences out of 15000+600000
  571125 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,13n,131p,3476b,5770s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,13n,131p,3477b,5770s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (140 pages).

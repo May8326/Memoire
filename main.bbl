@@ -810,6 +810,32 @@
       \endverb
       \keyw{,texThesau}
     \endentry
+    \entry{CADERConservationDanciens}{online}{}{}
+      \list{organization}{1}{%
+        {Agence nationale de la recherche}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{La préservation du patrimoine culturel et scientifique est une préoccupation importante depuis des siècles. Dans les musées scientifiques et techniques, l'aluminium est présent dans presque toutes les collections, des avions aux engins spatiaux, des objets industriels aux objets de la vie quotidienne. Malheureusement, les alliages d'aluminium utilisés dans ces avions sont très sensibles à la corrosion. {$<$}br /{$>$}L'objectif principal de ce projet de recherche est de proposer aux professionnels du patrimoine, conservateurs et restaurateurs, de nouveaux outils de diagnostic et de conservation innovants pour garantir la conservation à long terme des aéronefs exposés en extérieur. Cette recherche pourrait permettre une estimation plus fiable des risques encourus par ces matériaux afin de définir une politique cohérente en matière de conservation.{$<$}br /{$>$}Pour atteindre ces objectifs, notre projet s'appuie sur :{$<$}br /{$>$}- le développement de techniques non destructives basé sur l'utilisation d'ondes guidées non linéaires pour l'analyse et le suivi des structures des avions, notamment pour les zones difficiles d'accès. Les ondes ultrasonores guidées suscitent un intérêt croissant, car elles peuvent se propager sur de longues distances et offrent un potentiel énorme en termes de gain de temps et d'économies lors de l'inspection d'une grande variété de structures. En effet, les ondes guidées peuvent atteindre des portées d'inspection beaucoup plus grandes que les méthodes de contrôle par ultrasons classiques, car elles utilisent la structure elle-même comme guide d'ondes en exploitant les résonances entre les limites de la structure.{$<$}br /{$>$}-le développement de solutions technologiques avancées pour la préservation et la maintenance. Pour réduire rapidement la vitesse de corrosion sur certaines parties internes, une formulation avancée d'inhibiteurs de corrosion sera appliquée. Ensuite, de nouvelles techniques de protection cathodique seront développées pour protéger les alliages d'aluminium corrodés sur la base de différents couplages galvaniques avec les alliages d'aluminium, afin d'assurer une protection anticorrosion à long terme et une maintenance plus aisée. Des résultats préliminaires ont montré qu'une faible polarisation peut être suffisante pour réduire considérablement la densité du courant de corrosion et inhiber le phénomène de piqûre. Par conséquent, la polarisation cathodique des anciens alliages d'aluminium avec une anode sacrificielle à faible tension telle qu'une anode d'aluminium activée (Al-Zn (Ga/In)) ou un alliage de magnésium peut être possible pour protéger les anciens avions. {$<$}br /{$>$}-le développement d’un outil numérique spécifique basé sur un concept de jumeau numérique en combinant toutes ces données et une numérisation des avions. L'objectif de cet outil est de relier les représentations 3D d'un avion à des ensembles hétérogènes d'informations (documentation, analyse des matériaux, sources iconographiques, etc.) Dans cette perspective, les données associées dans le jumeau numérique peuvent être considérées comme une partie intégrante de l'avion. Le musée réalisera également une exposition virtuelle afin de partager avec le public le processus de conservation développé pour les avions conservés en extérieur et les aspects technologiques du patrimoine.}
+      \field{langid}{french}
+      \field{shorttitle}{C.ADER}
+      \field{title}{C.ADER : Conservation d'anciens aéronefs : Diagnostic non-destructif des dommages pour une une protection intelligente contre la corrosion}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/Z62SGUY2/Projet-ANR-22-CE27-0025.html
+      \endverb
+      \verb{urlraw}
+      \verb https://anr.fr/Projet-ANR-22-CE27-0025
+      \endverb
+      \verb{url}
+      \verb https://anr.fr/Projet-ANR-22-CE27-0025
+      \endverb
+      \keyw{dontcite,texHistoire}
+    \endentry
     \entry{cabaretMuseePourLaeronautique2020}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cf8830c45a74d4ee3956e1e18e189f0d}{%
@@ -868,7 +894,7 @@
       \endverb
       \keyw{collection,Musée de l’Air et de l’Espace,patrimoine technique,reconstitution,restauration,texHistoire}
     \endentry
-    \entry{champenoisTresorsMuseeLair}{book}{}{}
+    \entry{champenoisTresorsMuseeLair2013}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=90adc63746f7791d83722372b0d7cc82}{%
            family={Champenois},
@@ -931,6 +957,9 @@
       \field{nameatype}{collaborator}
       \field{series}{Ciels Du Monde}
       \field{title}{Les Trésors Du {{Musée}} de l'air et de l'espace}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \true{nocite}
       \keyw{_histoire,texHistoire,texHistoire}
     \endentry
     \entry{chatautComparativeStudyDomain2024}{online}{}{}
@@ -1227,7 +1256,7 @@
       \field{pagetotal}{64}
       \field{series}{Itinéraires}
       \field{shorttitle}{Le musée de l'air et de l'espace}
-      \field{title}{Le musée de l'air et de l'espace: l'aérogare historique de Paris-Le Bourget}
+      \field{title}{Le musée de l'air et de l'espace : l'aérogare historique de Paris-Le Bourget}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
@@ -1470,6 +1499,35 @@
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/TMS9ZEZJ/Eggleston - Not just art the challenges and successes of integrating archival, library and image collections in.pdf
       \endverb
       \keyw{_collaborationBibArchMusee,texCollab,texCollab}
+    \endentry
+    \entry{ExpositionFlight2024}{online}{}{}
+      \list{organization}{1}{%
+        {Musée de l'Air et de l'Espace}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cet hiver, le musée de l’Air et de l’Espace révèle les secrets du vol avec Flight, L’exposition s’intéresse à la diversité des créatures volantes sous le prisme de leur incroyable faculté à s’élever dans les airs.}
+      \field{day}{17}
+      \field{langid}{french}
+      \field{month}{12}
+      \field{title}{Exposition Flight}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/F2TM4QEX/exposition-flight.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.museeairespace.fr/agenda/exposition-flight/
+      \endverb
+      \verb{url}
+      \verb https://www.museeairespace.fr/agenda/exposition-flight/
+      \endverb
+      \keyw{dontcite,texHistoire}
     \endentry
     \entry{filabesLindexationRAMEAUAssistee2025}{online}{}{}
       \name{author}{1}{}{%
@@ -3184,7 +3242,7 @@
       \verb{url}
       \verb https://www.museeairespace.fr/wp-content/uploads/sites/2/2025/06/Dossier-de-presse-NAVACA-06-2025.pdf
       \endverb
-      \keyw{,texHistoire}
+      \keyw{dontcite,texHistoire}
     \endentry
     \entry{officemuseumexpertsSKINsoftEquipe252016}{online}{}{}
       \name{author}{1}{}{%

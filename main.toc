@@ -6,13 +6,13 @@
 \contentsline {chapter}{Bibliographie}{vii}{chapter*.4}%
 \contentsline {chapter}{Introduction}{xxiii}{chapter*.11}%
 \contentsline {part}{I\hspace {1em}Le contexte institutionnel particulier du Musée de l'air et de l'espace}{1}{part.1}%
-\contentsline {chapter}{\numberline {1}Référence nationale}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.}La représentation nationale : un musée aux collections uniques}{5}{section.1.1}%
+\contentsline {chapter}{\numberline {1}Une référence nationale}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.}Représenter le patrimoine aéronautique français : un musée aux collections uniques}{5}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.}La lente construction du \ac {mae} }{5}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
 \contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{9}{section.1.2}%
 \contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{10}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{11}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
 \contentsline {section}{\numberline {1.}Un musée d'exception sous contraintes : la dépendance étroite au ministère de la Défense}{13}{section.2.1}%
 \contentsline {section}{\numberline {2.}Conséquences pratiques : l'exemple de la migration vers la plateforme \gls {clade}}{16}{section.2.2}%
