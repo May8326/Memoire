@@ -1,0 +1,34 @@
+\begin{adjustbox}{width=\textwidth,center}
+	\begin{tikzpicture}[
+		level distance=1.6cm,
+		sibling distance=2.5cm,
+		every node/.style={font=\sffamily, align=center, rounded corners, draw=lightgray!80, fill=lightgray!30, minimum width=2.6cm, minimum height=0.9cm},
+		edge from parent/.style={draw,-latex},
+		xshift=0cm
+		]
+		
+		% Arbre bien structuré à gauche
+		\node (fr) {France}
+		child {node (norm) {Normandie}
+			child {node (calv) {Calvados}
+				child {node (pont) {Pont-l’Évêque}}
+			}
+		};
+		
+		% Arbre mal structuré à droite
+		\node[right=7cm of fr] (frbad) {France}
+		child {node (normbad) {Normandie}
+			child {node (calvbad) {Calvados}}
+		}
+		child {node (pontbad) {Pont-l’Évêque}};
+		
+		% Titres sous les arbres
+		\node[draw=none, fill=none, below=2.1cm of calv, font=\small\bfseries] (label1) {Hiérarchie conforme\\(recherche par région possible)};
+		\node[draw=none, fill=none, below=2.1cm of calvbad, font=\small\bfseries] (label2) {Organisation défaillante\\(Pont-l’Évêque invisible par région)};
+		
+		% Légende explication
+		\node[draw=none, fill=none, above=0.6cm of fr, font=\small] {Arborescence idéale};
+		\node[draw=none, fill=none, above=0.6cm of frbad, font=\small] {Arborescence problématique};
+		
+	\end{tikzpicture}
+\end{adjustbox}
