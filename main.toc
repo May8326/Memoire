@@ -8,7 +8,7 @@
 \contentsline {part}{I\hspace {1em}Le contexte institutionnel particulier du Musée de l'air et de l'espace}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Une référence nationale}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.}Représenter le patrimoine aéronautique français : un musée aux collections uniques}{5}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.}La lente construction du \ac {mae} }{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.}La lente construction du \ac {mae}}{5}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
 \contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{9}{section.1.2}%
 \contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{10}{subsection.1.2.1}%
@@ -22,11 +22,11 @@
 \contentsline {subsection}{\numberline {1.1.}Les prémices : Alexandrie et Micromusée, une coexistence sans concertation (1996 – années 2010)}{26}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {1.2.}Un tournant documentaire : la création de l'\gls {emediatheque} (2016 – 2020)}{27}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {1.3.}Des architectures hétérogènes}{28}{subsection.3.1.3}%
-\contentsline {section}{\numberline {2.}Des conséquences importantes : quand la prolifération devient paralysie documentaire}{31}{section.3.2}%
-\contentsline {subsection}{\numberline {2.1.}L’invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{31}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {2.2.}La saturation des métiers : quand gérer devient ingérable}{33}{subsection.3.2.2}%
+\contentsline {section}{\numberline {2.}Des conséquences importantes : quand la prolifération devient paralysie documentaire}{29}{section.3.2}%
+\contentsline {subsection}{\numberline {2.1.}L’invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{29}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {2.2.}La saturation des métiers : quand gérer devient ingérable}{34}{subsection.3.2.2}%
 \contentsline {chapter}{\numberline {4}Diversité des métiers et fragmentation documentaire}{37}{chapter.4}%
-\contentsline {section}{\numberline {1.}Cartographie des métiers et émergence d’une conscience documentaire différenciée au \ac {mae} }{37}{section.4.1}%
+\contentsline {section}{\numberline {1.}Cartographie des métiers et émergence d’une conscience documentaire différenciée au \ac {mae}}{37}{section.4.1}%
 \contentsline {subsection}{\numberline {1.1.}Les documentalistes : pionniers, vigies et promoteurs de l’interopérabilité}{38}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {1.2.}La gestionnaire de \gls {bdd}, pivot documentaire et révélateur des limites institutionnelles}{39}{subsection.4.1.2}%
 \contentsline {subsection}{\numberline {1.3.}Les chargés de collections : diversité des pratiques, entre nomenclature fine et catégories souples}{41}{subsection.4.1.3}%
@@ -68,8 +68,8 @@
 \contentsline {section}{\numberline {1.}Automatiser les tâches : promesses et réalités de l’IA en institution patrimoniale}{73}{section.8.1}%
 \contentsline {section}{\numberline {2.}Entraîner une IA sur la base d’un vocabulaire spécialisé : défis et solutions}{75}{section.8.2}%
 \contentsline {subsection}{\numberline {2.1.}Limites et perspectives}{76}{subsection.8.2.1}%
-\contentsline {chapter}{Conclusion}{77}{chapter*.28}%
-\contentsline {part}{Annexes}{81}{part*.29}%
+\contentsline {chapter}{Conclusion}{77}{chapter*.29}%
+\contentsline {part}{Annexes}{81}{part*.30}%
 \contentsline {chapter}{\numberline {A}Chronologie du MAE}{81}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Organigramme}{85}{appendix.B}%
 \contentsline {chapter}{\numberline {C}Flux de données}{87}{appendix.C}%
@@ -77,6 +77,6 @@
 \contentsline {chapter}{\numberline {E}Modélisations de données}{93}{appendix.E}%
 \contentsline {chapter}{\numberline {F}UML}{95}{appendix.F}%
 \contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{97}{appendix.G}%
-\contentsline {part}{Glossaire}{103}{appendix*.41}%
-\contentsline {part}{Tables}{105}{appendix*.42}%
-\contentsline {part}{Figures}{107}{appendix*.43}%
+\contentsline {part}{Glossaire}{103}{appendix*.42}%
+\contentsline {part}{Tables}{105}{appendix*.43}%
+\contentsline {part}{Figures}{107}{appendix*.44}%

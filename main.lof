@@ -6,29 +6,30 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Modélisation du thésaurus des domaines utilisés par le \ac {mae} }}{8}{figure.caption.17}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Modélisation du thésaurus des domaines utilisés par le \ac {mae}}}{8}{figure.caption.17}%
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Diversité des partenaires du \ac {mae} (liste non exhaustive établie à partir du \ac {psc} 2020).}}{11}{figure.caption.18}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Cartographie du réseau des musées du ministère des Armées}}{15}{figure.caption.19}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Différences de catalogage entre les \enquote {\textit {bib-musées}}sur \ac {clade}}}{18}{figure.caption.20}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Chronologie des logiciels et des ensembles de thésaurus utilisés au \ac {mae} depuis les années 1990.}}{28}{figure.caption.22}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Construction des \gls {thesaurus} du \ac {mae} }}{29}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Chronologie des logiciels et des ensembles de thésaurus utilisés au \ac {mae}~depuis les années 1990.}}{28}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Structure des \gls {thesaurus} du \ac {mae}}}{30}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Exemple de rattachement problématique dans le thésaurus : « Pont-l’Évêque » rattaché directement à « France », ce qui empêche sa remontée lors d'une recherche par région (« Normandie », « Calvados »).}}{33}{figure.caption.25}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Modélisation des \gls {thesaurus} du \ac {mae} }}{60}{figure.caption.25}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Relations sémantiques exprimées par un thésaurus}}{64}{figure.caption.27}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Modélisation des \gls {thesaurus} du \ac {mae}}}{60}{figure.caption.26}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Relations sémantiques exprimées par un thésaurus}}{64}{figure.caption.28}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Organigramme du \ac {mae} }}{85}{figure.caption.30}%
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Organigramme du \ac {mae}}}{85}{figure.caption.31}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Flux de données de thésaurus au \ac {mae} }}{87}{figure.caption.31}%
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Flux de données de thésaurus au \ac {mae}}}{87}{figure.caption.32}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Modélisation d'un thésaurus selon la norme ISO 25964}}{96}{figure.caption.38}%
-\contentsline {figure}{\numberline {F.2}{\ignorespaces Structure du thésaurus \textit {Constructeurs} de \gls {micromusee}}}{96}{figure.caption.39}%
+\contentsline {figure}{\numberline {F.1}{\ignorespaces Modélisation d'un thésaurus selon la norme ISO 25964}}{96}{figure.caption.39}%
+\contentsline {figure}{\numberline {F.2}{\ignorespaces Structure du thésaurus \textit {Constructeurs} de \gls {micromusee}}}{96}{figure.caption.40}%
 \addvspace {10\p@ }

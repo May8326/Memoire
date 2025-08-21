@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  21 AUG 2025 11:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  21 AUG 2025 13:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1560,7 +1560,7 @@ Package: glossary-tree 2024/04/03 v4.54 (NLCT)
 \glo@main@file=\write7
 \openout7 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 279.
+Package glossaries Info: Writing glossary file main.glo on input line 285.
  (./parties/backmatter/glossaire.tex)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1569,40 +1569,40 @@ Package csquotes Info: Redefining alias 'default' -> 'french'.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 300.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 306.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-00.
+06.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 306.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 30
-0.
+6.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 300.
-LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 306.
+LaTeX Font Info:    ... okay on input line 306.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1610,58 +1610,58 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 300.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 300.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 300.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 300.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 300.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 300.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 300.
-LaTeX Font Info:    Redeclaring math accent \check on input line 300.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 300.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 300.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 300.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 300.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 300.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 306.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 306.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 306.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 306.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 306.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 306.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 306.
+LaTeX Font Info:    Redeclaring math accent \check on input line 306.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 306.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 306.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 306.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 306.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 300.
+(Font)              `operators' in the math version `normal' on input line 306.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 300.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 306.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 300.
+(Font)              `operators' in the math version `bold' on input line 306.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 300.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 306.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 300.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 306.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 300.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 306.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 300.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 306.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 300.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 306.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 300.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 306.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 300.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 306.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 300.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 306.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 300.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 306.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 300.
-LaTeX Info: Redefining \up on input line 300.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 306.
+LaTeX Info: Redefining \up on input line 306.
 Package biblatex Info: Trying to load language 'french'...
 Package biblatex Info: ... file 'french.lbx' found.
 
@@ -1678,8 +1678,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 300.
-Package biblatex Info: Reference segment=0 on input line 300.
+Package biblatex Info: Reference section=0 on input line 306.
+Package biblatex Info: Reference segment=0 on input line 306.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-french.trsl
@@ -1687,7 +1687,7 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 300.
+or `french'. on input line 306.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -1734,7 +1734,7 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count571
-Package hyperref Info: Link coloring OFF on input line 300.
+Package hyperref Info: Link coloring OFF on input line 306.
 
 
 [1
@@ -1747,7 +1747,7 @@ Package hyperref Info: Link coloring OFF on input line 300.
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
 
  []
 
@@ -1764,7 +1764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 373--374
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (M);
-(lettrine.sty)             reported on input line 386.
+(lettrine.sty)             reported on input line 392.
 
 
 [3
@@ -1804,7 +1804,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 ]
 
 [14]
-Overfull \hbox (5.41187pt too wide) in paragraph at lines 404--404
+Overfull \hbox (5.41187pt too wide) in paragraph at lines 410--410
 \TU/lmr/m/n/12 Sparna Blog, 23 janv. 2018, \TU/lmr/m/sc/12 url \TU/lmr/m/n/12 :
  []$[][][][][] [] [] [] [][][][] [] [][][][][][] [] [][] [] [][][][] [] [][] []
  [][] [] [][][][][][][][][][][][] [][]
@@ -1817,7 +1817,7 @@ Overfull \hbox (5.41187pt too wide) in paragraph at lines 404--404
 ]
 
 [16]
-Overfull \hbox (10.88043pt too wide) in paragraph at lines 406--406
+Overfull \hbox (10.88043pt too wide) in paragraph at lines 412--412
 [][][]\TU/lmr/m/sc/12 Bowker []\TU/lmr/m/n/12 (Geoffrey C.), []\TU/lmr/m/sc/12 
 Star []\TU/lmr/m/n/12 (Susan Leigh), []\TU/lmr/m/sc/12 Boullier []\TU/lmr/m/n/1
 2 (Henri), []\TU/lmr/m/sc/12 Cardon []\TU/lmr/m/n/12 (Vincent), []\TU/lmr/m/sc/
@@ -1825,21 +1825,13 @@ Star []\TU/lmr/m/n/12 (Susan Leigh), []\TU/lmr/m/sc/12 Boullier []\TU/lmr/m/n/1
  []
 
 
-Overfull \hbox (4.26044pt too wide) in paragraph at lines 406--406
-[]\TU/lmr/m/n/12 (Éric), []\TU/lmr/m/sc/12 Kotras []\TU/lmr/m/n/12 (Baptiste), 
-[]\TU/lmr/m/sc/12 Peerbaye []\TU/lmr/m/n/12 (Ashveen), []\TU/lmr/m/sc/12 Zabban
- []\TU/lmr/m/n/12 (Vinciane), []\TU/lmr/m/sc/12 Cardon []\TU/lmr/m/n/12 (Vincen
-t
- []
-
-
-Overfull \hbox (7.35612pt too wide) in paragraph at lines 406--406
+Overfull \hbox (7.35612pt too wide) in paragraph at lines 412--412
 \TU/lmr/m/n/12 gestion et maintenance de thésaurus : Évolutions récentes et per
 spectives », \TU/lmr/m/it/12 Documentaliste-
  []
 
 
-Overfull \hbox (27.72133pt too wide) in paragraph at lines 406--406
+Overfull \hbox (27.72133pt too wide) in paragraph at lines 412--412
 \TU/lmr/m/n/12 gardez pas assez les images, 17 mai 2025, \TU/lmr/m/sc/12 url \T
 U/lmr/m/n/12 : []$[][][][][] [] [] [] [][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][] []
@@ -1850,20 +1842,20 @@ U/lmr/m/n/12 : []$[][][][][] [] [] [] [][][][][][][][][][][][][][][][][][][][][
 [17
 
 ]
-Overfull \hbox (16.20822pt too wide) in paragraph at lines 406--406
+Overfull \hbox (16.20822pt too wide) in paragraph at lines 412--412
 \TU/lmr/m/n/12 d’une terminologie : utilisation de ressources existantes pour a
 morcer une onto-terminologie »,
  []
 
 
-Overfull \hbox (7.22035pt too wide) in paragraph at lines 406--406
+Overfull \hbox (7.22035pt too wide) in paragraph at lines 412--412
 [][][][][][][][][][] [] [][][][][][][][][][] [] [][][][] [] [][][][][][][] [] [
 ][][] [] [][][][] [][] [][][][][][][][][][][][]$[] \TU/lmr/m/n/12 (visité le 22
 /07/2025). 
  []
 
 
-Overfull \hbox (34.18935pt too wide) in paragraph at lines 406--406
+Overfull \hbox (34.18935pt too wide) in paragraph at lines 412--412
 [][][]\TU/lmr/m/sc/12 Lénart []\TU/lmr/m/n/12 (Michèle), «   SKOS, un langage d
 e représentation de schémas de concepts », \TU/lmr/m/it/12 Documentaliste-
  []
@@ -2014,7 +2006,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
-(lettrine.sty)             reported on input line 448.
+(lettrine.sty)             reported on input line 454.
 
 
 [19]
@@ -2029,7 +2021,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 464.
+(lettrine.sty)             reported on input line 470.
  (./parties/mainmatter/II/A/II_A.tex
 
 [23]
@@ -2041,7 +2033,7 @@ Chapitre 3.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (G);
-(lettrine.sty)             reported on input line 7.
+(lettrine.sty)             reported on input line 8.
 (./parties/mainmatter/II/A/II_A_1.tex
 
 [25]
@@ -2049,51 +2041,53 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 [26]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 15.
+(hyperref)                removing `\gls' on input line 21.
 
 
 
 [27]
 File: img/FRISE_Thesaurus.png Graphic file (type bmp)
 <img/FRISE_Thesaurus.png>
+
+
+[28]
 File: img/UML_emediatheque.png Graphic file (type bmp)
 <img/UML_emediatheque.png>
 File: img/UML_alexandrie.png Graphic file (type bmp)
 <img/UML_alexandrie.png>
 File: img/UML_micromusee.png Graphic file (type bmp)
 <img/UML_micromusee.png>
- (./img/TABL_thesaurus.tex))
 
-[28]
+
+LaTeX Warning: Float too large for page by 0.27135pt on input line 77.
+
+(./img/TABL_thesaurus.tex)) (./parties/mainmatter/II/A/II_A_2.tex
 
 [29]
 
-[30] (./parties/mainmatter/II/A/II_A_2.tex
+[30]
 
 [31]
-Overfull \hbox (1.02686pt too wide) in paragraph at lines 17--18
-[]\TU/lmr/m/n/12 Cette problématique rejoint une exigence ancienne du métier de
- documentaliste, brillam-
+
+[32] (./img/SCHEM_bug_hierarchie_thesaurus.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--19
+
  []
 
 
 
-[32]
+[33]
 
-[33])
+[34])
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 25.01146pt (A);
-(lettrine.sty)             reported on input line 18.
-
-
-[34]) (./parties/mainmatter/II/B/II_B.tex
+(lettrine.sty)             reported on input line 19.
+) (./parties/mainmatter/II/B/II_B.tex
 
 [35]
 
-[36
-
-]
+[36]
 Chapitre 4.
 Missing character: There is no   (U+202F) in font [lmroman12-bold]:mapping=tex-
 text;!
@@ -2111,7 +2105,9 @@ Underfull \vbox (badness 6047) has occurred while \output is active []
 
 
 
-[37]
+[37
+
+]
 
 [38]
 
@@ -2213,7 +2209,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 474.
+(lettrine.sty)             reported on input line 480.
 
 
 [52]
@@ -2915,12 +2911,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57319 strings out of 474235
- 1265824 string characters out of 5742252
- 2100352 words of memory out of 5000000
- 79099 multiletter control sequences out of 15000+600000
+ 57454 strings out of 474235
+ 1268823 string characters out of 5742252
+ 2103130 words of memory out of 5000000
+ 79231 multiletter control sequences out of 15000+600000
  571125 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,13n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (140 pages).
