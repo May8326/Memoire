@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  20 AUG 2025 22:36
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  21 AUG 2025 11:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1981,15 +1981,13 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 File: img/CART_musees_armee.png Graphic file (type bmp)
 <img/CART_musees_armee.png>
 
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+
 
 [14]
 
 [15]) (./parties/mainmatter/I/B/I_B_2.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 1.
-
-
 
 [16]
 File: img/IMG_clade_histoireaviation_shdTL.png Graphic file (type bmp)
@@ -2004,6 +2002,10 @@ Overfull \hbox (3.45354pt too wide) in paragraph at lines 37--11
 ulaires contrôlés en contexte
  []
 
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 24.16241pt (L);
+(lettrine.sty)             reported on input line 16.
 
 
 [17]
@@ -2012,7 +2014,7 @@ ulaires contrôlés en contexte
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
-(lettrine.sty)             reported on input line 446.
+(lettrine.sty)             reported on input line 448.
 
 
 [19]
@@ -2027,7 +2029,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 462.
+(lettrine.sty)             reported on input line 464.
  (./parties/mainmatter/II/A/II_A.tex
 
 [23]
@@ -2121,6 +2123,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [39]
 
 [40]
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+
 
 [41]
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
@@ -2208,7 +2213,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 472.
+(lettrine.sty)             reported on input line 474.
 
 
 [52]
@@ -2847,11 +2852,6 @@ Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
 
 
 ]
-Overfull \hbox (146.28152pt too wide) in paragraph at lines 28--28
-[]
- []
-
-
 
 [102]
 
@@ -2915,12 +2915,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57317 strings out of 474235
- 1265498 string characters out of 5742252
- 2098392 words of memory out of 5000000
- 79097 multiletter control sequences out of 15000+600000
+ 57319 strings out of 474235
+ 1265824 string characters out of 5742252
+ 2100352 words of memory out of 5000000
+ 79099 multiletter control sequences out of 15000+600000
  571125 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,13n,131p,3477b,5770s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,13n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (140 pages).

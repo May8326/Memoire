@@ -613,7 +613,7 @@
       \keyw{_collaborationBibArchMusee,texCollab,texCollab}
     \endentry
     \entry{bowkerArrangerChosesConsequences2023}{book}{}{}
-      \name{author}{11}{}{%
+      \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=204a44c003f4e5a76406da3423eeedec}{%
            family={Bowker},
            familyi={B\bibinitperiod},
@@ -662,24 +662,6 @@
            given={Vinciane},
            giveni={V\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=459c0854e29121752f104dfee6ca0cb8}{%
-           family={Cardon},
-           familyi={C\bibinitperiod},
-           given={Vincent\bibnamedelima Préfacier},
-           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a51817c03f640a4b83c1faf197ceeb1b}{%
-           family={Dagiral},
-           familyi={D\bibinitperiod},
-           given={Éric\bibnamedelima Préfacier},
-           giveni={É\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0e45ca4018a0c07c9ddd93c0ee35078b}{%
-           family={Peerbaye},
-           familyi={P\bibinitperiod},
-           given={Ashveen\bibnamedelima Préfacier},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
       }
       \list{location}{1}{%
         {Paris, France}%
@@ -688,13 +670,13 @@
         {Éditions de l'EHESS}%
       }
       \strng{namehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
-      \strng{fullhash}{d0610c3c63839a247c13e152693a9198}
-      \strng{fullhashraw}{d0610c3c63839a247c13e152693a9198}
-      \strng{bibnamehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
-      \strng{authorbibnamehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
+      \strng{fullhash}{6ee81fad7b6f1d26e44311429e0efbbd}
+      \strng{fullhashraw}{6ee81fad7b6f1d26e44311429e0efbbd}
+      \strng{bibnamehash}{6ee81fad7b6f1d26e44311429e0efbbd}
+      \strng{authorbibnamehash}{6ee81fad7b6f1d26e44311429e0efbbd}
       \strng{authornamehash}{d2c5cebc973de6fc0b2cfa91b78bd949}
-      \strng{authorfullhash}{d0610c3c63839a247c13e152693a9198}
-      \strng{authorfullhashraw}{d0610c3c63839a247c13e152693a9198}
+      \strng{authorfullhash}{6ee81fad7b6f1d26e44311429e0efbbd}
+      \strng{authorfullhashraw}{6ee81fad7b6f1d26e44311429e0efbbd}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
@@ -959,7 +941,6 @@
       \field{title}{Les Trésors Du {{Musée}} de l'air et de l'espace}
       \field{year}{2013}
       \field{dateera}{ce}
-      \true{nocite}
       \keyw{_histoire,texHistoire,texHistoire}
     \endentry
     \entry{chatautComparativeStudyDomain2024}{online}{}{}

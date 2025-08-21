@@ -3,7 +3,6 @@
 \glossaryentry{thesaurus?\glossentry{thesaurus}|setentrycounter[]{page}"\glsnumberformat}{10}
 \glossaryentry{base-donnee?\glossentry{bdd}|setentrycounter[]{page}"\glsnumberformat}{11}
 \glossaryentry{dmca?\glossentry{dmca}|setentrycounter[]{page}"\glsnumberformat}{13}
-\glossaryentry{clade?\glossentry{clade}|setentrycounter[]{page}"\glsnumberformat}{16}
 \glossaryentry{archange?\glossentry{archange}|setentrycounter[]{page}"\glsnumberformat}{16}
 \glossaryentry{koha?\glossentry{koha}|setentrycounter[]{page}"\glsnumberformat}{16}
 \glossaryentry{clade?\glossentry{clade}|setentrycounter[]{page}"\glsnumberformat}{16}
@@ -11,6 +10,8 @@
 \glossaryentry{clade?\glossentry{clade}|setentrycounter[]{page}"\glsnumberformat}{16}
 \glossaryentry{clade?\glossentry{clade}|setentrycounter[]{page}"\glsnumberformat}{17}
 \glossaryentry{alexandrie?\glossentry{alexandrie}|setentrycounter[]{page}"\glsnumberformat}{17}
+\glossaryentry{thesaurus?\glossentry{thesaurus}|setentrycounter[]{page}"\glsnumberformat}{17}
+\glossaryentry{thesaurus?\glossentry{thesaurus}|setentrycounter[]{page}"\glsnumberformat}{18}
 \glossaryentry{thesaurus?\glossentry{thesaurus}|setentrycounter[]{page}"\glsnumberformat}{25}
 \glossaryentry{thesaurus?\glossentry{thesaurus}|setentrycounter[]{page}"\glsnumberformat}{25}
 \glossaryentry{alexandrie?\glossentry{alexandrie}|setentrycounter[]{page}"\glsnumberformat}{25}
@@ -84,8 +85,7 @@
 \glossaryentry{micromusee?\glossentry{micromusee}|setentrycounter[]{page}"\glsnumberformat}{39}
 \glossaryentry{archange?\glossentry{archange}|setentrycounter[]{page}"\glsnumberformat}{39}
 \glossaryentry{base-donnee?\glossentry{bdd}|setentrycounter[]{page}"\glsnumberformat}{39}
-\glossaryentry{clade?\glossentry{clade}|setentrycounter[]{page}"\glsnumberformat}{39}
-\glossaryentry{micromusee?\glossentry{micromusee}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{micromusee?\glossentry{micromusee}|setentrycounter[]{page}"\glsnumberformat}{39}
 \glossaryentry{base-donnee?\glossentry{bdd}|setentrycounter[]{page}"\glsnumberformat}{40}
 \glossaryentry{micromusee?\glossentry{micromusee}|setentrycounter[]{page}"\glsnumberformat}{40}
 \glossaryentry{base-donnee?\glossentry{bdd}|setentrycounter[]{page}"\glsnumberformat}{40}
@@ -118,6 +118,5 @@
 \glossaryentry{thesaurus?\glossentry{thesaurus}|setentrycounter[]{page}"\glsnumberformat}{107}
 \glossaryentry{thesaurus?\glossentry{thesaurus}|setentrycounter[]{page}"\glsnumberformat}{107}
 \glossaryentry{micromusee?\glossentry{micromusee}|setentrycounter[]{page}"\glsnumberformat}{107}
-\glossaryentry{clade?\glossentry{clade}|setentrycounter[]{page}"\glsnumberformat}{109}
 \glossaryentry{emediatheque?\glossentry{emediatheque}|setentrycounter[]{page}"\glsnumberformat}{110}
 \glossaryentry{base-donnee?\glossentry{bdd}|setentrycounter[]{page}"\glsnumberformat}{110}
