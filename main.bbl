@@ -79,6 +79,7 @@
       \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{151\bibrangedash 163}
       \range{pages}{13}
       \verb{doi}
@@ -173,6 +174,7 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{57\bibrangedash 74}
       \range{pages}{18}
       \verb{doi}
@@ -277,6 +279,7 @@
       \field{title}{Les archives électroniques}
       \field{year}{2020}
       \field{dateera}{ce}
+      \true{nocite}
       \keyw{_theorie,Archivistique,CD974.4,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{bermesConvergenceInteroperabiliteLapport2011}{inproceedings}{}{}
@@ -506,6 +509,7 @@
       \field{year}{1998}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/YI44J6JW/Semantic.html
       \endverb
@@ -1194,7 +1198,6 @@
       \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{39\bibrangedash 39}
       \range{pages}{1}
       \verb{doi}
@@ -1360,6 +1363,7 @@
       \field{title}{Image et cognition}
       \field{year}{1989}
       \field{dateera}{ce}
+      \true{nocite}
       \verb{eprint}
       \verb enUQAQAAIAAJ
       \endverb
@@ -1432,6 +1436,7 @@
       \field{year}{2002}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/I7QB8S7Z/28204344.html
       \endverb
@@ -1509,6 +1514,45 @@
       \verb https://www.museeairespace.fr/agenda/exposition-flight/
       \endverb
       \keyw{dontcite,texHistoire}
+    \endentry
+    \entry{federationdesecomuseesetmuseesdesocietefemsArchivesMusees2025}{video}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=977a555c293bb23cbb3048094a1d0166}{%
+           family={{Fédération des Écomusées et Musées de Société FEMS}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{977a555c293bb23cbb3048094a1d0166}
+      \strng{fullhash}{977a555c293bb23cbb3048094a1d0166}
+      \strng{fullhashraw}{977a555c293bb23cbb3048094a1d0166}
+      \strng{bibnamehash}{977a555c293bb23cbb3048094a1d0166}
+      \strng{editorbibnamehash}{977a555c293bb23cbb3048094a1d0166}
+      \strng{editornamehash}{977a555c293bb23cbb3048094a1d0166}
+      \strng{editorfullhash}{977a555c293bb23cbb3048094a1d0166}
+      \strng{editorfullhashraw}{977a555c293bb23cbb3048094a1d0166}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rencontre animée par Céline Chanas, vice-présidente de la FEMS, directrice du Musée de Bretagne ‪@LesChampsLibres‬ Les causeurs - contributeur.trices :}
+      \field{day}{22}
+      \field{editortype}{director}
+      \field{entrysubtype}{video}
+      \field{month}{5}
+      \field{title}{Archives et {{Musées}}}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{4}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=bdTR7hPYO_M
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=bdTR7hPYO_M
+      \endverb
+      \keyw{,texArchivesNumeriques}
     \endentry
     \entry{filabesLindexationRAMEAUAssistee2025}{online}{}{}
       \name{author}{1}{}{%
@@ -1829,6 +1873,7 @@
       \field{title}{The {{Domestication}} of the {{Savage Mind}}}
       \field{year}{1977}
       \field{dateera}{ce}
+      \true{nocite}
       \verb{eprint}
       \verb baQtOyscXUwC
       \endverb
@@ -2671,14 +2716,13 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee
       \endverb
       \verb{url}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee
       \endverb
-      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
+      \keyw{_normalisation,dontcite,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{ministeredelacultureArchivesElectroniquesDans2020}{misc}{}{}
       \name{author}{1}{}{%
@@ -2698,12 +2742,13 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
+      \field{labeltitlesource}{shorttitle}
       \field{abstract}{De nombreuses idées reçues entourent l’archivage électronique. Ce vade-mecum entend faire le point sur tous les aspects de la question et montrer que le principal défi de l’archivage électronique est dans l’organisation et la structuration de l’information en amont, dans la gestion du c}
       \field{day}{20}
       \field{langid}{french}
       \field{month}{7}
-      \field{title}{Les archives électroniques dans un musée de France}
+      \field{shorttitle}{Les archives électroniques}
+      \field{title}{Les archives électroniques dans un musée de France - vade-mecum à l’usage des personnels des musées}
       \field{urlday}{19}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -2711,12 +2756,12 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.culture.gouv.fr/fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-archives-electroniques-dans-un-musee-de-France
+      \verb https://www.culture.gouv.fr/fr/content/download/273550/pdf_file/Les%20archives%20%C3%A9lectroniques.pdf?inLanguage=fre-FR&version=6
       \endverb
       \verb{url}
-      \verb https://www.culture.gouv.fr/fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-archives-electroniques-dans-un-musee-de-France
+      \verb https://www.culture.gouv.fr/fr/content/download/273550/pdf_file/Les%20archives%20%C3%A9lectroniques.pdf?inLanguage=fre-FR&version=6
       \endverb
-      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
+      \keyw{_normalisation,dontcite,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{ministeredelacultureDossiersDoeuvreDun2020}{misc}{}{}
       \name{author}{1}{}{%
@@ -2755,7 +2800,7 @@
       \verb{url}
       \verb https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/documenter-et-archiver-en-musee/Les-dossiers-d-aeuvre-d-un-musee-de-France
       \endverb
-      \keyw{_normalisation,texArchivesNumeriques,texArchivesNumeriques}
+      \keyw{_normalisation,dontcite,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{ministeredelacultureListeDautoriteDenomination}{online}{}{}
       \name{author}{1}{}{%
@@ -3262,6 +3307,7 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/PXRZM3X9/skinsoft-equipe-25-etablissements-150-utilisateurs-ministere-de-defense.html
       \endverb
@@ -4230,7 +4276,7 @@
       \verb{url}
       \verb https://www.archimag.com/archives-patrimoine/2022/02/01/projet-vas-nouvelle-offre-service-interminist%C3%A9rielle-archivage
       \endverb
-      \keyw{_outils,texArchivesNumeriques,texArchivesNumeriques}
+      \keyw{_outils,dontcite,texArchivesNumeriques,texArchivesNumeriques}
     \endentry
     \entry{unescoThesaurusLUNESCO1977}{online}{}{}
       \name{author}{1}{}{%
@@ -4428,6 +4474,31 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.16256
       \endverb
       \keyw{_automatisation IA,_exemple,_outils,AI automation,biodiversity data,ChatGPT,curation,digitization,herbarium label transcription,natural history collections,optical character recognition,Specimen Label Transcription Project,texNumeriquePatrimoine,workflow,texNumeriquePatrimoine}
+    \endentry
+    \entry{WikiArchifiltre}{online}{}{}
+      \list{organization}{1}{%
+        {GitHub}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Visualisez et améliorez vos arborescences de fichiers ! - SocialGouv/archifiltre-docs}
+      \field{langid}{french}
+      \field{title}{Wiki Archifiltre}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/UM9IUEXP/Wiki-Archifiltre.html
+      \endverb
+      \verb{urlraw}
+      \verb https://github.com/SocialGouv/archifiltre-docs/wiki/Wiki-Archifiltre
+      \endverb
+      \verb{url}
+      \verb https://github.com/SocialGouv/archifiltre-docs/wiki/Wiki-Archifiltre
+      \endverb
+      \keyw{dontcite,texArchivesNumeriques}
     \endentry
     \entry{yarrowBibliothequesPubliquesArchives2008a}{book}{}{}
       \name{author}{4}{}{%

@@ -12,7 +12,7 @@
 \contentsline {subsection}{\numberline {1.2.}Une institution complexe qui fait référence}{7}{subsection.1.1.2}%
 \contentsline {section}{\numberline {2.}La recherche : le rôle déterminant d'un musée technique}{9}{section.1.2}%
 \contentsline {subsection}{\numberline {2.1.}Un acteur central dans les réseaux de recherche aéronautique}{10}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{11}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {2.2.}Un réseau diversifié : répondre aux exigences de tous}{10}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Acteurs et dépendances}{13}{chapter.2}%
 \contentsline {section}{\numberline {1.}Un musée d'exception sous contraintes : une dépendance étroite du ministère des Armées}{13}{section.2.1}%
 \contentsline {section}{\numberline {2.}Conséquences pratiques : l'exemple de la migration vers la plateforme \acs {clade}}{16}{section.2.2}%
@@ -23,8 +23,8 @@
 \contentsline {subsection}{\numberline {1.2.}Un tournant documentaire : la création de l'\gls {emediatheque} (2016 – 2020)}{27}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {1.3.}Des architectures hétérogènes}{28}{subsection.3.1.3}%
 \contentsline {section}{\numberline {2.}Des conséquences importantes : quand la prolifération devient paralysie documentaire}{29}{section.3.2}%
-\contentsline {subsection}{\numberline {2.1.}L’invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{32}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {2.2.}La saturation des métiers : quand gérer devient ingérable}{35}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {2.1.}L’invisibilisation documentaire : effet direct de la fragmentation des vocabulaires}{29}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {2.2.}La saturation des métiers : quand gérer devient ingérable}{34}{subsection.3.2.2}%
 \contentsline {chapter}{\numberline {4}Diversité des métiers et fragmentation documentaire}{37}{chapter.4}%
 \contentsline {section}{\numberline {1.}Cartographie des métiers et émergence d’une conscience documentaire différenciée au \ac {mae}}{37}{section.4.1}%
 \contentsline {subsection}{\numberline {1.1.}Les documentalistes : pionniers, vigies et promoteurs de l’interopérabilité}{38}{subsection.4.1.1}%
@@ -34,47 +34,45 @@
 \contentsline {subsection}{\numberline {2.1.}Enjeux d’interopérabilité et logiques métiers}{43}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {2.2.}La persistance des silos institutionnels : musées, bibliothèques, archives}{44}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {2.3.}État de la recherche et pistes théoriques}{45}{subsection.4.2.3}%
-\contentsline {chapter}{\numberline {5}PDV métier}{47}{chapter.5}%
-\contentsline {section}{\numberline {1.}La frontière floue entre archives et documentation : une problématique propre aux musées techniques}{48}{section.5.1}%
-\contentsline {subsection}{\numberline {1.1.}Définir l’archive numérique en contexte muséal : enjeux et ambiguïtés}{48}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {1.2.}Panorama des pratiques de gestion des archives numériques au MAE}{49}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {1.3.}Un personnel sous-dimensionné : la difficile reconnaissance de la fonction archivistique}{49}{subsection.5.1.3}%
-\contentsline {section}{\numberline {2.}II. L’archiviste en musée : une légitimité difficile à établir, entre injonctions réglementaires et impossibilité pratique}{50}{section.5.2}%
-\contentsline {subsection}{\numberline {2.1.}DUA, versement, archivage raisonné : obstacles structurels à la gestion des archives numériques}{50}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Agents, archivistes, informaticiens : une gouvernance éclatée de l’archive numérique}{50}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {2.3.}Perspectives et défis pour l’archivage numérique au MAE}{51}{subsection.5.2.3}%
-\contentsline {section}{\numberline {3.}Conclusion de la sous-partie II/C}{52}{section.5.3}%
-\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{53}{part.3}%
-\contentsline {chapter}{\numberline {6}Gérer la prolifération}{57}{chapter.6}%
-\contentsline {section}{\numberline {1.}La représentation conceptuelle : modéliser pour maîtriser la complexité}{57}{section.6.1}%
-\contentsline {subsection}{\numberline {1.1.}Les enjeux de la modélisation conceptuelle}{57}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {1.2.}Outils et méthodes de modélisation}{59}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {1.3.}La modélisation comme outil de sensibilisation et de pilotage}{61}{subsection.6.1.3}%
-\contentsline {section}{\numberline {2.}Les solutions techniques existantes : entre standardisation et adaptation locale}{63}{section.6.2}%
-\contentsline {subsection}{\numberline {2.1.}Qu’est-ce qu’un thésaurus documentaire ?}{63}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Diversité des outils de structuration de l’information}{64}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {2.3.}Solutions pour l’interopérabilité et l’ouverture}{65}{subsection.6.2.3}%
-\contentsline {section}{\numberline {3.}L’intégration dans l’écosystème institutionnel : vers une gouvernance collaborative des outils}{67}{section.6.3}%
-\contentsline {subsection}{\numberline {3.1.}Accompagnement au changement et formation des agents}{67}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {3.2.}Interopérabilité et dialogue intermétiers}{68}{subsection.6.3.2}%
-\contentsline {chapter}{\numberline {7}Gérer la prolifération}{69}{chapter.7}%
-\contentsline {section}{\numberline {1.}Convaincre de la nécessité du processus}{69}{section.7.1}%
-\contentsline {section}{\numberline {2.}Créer un thésaurus commun à partir des vocabulaires existants : un travail collaboratif}{70}{section.7.2}%
-\contentsline {subsection}{\numberline {2.1.}La réflexion en groupes de travail : avantages et limites}{71}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Où se situent les principaux besoins ?}{72}{subsection.7.2.2}%
-\contentsline {chapter}{\numberline {8}Gérer la prolifération}{75}{chapter.8}%
-\contentsline {section}{\numberline {1.}Automatiser les tâches : promesses et réalités de l’IA en institution patrimoniale}{75}{section.8.1}%
-\contentsline {section}{\numberline {2.}Entraîner une IA sur la base d’un vocabulaire spécialisé : défis et solutions}{77}{section.8.2}%
-\contentsline {subsection}{\numberline {2.1.}Limites et perspectives}{78}{subsection.8.2.1}%
-\contentsline {chapter}{Conclusion}{81}{chapter*.37}%
-\contentsline {part}{Annexes}{85}{part*.38}%
-\contentsline {chapter}{\numberline {A}Chronologie du MAE}{85}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Organigramme}{89}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Flux de données}{91}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{93}{appendix.D}%
-\contentsline {chapter}{\numberline {E}Modélisations de données}{97}{appendix.E}%
-\contentsline {chapter}{\numberline {F}UML}{99}{appendix.F}%
-\contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{101}{appendix.G}%
-\contentsline {part}{Glossaire}{107}{appendix*.50}%
-\contentsline {part}{Tables}{109}{appendix*.51}%
-\contentsline {part}{Figures}{111}{appendix*.52}%
+\contentsline {chapter}{\numberline {5}Les archives numériques}{47}{chapter.5}%
+\contentsline {section}{\numberline {1.}Entre archives et documentation : une problématique propre aux musées}{48}{section.5.1}%
+\contentsline {subsection}{\numberline {1.1.}Définir l’archive numérique en contexte muséal : enjeux et ambiguïtés}{49}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Panorama des pratiques de gestion des archives numériques au MAE}{50}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {1.3.}Une surcharge de travail pour le personnel du musée : la difficile reconnaissance de la fonction archivistique}{53}{subsection.5.1.3}%
+\contentsline {section}{\numberline {2.}Vers une gouvernance des archives numériques au \ac {mae}: expérimentations, structuration et montée en compétences}{54}{section.5.2}%
+\contentsline {subsection}{\numberline {2.1.}Quelques leviers pour une gestion documentaire en transformation}{54}{subsection.5.2.1}%
+\contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{57}{part.3}%
+\contentsline {chapter}{\numberline {6}Gérer la prolifération}{61}{chapter.6}%
+\contentsline {section}{\numberline {1.}La représentation conceptuelle : modéliser pour maîtriser la complexité}{61}{section.6.1}%
+\contentsline {subsection}{\numberline {1.1.}Les enjeux de la modélisation conceptuelle}{61}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Outils et méthodes de modélisation}{62}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {1.3.}La modélisation comme outil de sensibilisation et de pilotage}{65}{subsection.6.1.3}%
+\contentsline {section}{\numberline {2.}Les solutions techniques existantes : entre standardisation et adaptation locale}{66}{section.6.2}%
+\contentsline {subsection}{\numberline {2.1.}Qu’est-ce qu’un thésaurus documentaire ?}{66}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Diversité des outils de structuration de l’information}{67}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {2.3.}Solutions pour l’interopérabilité et l’ouverture}{69}{subsection.6.2.3}%
+\contentsline {section}{\numberline {3.}L’intégration dans l’écosystème institutionnel : vers une gouvernance collaborative des outils}{70}{section.6.3}%
+\contentsline {subsection}{\numberline {3.1.}Accompagnement au changement et formation des agents}{71}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {3.2.}Interopérabilité et dialogue intermétiers}{71}{subsection.6.3.2}%
+\contentsline {chapter}{\numberline {7}Gérer la prolifération}{73}{chapter.7}%
+\contentsline {section}{\numberline {1.}Convaincre de la nécessité du processus}{73}{section.7.1}%
+\contentsline {section}{\numberline {2.}Créer un thésaurus commun à partir des vocabulaires existants : un travail collaboratif}{74}{section.7.2}%
+\contentsline {subsection}{\numberline {2.1.}La réflexion en groupes de travail : avantages et limites}{75}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Où se situent les principaux besoins ?}{76}{subsection.7.2.2}%
+\contentsline {chapter}{\numberline {8}Gérer la prolifération}{79}{chapter.8}%
+\contentsline {section}{\numberline {1.}Automatiser les tâches : promesses et réalités de l’IA en institution patrimoniale}{79}{section.8.1}%
+\contentsline {section}{\numberline {2.}Entraîner une IA sur la base d’un vocabulaire spécialisé : défis et solutions}{81}{section.8.2}%
+\contentsline {subsection}{\numberline {2.1.}Limites et perspectives}{82}{subsection.8.2.1}%
+\contentsline {chapter}{Conclusion}{83}{chapter*.54}%
+\contentsline {part}{Annexes}{87}{part*.55}%
+\contentsline {chapter}{\numberline {A}Chronologie du MAE}{87}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Organigramme}{91}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Flux de données}{93}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{95}{appendix.D}%
+\contentsline {chapter}{\numberline {E}Modélisations de données}{99}{appendix.E}%
+\contentsline {chapter}{\numberline {F}UML}{101}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{103}{appendix.G}%
+\contentsline {chapter}{\numberline {H}Diagnostic du serveur S}{107}{appendix.H}%
+\contentsline {part}{Glossaire}{109}{figure.caption.66}%
+\contentsline {part}{Tables}{111}{appendix*.67}%
+\contentsline {part}{Figures}{113}{appendix*.68}%

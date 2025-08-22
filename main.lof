@@ -14,22 +14,26 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Chronologie des logiciels et des ensembles de thésaurus utilisés au \ac {mae}~depuis les années 1990.}}{28}{figure.caption.22}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Structure des \gls {thesaurus} du \ac {mae}}}{30}{figure.caption.23}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Exemple de rattachement problématique dans le thésaurus : « Pont-l’Évêque » rattaché directement à « France », ce qui empêche sa remontée lors d'une recherche par région (« Normandie », « Calvados »).}}{34}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Exemple de rattachement problématique dans le thésaurus : « Pont-l’Évêque » rattaché directement à « France », ce qui empêche sa remontée lors d'une recherche par région (« Normandie », « Calvados »).}}{33}{figure.caption.25}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Cycle de vie des archives au \ac {mae}}}{50}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Attentes des agents du \ac {mae}~en matière de gestion des archives}}{51}{figure.caption.39}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Modélisation des \gls {thesaurus} du \ac {mae}}}{64}{figure.caption.45}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Relations sémantiques exprimées par un thésaurus}}{67}{figure.caption.49}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Modélisation des \gls {thesaurus} du \ac {mae}}}{60}{figure.caption.34}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Relations sémantiques exprimées par un thésaurus}}{64}{figure.caption.36}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Organigramme du \ac {mae}}}{91}{figure.caption.56}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Flux de données de thésaurus au \ac {mae}}}{93}{figure.caption.57}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Organigramme du \ac {mae}}}{89}{figure.caption.39}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Flux de données de thésaurus au \ac {mae}}}{91}{figure.caption.40}%
+\contentsline {figure}{\numberline {F.1}{\ignorespaces Modélisation d'un thésaurus selon la norme ISO 25964}}{102}{figure.caption.64}%
+\contentsline {figure}{\numberline {F.2}{\ignorespaces Structure du thésaurus \textit {Constructeurs} de \gls {micromusee}}}{102}{figure.caption.65}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Modélisation d'un thésaurus selon la norme ISO 25964}}{100}{figure.caption.47}%
-\contentsline {figure}{\numberline {F.2}{\ignorespaces Structure du thésaurus \textit {Constructeurs} de \gls {micromusee}}}{100}{figure.caption.48}%
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {H.1}{\ignorespaces Diagnostic du serveur S}}{108}{figure.caption.66}%

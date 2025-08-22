@@ -119,6 +119,7 @@
 \DeclareAcronym{afnor}{short = AFNOR, long = Association française de normalisation}
 \DeclareAcronym{iso}{short = ISO, long = Organisation internationale de normalisation}
 \DeclareAcronym{sudoc}{short = SUDOC, long = Système universitaire de documentation}
+\DeclareAcronym{siaf}{short = SIAF, long = service interministériel des Archives de France}
 
 %%%%%%%%%%%%%%%%%%%%%%%%% IMAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{graphicx}
@@ -567,7 +568,31 @@
 	\chapter[Roadmap OpenTheso]{\label{Ax-G}Processus à suivre pour la mise en place d'OpenTheso au \mae}
 	\inserttable{./parties/backmatter/annexes/A6_roadmap}
 	
-	
+	\chapter{\label{Ax-H}Diagnostic du serveur S}
+	\begin{figure}[htbp]
+		\centering
+		\begin{subfigure}{0.75\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{img/GRAPH_doublons_caracteres}
+			\caption{Poids des doublons et nombre de caractères du chemin le plus long des dossiers du Serveur S}
+			\label{fig:diagdoublonscaracteres}
+		\end{subfigure}
+		\begin{subfigure}{0.75\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{img/GRAPH_profondeur_ratio}
+			\caption{Profondeur des dossiers et moyenne de fichiers par dossier dans les dossiers du Serveur S}
+			\label{fig:diagprofondeurratio}
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}{0.75\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{img/IMG_motscles_fonctionnel}
+			\caption{Mots Clés utilisés dans le sous-dossier \textit{Fonctionnel} du dossier \textit{Conservation} du Serveur S}
+		\end{subfigure}
+		
+		\caption[Diagnostic du serveur S]{Graphiques du diagnostic du Serveur S réalisés à partir des exports d'\gls{archifiltre}.}
+		\label{fig:diagarchifiltre}
+	\end{figure}
 	\backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
 	
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
