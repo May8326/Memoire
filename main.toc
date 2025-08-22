@@ -4,7 +4,7 @@
 \contentsline {chapter}{Remerciements}{iii}{chapter*.2}%
 \contentsline {chapter}{Liste des abréviations}{v}{chapter*.3}%
 \contentsline {chapter}{Bibliographie}{vii}{chapter*.4}%
-\contentsline {chapter}{Introduction}{xxiii}{chapter*.11}%
+\contentsline {chapter}{Introduction}{xxi}{chapter*.11}%
 \contentsline {part}{I\hspace {1em}Le contexte institutionnel particulier du Musée de l'air et de l'espace}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Une référence nationale}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.}Représenter le patrimoine aéronautique français : un musée aux collections uniques}{5}{section.1.1}%
@@ -40,7 +40,7 @@
 \contentsline {subsection}{\numberline {1.2.}Panorama des pratiques de gestion des archives numériques au MAE}{50}{subsection.5.1.2}%
 \contentsline {subsection}{\numberline {1.3.}Une surcharge de travail pour le personnel du musée : la difficile reconnaissance de la fonction archivistique}{53}{subsection.5.1.3}%
 \contentsline {section}{\numberline {2.}Vers une gouvernance des archives numériques au \ac {mae}: expérimentations, structuration et montée en compétences}{54}{section.5.2}%
-\contentsline {subsection}{\numberline {2.1.}Quelques leviers pour une gestion documentaire en transformation}{54}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {2.1.}Quelques leviers}{54}{subsection.5.2.1}%
 \contentsline {part}{III\hspace {1em}Gérer la prolifération. Outils et méthodes}{57}{part.3}%
 \contentsline {chapter}{\numberline {6}Gérer la prolifération}{61}{chapter.6}%
 \contentsline {section}{\numberline {1.}La représentation conceptuelle : modéliser pour maîtriser la complexité}{61}{section.6.1}%

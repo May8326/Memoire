@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  22 AUG 2025 02:23
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  22 AUG 2025 04:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1865,17 +1865,13 @@ e représentation de schémas de concepts », \TU/lmr/m/it/12 Documentaliste-
 
 
 
-[18]
+[18] (./parties/mainmatter/intro.tex
 
-[19]
+[19
+
+]
 
 [20
-
-] (./parties/mainmatter/intro.tex
-
-[21]
-
-[22
 
 ]
 Package lettrine.sty Info: Targeted height = 24.16246pt
@@ -1884,13 +1880,13 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 21.
 
 
-[23]
+[21]
+
+[22]
+
+[23])
 
 [24]
-
-[25])
-
-[26]
 
 [1
 
@@ -2244,19 +2240,19 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             Lettrine height = 24.72845pt (S);
 (lettrine.sty)             reported on input line 24.
 )
-
-[55]
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
 (lettrine.sty)             reported on input line 482.
 
 
-[56]
+[55]
 
-[57
+[56
 
 ]
+
+[57]
 
 [58] (./parties/mainmatter/III/A/III_A.tex
 
@@ -2938,17 +2934,25 @@ LaTeX Warning: Float too large for page by 61.36792pt on input line 595.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58111 strings out of 474235
- 1291616 string characters out of 5742252
- 2127646 words of memory out of 5000000
- 79884 multiletter control sequences out of 15000+600000
+ 58098 strings out of 474235
+ 1290698 string characters out of 5742252
+ 2141968 words of memory out of 5000000
+ 79871 multiletter control sequences out of 15000+600000
  572026 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (146 pages).
+Output written on main.pdf (144 pages).

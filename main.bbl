@@ -322,7 +322,7 @@
       \verb{url}
       \verb https://experts.bnf.fr/node/34958
       \endverb
-      \keyw{_webSemantique,texThesau,texThesau}
+      \keyw{_webSemantique,texThesau,texNumeriquePatrimoine}
     \endentry
     \entry{bermesVersNouveauxCatalogues2016}{incollection}{}{}
       \name{author}{1}{}{%
@@ -608,6 +608,9 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/DZA2W6QQ/Bowers - 2017 - Le partenariat entre bibliothèque et musée un dispositif d'ouverture..pdf
+      \endverb
       \verb{urlraw}
       \verb https://www.enssib.fr/bibliotheque-numerique/documents/67723-le-partenariat-entre-bibliotheque-et-musee-un-dispositif-d-ouverture.pdf
       \endverb
@@ -794,7 +797,7 @@
       \verb{url}
       \verb https://labarchiv.hypotheses.org/1728
       \endverb
-      \keyw{,texThesau}
+      \keyw{,texNumeriquePatrimoine}
     \endentry
     \entry{CADERConservationDanciens}{online}{}{}
       \list{organization}{1}{%
@@ -1024,6 +1027,9 @@
       \verb{eprint}
       \verb 2404.02330
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/S24URRFF/Chataut et al. - 2024 - Comparative Study of Domain Driven Terms Extraction Using Large Language Models.pdf
+      \endverb
       \verb{urlraw}
       \verb http://arxiv.org/abs/2404.02330
       \endverb
@@ -1069,7 +1075,7 @@
       \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7FGWIC5D/2494.html
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/85EQC7VL/Cher - 2019 - Taking on the content discovery challenge The NLB Case Study.pdf;/home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7FGWIC5D/2494.html
       \endverb
       \verb{urlraw}
       \verb https://library.ifla.org/id/eprint/2494/
@@ -1154,6 +1160,9 @@
       \verb{doi}
       \verb 10.3917/docsi.441.0066
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/4JCPBX9W/Chichereau et al. - 2007 - Les normes de conception, gestion et maintenance de thésaurus Évolutions récentes et perspectives.pdf
+      \endverb
       \verb{urlraw}
       \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-66
       \endverb
@@ -1202,6 +1211,9 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3917/i2d.153.0039
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/PLASN6A9/Clergeau - 2015 - Le réseau Archives en musées « se regrouper, échanger, agir ensemble ».pdf
       \endverb
       \verb{urlraw}
       \verb https://shs.cairn.info/revue-i2d-information-donnees-et-documents-2015-3-page-39
@@ -1329,7 +1341,7 @@
       \verb{url}
       \verb https://oap.unige.ch/journals/ressi/article/view/1511
       \endverb
-      \keyw{Données ouvertes liées (Linked Open Data),Fondation SAPA,Gestion des collections,RDF (Resource Description Framework),Records in Contexts (RiC),texThesau}
+      \keyw{Données ouvertes liées (Linked Open Data),Fondation SAPA,Gestion des collections,RDF (Resource Description Framework),Records in Contexts (RiC),texNumeriquePatrimoine}
     \endentry
     \entry{denisImageCognition1989}{book}{}{}
       \name{author}{1}{}{%
@@ -1367,7 +1379,7 @@
       \verb{eprint}
       \verb enUQAQAAIAAJ
       \endverb
-      \keyw{,texNumeriquePatrimoine}
+      \keyw{,reflexions}
     \endentry
     \entry{couperinDerriereBeauteImages2024}{video}{}{}
       \name{namea}{1}{}{%
@@ -1831,6 +1843,9 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/FH64MIS3/Gaydon - 2020 - Gaydon, Charlène. Du musée traditionnel au Musée du XXIe siècle, la transformation numérique de l’in.pdf
+      \endverb
       \verb{urlraw}
       \verb https://www.enssib.fr/bibliotheque-numerique/documents/69395-du-musee-traditionnel-au-musee-du-xxie-siecle-la-transformation-numerique-de-l-institution.pdf
       \endverb
@@ -1877,7 +1892,37 @@
       \verb{eprint}
       \verb baQtOyscXUwC
       \endverb
-      \keyw{Language Arts & Disciplines / Literacy,Philosophy / History & Surveys / Ancient & Classical,Psychology / Ethnopsychology,Social Science / Anthropology / Cultural & Social,Social Science / Anthropology / General,Social Science / Sociology / General,texNumeriquePatrimoine}
+      \keyw{Language Arts & Disciplines / Literacy,Philosophy / History & Surveys / Ancient & Classical,Psychology / Ethnopsychology,Social Science / Anthropology / Cultural & Social,Social Science / Anthropology / General,Social Science / Sociology / General,reflexions}
+    \endentry
+    \entry{GouvernanceLinformation2013}{article}{}{}
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {A.D.B.S.}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gouvernance de l'information. Voilà une expression souvent utilisée aujourd'hui. Pour cerner cette notion, ce sont plusieurs repères qui vous sont proposés par Arnaud Jules et Loïc Lebigre, coordinateurs du dossier de ce numéro. Après cette première approche, vous découvrirez la gouvernance, telle qu'elle a été appliquée dans divers contextes (entreprises, petites et grandes, collectivités locales) ainsi que des conseils très concrets pour enclencher cette démarche essentielle, tels que le plan à définir, les étapes à franchir, les freins à surmonter ou encore les compétences à acquérir. Sous l'angle des métiers ce sont plusieurs considérations importantes sur l'éthique et sur l'évolution de nos métiers, tels que perçus dans différents pays que l'on a présentées ainsi que les détails d'une expérience réussie de mutualisation de centres de documentation au sein d'un ministère français. Toujours sur le thème de la collaboration, mais sous un angle plus technique, on découvrira l'évolution d'un thésaurus, résultat du travail multidisciplinaire. A côté d'un article de recherche consacré à la médiation technique des pratiques rédactionnelles des chercheurs en France, un article sur l'avenir de l'acquisition, de l'accès et du signalement des ressources électroniques et, plus inattendu, de quoi créer son Mooc, autre thème intimement lié à l'actualité évoqué à plusieurs reprises dans les pages de ce numéro. Actualité toujours, mais dans le domaine juridique, lorsque le Cloud se traduit par des variations sur la copie privée, lorsqu'on applique le droit aux mobiles ou pour les questions posées pour la neutralité du net par l'initiative priser récemment par Free. Et si, par ailleurs, le droit d'auteur n'avait plus la place prépondérante qu'il occupait dans le passé? Une question étonnante, n'est-ce pas ? Nous la posons aussi.}
+      \field{journaltitle}{Perspectives pour une approche globale}
+      \field{langid}{french}
+      \field{number}{1}
+      \field{shortjournal}{Documentaliste-Sciences de l'Information}
+      \field{title}{Gouvernance de l'information}
+      \field{volume}{Vol. 50}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{78}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2013-1?lang=fr
+      \endverb
+      \verb{url}
+      \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2013-1?lang=fr
+      \endverb
+      \keyw{,reflexions}
     \endentry
     \entry{griveauNouveauxCataloguesNouvelles2025}{online}{}{}
       \name{author}{1}{}{%
@@ -1927,6 +1972,45 @@
       \verb https://vousneregardezpasassezlesimages.fr/2025/05/17/nouveaux-catalogues-nouvelles-interfaces-nouveaux-usages/
       \endverb
       \keyw{_outils,texThesau,texThesau}
+    \endentry
+    \entry{guyotManagementLinformationDans}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=faecea98472de7666999dac87618d8bf}{%
+           family={Guyot},
+           familyi={G\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{faecea98472de7666999dac87618d8bf}
+      \strng{fullhash}{faecea98472de7666999dac87618d8bf}
+      \strng{fullhashraw}{faecea98472de7666999dac87618d8bf}
+      \strng{bibnamehash}{faecea98472de7666999dac87618d8bf}
+      \strng{authorbibnamehash}{faecea98472de7666999dac87618d8bf}
+      \strng{authornamehash}{faecea98472de7666999dac87618d8bf}
+      \strng{authorfullhash}{faecea98472de7666999dac87618d8bf}
+      \strng{authorfullhashraw}{faecea98472de7666999dac87618d8bf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{Management de l'information dans les organisations}
+      \field{title}{Management de l'information dans les organisations : éléments de méthode}
+      \true{nocite}
+      \verb{doi}
+      \verb sic_00665257
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/VX2UMURI/Guyot - MANAGEMENT DE L’INFORMATION DANS LES ORGANISATIONS.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://archivesic.ccsd.cnrs.fr/sic_00665257v1/file/2012MANAGEMENT_INFO_GUYOT.pdf
+      \endverb
+      \verb{url}
+      \verb https://archivesic.ccsd.cnrs.fr/sic_00665257v1/file/2012MANAGEMENT_INFO_GUYOT.pdf
+      \endverb
+      \keyw{,reflexions}
     \endentry
     \entry{heberleinFlipsideWikidataCultural2019}{inproceedings}{}{}
       \name{author}{1}{}{%
@@ -2006,6 +2090,9 @@
       \range{pages}{11}
       \verb{doi}
       \verb 10.7202/1028903ar
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/D9NZDFDK/Hudon - 2012 - ISO 25964 pour le développement, la gestion et l’interopérabilité des langages documentaires.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.erudit.org/fr/revues/documentation/2012-v58-n3-documentation01721/1028903ar/
@@ -2133,6 +2220,9 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/F3UQA652/Keller - 2013 - Encadrer la réingénierie d'un thesaurus méthode, enjeux et impacts pour l'équipe d'un service de v.pdf
+      \endverb
       \verb{urlraw}
       \verb https://memsic.ccsd.cnrs.fr/mem_00945542
       \endverb
@@ -2320,6 +2410,9 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3917/docsi.441.0075
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/4IQYKLJ5/Lénart - 2007 - SKOS, un langage de représentation de schémas de concepts.pdf
       \endverb
       \verb{urlraw}
       \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-75
@@ -2547,6 +2640,9 @@
       \verb{doi}
       \verb 10.3917/i2d.151.0072
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/D8BGNMW8/Maroye - 2015 - ISO 25964 de la distinction formelle conceptterme préconisée par la norme pour la création et la.pdf
+      \endverb
       \verb{urlraw}
       \verb https://shs.cairn.info/revue-i2d-information-donnees-et-documents-2015-1-page-72
       \endverb
@@ -2755,6 +2851,9 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/9GVBPBCM/Ministère de la Culture - 2020 - Les archives électroniques dans un musée de France - vade-mecum à l’usage des personnels des musées.pdf
+      \endverb
       \verb{urlraw}
       \verb https://www.culture.gouv.fr/fr/content/download/273550/pdf_file/Les%20archives%20%C3%A9lectroniques.pdf?inLanguage=fre-FR&version=6
       \endverb
@@ -2909,7 +3008,7 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7PAMXFPP/boc-mai-2023.html
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/W85ZJGBA/Ministère des Armées - 2023 - Instruction n°303ARMSGADMCASDPC.pdf;/home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/7PAMXFPP/boc-mai-2023.html
       \endverb
       \verb{urlraw}
       \verb https://www.defense.gouv.fr/sites/default/files/sga/Texte%209%20INSTRUCTION%20N°%20303.pdf
@@ -3262,6 +3361,9 @@
       \field{year}{2025}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/9WZQ3P65/Musée de l'air et de l'espace - 2025 - Hall de la navigation aérienne et du contrôle aérien Dossier de presse.pdf
+      \endverb
       \verb{urlraw}
       \verb https://www.museeairespace.fr/wp-content/uploads/sites/2/2025/06/Dossier-de-presse-NAVACA-06-2025.pdf
       \endverb
@@ -3588,7 +3690,7 @@
       \verb{url}
       \verb https://opentheso.hypotheses.org/52
       \endverb
-      \keyw{_normalisation,_webSemantique,texThesau,texThesau}
+      \keyw{_normalisation,_webSemantique,dontcite,texThesau,texThesau}
     \endentry
     \entry{pitonNomsPropresGeographiques2004}{incollection}{}{}
       \name{author}{2}{}{%
@@ -3713,7 +3815,7 @@
       \verb{url}
       \verb https://www.museeairespace.fr/le-musee/linstitution/presentation-et-histoire/
       \endverb
-      \keyw{_histoire,texHistoire,texHistoire}
+      \keyw{_histoire,dontcite,texHistoire,texHistoire}
     \endentry
     \entry{RapportScientifiqueBibracte2022}{report}{}{}
       \field{sortinit}{R}
@@ -3728,6 +3830,9 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/45YZAMH8/2022 - Rapport scientifique. Bibracte ville ouverte.pdf
+      \endverb
       \verb{urlraw}
       \verb https://www.collexpersee.eu/wp-content/uploads/2020/10/Rapport_scientifique_BibracteVilleOuverte.pdf
       \endverb
@@ -3866,6 +3971,104 @@
       \endverb
       \keyw{,texThesau}
     \endentry
+    \entry{remizeGouvernanceLinformationNorme2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75be81b58edd22f187ce649c8b70c8b1}{%
+           family={Remize},
+           familyi={R\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Archimag}%
+      }
+      \strng{namehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{fullhash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{fullhashraw}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{bibnamehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authorbibnamehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authornamehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authorfullhash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authorfullhashraw}{75be81b58edd22f187ce649c8b70c8b1}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Noureddine Lamriri est coordinateur Iso du groupe de travail sur la gouvernance de l’information (TC46/WG13). Un engagement qui doit aboutir, début~2022, à la publication de la première norme internationale sur ce sujet.}
+      \field{day}{26}
+      \field{langid}{french}
+      \field{month}{8}
+      \field{shorttitle}{Gouvernance de l'information}
+      \field{title}{Gouvernance de l'information : "La norme Iso aura vocation à être transversale”}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/EERI2JNR/gouvernance-information-norme-iso-vocation-transversale.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.archimag.com/demat-cloud/2021/08/26/gouvernance-information-norme-iso-vocation-transversale
+      \endverb
+      \verb{url}
+      \verb https://www.archimag.com/demat-cloud/2021/08/26/gouvernance-information-norme-iso-vocation-transversale
+      \endverb
+      \keyw{,reflexions}
+    \endentry
+    \entry{remizeGouvernanceLinformationPlongez2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75be81b58edd22f187ce649c8b70c8b1}{%
+           family={Remize},
+           familyi={R\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Archimag}%
+      }
+      \strng{namehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{fullhash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{fullhashraw}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{bibnamehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authorbibnamehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authornamehash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authorfullhash}{75be81b58edd22f187ce649c8b70c8b1}
+      \strng{authorfullhashraw}{75be81b58edd22f187ce649c8b70c8b1}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{La gouvernance de l'information s'impose comme une démarche indispensable pour gérer l'information de façon transversale dans le contexte de la dématérialisation et de la transformation numérique des organisations.~A l'occasion de la sortie du numéro de mars 2022 d'Archimag, Gouvernance de l'information : priorité incontournable, voici l'édito de Michel Remize, notre rédacteur en chef, qui revient sur la stratégie, le responsable, les outils et les bénéficiaires de la gouvernance de l'information.}
+      \field{day}{10}
+      \field{langid}{french}
+      \field{month}{3}
+      \field{shorttitle}{Gouvernance de l'information}
+      \field{title}{Gouvernance de l'information : plongez dans le système !}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/VBQU3RAP/gouvernance-information-plongez-systeme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.archimag.com/demat-cloud/2022/03/10/gouvernance-information-plongez-systeme
+      \endverb
+      \verb{url}
+      \verb https://www.archimag.com/demat-cloud/2022/03/10/gouvernance-information-plongez-systeme
+      \endverb
+      \keyw{,reflexions}
+    \endentry
     \entry{ricardRGPDArchives2018a}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0233f3d1ee8507eff6ede7409ad09644}{%
@@ -3968,6 +4171,9 @@
       \verb{doi}
       \verb 10.3917/docsi.512.0030
       \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/MMN673ZZ/Rizza et al. - 2014 - Le document au cœur de l'organisation muséale.pdf
+      \endverb
       \verb{urlraw}
       \verb https://shs.cairn.info/revue-documentaliste-sciences-de-l-information-2014-2-page-30
       \endverb
@@ -4022,6 +4228,9 @@
       \field{title}{Bibliothèques et Musées : quelle(s) coopération(s) ?}
       \field{pages}{86\bibrangedash 103}
       \range{pages}{18}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/SN9TYCPC/Rossini-Paquet et al. - Bibliothèques et Musées quelle(s) coopération(s) .pdf
+      \endverb
       \verb{urlraw}
       \verb https://www.enssib.fr/bibliotheque-numerique/documents/46470-bibliotheques-et-musees-quelles-cooperations.pdf
       \endverb
@@ -4117,6 +4326,76 @@
       \endverb
       \keyw{dontcite,texHistoire}
     \endentry
+    \entry{serdaGouvernanceDocumentaireDans2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa798e906f7dc3b1835093df2686db84}{%
+           family={{Serda}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{fullhash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{fullhashraw}{aa798e906f7dc3b1835093df2686db84}
+      \strng{bibnamehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authorbibnamehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authornamehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authorfullhash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authorfullhashraw}{aa798e906f7dc3b1835093df2686db84}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{La Gouvernance Documentaire Dans Les Organisations Françaises - {{Livre}} Blanc}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/5JIKFUR3/Serda - 2012 - La gouvernance documentaire dans les organisations françaises - Livre blanc.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.enssib.fr/bibliotheque-numerique/documents/66430-gouvernance-documentaire-dans-les-organisations-francaise-livre-blanc-2e-enquete-serdalab-la.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.enssib.fr/bibliotheque-numerique/documents/66430-gouvernance-documentaire-dans-les-organisations-francaise-livre-blanc-2e-enquete-serdalab-la.pdf
+      \endverb
+      \keyw{,reflexions}
+    \endentry
+    \entry{serdaGouvernanceLinformationDans2014}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa798e906f7dc3b1835093df2686db84}{%
+           family={{Serda}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{fullhash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{fullhashraw}{aa798e906f7dc3b1835093df2686db84}
+      \strng{bibnamehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authorbibnamehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authornamehash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authorfullhash}{aa798e906f7dc3b1835093df2686db84}
+      \strng{authorfullhashraw}{aa798e906f7dc3b1835093df2686db84}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{La Gouvernance de l’information Dans Les Organisations - {{Livre}} Blanc}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/KL2SHPFN/Serda - 2014 - La gouvernance de l’information dans les organisations - Livre blanc.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.enssib.fr/bibliotheque-numerique/documents/64551-gouvernance-de-l-information-dans-les-organisations-livre-blanc.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.enssib.fr/bibliotheque-numerique/documents/64551-gouvernance-de-l-information-dans-les-organisations-livre-blanc.pdf
+      \endverb
+      \keyw{,reflexions}
+    \endentry
     \entry{Skosmos}{online}{}{}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -4192,6 +4471,9 @@
       \endverb
       \verb{eprint}
       \verb 2501.11441
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/LIS7I9N2/Taboada et al. - 2025 - Ontology Matching with Large Language Models and Prioritized Depth-First Search.pdf
       \endverb
       \verb{urlraw}
       \verb http://arxiv.org/abs/2501.11441
@@ -4401,6 +4683,9 @@
       \true{nocite}
       \field{pages}{83}
       \range{pages}{1}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/4CLYZ3LY/Verhulst - 1997 - Reconstitution et réorganisation de l'inventaire ethnographique au musée d'histoire naturelle de Lil.pdf
+      \endverb
       \verb{urlraw}
       \verb https://dumas.ccsd.cnrs.fr/dumas-01717237
       \endverb
@@ -4466,6 +4751,9 @@
       \range{pages}{-1}
       \verb{doi}
       \verb 10.1002/ajb2.16256
+      \endverb
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/5B42EWSH/Weaver et al. - 2023 - Herbarium specimen label transcription reimagined with large language models Capabilities, producti.pdf
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.16256
