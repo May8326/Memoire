@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  22 AUG 2025 04:25
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  22 AUG 2025 08:51
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1873,23 +1873,15 @@ e représentation de schémas de concepts », \TU/lmr/m/it/12 Documentaliste-
 
 [20
 
-]
-Package lettrine.sty Info: Targeted height = 24.16246pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.72845pt (C);
-(lettrine.sty)             reported on input line 21.
-
+])
 
 [21]
 
-[22]
+[22
 
-[23])
-
-[24]
+]
 
 [1
-
 
 
 ]
@@ -1918,9 +1910,6 @@ File: img/MODEL_domaines.png Graphic file (type bmp)
 
 
 [8]) (./parties/mainmatter/I/A/I_A_2.tex
-Underfull \vbox (badness 1248) has occurred while \output is active []
-
-
 
 [9]
 
@@ -2242,17 +2231,22 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 )
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 482.
+(lettrine.sty)             Lettrine height = 24.16241pt (L);
+(lettrine.sty)             reported on input line 484.
 
 
 [55]
 
-[56
+LaTeX Warning: Citation 'GouvernanceLinformation2013' on page 56 undefined on i
+nput line 490.
+
+
+
+[56]
+
+[57
 
 ]
-
-[57]
 
 [58] (./parties/mainmatter/III/A/III_A.tex
 
@@ -2612,7 +2606,10 @@ Overfull \hbox (35.99277pt too wide) in alignment at lines 18--27
 
 [80])) (./parties/mainmatter/III/C/III_C_2.tex
 
-[81])
+[81]
+File: img/SCHEM_processus_IA.png Graphic file (type bmp)
+<img/SCHEM_processus_IA.png>
+)
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
@@ -2621,19 +2618,23 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [82]
 
-[83
-
-]
+[83]
 
 [84
 
 ]
 
-[85
+[85]
+
+[86
 
 ]
 
-[86]
+[87
+
+]
+
+[88]
 Annexe A.
 (./parties/backmatter/annexes/A1_frise.tex)
 (./parties/backmatter/annexes/A1_frise.tex)
@@ -2662,13 +2663,13 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 18--82
  [] [] 
  []
 
-[87
+[89
 
-] [88])
+] [90])
 
-[89]
+[91]
 
-[90
+[92
 
 ]
 Annexe B.
@@ -2676,9 +2677,9 @@ File: img/SCHEM_organigramme.jpg Graphic file (type bmp)
 <img/SCHEM_organigramme.jpg>
 
 
-[91]
+[93]
 
-[92
+[94
 
 ]
 Annexe C.
@@ -2686,31 +2687,31 @@ File: img/MODEL_Flux.png Graphic file (type bmp)
 <img/MODEL_Flux.png>
 
 
-[93]
+[95]
 
-[94
+[96
 
 ]
 Annexe D.
 (./parties/backmatter/annexes/A4_interview_doc.tex
 
-[95]
-
-[96])
-
 [97]
 
-[98
+[98])
+
+[99]
+
+[100
 
 ]
 Annexe E.
 
 
-[99
+[101
 
 ]
 
-[100
+[102
 
 ]
 Annexe F.
@@ -2720,9 +2721,9 @@ File: img/UML_iso_boeing.png Graphic file (type bmp)
 <img/UML_iso_boeing.png>
 
 
-[101]
+[103]
 
-[102]
+[104]
 Annexe G.
 (./parties/backmatter/annexes/A6_roadmap.tex)
 (./parties/backmatter/annexes/A6_roadmap.tex)
@@ -2866,13 +2867,13 @@ Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
  [] [] [] [] 
  []
 
-[103
+[105
 
-] [104])
+] [106])
 
-[105]
+[107]
 
-[106
+[108
 
 ]
 Annexe H.
@@ -2883,19 +2884,19 @@ File: img/GRAPH_profondeur_ratio.png Graphic file (type bmp)
 File: img/IMG_motscles_fonctionnel.png Graphic file (type bmp)
 <img/IMG_motscles_fonctionnel.png>
 
-LaTeX Warning: Float too large for page by 61.36792pt on input line 595.
+LaTeX Warning: Float too large for page by 61.36792pt on input line 604.
 
 
 
-[107]
+[109]
 
-[108] (./main.gls)
+[110] (./main.gls)
 
-[109
+[111
 
 ]
 
-[110
+[112
 
 ] (./main.lot)
 \tf@lot=\write8
@@ -2903,9 +2904,9 @@ LaTeX Warning: Float too large for page by 61.36792pt on input line 595.
 
 
 
-[111]
+[113]
 
-[112
+[114
 
 ] (./main.lof)
 \tf@lof=\write9
@@ -2913,23 +2914,23 @@ LaTeX Warning: Float too large for page by 61.36792pt on input line 595.
 
 
 
-[113]
+[115]
 
-[114
+[116
 
 ] (./main.toc
 
-[115]
+[117]
 
-[116]
+[118]
 
-[117])
+[119])
 \tf@toc=\write10
 \openout10 = `main.toc'.
 
 
 
-[118] (./main.aux)
+[120] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -2939,19 +2940,20 @@ L3 programming layer <2024-09-10>
 LaTeX Warning: There were undefined references.
 
 
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58098 strings out of 474235
- 1290698 string characters out of 5742252
- 2141968 words of memory out of 5000000
- 79871 multiletter control sequences out of 15000+600000
- 572026 words of font info for 115 fonts, out of 8000000 for 9000
+ 58128 strings out of 474235
+ 1291483 string characters out of 5742252
+ 2144683 words of memory out of 5000000
+ 79899 multiletter control sequences out of 15000+600000
+ 572032 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 

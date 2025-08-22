@@ -1894,7 +1894,7 @@
       \endverb
       \keyw{Language Arts & Disciplines / Literacy,Philosophy / History & Surveys / Ancient & Classical,Psychology / Ethnopsychology,Social Science / Anthropology / Cultural & Social,Social Science / Anthropology / General,Social Science / Sociology / General,reflexions}
     \endentry
-    \entry{GouvernanceLinformation2013}{article}{}{}
+    \entry{GouvernanceLinformationPerspectives2013}{article}{}{}
       \list{location}{1}{%
         {Paris}%
       }
@@ -1905,15 +1905,14 @@
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labeltitlesource}{title}
       \field{abstract}{Gouvernance de l'information. Voilà une expression souvent utilisée aujourd'hui. Pour cerner cette notion, ce sont plusieurs repères qui vous sont proposés par Arnaud Jules et Loïc Lebigre, coordinateurs du dossier de ce numéro. Après cette première approche, vous découvrirez la gouvernance, telle qu'elle a été appliquée dans divers contextes (entreprises, petites et grandes, collectivités locales) ainsi que des conseils très concrets pour enclencher cette démarche essentielle, tels que le plan à définir, les étapes à franchir, les freins à surmonter ou encore les compétences à acquérir. Sous l'angle des métiers ce sont plusieurs considérations importantes sur l'éthique et sur l'évolution de nos métiers, tels que perçus dans différents pays que l'on a présentées ainsi que les détails d'une expérience réussie de mutualisation de centres de documentation au sein d'un ministère français. Toujours sur le thème de la collaboration, mais sous un angle plus technique, on découvrira l'évolution d'un thésaurus, résultat du travail multidisciplinaire. A côté d'un article de recherche consacré à la médiation technique des pratiques rédactionnelles des chercheurs en France, un article sur l'avenir de l'acquisition, de l'accès et du signalement des ressources électroniques et, plus inattendu, de quoi créer son Mooc, autre thème intimement lié à l'actualité évoqué à plusieurs reprises dans les pages de ce numéro. Actualité toujours, mais dans le domaine juridique, lorsque le Cloud se traduit par des variations sur la copie privée, lorsqu'on applique le droit aux mobiles ou pour les questions posées pour la neutralité du net par l'initiative priser récemment par Free. Et si, par ailleurs, le droit d'auteur n'avait plus la place prépondérante qu'il occupait dans le passé? Une question étonnante, n'est-ce pas ? Nous la posons aussi.}
-      \field{journaltitle}{Perspectives pour une approche globale}
+      \field{journaltitle}{Documentaliste-Sciences de l'Information}
       \field{langid}{french}
       \field{number}{1}
       \field{shortjournal}{Documentaliste-Sciences de l'Information}
-      \field{title}{Gouvernance de l'information}
+      \field{title}{Gouvernance de l'information : Perspectives pour une approche globale}
       \field{volume}{Vol. 50}
       \field{year}{2013}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{78}
       \range{pages}{1}
       \verb{urlraw}
