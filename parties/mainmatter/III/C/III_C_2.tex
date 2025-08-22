@@ -6,6 +6,15 @@ La méthodologie proposée lors de ce stage pour entraîner une IA sur les vocab
 
 Une autres difficulté rencontrée est le manque de précédent sur des projets de ce type : si les projets d'implémentation de l'\ac{ia} pour des tâches d'indexation -- où celle-ci peut donc mettre chaque oeuvre dans un contexte, de contenu ou de description --, aucun précédent d'utilisation pour traiter un thésaurus semble n'avoir été réalisé, ou du moins diffusé sur le web. La tâche est en effet complexe : dans un thésaurus, chaque mot est indépendant, et il comprend peu de matière de contextualisation dont un modèle de type \textit{bert}\footnote{voir paragraphe précédent} aurait besoin. La solution semble donc être l'utilisation d'un \ac{llm} : cependant, ceux-ci peinent à saisir les nuances du vocabulaire extrêmement spécialisé utilisé par le musée. La solution qui a donc été proposée est l'entraînement d'un \ac{llm} en local\footnote{des tests encore peu concluant ont été réalisés avec le modèle \textit{llama3:2}} sur les données extraites de Wikidata -- dont les termes sont déjà définis et associés entre eux -- et un corpus de données du musée avant de lui fournir les fichiers csv des thésaurus du musée pour lui demander de reconnaître d'éventuels synonymes, associations, et hiérarchisations\footnote{[TODO : ajout annexe prompt et modèle]}. 
 
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{img/SCHEM_processus_IA}
+	\caption[Proposition de processus d'implémentation d'une IA au \mae]{Proposition de processus d'implémentation d'une IA au \mae après entraînement sur un corpus spécialisé.}
+	\label{fig:schemprocessusia}
+\end{figure}
+
+
+
 \subsection{Limites et perspectives}
 
 À ce stade cependant, demeure la limite de la spécialisation du vocabulaire du musée : même si l'\ac{ia} peut permettre d'alléger la charge de travail des agents travaillant à l'unification du thésaurus, une validation humaine reste nécessaire, pour entraîner l'\ac{ia} et valider ses données. Ceci demande donc de mettre en place une pratique hybride qui articulerait automatisation et savoir-faire documentaire, avant d'aligner le résultat sur des formats \ac{skos}/\ac{rdf}, dans le respect des contraintes propres au musée.
