@@ -63,17 +63,16 @@
 \contentsline {section}{\numberline {1.}Automatiser les tâches : promesses et réalités de l’IA en institution patrimoniale}{79}{section.8.1}%
 \contentsline {section}{\numberline {2.}Entraîner une IA sur la base d’un vocabulaire spécialisé : défis et solutions}{81}{section.8.2}%
 \contentsline {subsection}{\numberline {2.1.}Limites et perspectives}{82}{subsection.8.2.1}%
-\contentsline {chapter}{Conclusion}{85}{chapter*.51}%
-\contentsline {part}{Annexes}{89}{part*.52}%
+\contentsline {chapter}{Conclusion}{85}{chapter*.52}%
+\contentsline {part}{Annexes}{89}{part*.53}%
 \contentsline {chapter}{\numberline {A}Chronologie du MAE}{89}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Organigramme}{93}{appendix.B}%
 \contentsline {chapter}{\numberline {C}Flux de données}{95}{appendix.C}%
 \contentsline {chapter}{\numberline {D}Interview V. Dhorne}{97}{appendix.D}%
-\contentsline {subsection}{\numberline {0.1.}A FAIRE VALIDER PAR VINCENT}{97}{subsection.D.0.1}%
-\contentsline {chapter}{\numberline {E}Modélisations de données}{101}{appendix.E}%
-\contentsline {chapter}{\numberline {F}UML}{103}{appendix.F}%
-\contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{105}{appendix.G}%
-\contentsline {chapter}{\numberline {H}Diagnostic du serveur S}{109}{appendix.H}%
-\contentsline {part}{Glossaire}{111}{figure.caption.63}%
-\contentsline {part}{Tables}{113}{appendix*.64}%
-\contentsline {part}{Figures}{115}{appendix*.65}%
+\contentsline {chapter}{\numberline {E}Modélisations de données}{99}{appendix.E}%
+\contentsline {chapter}{\numberline {F}UML}{101}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{103}{appendix.G}%
+\contentsline {chapter}{\numberline {H}Diagnostic du serveur S}{107}{appendix.H}%
+\contentsline {part}{Glossaire}{109}{figure.caption.62}%
+\contentsline {part}{Tables}{111}{appendix*.63}%
+\contentsline {part}{Figures}{113}{appendix*.64}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  22 AUG 2025 08:51
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  24 AUG 2025 22:22
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2248,7 +2248,12 @@ nput line 490.
 
 ]
 
-[58] (./parties/mainmatter/III/A/III_A.tex
+[58]
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 24.09166pt (F);
+(lettrine.sty)             reported on input line 501.
+ (./parties/mainmatter/III/A/III_A.tex
 
 [59]
 
@@ -2615,16 +2620,21 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
 (lettrine.sty)             reported on input line 15.
 )
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 24.72845pt (C);
+(lettrine.sty)             reported on input line 518.
+
 
 [82]
 
 [83]
 
-[84
+[84]
+
+[85
 
 ]
-
-[85]
 
 [86
 
@@ -2695,23 +2705,18 @@ File: img/MODEL_Flux.png Graphic file (type bmp)
 Annexe D.
 (./parties/backmatter/annexes/A4_interview_doc.tex
 
-[97]
+[97])
 
-[98])
-
-[99]
-
-[100
-
-]
+[98]
 Annexe E.
 
 
-[101
+[99
+
 
 ]
 
-[102
+[100
 
 ]
 Annexe F.
@@ -2721,9 +2726,9 @@ File: img/UML_iso_boeing.png Graphic file (type bmp)
 <img/UML_iso_boeing.png>
 
 
-[103]
+[101]
 
-[104]
+[102]
 Annexe G.
 (./parties/backmatter/annexes/A6_roadmap.tex)
 (./parties/backmatter/annexes/A6_roadmap.tex)
@@ -2867,13 +2872,13 @@ Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
  [] [] [] [] 
  []
 
-[105
+[103
 
-] [106])
+] [104])
 
-[107]
+[105]
 
-[108
+[106
 
 ]
 Annexe H.
@@ -2884,19 +2889,19 @@ File: img/GRAPH_profondeur_ratio.png Graphic file (type bmp)
 File: img/IMG_motscles_fonctionnel.png Graphic file (type bmp)
 <img/IMG_motscles_fonctionnel.png>
 
-LaTeX Warning: Float too large for page by 61.36792pt on input line 604.
+LaTeX Warning: Float too large for page by 37.76294pt on input line 631.
 
 
 
-[109]
+[107]
 
-[110] (./main.gls)
+[108] (./main.gls)
 
-[111
+[109
 
 ]
 
-[112
+[110
 
 ] (./main.lot)
 \tf@lot=\write8
@@ -2904,9 +2909,9 @@ LaTeX Warning: Float too large for page by 61.36792pt on input line 604.
 
 
 
-[113]
+[111]
 
-[114
+[112
 
 ] (./main.lof)
 \tf@lof=\write9
@@ -2914,23 +2919,23 @@ LaTeX Warning: Float too large for page by 61.36792pt on input line 604.
 
 
 
-[115]
+[113]
 
-[116
+[114
 
 ] (./main.toc
 
-[117]
+[115]
 
-[118]
+[116]
 
-[119])
+[117])
 \tf@toc=\write10
 \openout10 = `main.toc'.
 
 
 
-[120] (./main.aux)
+[118] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -2949,12 +2954,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58128 strings out of 474235
- 1291483 string characters out of 5742252
- 2144683 words of memory out of 5000000
- 79899 multiletter control sequences out of 15000+600000
- 572032 words of font info for 116 fonts, out of 8000000 for 9000
+ 58138 strings out of 474235
+ 1292479 string characters out of 5742252
+ 2148434 words of memory out of 5000000
+ 79909 multiletter control sequences out of 15000+600000
+ 572030 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (144 pages).
+Output written on main.pdf (142 pages).
