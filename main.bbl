@@ -1996,7 +1996,6 @@
       \field{langid}{french}
       \field{shorttitle}{Management de l'information dans les organisations}
       \field{title}{Management de l'information dans les organisations : éléments de méthode}
-      \true{nocite}
       \verb{doi}
       \verb sic_00665257
       \endverb
@@ -4056,7 +4055,6 @@
       \field{year}{2022}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/VBQU3RAP/gouvernance-information-plongez-systeme.html
       \endverb
