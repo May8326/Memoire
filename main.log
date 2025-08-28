@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  25 AUG 2025 22:35
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  28 AUG 2025 09:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2501,12 +2501,16 @@ Underfull \vbox (badness 1242) has occurred while \output is active []
 
 
 [69] (./parties/mainmatter/III/A/III_A_3.tex
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [70]
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 )
@@ -2909,7 +2913,7 @@ ex-text;!
 [114]
 
 LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 115 undefined on inp
-ut line 117.
+ut line 121.
 
 )
 
@@ -2968,10 +2972,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58180 strings out of 474235
- 1294322 string characters out of 5742252
- 2164420 words of memory out of 5000000
- 79951 multiletter control sequences out of 15000+600000
+ 58167 strings out of 474235
+ 1293064 string characters out of 5742252
+ 2164824 words of memory out of 5000000
+ 79938 multiletter control sequences out of 15000+600000
  572036 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s

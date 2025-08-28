@@ -2267,16 +2267,17 @@
     <bcf:citekey order="79" intorder="1">officemuseumexpertsSKINsoftEquipe252016</bcf:citekey>
     <bcf:citekey order="80" intorder="1">directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002</bcf:citekey>
     <bcf:citekey order="81" intorder="1">directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002</bcf:citekey>
-    <bcf:citekey order="82" intorder="1">rizzaDocumentAuCoeur2014</bcf:citekey>
-    <bcf:citekey order="82" intorder="2">merleau-pontyDocumenterCollectionsMusees2016</bcf:citekey>
-    <bcf:citekey order="82" intorder="3">sassetti-aguileraArchivesMuseesDiversites2020a</bcf:citekey>
-    <bcf:citekey order="83" intorder="1">ministeredesarmeesKitCommunicationCLADE</bcf:citekey>
-    <bcf:citekey order="84" intorder="1">directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002</bcf:citekey>
-    <bcf:citekey order="85" intorder="1">SAEDefinitionAvantages</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002</bcf:citekey>
-    <bcf:citekey order="87" intorder="1">bermesConvergenceInteroperabiliteLapport2011</bcf:citekey>
-    <bcf:citekey order="87" intorder="2">bermesCasLierDonnees2013</bcf:citekey>
-    <bcf:citekey order="87" intorder="3">berners-leeSemanticWebRoadmap1998</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">rizzaDocumentAuCoeur2014</bcf:citekey>
+    <bcf:citekey order="83" intorder="2">merleau-pontyDocumenterCollectionsMusees2016</bcf:citekey>
+    <bcf:citekey order="83" intorder="3">sassetti-aguileraArchivesMuseesDiversites2020a</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">ministeredesarmeesKitCommunicationCLADE</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">SAEDefinitionAvantages</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">directiondesarchivesdefranceDictionnaireTerminologieArchivistique2002</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">bermesConvergenceInteroperabiliteLapport2011</bcf:citekey>
+    <bcf:citekey order="88" intorder="2">bermesCasLierDonnees2013</bcf:citekey>
+    <bcf:citekey order="88" intorder="3">berners-leeSemanticWebRoadmap1998</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
