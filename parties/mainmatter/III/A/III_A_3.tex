@@ -4,24 +4,37 @@
 [ TODO :  VOIR SI RENVOI EN ANNEXE ]
 
 
-L’intégration du logiciel Opentheso au \mae~semblerait être la solution qui réponde le mieux à ses aspirations de gouvernance du vocabulaire et d'interopérabilité avec le web. Cet outil libre recommandé par le ministère de la Culture, s’impose en effet aujourd'hui en France comme le socle d’un vocabulaire  capable de transcender les cloisonnements logiciels et de fédérer les métiers. Sa mise en place nécessite cependant un chantier d'implémentation conséquent, et sa mise en place ne devra pas mettre fin à la collaboration entre métiers initiée au \mae.
+L’intégration du logiciel Opentheso\footnote{On trouvera à l'adresse suivante la version d'Opentheso hébergée par HumaNum : \cite{OpenThesoa}. Les carnets \textit{Hypothèses} du logiciel et sa documentation sont disponibles ici : \cite{PresentationDOpenTheso}} au \mae~semblerait être la solution qui réponde le mieux à ses aspirations de gouvernance du vocab\texttt{}ulaire et d'interopérabilité avec le web. Cet outil libre recommandé par le ministère de la Culture, s’impose en effet aujourd'hui en France comme le socle d’un vocabulaire  capable de transcender les cloisonnements logiciels et de fédérer les métiers. Sa mise en place nécessite cependant un chantier d'implémentation conséquent, et sa mise en place ne devra pas mettre fin à la collaboration entre métiers initiée au \mae.
+
+\subsection{Justification de l’utilisation d’Opentheso au \mae}
 
 
+En effet, la diversité des collections du \mae, leur technicité et la multiplicité des acteurs impliqués imposent une exigence particulière: il s'agit de structurer la connaissance, de l’organiser et de la transmettre dans le respect des normes internationales.  
+
+Or, l’expérience récente du musée – notamment la migration vers Koha et les difficultés d’export et d’import des thésaurus – a révélé les faiblesses des outils actuels : \gls{koha} est vu uniquement comme une assistance à l'indexation et non comme un outil scientifique, il ne distingue pas entre concept et terme, et ne permet pas d’explorer ou de constituer une arborescence fiable. À l’inverse, la documentation d’Opentheso, recommandée par le Ministère de la Culture, s’impose par sa conformité aux normes ISO 25964 et au modèle \gls{skos}: il garantit l'interopérabilité et la diffusion du thésaurus en ligne et fournit une structure conforme pour construire le thésaurus.
+
+\paragraph*{Historique d’Opentheso}
+Le développement d’Opentheso s’inscrit dans l'histoire récente de la gestion documentaire en France. Initialement conçu pour répondre aux besoins des réseaux spécialisés en archéologie (Frantiq, Pactols), il a progressivement été adopté par de nombreuses institutions patrimoniales, musées, bibliothèques et centres de recherche. Sa documentation, abondante et accessible, témoigne de la vitalité de sa communauté d’utilisateurs et de l’appui institutionnel dont il bénéficie.
+
+Opentheso est né d’une volonté de dépasser les limites des outils traditionnels, trop souvent cantonnés à l’indexation locale, pour proposer une solution conforme aux standards internationaux de structuration des thésaurus. Son modèle de données, fondé sur SKOS et sur les recommandations des normes ISO 25964-1 (2011) et ISO 25964-2 (2013), lui confère une solidité conceptuelle et une capacité d’interopérabilité native avec les autres référentiels du patrimoine documentaire.
+
+Son intégration dans les grands réseaux (Pactols\footcite{Pactols}, Frantiq), l’existence d’un plugin Koha déjà opérationnel\footcite{PluginTamilOpentheso}, et sa reconnaissance par le ministère de la Culture, font d’Opentheso le logiciel de référence pour toute institution soucieuse d’inscrire son vocabulaire dans une dynamique d’ouverture, de partage et de pérennité.
+
+\paragraph*{Fonctionnalités d’Opentheso}
+
+Opentheso se distingue par une gamme de fonctionnalités qui répondent aux besoins spécifiques du \mae:
+
+\begin{itemize}
+	\item \textbf{Structuration conforme aux normes internationales:} gestion des concepts, des termes préférés, des synonymes, des relations hiérarchiques et associatives, des facettes et des collections thématiques, dans le respect des normes en vigueur citées précédemment.
+	\item \textbf{Interopérabilité et ouverture:} export en divers formats SKOS, Turtle, JSON-LD, intégration à des logiciels tiers possible via une \ac{api}, possibilité d'alignement automatique du vocabulaire.
+	\item \textbf{Visualisation et navigation:} arborescence interactive, graphes de concepts, navigation hiérarchique, gestion des notes, synonymes et facettes, interface intuitive.
+	\item \textbf{Multilinguisme et gestion collaborative:} prise en charge des termes multilingues, gestion fine des accès pour les administrateurs et contributeurs, validation et proposition de termes.
+	\item \textbf{Gestion avancée des identifiants:} support des identifiants pérennes (ARK/NAAN) pour chaque concept pour des données citables et requêtables.
+	\item \textbf{Maintenance et évolutivité:} communauté active, formations régulières, documentation abondante..
+\end{itemize}
 
 
-
-
-
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%Sa conformité aux normes ISO 25964 et au standard \gls{skos}, sa capacité à exporter dans des formats interopérables \gls{rdf}, comme \textit{Turtle} ou \textit{JSON-LD}, à visualiser l’arborescence en graphe, à documenter les relations synonymiques ou hiérarchiques, en font un instrument rigoureux qui peut être au service à la fois de la recherche et de la médiation. Opentheso permet de structurer la connaissance, mais aussi de relier les bases métiers – un plugin d'intégration dans \gls{koha} existe déjà, et il serait envisageable de demander une intégration à \textit{Skinsoft} pour Archange qui permettrait au logiciel d'interagir avec l'\ac{api} d'OpenTheso.
+Opentheso crée ainsi un dispositif de médiation intellectuelle à la fois vivant, évolutif et apte à soutenir les exigences actuelles d’interopérabilité et d’ouverture. Il permet de structurer la connaissance, mais aussi de relier les bases métiers – un plugin d'intégration dans \gls{koha} existe déjà, et il serait envisageable de demander une intégration à \textit{Skinsoft} pour Archange qui permettrait au logiciel d'interagir avec l'\ac{api} d'Opentheso.
 
 La mise en place, en complément, d'un réseau de logiciels dédiés à une gestion rationalisée de l'information au \mae~-- comme des versements réguliers sur le \gls{sae} Vitam pour l’archivage et la mise en place d'une \gls{ged} – serait d'une grande aide au musée pour parvenir à ses ambitions de gouvernance.
 
