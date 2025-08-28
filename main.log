@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  28 AUG 2025 09:00
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  28 AUG 2025 22:37
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2501,19 +2501,25 @@ Underfull \vbox (badness 1242) has occurred while \output is active []
 
 
 [69] (./parties/mainmatter/III/A/III_A_3.tex
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [70]
+
+[71]
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 )
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[72]
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 25.01146pt (A);
@@ -2523,9 +2529,9 @@ Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=
 ex-text;!
 ) (./parties/mainmatter/III/B/III_B.tex
 
-[71]
+[73]
 
-[72
+[74
 
 ]
 Chapitre 7.
@@ -2535,9 +2541,9 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 5.
 (./parties/mainmatter/III/B/III_B_1.tex)
 
-[73] (./parties/mainmatter/III/B/III_B_2.tex
+[75] (./parties/mainmatter/III/B/III_B_2.tex
 
-[74] (./img/TABL_cr_gt_thematique.tex) (./img/TABL_cr_gt_thematique.tex)
+[76] (./img/TABL_cr_gt_thematique.tex) (./img/TABL_cr_gt_thematique.tex)
 (./img/TABL_cr_gt_thematique.tex
 Overfull \hbox (35.99277pt too wide) in alignment at lines 1--7
  [] [] [] 
@@ -2563,18 +2569,18 @@ Overfull \hbox (35.99277pt too wide) in alignment at lines 18--66
  [] [] [] 
  []
 
-[75])
+[77])
 
-[76])
+[78])
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (I);
 (lettrine.sty)             reported on input line 15.
 ) (./parties/mainmatter/III/C/III_C.tex
 
-[77]
+[79]
 
-[78
+[80
 
 ]
 Chapitre 8.
@@ -2584,7 +2590,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             reported on input line 3.
 (./parties/mainmatter/III/C/III_C_1.tex
 
-[79] (./img/TABL_outils_ia.tex) (./img/TABL_outils_ia.tex)
+[81] (./img/TABL_outils_ia.tex) (./img/TABL_outils_ia.tex)
 (./img/TABL_outils_ia.tex
 Overfull \hbox (35.99277pt too wide) in alignment at lines 1--7
  [] [] [] 
@@ -2610,29 +2616,23 @@ Overfull \hbox (35.99277pt too wide) in alignment at lines 18--27
  [] [] [] 
  []
 
-[80])) (./parties/mainmatter/III/C/III_C_2.tex
+[82])) (./parties/mainmatter/III/C/III_C_2.tex
 
-[81]
+[83]
 File: img/SCHEM_processus_IA.png Graphic file (type bmp)
 <img/SCHEM_processus_IA.png>
 )
 
-[82]
+[84]
 
-[83])
+[85])
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
 (lettrine.sty)             reported on input line 518.
 
 
-[84]
-
-[85]
-
-[86
-
-]
+[86]
 
 [87]
 
@@ -2640,11 +2640,17 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 ]
 
-[89
+[89]
+
+[90
 
 ]
 
-[90]
+[91
+
+]
+
+[92]
 Annexe A.
 (./parties/backmatter/annexes/A1_frise.tex)
 (./parties/backmatter/annexes/A1_frise.tex)
@@ -2673,13 +2679,13 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 18--82
  [] [] 
  []
 
-[91
+[93
 
-] [92])
+] [94])
 
-[93]
+[95]
 
-[94
+[96
 
 ]
 Annexe B.
@@ -2687,9 +2693,9 @@ File: img/SCHEM_organigramme.jpg Graphic file (type bmp)
 <img/SCHEM_organigramme.jpg>
 
 
-[95]
+[97]
 
-[96
+[98
 
 ]
 Annexe C.
@@ -2697,26 +2703,26 @@ File: img/MODEL_Flux.png Graphic file (type bmp)
 <img/MODEL_Flux.png>
 
 
-[97]
+[99]
 
-[98
+[100
 
 ]
 Annexe D.
 (./parties/backmatter/annexes/A4_interview_doc.tex
 
-[99])
+[101])
 
-[100]
+[102]
 Annexe E.
 
 
-[101
+[103
 
 
 ]
 
-[102
+[104
 
 ]
 Annexe F.
@@ -2726,9 +2732,9 @@ File: img/UML_iso_boeing.png Graphic file (type bmp)
 <img/UML_iso_boeing.png>
 
 
-[103]
+[105]
 
-[104]
+[106]
 Annexe G.
 (./parties/backmatter/annexes/A6_roadmap.tex)
 (./parties/backmatter/annexes/A6_roadmap.tex)
@@ -2872,13 +2878,13 @@ Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
  [] [] [] [] 
  []
 
-[105
+[107
 
-] [106])
+] [108])
 
-[107]
+[109]
 
-[108
+[110
 
 ]
 Annexe H.
@@ -2889,95 +2895,4 @@ File: img/GRAPH_profondeur_ratio.png Graphic file (type bmp)
 File: img/IMG_motscles_fonctionnel.png Graphic file (type bmp)
 <img/IMG_motscles_fonctionnel.png>
 
-LaTeX Warning: Float too large for page by 37.76294pt on input line 625.
-
-
-
-[109]
-
-[110] (./main.gls
-
-[111
-
-
-
-]
-
-[112]
-
-[113]
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-
-
-[114]
-
-LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 115 undefined on inp
-ut line 121.
-
-)
-
-[115]
-
-[116
-
-] (./main.lot)
-\tf@lot=\write8
-\openout8 = `main.lot'.
-
-
-
-[117]
-
-[118
-
-] (./main.lof)
-\tf@lof=\write9
-\openout9 = `main.lof'.
-
-
-
-[119]
-
-[120
-
-] (./main.toc
-
-[121]
-
-[122]
-
-[123])
-\tf@toc=\write10
-\openout10 = `main.toc'.
-
-
-
-[124] (./main.aux)
- ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 58167 strings out of 474235
- 1293064 string characters out of 5742252
- 2164824 words of memory out of 5000000
- 79938 multiletter control sequences out of 15000+600000
- 572036 words of font info for 116 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.pdf (148 pages).
+LaTeX Warning: Float too large for pa

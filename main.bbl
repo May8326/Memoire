@@ -3786,6 +3786,29 @@
       \endverb
       \keyw{_outils,dontcite,texThesau}
     \endentry
+    \entry{PresentationDOpenTheso}{online}{}{}
+      \list{organization}{1}{%
+        {Opentheso}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[english version] Opentheso est un gestionnaire de thésaurus multilingue et multi-hiérarchique. Il est conforme aux normes ISO 25964-1:2011 et ISO 25964-2:2012 (Information et documentation. Thésaurus et interopérabilité avec d’autres vocabulaires). Il est diffusé en...}
+      \field{langid}{french}
+      \field{title}{Présentation d'OpenTheso}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://opentheso.hypotheses.org/
+      \endverb
+      \verb{url}
+      \verb https://opentheso.hypotheses.org/
+      \endverb
+      \keyw{dontcite,texThesau}
+    \endentry
     \entry{PresentationHistoire}{online}{}{}
       \list{organization}{1}{%
         {Musée de l'Air et de l'Espace}%
