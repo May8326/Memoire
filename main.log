@@ -2895,4 +2895,95 @@ File: img/GRAPH_profondeur_ratio.png Graphic file (type bmp)
 File: img/IMG_motscles_fonctionnel.png Graphic file (type bmp)
 <img/IMG_motscles_fonctionnel.png>
 
-LaTeX Warning: Float too large for pa
+LaTeX Warning: Float too large for page by 37.76294pt on input line 625.
+
+
+
+[111]
+
+[112] (./main.gls
+
+[113
+
+
+
+]
+
+[114]
+
+[115]
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+
+[116]
+
+LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 117 undefined on inp
+ut line 121.
+
+)
+
+[117]
+
+[118
+
+] (./main.lot)
+\tf@lot=\write8
+\openout8 = `main.lot'.
+
+
+
+[119]
+
+[120
+
+] (./main.lof)
+\tf@lof=\write9
+\openout9 = `main.lof'.
+
+
+
+[121]
+
+[122
+
+] (./main.toc
+
+[123]
+
+[124]
+
+[125])
+\tf@toc=\write10
+\openout10 = `main.toc'.
+
+
+
+[126] (./main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 58205 strings out of 474235
+ 1295622 string characters out of 5742252
+ 2169307 words of memory out of 5000000
+ 79976 multiletter control sequences out of 15000+600000
+ 572038 words of font info for 116 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (150 pages).
