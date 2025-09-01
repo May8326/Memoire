@@ -27,14 +27,15 @@
 \contentsline {figure}{\numberline {8.1}{\ignorespaces Proposition de processus d'implémentation d'une IA au \ac {mae}}}{85}{figure.caption.52}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Organigramme du \ac {mae}}}{97}{figure.caption.57}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Flux de données de thésaurus au \ac {mae}}}{99}{figure.caption.58}%
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Organigramme du \ac {mae}}}{99}{figure.caption.56}%
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Modélisation d'un thésaurus selon la norme ISO 25964}}{106}{figure.caption.63}%
-\contentsline {figure}{\numberline {F.2}{\ignorespaces Structure du thésaurus \textit {Constructeurs} de \gls {micromusee}}}{106}{figure.caption.64}%
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Flux de données de thésaurus au \ac {mae}}}{101}{figure.caption.57}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {H.1}{\ignorespaces Diagnostic du serveur S}}{112}{figure.caption.65}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {F.1}{\ignorespaces Modélisation d'un thésaurus selon la norme ISO 25964}}{108}{figure.caption.62}%
+\contentsline {figure}{\numberline {F.2}{\ignorespaces Structure du thésaurus \textit {Constructeurs} de \gls {micromusee}}}{108}{figure.caption.63}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {H.1}{\ignorespaces Diagnostic du serveur S}}{114}{figure.caption.64}%

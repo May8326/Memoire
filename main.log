@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  1 SEP 2025 20:46
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  1 SEP 2025 23:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2180,9 +2180,9 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
+) (./parties/mainmatter/II/C/II_C.tex
 
-
-[45]) (./parties/mainmatter/II/C/II_C.tex
+[45]
 
 [46]
 Chapitre 5.
@@ -2694,13 +2694,59 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [90
 
-]
+] (./parties/mainmatter/conclusion.tex
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 25.01146pt (A);
+(lettrine.sty)             reported on input line 1.
 
-[91
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
 
-]
+Underfull \vbox (badness 2020) has occurred while \output is active []
+
+
+
+[91]
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+)
 
 [92]
+
+[93
+
+]
+
+[94]
 Annexe A.
 (./parties/backmatter/annexes/A1_frise.tex)
 (./parties/backmatter/annexes/A1_frise.tex)
@@ -2729,311 +2775,14 @@ Overfull \hbox (23.99998pt too wide) in alignment at lines 18--82
  [] [] 
  []
 
-[93
+[95
 
-] [94])
-
-[95]
-
-[96
-
-]
-Annexe B.
-File: img/SCHEM_organigramme.jpg Graphic file (type bmp)
-<img/SCHEM_organigramme.jpg>
-
+] [96])
 
 [97]
 
 [98
 
 ]
-Annexe C.
-File: img/MODEL_Flux.png Graphic file (type bmp)
-<img/MODEL_Flux.png>
-
-
-[99]
-
-[100
-
-]
-Annexe D.
-(./parties/backmatter/annexes/A4_interview_doc.tex
-
-[101])
-
-[102]
-Annexe E.
-
-
-[103
-
-
-]
-
-[104
-
-]
-Annexe F.
-File: img/UML_iso.png Graphic file (type bmp)
-<img/UML_iso.png>
-File: img/UML_iso_boeing.png Graphic file (type bmp)
-<img/UML_iso_boeing.png>
-
-
-[105]
-
-[106]
-Annexe G.
-(./parties/backmatter/annexes/A6_roadmap.tex)
-(./parties/backmatter/annexes/A6_roadmap.tex)
-(./parties/backmatter/annexes/A6_roadmap.tex
-Overfull \hbox (50.00716pt too wide) in alignment at lines 1--10
- [] [] [] [] 
- []
-
-
-Overfull \hbox (50.00716pt too wide) in alignment at lines 10--18
- [] [] [] [] 
- []
-
-
-Overfull \hbox (50.00716pt too wide) in alignment at lines 18--21
- [] [] [] [] 
- []
-
-
-Overfull \hbox (50.00716pt too wide) in alignment at lines 21--24
- [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 4872) in paragraph at lines 26--26
-\TU/lmr/m/n/12 tête du thésaurus
- []
-
-
-Underfull \hbox (badness 2237) in paragraph at lines 26--26
-\TU/lmr/m/n/12 permettent d’englober l’en-
- []
-
-
-Underfull \hbox (badness 5022) in paragraph at lines 30--31
-[]\TU/lmr/m/n/12 Choix d’un terme
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 32--33
-\TU/lmr/m/n/12 dans les trois thé-
- []
-
-
-Underfull \hbox (badness 1701) in paragraph at lines 32--33
-\TU/lmr/m/n/12 saurus (synonymes,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-[]|\TU/lmr/bx/n/12 Automatisation \TU/lmr/m/n/12 par IA
- []
-
-
-Underfull \hbox (badness 3364) in paragraph at lines 34--34
-\TU/lmr/m/n/12 (correspondance sémantique
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-\TU/lmr/bx/n/12 Post-correction \TU/lmr/m/n/12 par
- []
-
-
-Underfull \hbox (badness 3386) in paragraph at lines 34--34
-\TU/lmr/m/n/12 groupes de travail ou in-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-[]|\TU/lmr/m/n/12 Organisation des termes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-[]|\TU/lmr/m/n/12 Identification des
- []
-
-
-Underfull \hbox (badness 5787) in paragraph at lines 45--45
-[]|\TU/lmr/m/n/12 Identification des relations
- []
-
-
-Underfull \hbox (badness 6157) in paragraph at lines 45--45
-\TU/lmr/m/n/12 présentes dans le thésau-
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 45--45
-\TU/lmr/m/n/12 rus, des capacités d’import
- []
-
-
-Underfull \hbox (badness 3168) in paragraph at lines 49--49
-\TU/lmr/m/n/12 solution d’héberge-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-[]\TU/lmr/m/n/12 Serveur d’Huma-
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 60--61
-[]|\TU/lmr/m/n/12 MOM, HU-
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 62--63
-[]|\TU/lmr/m/n/12 MOM, HU-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]|\TU/lmr/m/n/12 Contributeurs, gestionnaire
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-[]|\TU/lmr/m/n/12 DSC, Ren-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-\TU/lmr/m/n/12 fort, sta-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\TU/lmr/m/n/12 Alignements auto-
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 75--75
-[]|\TU/lmr/m/n/12 Avec Wikidata, IdRef, Da-
- []
-
-
-Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
- [] [] [] [] 
- []
-
-[107
-
-] [108])
-
-[109]
-
-[110
-
-]
-Annexe H.
-File: img/GRAPH_doublons_caracteres.png Graphic file (type bmp)
-<img/GRAPH_doublons_caracteres.png>
-File: img/GRAPH_profondeur_ratio.png Graphic file (type bmp)
-<img/GRAPH_profondeur_ratio.png>
-File: img/IMG_motscles_fonctionnel.png Graphic file (type bmp)
-<img/IMG_motscles_fonctionnel.png>
-
-LaTeX Warning: Float too large for page by 37.76294pt on input line 653.
-
-
-
-[111]
-
-[112] (./main.gls
-
-[113
-
-
-
-]
-
-[114]
-
-[115]
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-
-
-[116]
-
-LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 117 undefined on inp
-ut line 123.
-
-
-
-[117])
-
-[118] (./main.lot)
-\tf@lot=\write8
-\openout8 = `main.lot'.
-
-
-
-[119
-
-]
-
-[120
-
-] (./main.lof)
-\tf@lof=\write9
-\openout9 = `main.lof'.
-
-
-
-[121]
-
-[122
-
-] (./main.toc
-
-[123]
-
-[124]
-
-[125])
-\tf@toc=\write10
-\openout10 = `main.toc'.
-
-
-
-[126] (./main.aux)
- ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 58385 strings out of 474235
- 1302035 string characters out of 5742252
- 2186521 words of memory out of 5000000
- 80156 multiletter control sequences out of 15000+600000
- 572642 words of font info for 118 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.pdf (152 pages).
+Annexe B.
+File: img/SCHEM_organigramme.jpg Graphic file 

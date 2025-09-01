@@ -63,16 +63,16 @@
 \contentsline {chapter}{\numberline {8}Apports de l'\ac {ia}}{81}{chapter.8}%
 \contentsline {section}{\numberline {1.}Automatiser les tâches : promesses et réalités de l’IA en institution patrimoniale}{81}{section.8.1}%
 \contentsline {section}{\numberline {2.}Entraîner une IA sur la base d’un vocabulaire spécialisé : défis et solutions}{83}{section.8.2}%
-\contentsline {chapter}{Conclusion}{89}{chapter*.55}%
-\contentsline {part}{Annexes}{93}{part*.56}%
-\contentsline {chapter}{\numberline {A}Chronologie du MAE}{93}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Organigramme}{97}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Flux de données}{99}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{101}{appendix.D}%
-\contentsline {chapter}{\numberline {E}Modélisations de données}{103}{appendix.E}%
-\contentsline {chapter}{\numberline {F}UML}{105}{appendix.F}%
-\contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{107}{appendix.G}%
-\contentsline {chapter}{\numberline {H}Diagnostic du serveur S}{111}{appendix.H}%
-\contentsline {part}{Glossaire}{118}{appendix*.67}%
-\contentsline {part}{Tables}{119}{appendix*.68}%
-\contentsline {part}{Figures}{121}{appendix*.69}%
+\contentsline {chapter}{\numberline {9}Conclusion}{89}{chapter.9}%
+\contentsline {part}{Annexes}{95}{part*.55}%
+\contentsline {chapter}{\numberline {A}Chronologie du MAE}{95}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Organigramme}{99}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Flux de données}{101}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{103}{appendix.D}%
+\contentsline {chapter}{\numberline {E}Modélisations de données}{105}{appendix.E}%
+\contentsline {chapter}{\numberline {F}UML}{107}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{109}{appendix.G}%
+\contentsline {chapter}{\numberline {H}Diagnostic du serveur S}{113}{appendix.H}%
+\contentsline {part}{Glossaire}{120}{appendix*.66}%
+\contentsline {part}{Tables}{121}{appendix*.67}%
+\contentsline {part}{Figures}{123}{appendix*.68}%
