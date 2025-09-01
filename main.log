@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  1 SEP 2025 12:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  1 SEP 2025 17:11
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1887,7 +1887,12 @@ e représentation de schémas de concepts », \TU/lmr/m/it/12 Documentaliste-
 
 ]
 
-[2] (./parties/mainmatter/I/A/I_A.tex
+[2]
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 24.72845pt (C);
+(lettrine.sty)             reported on input line 449.
+ (./parties/mainmatter/I/A/I_A.tex
 
 [3]
 
@@ -1911,6 +1916,9 @@ File: img/MODEL_domaines.png Graphic file (type bmp)
 
 
 [8]) (./parties/mainmatter/I/A/I_A_2.tex
+Underfull \vbox (badness 1248) has occurred while \output is active []
+
+
 
 [9]
 
@@ -1995,7 +2003,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
-(lettrine.sty)             reported on input line 457.
+(lettrine.sty)             reported on input line 468.
 
 
 [19]
@@ -2009,9 +2017,14 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 [22]
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 473.
- (./parties/mainmatter/II/A/II_A.tex
+(lettrine.sty)             Lettrine height = 24.72845pt (C);
+(lettrine.sty)             reported on input line 488.
+
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+(./parties/mainmatter/II/A/II_A.tex
 
 [23]
 
@@ -2230,15 +2243,10 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (L);
-(lettrine.sty)             reported on input line 485.
+(lettrine.sty)             reported on input line 504.
 
 
 [55]
-
-LaTeX Warning: Citation 'GouvernanceLinformation2013' on page 56 undefined on i
-nput line 491.
-
-
 
 [56]
 
@@ -2250,7 +2258,7 @@ nput line 491.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.09166pt (F);
-(lettrine.sty)             reported on input line 502.
+(lettrine.sty)             reported on input line 528.
  (./parties/mainmatter/III/A/III_A.tex
 
 [59]
@@ -2645,7 +2653,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
-(lettrine.sty)             reported on input line 519.
+(lettrine.sty)             reported on input line 545.
 
 
 [86]
@@ -2880,4 +2888,126 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
  []
 
 
-Underfull \hbox (b
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]|\TU/lmr/m/n/12 Alignements auto-
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 75--75
+[]|\TU/lmr/m/n/12 Avec Wikidata, IdRef, Da-
+ []
+
+
+Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
+ [] [] [] [] 
+ []
+
+[107
+
+] [108])
+
+[109]
+
+[110
+
+]
+Annexe H.
+File: img/GRAPH_doublons_caracteres.png Graphic file (type bmp)
+<img/GRAPH_doublons_caracteres.png>
+File: img/GRAPH_profondeur_ratio.png Graphic file (type bmp)
+<img/GRAPH_profondeur_ratio.png>
+File: img/IMG_motscles_fonctionnel.png Graphic file (type bmp)
+<img/IMG_motscles_fonctionnel.png>
+
+LaTeX Warning: Float too large for page by 37.76294pt on input line 652.
+
+
+
+[111]
+
+[112] (./main.gls
+
+[113
+
+
+
+]
+
+[114]
+
+[115]
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+
+[116]
+
+LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 117 undefined on inp
+ut line 123.
+
+
+
+[117])
+
+[118] (./main.lot)
+\tf@lot=\write8
+\openout8 = `main.lot'.
+
+
+
+[119
+
+]
+
+[120
+
+] (./main.lof)
+\tf@lof=\write9
+\openout9 = `main.lof'.
+
+
+
+[121]
+
+[122
+
+] (./main.toc
+
+[123]
+
+[124]
+
+[125])
+\tf@toc=\write10
+\openout10 = `main.toc'.
+
+
+
+[126] (./main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 58282 strings out of 474235
+ 1297687 string characters out of 5742252
+ 2175779 words of memory out of 5000000
+ 80053 multiletter control sequences out of 15000+600000
+ 572339 words of font info for 117 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (150 pages).
