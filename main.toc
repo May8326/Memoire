@@ -52,9 +52,9 @@
 \contentsline {subsection}{\numberline {2.2.}Diversité des outils de structuration de l’information}{67}{subsection.6.2.2}%
 \contentsline {subsection}{\numberline {2.3.}Solutions pour l’interopérabilité et l’ouverture}{69}{subsection.6.2.3}%
 \contentsline {section}{\numberline {3.}L’intégration dans l’écosystème institutionnel : vers une gouvernance collaborative des outils}{70}{section.6.3}%
-\contentsline {subsection}{\numberline {3.1.}Opentheso : un choix essentiel pour le \ac {mae}}{71}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {3.1.}Opentheso : un choix essentiel pour le \ac {mae}}{70}{subsection.6.3.1}%
 \contentsline {subsection}{\numberline {3.2.}Accompagnement au changement et formation des agents}{72}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {3.3.}Interopérabilité et dialogue intermétier}{73}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {3.3.}Interopérabilité et dialogue intermétier}{72}{subsection.6.3.3}%
 \contentsline {chapter}{\numberline {7}Gérer la prolifération}{75}{chapter.7}%
 \contentsline {section}{\numberline {1.}Un processus collaboratif}{75}{section.7.1}%
 \contentsline {section}{\numberline {2.}Créer un thésaurus commun à partir des vocabulaires existants : un travail collaboratif}{76}{section.7.2}%
