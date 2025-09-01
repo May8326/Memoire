@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  1 SEP 2025 11:45
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  1 SEP 2025 12:50
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2261,8 +2261,10 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 Chapitre 6.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 5.
+(lettrine.sty)             Lettrine height = 25.01146pt (A);
+(lettrine.sty)             reported on input line 6.
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
 (./parties/mainmatter/III/A/III_A_1.tex
 
 [61]
@@ -2450,41 +2452,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 )
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
-
-
-[65]) (./parties/mainmatter/III/A/III_A_2.tex
+) (./parties/mainmatter/III/A/III_A_2.tex
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
+Underfull \vbox (badness 5036) has occurred while \output is active []
+
+
+
+[65]
 
 [66]
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
-File: img/SCHEM_thesaurus.png Graphic file (type bmp)
-<img/SCHEM_thesaurus.png>
-
-LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
-(Font)              using `TU/lmr/m/scsl' instead on input line 26.
-
-
-LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
-(Font)              using `TU/lmr/m/scsl' instead on input line 26.
-
-
-LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
-(Font)              using `TU/lmr/m/scsl' instead on input line 26.
-
-
-LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
-(Font)              using `TU/lmr/m/scsl' instead on input line 26.
-
 
 
 [67]
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
+File: img/SCHEM_thesaurus.png Graphic file (type bmp)
+<img/SCHEM_thesaurus.png>
+
+
+LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
+(Font)              using `TU/lmr/m/scsl' instead on input line 26.
+
+
+LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
+(Font)              using `TU/lmr/m/scsl' instead on input line 26.
+
+
+LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
+(Font)              using `TU/lmr/m/scsl' instead on input line 26.
+
+
+LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
+(Font)              using `TU/lmr/m/scsl' instead on input line 26.
+
+
+Underfull \vbox (badness 1092) has occurred while \output is active []
+
 
 
 [68]
@@ -2492,20 +2497,24 @@ Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
+
+
+[69]
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 )
-Underfull \vbox (badness 1242) has occurred while \output is active []
 
-
-
-[69] (./parties/mainmatter/III/A/III_A_3.tex
-
-[70]
+[70] (./parties/mainmatter/III/A/III_A_3.tex
 
 [71]
+
+[72]
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
@@ -2513,32 +2522,36 @@ ex-text;!
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
 )
-
-[72]
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 25.01146pt (A);
-(lettrine.sty)             reported on input line 17.
+(lettrine.sty)             reported on input line 18.
 
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
-) (./parties/mainmatter/III/B/III_B.tex
 
-[73]
 
-[74
+[73]) (./parties/mainmatter/III/B/III_B.tex
 
-]
+[74]
 Chapitre 7.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 5.
-(./parties/mainmatter/III/B/III_B_1.tex)
+(lettrine.sty)             Lettrine height = 25.01146pt (A);
+(lettrine.sty)             reported on input line 4.
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+(./parties/mainmatter/III/B/III_B_1.tex
 
-[75] (./parties/mainmatter/III/B/III_B_2.tex
+[75
 
-[76] (./img/TABL_cr_gt_thematique.tex) (./img/TABL_cr_gt_thematique.tex)
+]) (./parties/mainmatter/III/B/III_B_2.tex
+
+[76]
+
+[77] (./img/TABL_cr_gt_thematique.tex) (./img/TABL_cr_gt_thematique.tex)
 (./img/TABL_cr_gt_thematique.tex
 Overfull \hbox (35.99277pt too wide) in alignment at lines 1--7
  [] [] [] 
@@ -2564,13 +2577,16 @@ Overfull \hbox (35.99277pt too wide) in alignment at lines 18--66
  [] [] [] 
  []
 
-[77])
-
-[78])
+[78]))
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (I);
-(lettrine.sty)             reported on input line 15.
+(lettrine.sty)             Lettrine height = 24.16241pt (L);
+(lettrine.sty)             reported on input line 28.
+
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
+ex-text;!
 ) (./parties/mainmatter/III/C/III_C.tex
 
 [79]
@@ -2582,7 +2598,7 @@ Chapitre 8.
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (L);
-(lettrine.sty)             reported on input line 3.
+(lettrine.sty)             reported on input line 7.
 (./parties/mainmatter/III/C/III_C_1.tex
 
 [81] (./img/TABL_outils_ia.tex) (./img/TABL_outils_ia.tex)
@@ -2620,7 +2636,12 @@ File: img/SCHEM_processus_IA.png Graphic file (type bmp)
 
 [84]
 
-[85])
+[85]
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 25.01146pt (A);
+(lettrine.sty)             reported on input line 29.
+)
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
@@ -2859,126 +2880,4 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\TU/lmr/m/n/12 Alignements auto-
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 75--75
-[]|\TU/lmr/m/n/12 Avec Wikidata, IdRef, Da-
- []
-
-
-Overfull \hbox (50.00716pt too wide) in alignment at lines 24--87
- [] [] [] [] 
- []
-
-[107
-
-] [108])
-
-[109]
-
-[110
-
-]
-Annexe H.
-File: img/GRAPH_doublons_caracteres.png Graphic file (type bmp)
-<img/GRAPH_doublons_caracteres.png>
-File: img/GRAPH_profondeur_ratio.png Graphic file (type bmp)
-<img/GRAPH_profondeur_ratio.png>
-File: img/IMG_motscles_fonctionnel.png Graphic file (type bmp)
-<img/IMG_motscles_fonctionnel.png>
-
-LaTeX Warning: Float too large for page by 37.76294pt on input line 626.
-
-
-
-[111]
-
-[112] (./main.gls
-
-[113
-
-
-
-]
-
-[114]
-
-[115]
-Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-
-
-[116]
-
-LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 117 undefined on inp
-ut line 123.
-
-
-
-[117])
-
-[118] (./main.lot)
-\tf@lot=\write8
-\openout8 = `main.lot'.
-
-
-
-[119
-
-]
-
-[120
-
-] (./main.lof)
-\tf@lof=\write9
-\openout9 = `main.lof'.
-
-
-
-[121]
-
-[122
-
-] (./main.toc
-
-[123]
-
-[124]
-
-[125])
-\tf@toc=\write10
-\openout10 = `main.toc'.
-
-
-
-[126] (./main.aux)
- ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 58276 strings out of 474235
- 1297450 string characters out of 5742252
- 2173395 words of memory out of 5000000
- 80047 multiletter control sequences out of 15000+600000
- 572339 words of font info for 117 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.pdf (150 pages).
+Underfull \hbox (b
