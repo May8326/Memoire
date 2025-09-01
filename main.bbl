@@ -865,7 +865,6 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{126\bibrangedash 133}
       \range{pages}{8}
       \verb{doi}
@@ -1341,6 +1340,59 @@
       \verb https://oap.unige.ch/journals/ressi/article/view/1511
       \endverb
       \keyw{Données ouvertes liées (Linked Open Data),Fondation SAPA,Gestion des collections,RDF (Resource Description Framework),Records in Contexts (RiC),texNumeriquePatrimoine}
+    \endentry
+    \entry{dacheuxPresentationGeneraleSIC2009}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd2b0431196cbb99c304fe5f5874df30}{%
+           family={Dacheux},
+           familyi={D\bibinitperiod},
+           given={Éric},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CNRS Éditions}%
+      }
+      \strng{namehash}{dd2b0431196cbb99c304fe5f5874df30}
+      \strng{fullhash}{dd2b0431196cbb99c304fe5f5874df30}
+      \strng{fullhashraw}{dd2b0431196cbb99c304fe5f5874df30}
+      \strng{bibnamehash}{dd2b0431196cbb99c304fe5f5874df30}
+      \strng{authorbibnamehash}{dd2b0431196cbb99c304fe5f5874df30}
+      \strng{authornamehash}{dd2b0431196cbb99c304fe5f5874df30}
+      \strng{authorfullhash}{dd2b0431196cbb99c304fe5f5874df30}
+      \strng{authorfullhashraw}{dd2b0431196cbb99c304fe5f5874df30}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Les sciences de l'information et de la communication}
+      \field{isbn}{978-2-271-12180-6}
+      \field{langid}{french}
+      \field{series}{Les essentiels d'Hermès}
+      \field{shorttitle}{Présentation générale}
+      \field{title}{Présentation générale : Les SIC, approche spécifique d’une recherche en communication mondialisée}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{9\bibrangedash 36}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.4000/books.editionscnrs.14211
+      \endverb
+      \verb{urlraw}
+      \verb https://books.openedition.org/editionscnrs/14211
+      \endverb
+      \verb{url}
+      \verb https://books.openedition.org/editionscnrs/14211
+      \endverb
+      \keyw{,reflexions}
     \endentry
     \entry{denisImageCognition1989}{book}{}{}
       \name{author}{1}{}{%
@@ -3485,7 +3537,6 @@
       \field{year}{2019}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.21494/ISTE.OP.2019.0356
       \endverb
