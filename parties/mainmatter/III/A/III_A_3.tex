@@ -1,46 +1,86 @@
 \section{\label{III-A-3}L’intégration dans l’écosystème institutionnel : vers une gouvernance collaborative des outils}
 
-[ TODO : AJOUTER REFERENCES, HISTORIQUE, TABLEAU DES FONCTIONNALITES ]
 
 
 L’intégration du logiciel Opentheso\footnote{On trouvera à l'adresse suivante la version d'Opentheso hébergée par HumaNum : \cite{OpenThesoa}. Les carnets \textit{Hypothèses} du logiciel et sa documentation sont disponibles ici : \cite{PresentationDOpenTheso}} au \mae~semblerait être la solution qui réponde le mieux à ses aspirations de gouvernance du vocabulaire et d'interopérabilité avec le web. Cet outil libre, recommandé par le ministère de la Culture, s’impose en effet aujourd'hui en France comme un socle incontournable pour construire un vocabulaire qui dépasse les cloisonnements logiciels et fédérer les métiers. Sa mise en place nécessite cependant un chantier d'implémentation conséquent, et ne devra pas mettre fin à la collaboration entre métiers initiée au \mae.
 
+
+
 \subsection{Opentheso : un choix essentiel pour le \mae}
+
+
+
 
 
 En effet, la diversité des collections du \mae, leur technicité et la multiplicité des acteurs impliqués imposent une exigence particulière: il s'agit de structurer la connaissance, de l’organiser et de la transmettre dans le respect des normes internationales.  
 
+
+
 Or, l’expérience récente du musée – notamment la migration vers \gls{koha} et les difficultés d’export et d’import des \gls{thesaurus} – a révélé les faiblesses des outils actuels : \gls{koha} est vu uniquement comme une assistance à l'indexation et non comme un outil scientifique, il ne distingue pas entre concept et terme, et ne permet pas d’explorer ou de constituer une arborescence fiable. À l’inverse, la documentation d’Opentheso, recommandée par le Ministère de la Culture, s’impose par sa conformité aux normes ISO 25964 et au modèle \gls{skos} : il garantit l'interopérabilité et la diffusion du thésaurus en ligne et fournit une structure conforme pour construire le thésaurus.
 
+
+
 \paragraph*{Historique d’Opentheso}
-Le développement d’Opentheso s’inscrit dans l'histoire récente de la gestion documentaire en France. Initialement conçu pour répondre aux besoins de gestion du thésaurus partagé du réseau de bibliothèques spécialisées en archéologie \ac{frantiq}\footcite{nouvelThesaurusPACTOLSSysteme2019}, il a progressivement été adopté par de nombreuses institutions patrimoniales, musées, bibliothèques et centres de recherche. Sa documentation, abondante et accessible, témoigne de la vitalité de sa communauté d’utilisateurs et de l’appui institutionnel dont il bénéficie, et il fait aujourd'hui partie des outils proposés par la \ac{tgir} HumaNum\footcite{PresentationDOpenTheso}.
 
-Opentheso est né d’une volonté de proposer une solution conforme aux standards internationaux de structuration des thésaurus. Son modèle de données est fondé sur SKOS et les recommandations des normes ISO 25964-1 et ISO 25964-2, ce qui lui confère une grande solidité conceptuelle et une précieuse capacité d’interopérabilité avec d'autres référentiels du patrimoine documentaire.
+Le développement d’Opentheso s’inscrit dans l'histoire récente de la gestion documentaire en France. Initialement conçu pour répondre aux besoins de gestion du thésaurus partagé du réseau de bibliothèques spécialisées en archéologie \ac{frantiq}\footcite{nouvelThesaurusPACTOLSSysteme2019}, il a progressivement été adopté par de nombreuses institutions patrimoniales, musées, bibliothèques et centres de recherche. Sa documentation est abondante et accessible et témoigne de la vitalité de sa communauté d’utilisateurs et de l’appui institutionnel dont il bénéficie : il fait aujourd'hui partie des outils proposés par la \ac{tgir} HumaNum\footcite{PresentationDOpenTheso}.
 
-L’existence d’un plugin \gls{koha} déjà opérationnel\footcite{PluginTamilOpentheso}, et sa reconnaissance par le ministère de la Culture, font d’Opentheso un logiciel de référence pour toute institution désireuse d’inscrire son vocabulaire dans une dynamique d’ouverture, de partage et de pérennité.
+
+
+Opentheso est né d’une volonté de proposer une solution conforme aux standards internationaux de structuration des thésaurus. Son modèle de données est fondé sur SKOS et les recommandations des normes ISO 25964-1 et ISO 25964-2 : ceci lui confère une grande solidité conceptuelle et une capacité d’interopérabilité avec d'autres référentiels du patrimoine documentaire précieuse.
+
+
+
+L’existence d’un plugin \gls{koha} déjà opérationnel\footcite{PluginTamilOpentheso},et sa reconnaissance par le ministère de la Culture, font ainsi d’Opentheso un logiciel de référence pour toute institution désireuse d’inscrire son vocabulaire dans une dynamique de partage et de pérennité.
+
+
 
 \paragraph*{Fonctionnalités d’Opentheso}
 
+
+
 Opentheso se distingue par une gamme de fonctionnalités qui répondent aux besoins spécifiques du \mae:
 
+
+
 \begin{itemize}
+	
 	\item \textbf{Structuration conforme aux normes internationales:} gestion des concepts, des termes préférés, des synonymes, des relations hiérarchiques et associatives, des facettes et des collections thématiques, dans le respect des normes citées précédemment.
+	
 	\item \textbf{Interopérabilité et ouverture:} export en divers formats \gls{skos}, (\textit{Turtle, JSON-LD}) intégration à des logiciels tiers possible via une \ac{api}, possibilité d'alignement automatique du vocabulaire.
+	
 	\item \textbf{Visualisation et navigation:} arborescence interactive, graphes de concepts, navigation hiérarchique, gestion des notes, synonymes et facettes, interface intuitive.
+	
 	\item \textbf{Multilinguisme et gestion collaborative:} prise en charge des termes multilingues, gestion fine des accès pour les administrateurs et contributeurs, validation et proposition de termes.
+	
 	\item \textbf{Gestion avancée des identifiants:} support des identifiants pérennes (\textit{ARK/NAAN}) pour chaque concept pour avoir des données citables et requêtables.
+	
 	\item \textbf{Maintenance et évolutivité:} communauté active, formations régulières, documentation abondante..
+	
 \end{itemize}
+
+
+
 
 
 Opentheso permet ainsi de structurer la connaissance, mais aussi de relier les bases métiers – le plugin d'intégration dans \gls{koha} existe déjà, et il serait envisageable de demander une intégration à \textit{Skinsoft} pour \gls{archange} qui permettrait au logiciel d'interagir avec l'\ac{api} d'Opentheso.
 
+
+
 La mise en place en complément, d'un réseau de logiciels dédiés à une gestion rationalisée de l'information au \mae~-- comme des versements réguliers sur un \gls{sae} de type \textit{Vitam} pour l’archivage et la mise en place d'une \gls{ged} – serait d'une grande aide au musée pour parvenir à ses ambitions de gouvernance.
+
+
 
 \subsection{Accompagnement au changement et formation des agents}
 
-Toute réforme documentaire ne pourra cependant aboutir sans accompagnement au changement : ateliers de sensibilisation, guides d’usage, fresques de la connaissance, tutoriels, autant de dispositifs qui harmoniseraient les pratiques et préparent les agents à la prise en main des nouveaux outils. La formation s'imposera comme la condition de la réussite : elle permettra de comprendre la logique des outils, de s’approprier les méthodes de structuration et d’assurer la pérennité des acquis.
+
+
+Toute réforme documentaire ne pourra cependant aboutir sans accompagnement au changement : ateliers de sensibilisation, guides d’usage, fresques de la connaissance, tutoriels, ces dispositifs permettraient d'harmoniser les pratiques en préparant les agents à la prise en main des nouveaux outils. La formation s'imposera comme une condition de la réussite : elle permettra de comprendre la logique des outils, de s’approprier les méthodes de structuration et d’assurer la pérennité des acquis.
+
+
 
 \subsection{Interopérabilité et dialogue intermétier}
 
+
+
 L’interopérabilité enfin, même si la mise en place de solutions dédiées l'aidera grandement, ne se limitera pas à la technique : elle suppose un dialogue continu entre les métiers du musée et une construction de passerelles entre les silos professionnels et plateformes. Les groupes de travail menés au musée ont permis de réfléchir à des solutions communes pour l’archivage numérique et l'unification des thésaurus, ils devront continuer pour les mettre en place et assurer leur bon fonctionnement. 
+
