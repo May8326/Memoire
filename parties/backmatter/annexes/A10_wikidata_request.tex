@@ -1,0 +1,124 @@
+Les requêtes sont disponibles dans le notebook Jupyter suivant : [TODO ajouter lien git backmatter]
+
+\section*{Choix méthodologique}
+
+\textit{Il a été choisi de réaliser ces requêtes via l'API de Wikidata pour :}
+\begin{enumerate}
+	\item \textit{Stocker facilement les requêtes et pouvoir les modifier et réexécuter;}
+	\item \textit{Pouvoir réaliser des boucles en Python et morceler certaines requêtes qui surchargeaient le SPARQL Endpoint;}
+\end{enumerate}
+
+\section*{Étape 1. Extraction des termes}
+
+\subsection*{Solutions abandonnées}
+
+\begin{enumerate}
+	\item Requêter tous les termes liés à l'aéronautique en faisant une recherche plein texte (pages contenant \textit{aeronautics, aircraft, ...}) :
+	\begin{itemize}
+		\item La requête étant trop importante, le serveur \textit{timeout} systématiquement même en la limitant à un petit nombre de réponses (car il recherche l'intégralité des pages Wikidata pour trouver des correspondances).
+	\end{itemize}
+	
+	\item Requêter tous les enfants des termes liés à l'aéronautique rencontrés (constructeurs, métiers, sciences, etc.) :
+	\begin{itemize}
+		\item Prometteur, mais limité car :
+		\begin{itemize}
+			\item On ne pense pas à toutes les possibilités ;
+			\item La nature des relations que l'on pourrait considérer comme « enfant » sont trop différentes selon le type de terme récupéré (exemple : les relations hiérarchiques internes à Wikidata très génériques comme « nature de l'élément » et « sous-classe de » sont faciles à récupérer pour construire un arbre, mais celui-ci est souvent trop général et peu pertinent pour un sujet lié à l'aéronautique. Pour certains termes comme les constructeurs, il faut rechercher par exemple quelle relation relie une filiale à une organisation, un modèle d'avion à son constructeur, etc. ; relations qui ne sont pas toujours évidentes ni uniformément utilisées selon les pages.) ;
+			\item Certaines pages récupérées ne sont pas pertinentes.
+		\end{itemize}
+	\end{itemize}
+\end{enumerate}
+
+\subsection*{Solution retenue}
+
+Pour obtenir un maximum de pages liées, le plus efficace a semblé être de faire une requête par les propriétés. La requête étant lourde, elle a été morcelée dans le \textit{notebook} Jupyter pour éviter de surcharger le serveur :
+
+\begin{enumerate}
+	\item Recherche des propriétés dans lesquelles un terme donné est utilisé ;
+	\item Récupération de toutes les pages liées à ce terme par une propriété ;
+	\item Application de cette démarche à tous les termes génériques liés à l'aéronautique jugés pertinents.
+\end{enumerate}
+
+Cette méthode a ainsi permis de récupérer un maximum de termes directement reliés aux principaux concepts déjà présents dans les thésaurus aéronautiques du \mae.
+
+\subsection*{Suivi des extractions}
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{lll}
+		\toprule
+		\textbf{ID} & \textbf{Terme} & \textbf{Résultats}\\
+		\midrule
+		Q8421 & Aéronautique & 448 \\
+		Q2876213 & Aerospace & 79  \\
+		Q22719 & Astronautique & 358  \\
+		Q765633 & Aviation & 3057  \\
+		Q1757562 & Transport aérien & 581\\
+		Q11436 & Aéronef & 10493 \\
+		Q107009743 & Constructeur aéronautique & 43  \\
+		Q936518 & Constructeur aérospatial & 926 \\
+		Q3477363 & Industrie aérospatiale & 1734\\
+		Q1875606 & Industrie aéronautique & 433 \\
+		Q4055832 & Equipement aéronautique & 68 \\
+		Q16693356 & Composant aéronautique & 629 \\
+		Q17301966 & Aérostation & 6 \\
+		Q206814 & Aviation civile & 427 \\
+		Q627716 & Aviation militaire & 418 \\
+		Q21152775 & Aviation occurrence & 2 \\
+		Q744913 & Accident aérien & 4653 \\
+		Q3002150 & Crash aérien & 1023  \\
+		Q108284447 & Accident ou incident aérien & 186 \\
+		Q3798668 & Aerospace engineering & 379  \\
+		Q4828699 & Aeronautical engineering & 164 \\
+		\midrule
+		\textbf{Total} & \textbf{26107} & \\
+		\bottomrule
+	\end{tabular}
+	\caption{Suivi des extractions Wikidata par propriétés (dossiers de sortie sur le serveur local)}
+	\label{tab:wikidata}
+\end{table}
+
+\section*{Étape 2. Nettoyage}
+
+\begin{itemize}
+	\item Suppression des lexèmes récupérés (catégorie particulière de pages Wikidata, non pertinente, ID commençant par L\ldots)
+	\item Suppression des « Catégories » Wikidata
+	\item Regroupement des termes parents
+	\item Suppression des doublons
+\end{itemize}
+
+\section*{Étape 3. Enrichissement}
+
+Récupération des parents (propriétés P31 et P279) des termes extraits, pour approfondir la hiérarchie.
+
+\section*{Étape 4. Nettoyage final}
+
+Suppression des doublons, suppression manuelle de termes non pertinents.
+
+\section*{Tableau final}
+
+\begin{itemize}
+	\item 18 392 entrées comprenant les termes directement liés aux termes renseignés dans le tableau.
+\end{itemize}
+
+Structure :
+\begin{itemize}
+	\item ID Wikidata
+	\item Titre
+	\item Description
+	\item ID terme générique
+	\item Terme générique
+\end{itemize}
+
+Autre tableau : Liste des termes génériques.
+
+\section*{Conclusion}
+
+Cette approche, qui a semblé être la plus efficace pour récupérer un maximum de termes pertinents dans un temps limité, présente cependant ses limites : 
+\begin{itemize}
+	\item son utilisation est complexe : les tentatives de récupérer une base de données pertinentes à partir d'un même modèle de requête se sont révélées trop lourdes, ou trop précises pour arriver à une base de donnée intéressante,
+	\item cette extraction provenant de Wikidata -- qui est donc davantage une ontologie plutôt qu'un thésaurus -- produit une base de donnée très dispersée, avec une multitude de termes génériques qu'il aurait fallu rattacher artificiellement à des termes de tête pour arriver à un résultat facile à lire,
+	\item elle montre enfin les limites de Wikidata -- qui pour ces sujets pointus présente des inégalités dans ses articles (choix différents de propriétés pour décrire une même relation, absence de titre d'article, ...).
+\end{itemize}
+
+
