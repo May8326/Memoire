@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  2 SEP 2025 17:44
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  2 SEP 2025 18:29
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2924,6 +2924,12 @@ File: img/IMG_faq_gdd.png Graphic file (type bmp)
 [120]
 Annexe J.
 (./parties/backmatter/annexes/A10_wikidata_request.tex
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 1--2
+[]\TU/lmr/m/n/12 Les requêtes sont disponibles dans le \TU/lmr/m/it/12 notebook
+ \TU/lmr/m/n/12 Jupyter suivant : []A10_wikidata_request.ipynb[] 
+ []
+
+
 
 [121
 
@@ -2946,11 +2952,6 @@ Annexe J.
 [127]
 
 [128]
-
-LaTeX Warning: Citation 'bermesCasLierDonnees2013' on page 129 undefined on inp
-ut line 126.
-
-
 
 [129])
 
@@ -3007,11 +3008,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58469 strings out of 474235
- 1304625 string characters out of 5742252
- 2192905 words of memory out of 5000000
- 80228 multiletter control sequences out of 15000+600000
- 572654 words of font info for 118 fonts, out of 8000000 for 9000
+ 58467 strings out of 474235
+ 1304577 string characters out of 5742252
+ 2192907 words of memory out of 5000000
+ 80227 multiletter control sequences out of 15000+600000
+ 572646 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
