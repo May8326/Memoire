@@ -1,8 +1,8 @@
-Les requêtes sont disponibles dans le notebook Jupyter suivant : [TODO ajouter lien git backmatter]
+Les requêtes sont disponibles dans le notebook Jupyter suivant~: [TODO ajouter lien git backmatter]
 
 \section*{Choix méthodologique}
 
-\textit{Il a été choisi de réaliser ces requêtes via l'API de Wikidata pour :}
+\textit{Il a été choisi de réaliser ces requêtes via l'API de Wikidata pour~:}
 \begin{enumerate}
 	\item \textit{Stocker facilement les requêtes et pouvoir les modifier et réexécuter;}
 	\item \textit{Pouvoir réaliser des boucles en Python et morceler certaines requêtes qui surchargeaient le SPARQL Endpoint;}
@@ -13,17 +13,17 @@ Les requêtes sont disponibles dans le notebook Jupyter suivant : [TODO ajouter 
 \subsection*{Solutions abandonnées}
 
 \begin{enumerate}
-	\item Requêter tous les termes liés à l'aéronautique en faisant une recherche plein texte (pages contenant \textit{aeronautics, aircraft, ...}) :
+	\item Requêter tous les termes liés à l'aéronautique en faisant une recherche plein texte (pages contenant \textit{aeronautics, aircraft, ...})~:
 	\begin{itemize}
 		\item La requête étant trop importante, le serveur \textit{timeout} systématiquement même en la limitant à un petit nombre de réponses (car il recherche l'intégralité des pages Wikidata pour trouver des correspondances).
 	\end{itemize}
 	
-	\item Requêter tous les enfants des termes liés à l'aéronautique rencontrés (constructeurs, métiers, sciences, etc.) :
+	\item Requêter tous les enfants des termes liés à l'aéronautique rencontrés (constructeurs, métiers, sciences, etc.)~:
 	\begin{itemize}
-		\item Prometteur, mais limité car :
+		\item Prometteur, mais limité car~:
 		\begin{itemize}
 			\item On ne pense pas à toutes les possibilités ;
-			\item La nature des relations que l'on pourrait considérer comme « enfant » sont trop différentes selon le type de terme récupéré (exemple : les relations hiérarchiques internes à Wikidata très génériques comme « nature de l'élément » et « sous-classe de » sont faciles à récupérer pour construire un arbre, mais celui-ci est souvent trop général et peu pertinent pour un sujet lié à l'aéronautique. Pour certains termes comme les constructeurs, il faut rechercher par exemple quelle relation relie une filiale à une organisation, un modèle d'avion à son constructeur, etc. ; relations qui ne sont pas toujours évidentes ni uniformément utilisées selon les pages.) ;
+			\item La nature des relations que l'on pourrait considérer comme « enfant » sont trop différentes selon le type de terme récupéré (exemple~: les relations hiérarchiques internes à Wikidata très génériques comme « nature de l'élément » et « sous-classe de » sont faciles à récupérer pour construire un arbre, mais celui-ci est souvent trop général et peu pertinent pour un sujet lié à l'aéronautique. Pour certains termes comme les constructeurs, il faut rechercher par exemple quelle relation relie une filiale à une organisation, un modèle d'avion à son constructeur, etc. ; relations qui ne sont pas toujours évidentes ni uniformément utilisées selon les pages.) ;
 			\item Certaines pages récupérées ne sont pas pertinentes.
 		\end{itemize}
 	\end{itemize}
@@ -31,7 +31,7 @@ Les requêtes sont disponibles dans le notebook Jupyter suivant : [TODO ajouter 
 
 \subsection*{Solution retenue}
 
-Pour obtenir un maximum de pages liées, le plus efficace a semblé être de faire une requête par les propriétés. La requête étant lourde, elle a été morcelée dans le \textit{notebook} Jupyter pour éviter de surcharger le serveur :
+Pour obtenir un maximum de pages liées, le plus efficace a semblé être de faire une requête par les propriétés. La requête étant lourde, elle a été morcelée dans le \textit{notebook} Jupyter pour éviter de surcharger le serveur~:
 
 \begin{enumerate}
 	\item Recherche des propriétés dans lesquelles un terme donné est utilisé ;
@@ -100,7 +100,7 @@ Suppression des doublons, suppression manuelle de termes non pertinents.
 	\item 18 392 entrées comprenant les termes directement liés aux termes renseignés dans le tableau.
 \end{itemize}
 
-Structure :
+Structure~:
 \begin{itemize}
 	\item ID Wikidata
 	\item Titre
@@ -109,13 +109,13 @@ Structure :
 	\item Terme générique
 \end{itemize}
 
-Autre tableau : Liste des termes génériques.
+Autre tableau~: Liste des termes génériques.
 
 \section*{Conclusion}
 
-Cette approche, qui a semblé être la plus efficace pour récupérer un maximum de termes pertinents dans un temps limité, présente cependant ses limites : 
+Cette approche, qui a semblé être la plus efficace pour récupérer un maximum de termes pertinents dans un temps limité, présente cependant ses limites~: 
 \begin{itemize}
-	\item son utilisation est complexe : les tentatives de récupérer une base de données pertinentes à partir d'un même modèle de requête se sont révélées trop lourdes, ou trop précises pour arriver à une base de donnée intéressante,
+	\item son utilisation est complexe~: les tentatives pour récupérer une base de données pertinentes à partir d'un même modèle de requête se sont révélées trop lourdes, ou trop précises pour arriver à une base de donnée intéressante,
 	\item cette extraction provenant de Wikidata -- qui est donc davantage une ontologie plutôt qu'un thésaurus -- produit une base de donnée très dispersée, avec une multitude de termes génériques qu'il aurait fallu rattacher artificiellement à des termes de tête pour arriver à un résultat facile à lire,
 	\item elle montre enfin les limites de Wikidata -- qui pour ces sujets pointus présente des inégalités dans ses articles (choix différents de propriétés pour décrire une même relation, absence de titre d'article, ...).
 \end{itemize}
