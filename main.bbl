@@ -231,7 +231,7 @@
       \verb{url}
       \verb http://archive.org/details/pense_esduneamaz00barn
       \endverb
-      \keyw{,reflexions}
+      \keyw{dontcite,reflexions}
     \endentry
     \entry{bechardArchivesElectroniques2020a}{book}{}{}
       \name{author}{3}{}{%
@@ -2097,6 +2097,46 @@
       \endverb
       \keyw{_data,_webSemantique,texNumeriquePatrimoine,texNumeriquePatrimoine}
     \endentry
+    \entry{houdayerCooperationBibliothequesarchivesmuseesSi2013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1143f3508ad7f138ce374349de6dca30}{%
+           family={Houdayer},
+           familyi={H\bibinitperiod},
+           given={Aurélia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1143f3508ad7f138ce374349de6dca30}
+      \strng{fullhash}{1143f3508ad7f138ce374349de6dca30}
+      \strng{fullhashraw}{1143f3508ad7f138ce374349de6dca30}
+      \strng{bibnamehash}{1143f3508ad7f138ce374349de6dca30}
+      \strng{authorbibnamehash}{1143f3508ad7f138ce374349de6dca30}
+      \strng{authornamehash}{1143f3508ad7f138ce374349de6dca30}
+      \strng{authorfullhash}{1143f3508ad7f138ce374349de6dca30}
+      \strng{authorfullhashraw}{1143f3508ad7f138ce374349de6dca30}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{langid}{french}
+      \field{month}{12}
+      \field{title}{La coopération bibliothèques-archives-musées et plus si affinités – Journal d'un archiviste}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://journaldunarchiviste.fr/2013/12/09/la-cooperation-bibliotheques-archives-musees-et-plus-si-affinites/
+      \endverb
+      \verb{url}
+      \verb https://journaldunarchiviste.fr/2013/12/09/la-cooperation-bibliotheques-archives-musees-et-plus-si-affinites/
+      \endverb
+      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
+    \endentry
     \entry{hudonISO25964Pour2012a}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8e3e15ab23503fdc46e3162b0547f85f}{%
@@ -2397,29 +2437,6 @@
       \endverb
       \keyw{_normalisation,texThesau,texThesau}
     \endentry
-    \entry{CooperationBibliothequesarchivesmuseesSi2013a}{online}{}{}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labeltitlesource}{title}
-      \field{day}{9}
-      \field{langid}{french}
-      \field{month}{12}
-      \field{title}{La coopération bibliothèques-archives-musées et plus si affinités – Journal d'un archiviste}
-      \field{urlday}{21}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{year}{2013}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://journaldunarchiviste.fr/2013/12/09/la-cooperation-bibliotheques-archives-musees-et-plus-si-affinites/
-      \endverb
-      \verb{url}
-      \verb https://journaldunarchiviste.fr/2013/12/09/la-cooperation-bibliotheques-archives-musees-et-plus-si-affinites/
-      \endverb
-      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
-    \endentry
     \entry{lenartSKOSLangageRepresentation2007}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2568e79b66c014891334ffd023779cb9}{%
@@ -2564,7 +2581,7 @@
       \verb{url}
       \verb https://www.ifla.org/events/libraries-archives-and-museums-in-dialogue-art-libraries-section-in-collaboration-with-the-subject-analysis-and-access-section/
       \endverb
-      \keyw{_collaborationBibArchMusee,texCollab,texCollab}
+      \keyw{_collaborationBibArchMusee,dontcite,texCollab,texCollab}
     \endentry
     \entry{lissaragueHistoireMuseeLAir}{book}{}{}
       \name{author}{1}{}{%
@@ -3812,7 +3829,7 @@
       \verb{url}
       \verb https://books.openedition.org/pufc/29977
       \endverb
-      \keyw{_normalisation,texThesau,texThesau}
+      \keyw{_normalisation,dontcite,texThesau,texThesau}
     \endentry
     \entry{PluginTamilOpentheso}{online}{}{}
       \list{organization}{1}{%
