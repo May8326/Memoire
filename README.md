@@ -16,3 +16,4 @@ On trouvera le **fichier `.pdf` compilé** du mémoire en racine : [main.pdf](ht
 
 Un **notebook Jupyter** est joint à ce mémoire, il est récupérable à cette adresse : [A10_wikidata_request.ipynb](https://github.com/May8326/Memoire/blob/master/parties/backmatter/annexes/A10_wikidata_request.ipynb).
 
+La bibliographie de ce mémoire est également disponible sur _Zotero_ à [cette addresse](https://www.zotero.org/groups/6025279/gestion_de_linformation_en_muse/library).
