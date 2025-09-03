@@ -14,5 +14,5 @@ Ce mémoire a été compilé en latex : la structure des fichiers .tex a été d
 
 On trouvera le **fichier `.pdf` compilé** du mémoire en racine : [main.pdf](https://github.com/May8326/Memoire/blob/master/main.pdf).
 
-Un **notebook Jupyter** est joint à ce mémoire, il est récupérable à cette adresse : ICI.
+Un **notebook Jupyter** est joint à ce mémoire, il est récupérable à cette adresse : [A10_wikidata_request.ipynb](https://github.com/May8326/Memoire/blob/master/parties/backmatter/annexes/A10_wikidata_request.ipynb).
 
