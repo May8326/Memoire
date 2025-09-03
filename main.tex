@@ -19,10 +19,14 @@
 \usepackage{fontspec}
 \usepackage{xunicode}
 \usepackage[french]{babel}
-%\setotherlanguage{} %indiquer les autres langues utilisée
-\usepackage{tikz}%pour les arbres en latex intégrés au mémoire
+
+% Pour les arbres en Latex intégrés au mémoire :
+\usepackage{tikz}
 \usetikzlibrary{mindmap,trees,positioning,shapes,arrows.meta}
-\usepackage{adjustbox} %pour contrôler la taille des images et insertions
+
+
+% Pour contrôler la taille des images et des insertions :
+\usepackage{adjustbox}
 
 
 %%%%%%%%%%%%%%%%%%%%%% PARTIE OBLIGATOIRE%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -35,13 +39,15 @@
 
 \usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}% style de l'EnC (https://ctan.org/pkg/biblatex-enc)
 \DeclareFieldFormat{citetitle}{\textit{#1}}% cite automatiquement les titres en italiques
+
+% aliases pour citer des types de documents qui ne sont pas intégrés dans le style EnC
 \DeclareBibliographyAlias{video}{misc}
 \DeclareBibliographyAlias{cite:video}{cite:misc}
 \DeclareBibliographyAlias{legislation}{misc}
-\DeclareBibliographyAlias{cite:legislation}{cite:misc}% aliases pour citer des articles de loi - le style EnC ne les intègre pas
+\DeclareBibliographyAlias{cite:legislation}{cite:misc}
 
 
-%\defbibheading{}{\subsection*{Biblio}} % Pour changer le titre de la/les bibliographie(s)
+% Ajout des fichiers de biblio
 \addbibresource{./bibliographie/archives_numeriques.bib}
 \addbibresource{./bibliographie/cooperation.bib}
 \addbibresource{./bibliographie/musee_air_espace.bib}
@@ -88,6 +94,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%% ABREVIATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%
 
+% Ce package permet de générer une liste d'acronymes en début du mémoire et de gérer leur développement/abréviation.
 \usepackage{acro}
 
 \DeclareAcronym{mae}{short= MAE, long = Musée de l'air et de l'espace}
@@ -124,6 +131,8 @@
 \DeclareAcronym{sic}{short = SIC, long = Sciences de l'Information et de la Communication}
 
 %%%%%%%%%%%%%%%%%%%%%%%%% IMAGES %%%%%%%%%%%%%%%%%%%%%%%%%%
+% gestion des images intégrées : 
+
 \usepackage{graphicx}
 \usepackage{subcaption} %pour les groupes d'images
 
@@ -196,23 +205,24 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% TABLEAUX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{multirow}
-\usepackage{ltxtable}
-\usepackage{tabularx}
-\usepackage{longtable}
-\usepackage{booktabs}
-\usepackage[table]{xcolor}
-\usepackage{longtable}
-\usepackage{array}
-\usepackage{multirow}
+
+\usepackage{multirow}    % Fusion de plusieurs lignes dans une colonne
+\usepackage{ltxtable}    % Tableaux sur plusieurs pages avec largeur ajustable
+\usepackage{tabularx}    % Tableaux avec colonnes à largeur adaptative
+\usepackage{longtable}   % Tableaux qui se poursuivent sur plusieurs pages
+\usepackage{booktabs}    % Lignes horizontales élégantes 
+\usepackage[table]{xcolor} % Couleurs dans les tableaux 
+\usepackage{array}       % Colonnes et alignements personnalisés 
+
+%définiton de couleur pour les lignes alternées
 \definecolor{lightgray}{gray}{0.95}
 
+
+% définition de colonnes-types
 \newcolumntype{B}{>{\bfseries\raggedleft\arraybackslash}p{0.25\textwidth}}
 \newcolumntype{C}{>{\raggedright\arraybackslash}p{0.75\textwidth}}
 \newcolumntype{D}{>{\bfseries\raggedleft\arraybackslash}p{0.20\textwidth}}
 \newcolumntype{E}{>{\raggedright\arraybackslash}p{0.40\textwidth}}
-
-
 
 \renewcommand{\arraystretch}{1.3}
 
@@ -255,6 +265,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%% COMMANDES EN ENVIRONNEMENTS PERSONNALISES %%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Commande pour faciliter l'insertion de blocs de citations
 \NewDocumentEnvironment{myquote}{m m}
 {
 	\begin{quote}
@@ -265,12 +278,12 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% COMMANDES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newcommand{\mae}{\ac{mae}}
-\newcommand{\maelong}{\acf{mae}}
-\newcommand{\bibmusee}{\enquote{\textit{bib-musées}}}
-\newcommand{\minarm}{ministère des Armées}
-\newcommand{\refinterne}[1]{\textit{\ref{#1}~:~\nameref{#1}(~p.~\pageref{#1})}}
-\newcommand{\inserttable}[1]{\LTXtable{\textwidth}{#1}}
+\newcommand{\mae}{\ac{mae}} % écriture rapide de musée de l'air et de l'espace avec appel d'acronyme
+\newcommand{\maelong}{\acf{mae}} % forcer l'acronyme développé pour MAE
+\newcommand{\bibmusee}{\enquote{\textit{bib-musées}}} % écriture rapide de bib-musée avec appel au glossaire
+\newcommand{\minarm}{ministère des Armées} % écriture rapide de ministère des armées
+\newcommand{\refinterne}[1]{\textit{\ref{#1}~:~\nameref{#1}(~p.~\pageref{#1})}} % les liens internes dans le mémoire sont : numéro de chapitre, titre, page
+\newcommand{\inserttable}[1]{\LTXtable{\textwidth}{#1}} % insertion de tableaux
 
 
 %%%%%% QUESTIONS - REPONSES pour les interviews
@@ -335,7 +348,6 @@
 			\end{Large}
 			%selon le cas
 			\begin{normalsize} \textit{licenciée ès histoire}\\
-				%\textit{diplômé.e de master}
 			\end{normalsize}
 			
 			\bigskip
@@ -380,9 +392,13 @@
 	
 	\chapter{Résumé}
 	\medskip
-	Résumé du mémoire en français. Cette page ne doit pas dépasser une page.\\
+	\lettrine{À} l’ère du numérique, la gouvernance de l’information s’impose comme un défi central pour les institutions patrimoniales, confrontées à la prolifération des données, à la fragmentation des vocabulaires et à la complexité croissante des données numériques. Ce mémoire réalisé pour l’obtention du diplôme de Master 2 « Technologies numériques appliquées à l’histoire » de l’École nationale des Chartes après un stage de fin d'études au sein du Musée de l'Air et de l'Espace, explore les particularités de ce musée technique placé sous tutelle militaire en analysant ses enjeux spécifiques de gestion documentaire, de structuration des thésaurus et de coordination des métiers. L’enquête menée cherche ainsi à mettre en lumière les tensions qui existent entre spécialisation scientifique, exigences d’interopérabilité et contraintes de l'institution, en exposant les solutions mises en œuvre pour initier une gouvernance transversale de l'information au musée. Entre histoire institutionnelle, diagnostics techniques, réflexion sur les outils et les processus de collaboration, ce mémoire tente de proposer quelques pistes pour une mettre en place une méthodologie de gestion de l'information adaptée aux missions de préservation et de valorisation du musée dans un contexte de mutation numérique.\\
 	
-	\textbf{Mots-clés:} une liste de mots-clés~; séparés par des points-virgules.
+	\lettrine{I}{n}this digital age, information manegement has become a key challenge for heritage institutions, which are faced with data proliferation, vocabulary fragmentation, and the growing complexity of digital data. This thesis, written for the Master 2 degree in “Technologies numériques appliquées à l'histoire” at the École nationale des Chartes after an end-of-studies internship at the Musée de l'Air et de l'Espace, explores the particularities of this technical museum under military supervision by analyzing its specific challenges in terms of document management, thesaurus structuring, and coordination of professions. This survey seeks to highlight the tensions existing between scientific specialization, interoperability requirements and institutional constraints, by presenting the solutions implemented to initiate cross-functional information governance at the museum. Between institutional history, technical diagnostics, and reflection on collaboration tools and processes, this thesis attempts to propose some ideas for implementing an information management methodology adapted to the museum's preservation and promotion missions in a context of digital transformation.
+	
+	
+	
+	\textbf{Mots-clés:} Musée de l’Air et de l’Espace~; gouvernance de l’information~; thésaurus documentaire~; modélisation de données~; interopérabilité~; musée technique~; archives numériques~; normalisation~; métiers des musées~; sensibilisation~; wikidata~; transformation numérique~; structuration des connaissances.
 	
 	\textbf{Informations bibliographiques:} GIOAN Maëlys, \textit{Gestion de l'information à l'ère du numérique : entre héritage et innovation. Le cas du Musée de l'Air et de l'Espace}, mémoire de master \enquote{Technologies numériques appliquées à l'histoire}, dir. Emmanuelle Bermès, Valérie Joyaux, École nationale des chartes, 2025.
 	
@@ -393,7 +409,16 @@
 	
 	\chapter{Remerciements}
 	
-	\lettrine{M}es remerciements vont tout d'abord à\dots
+	\lettrine{M}es remerciements vont tout d'abord à Emmanuelle Bermès pour avoir accepté de diriger mon mémoire, pour son aide technique et ses conseils, et pour m'avoir donné l'occasion de passer deux années enrichissantes au sein du master TNAH.
+	
+	Je souhaite également exprimer ma gratitude à Valérie Joyaux et Camille Bihan, mes tutrices de stage, pour leur confiance, leur soutien, leur aide et pour m'avoir partagé leur expérience dans le monde des musées et des bibliothèques.
+	
+	Merci à tous les membres du département scientifique des collections du MAE, pour leur patience, leur disponibilité, leur accueil chaleureux et leur participation aux ateliers menés pendant mon stage, et pour m'avoir introduite au monde de l'aéronautique.
+	
+	Merci à tous mes camarades de promotion de master TNAH pour leur ... et ... ambince, entraide, année humaine et mémorable ?
+	
+	Je remercie enfin tout mon entourage et ma famille, pour leur amitié, leur appui tout au long de mes études, et leurs relectures attentives. Merci enfin à Benoît, pour son soutien sans faille tout au long de ma rédaction et ses conseils.
+	
 	\newpage{\pagestyle{empty}\cleardoublepage}
 	
 	\chapter{Liste des abréviations}
