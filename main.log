@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  3 SEP 2025 12:08
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  3 SEP 2025 16:29
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1942,11 +1942,11 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 File: img/MODEL_domaines.png Graphic file (type bmp)
 <img/MODEL_domaines.png>
 
+Underfull \vbox (badness 1412) has occurred while \output is active []
+
+
 
 [8]) (./parties/mainmatter/I/A/I_A_2.tex
-Underfull \vbox (badness 1248) has occurred while \output is active []
-
-
 
 [9]
 
@@ -1998,9 +1998,6 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 File: img/CART_musees_armee.png Graphic file (type bmp)
 <img/CART_musees_armee.png>
 
-Underfull \vbox (badness 1062) has occurred while \output is active []
-
-
 
 [14]
 
@@ -2019,15 +2016,16 @@ Overfull \hbox (3.45354pt too wide) in paragraph at lines 37--11
 ulaires contrôlés en contexte
  []
 
-Package lettrine.sty Info: Targeted height = 24.16246pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 24.16241pt (L);
-(lettrine.sty)             reported on input line 16.
 
 
 [17]
 
-[18])
+[18]
+Package lettrine.sty Info: Targeted height = 24.16246pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 24.16241pt (L);
+(lettrine.sty)             reported on input line 16.
+)
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (C);
@@ -2070,14 +2068,15 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [26]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 21.
-
-
-
 [27]
 File: img/FRISE_Thesaurus.png Graphic file (type bmp)
 <img/FRISE_Thesaurus.png>
+
+Overfull \hbox (0.26018pt too wide) in paragraph at lines 46--47
+[]\TU/lmr/m/n/12 De plus, bien qu’on retrouve des termes similaires dans les tr
+ois [][]thésaurus[], leurs branches
+ []
+
 
 
 [28]
@@ -2161,10 +2160,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [40]
 
 [41]) (./parties/mainmatter/II/B/II_B_2.tex
-
-LaTeX Warning: Citation '.' on page 42 undefined on input line 7.
-
-
 Underfull \vbox (badness 4084) has occurred while \output is active []
 
 
@@ -2195,7 +2190,7 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 ] (./parties/mainmatter/II/C/II_C_1.tex
 
 [48]
-Overfull \hbox (4.1768pt too wide) in paragraph at lines 24--25
+Overfull \hbox (4.1768pt too wide) in paragraph at lines 25--26
  []\TU/lmr/bx/n/12 Des archives perpétuellement intermédiaires \TU/lmr/m/n/12 V
 éronique Sasseti-Aguilera identifie donc
  []
@@ -2208,9 +2203,6 @@ File: img/SCHEM_theorie3ages.png Graphic file (type bmp)
 
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
 ex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 [50]
@@ -2239,7 +2231,7 @@ ex-text;!
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.72845pt (S);
-(lettrine.sty)             reported on input line 24.
+(lettrine.sty)             reported on input line 23.
 )
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -2488,9 +2480,6 @@ LaTeX Font Warning: Font shape `TU/lmr/m/scit' undefined
 (Font)              using `TU/lmr/m/scsl' instead on input line 26.
 
 
-Underfull \vbox (badness 1092) has occurred while \output is active []
-
-
 
 [68]
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:mapping=t
@@ -2608,6 +2597,15 @@ Overfull \hbox (35.99277pt too wide) in alignment at lines 18--27
 [82])) (./parties/mainmatter/III/C/III_C_2.tex
 
 [83]
+
+LaTeX Warning: Reference `Ax-J' on page 84 undefined on input line 5.
+
+
+LaTeX Warning: Reference `Ax-J' on page 84 undefined on input line 5.
+
+
+LaTeX Warning: Reference `Ax-J' on page 84 undefined on input line 5.
+
 File: img/SCHEM_processus_IA.png Graphic file (type bmp)
 <img/SCHEM_processus_IA.png>
 )
@@ -3025,10 +3023,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58460 strings out of 474235
- 1304316 string characters out of 5742252
- 2203597 words of memory out of 5000000
- 80220 multiletter control sequences out of 15000+600000
+ 58472 strings out of 474235
+ 1304764 string characters out of 5742252
+ 2204772 words of memory out of 5000000
+ 80232 multiletter control sequences out of 15000+600000
  572646 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s

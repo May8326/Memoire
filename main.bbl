@@ -2021,7 +2021,7 @@
       \endverb
       \keyw{_outils,texThesau,texThesau}
     \endentry
-    \entry{guyotManagementLinformationDans}{article}{}{}
+    \entry{guyotManagementLinformationDans2012}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=faecea98472de7666999dac87618d8bf}{%
            family={Guyot},
@@ -2045,9 +2045,13 @@
       \field{langid}{french}
       \field{shorttitle}{Management de l'information dans les organisations}
       \field{title}{Management de l'information dans les organisations : éléments de méthode}
-      \verb{doi}
-      \verb sic_00665257
-      \endverb
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
       \verb{file}
       \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/VX2UMURI/Guyot - MANAGEMENT DE L’INFORMATION DANS LES ORGANISATIONS.pdf
       \endverb
@@ -4154,22 +4158,25 @@
     \endentry
     \entry{ricardRGPDArchives2018a}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0233f3d1ee8507eff6ede7409ad09644}{%
-           family={{ricard}},
-           familyi={r\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a4a4fbb9fc055b2b4f6ee8fa35858306}{%
+           family={Ricard},
+           familyi={R\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
       }
       \list{organization}{1}{%
         {Droit(s) des archives}%
       }
-      \strng{namehash}{0233f3d1ee8507eff6ede7409ad09644}
-      \strng{fullhash}{0233f3d1ee8507eff6ede7409ad09644}
-      \strng{fullhashraw}{0233f3d1ee8507eff6ede7409ad09644}
-      \strng{bibnamehash}{0233f3d1ee8507eff6ede7409ad09644}
-      \strng{authorbibnamehash}{0233f3d1ee8507eff6ede7409ad09644}
-      \strng{authornamehash}{0233f3d1ee8507eff6ede7409ad09644}
-      \strng{authorfullhash}{0233f3d1ee8507eff6ede7409ad09644}
-      \strng{authorfullhashraw}{0233f3d1ee8507eff6ede7409ad09644}
-      \field{sortinit}{r}
+      \strng{namehash}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \strng{fullhash}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \strng{fullhashraw}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \strng{bibnamehash}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \strng{authorbibnamehash}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \strng{authornamehash}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \strng{authorfullhash}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \strng{authorfullhashraw}{a4a4fbb9fc055b2b4f6ee8fa35858306}
+      \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
