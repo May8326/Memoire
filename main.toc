@@ -68,14 +68,14 @@
 \contentsline {chapter}{\numberline {A}Chronologie du MAE}{97}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Organigramme}{101}{appendix.B}%
 \contentsline {chapter}{\numberline {C}Flux de données}{103}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Interview V. Dhorne}{105}{appendix.D}%
+\contentsline {chapter}{\numberline {D}Interview}{105}{appendix.D}%
 \contentsline {chapter}{\numberline {E}Modélisations de données}{107}{appendix.E}%
 \contentsline {chapter}{\numberline {F}UML}{111}{appendix.F}%
 \contentsline {chapter}{\numberline {G}Roadmap OpenTheso}{113}{appendix.G}%
 \contentsline {chapter}{\numberline {H}Diagnostic du serveur S}{117}{appendix.H}%
 \contentsline {chapter}{\numberline {I}FAQ}{119}{appendix.I}%
 \contentsline {chapter}{\numberline {J}Requêtes SPARQL}{121}{appendix.J}%
-\contentsline {part}{Glossaire}{130}{appendix*.80}%
-\contentsline {part}{Table des tableaux}{131}{appendix*.81}%
-\contentsline {part}{Table des figures}{134}{appendix*.82}%
-\contentsline {part}{Table des matières}{138}{appendix*.83}%
+\contentsline {part}{Glossaire}{130}{appendix*.79}%
+\contentsline {part}{Table des tableaux}{131}{appendix*.80}%
+\contentsline {part}{Table des figures}{134}{appendix*.81}%
+\contentsline {part}{Table des matières}{138}{appendix*.82}%
