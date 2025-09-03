@@ -1,8 +1,8 @@
 # Mémoire de M2 TNAH - 2025
 
-## 💡 La gestion de l'information à l'ère du numérique. _Entre héritage et innovation, le cas du musée de l'Air et de l'Espace_
+## 💡 La gestion de l'information à l'ère du numérique. <br> _Entre héritage et innovation, le cas du musée de l'Air et de l'Espace_
 
-Mémoire dirigé par Emmanuelle Bermès
+_Mémoire dirigé par Emmanuelle Bermès_
 
 ### 🖋️ Résumé
 
