@@ -12,7 +12,7 @@ Mémoire dirigé par Emmanuelle Bermès
 
 Ce mémoire a été compilé en latex : la structure des fichiers .tex a été déposée telle quelle dans ce repo.
 
-On trouvera le **fichier `.pdf` compilé** du mémoire en racine : ICI.
+On trouvera le **fichier `.pdf` compilé** du mémoire en racine : [main.pdf]([url](https://github.com/May8326/Memoire/blob/master/main.pdf)).
 
 Un **notebook Jupyter** est joint à ce mémoire, il est récupérable à cette adresse : ICI.
 
