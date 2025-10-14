@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  3 SEP 2025 18:39
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.11)  14 OCT 2025 20:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1810,11 +1810,11 @@ Package lettrine.sty Info: Targeted height = 24.16246pt
 
 [9]
 
-[10
+[10]
+
+[11
 
 ]
-
-[11]
 
 [12]
 
@@ -2005,15 +2005,15 @@ File: img/CART_musees_armee.png Graphic file (type bmp)
 [15]) (./parties/mainmatter/I/B/I_B_2.tex
 
 [16]
+
+[17]
 File: img/IMG_clade_histoireaviation_shdTL.png Graphic file (type bmp)
 <img/IMG_clade_histoireaviation_shdTL.png>
 File: img/IMG_clade_histoireaviation_mae.png Graphic file (type bmp)
 <img/IMG_clade_histoireaviation_mae.png>
 File: img/IMG_clade_histoireaviation_navale.png Graphic file (type bmp)
 <img/IMG_clade_histoireaviation_navale.png>
-
-
-[17])
+)
 Overfull \hbox (3.45354pt too wide) in paragraph at lines 39--11
 []\TU/lmr/m/n/12 Ce cas illustre parfaitement les tensions inhérentes aux vocab
 ulaires contrôlés en contexte
@@ -2597,15 +2597,6 @@ Overfull \hbox (35.99277pt too wide) in alignment at lines 18--27
 [82])) (./parties/mainmatter/III/C/III_C_2.tex
 
 [83]
-
-LaTeX Warning: Reference `Ax-J' on page 84 undefined on input line 5.
-
-
-LaTeX Warning: Reference `Ax-J' on page 84 undefined on input line 5.
-
-
-LaTeX Warning: Reference `Ax-J' on page 84 undefined on input line 5.
-
 File: img/SCHEM_processus_IA.png Graphic file (type bmp)
 <img/SCHEM_processus_IA.png>
 )
@@ -3009,20 +3000,16 @@ Overfull \hbox (25.94534pt too wide) in paragraph at lines 1--2
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58556 strings out of 474235
- 1308523 string characters out of 5742252
- 2208784 words of memory out of 5000000
- 80316 multiletter control sequences out of 15000+600000
- 572947 words of font info for 118 fonts, out of 8000000 for 9000
+ 58562 strings out of 474235
+ 1308845 string characters out of 5742252
+ 2211343 words of memory out of 5000000
+ 80323 multiletter control sequences out of 15000+600000
+ 572939 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,14n,131p,3477b,5804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 

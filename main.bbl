@@ -1509,6 +1509,52 @@
       \endverb
       \keyw{,texArchivesNumeriques}
     \endentry
+    \entry{EMediathequeMuseeLAir}{online}{}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{title}{E-{{Médiathèque}} Du {{Musée}} de l'{{Air}} et de l'{{Espace}} : {{Inauguration}} Du {{Musée}} de l'{{Aéronautique}} à {{Chalais-Meudon}}}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/RJ6CJYD2/index.html
+      \endverb
+      \verb{urlraw}
+      \verb https://mediatheque.museeairespace.fr/index.php?urlaction=doc&id_doc=98968&rang=16
+      \endverb
+      \verb{url}
+      \verb https://mediatheque.museeairespace.fr/index.php?urlaction=doc&id_doc=98968&rang=16
+      \endverb
+      \keyw{,texHistoire}
+    \endentry
+    \entry{EMediathequeMuseeLAir2019}{online}{}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{month}{12}
+      \field{title}{E-{{Médiathèque}} Du {{Musée}} de l'{{Air}} et de l'{{Espace}} : {{Les}} Objets, Tableaux, Maquettes et Aéronefs Installés Dans La {{Grande Galerie}}}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/maelys-gioan/snap/zotero-snap/common/Zotero/storage/TG2VQEH4/index.html
+      \endverb
+      \verb{urlraw}
+      \verb https://mediatheque.museeairespace.fr/index.php?urlaction=doc&id_doc=234578&rang=5
+      \endverb
+      \verb{url}
+      \verb https://mediatheque.museeairespace.fr/index.php?urlaction=doc&id_doc=234578&rang=5
+      \endverb
+      \keyw{,texHistoire}
+    \endentry
     \entry{egglestonNotJustArt2019}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=06c8dd0f0085d08d190d9da6277b6f70}{%
